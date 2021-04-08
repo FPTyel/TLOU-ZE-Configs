@@ -1,0 +1,19 @@
+"Chat"
+{
+	"*** BOAT EVACUATION ***"
+	{
+		"default"		"*** BOAT EVACUATION ***"
+	}
+	"*** HELICOPTER EVACUATION ***"
+	{
+		"default"		"*** HELICOPTER EVACUATION ***"
+	}
+	"*** TRAIN EVACUATION ***"
+	{
+		"default"		"*** TRAIN EVACUATION ***"
+	}
+	"*** TRUCK EVACUATION ***"
+	{
+		"default"		"*** TRUCK EVACUATION ***"
+	}
+}

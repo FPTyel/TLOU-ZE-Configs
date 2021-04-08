@@ -1,0 +1,261 @@
+"Chat"
+{
+	"** Thanks for your visit. ** "
+	{
+		"default"		"** Thanks for your visit. ** "
+	}
+	"** The show is starting soon: broadcasting LIVE in 10. **"
+	{
+		"default"		"** The show is starting soon: broadcasting LIVE in 10. **"
+	}
+	"** Something's up, something's left. The movement comes soon again. **"
+	{
+		"default"		"** Something's up, something's left. The movement comes soon again. **"
+	}
+	"** The spectacle must continue, though at a different place. ** "
+	{
+		"default"		"** The spectacle must continue, though at a different place. ** "
+	}
+	"** Extras must be part of the action too, or were they the protagonists? **"
+	{
+		"default"		"** Extras must be part of the action too, or were they the protagonists? **"
+	}
+	"** A scene change might go well with the changing times that soon may come. **"
+	{
+		"default"		"** A scene change might go well with the changing times that soon may come. **"
+	}
+	"** Off they go! The calmer tones of the prairie might soothen the wilder souls. **"
+	{
+		"default"		"** Off they go! The calmer tones of the prairie might soothen the wilder souls. **"
+	}
+	"** First base reached. It ought to begin. **"
+	{
+		"default"		"** First base reached. It ought to begin. **"
+	}
+	"** Second base reached. Steps further from either end.**"
+	{
+		"default"		"** Second base reached. Steps further from either end.**"
+	}
+	"** Third base reached. The double entendre is cuadruple intended. **"
+	{
+		"default"		"** Third base reached. The double entendre is cuadruple intended. **"
+	}
+	"** Fourth base reached. Nearing and yet still so afar. **"
+	{
+		"default"		"** Fourth base reached. Nearing and yet still so afar. **"
+	}
+	"** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
+	{
+		"default"		"** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
+	}
+	"** At some point in the journey, the traveller is given a hand. **"
+	{
+		"default"		"** At some point in the journey, the traveller is given a hand. **"
+	}
+	"** Reaching out for help is at times harder than everything else... **"
+	{
+		"default"		"** Reaching out for help is at times harder than everything else... **"
+	}
+	"** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
+	{
+		"default"		"** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
+	}
+	"** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **"
+	{
+		"default"		"** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **"
+	}
+	"** Moving forward and destroying for change... mumbling 'progress'... an ideal... **"
+	{
+		"default"		"** Moving forward and destroying for change... mumbling 'progress'... an ideal... **"
+	}
+	"** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
+	{
+		"default"		"** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
+	}
+	"** And as time is but a rambling story, rambling further it shall flow. **"
+	{
+		"default"		"** And as time is but a rambling story, rambling further it shall flow. **"
+	}
+	"** Where is the spectacle but in what is unknown? **"
+	{
+		"default"		"** Where is the spectacle but in what is unknown? **"
+	}
+	"** Who was Merle Haggard? Why did his mother cry? ** "
+	{
+		"default"		"** Who was Merle Haggard? Why did his mother cry? ** "
+	}
+	"** The stories of old ought to be forgotten - only that way shall new always be found. ** "
+	{
+		"default"		"** The stories of old ought to be forgotten - only that way shall new always be found. ** "
+	}
+	"** Céline probably rides along with us to the end of the night, making offhand remarks. **"
+	{
+		"default"		"** Céline probably rides along with us to the end of the night, making offhand remarks. **"
+	}
+	"** Has anybody seen the keys that open the window to reach the stars? **"
+	{
+		"default"		"** Has anybody seen the keys that open the window to reach the stars? **"
+	}
+	"** pastebin.com"
+	{
+		"raw"
+		{
+			"XtibtTiH **"
+			{
+				"default"		"** pastebin.com/raw/XtibtTiH **"
+			}
+		}
+	}
+	"** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **"
+	{
+		"default"		"** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **"
+	}
+	"** ...and as lovers they meet: different but equal in ways they couldn't tell... **"
+	{
+		"default"		"** ...and as lovers they meet: different but equal in ways they couldn't tell... **"
+	}
+	"** BEHOLD! Little more than beasts in humanly flesh will come! **"
+	{
+		"default"		"** BEHOLD! Little more than beasts in humanly flesh will come! **"
+	}
+	"** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **"
+	{
+		"default"		"** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **"
+	}
+	"** Not without surprise we stand and stand as time goes by... **"
+	{
+		"default"		"** Not without surprise we stand and stand as time goes by... **"
+	}
+	"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
+	{
+		"default"		"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
+	}
+	"** Ticking for not much longer and then... ...will we see your face again? **"
+	{
+		"default"		"** Ticking for not much longer and then... ...will we see your face again? **"
+	}
+	"** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **"
+	{
+		"default"		"** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **"
+	}
+	"** ...and forever after the monsters creeping would... **"
+	{
+		"default"		"** ...and forever after the monsters creeping would... **"
+	}
+	"** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreams? **"
+	{
+		"default"		"** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreams? **"
+	}
+	"** No longer shall we cross our eyes to see! Reality at last! Rejoice! **"
+	{
+		"default"		"** No longer shall we cross our eyes to see! Reality at last! Rejoice! **"
+	}
+	"** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **"
+	{
+		"default"		"** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **"
+	}
+	"** The king dreams he is king, and he lives in the deceit of a king... **"
+	{
+		"default"		"** The king dreams he is king, and he lives in the deceit of a king... **"
+	}
+	"** What good is a king without kingdom? What good a man lost of objectives? **"
+	{
+		"default"		"** What good is a king without kingdom? What good a man lost of objectives? **"
+	}
+	"** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
+	{
+		"default"		"** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
+	}
+	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
+	{
+		"default"		"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
+	}
+	"** What do those forged smiles mean to the free men? **"
+	{
+		"default"		"** What do those forged smiles mean to the free men? **"
+	}
+	"** The walk from here and onwards might deceivingly look cheerful. **"
+	{
+		"default"		"** The walk from here and onwards might deceivingly look cheerful. **"
+	}
+	"** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **"
+	{
+		"default"		"** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **"
+	}
+	"** Down, down and sliding -- If sad, don't forget smiling... **"
+	{
+		"default"		"** Down, down and sliding -- If sad, don't forget smiling... **"
+	}
+	"** If I were you, I'd look up some 70's Canterbury bands to go with the Bucholics of this land... **"
+	{
+		"default"		"** If I were you, I'd look up some 70's Canterbury bands to go with the Bucholics of this land... **"
+	}
+	"** But as finding keys and levers that open mouths and brains is more important, I'd diversify as well. **"
+	{
+		"default"		"** But as finding keys and levers that open mouths and brains is more important, I'd diversify as well. **"
+	}
+	"** And so rejoice! We may clear the path for other pointless ways to cross! **"
+	{
+		"default"		"** And so rejoice! We may clear the path for other pointless ways to cross! **"
+	}
+	"** Nobody would have expected less from such a formidable team... **"
+	{
+		"default"		"** Nobody would have expected less from such a formidable team... **"
+	}
+	"** Memories untold of Critilus would agree if they had been... **"
+	{
+		"default"		"** Memories untold of Critilus would agree if they had been... **"
+	}
+	"** Up or down -- does it matter? It all ends up being the same... **"
+	{
+		"default"		"** Up or down -- does it matter? It all ends up being the same... **"
+	}
+	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
+	{
+		"default"		"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
+	}
+	"** Lasciate ogne speranza, o voi ch'intrate. **"
+	{
+		"default"		"** Lasciate ogne speranza, o voi ch'intrate. **"
+	}
+	"** The tide shall turn as we see a little man crashing through a window... **"
+	{
+		"default"		"** The tide shall turn as we see a little man crashing through a window... **"
+	}
+	"** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
+	{
+		"default"		"** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
+	}
+	"** Shall we equally erase the horizon onto which the burning hot sun sets? **"
+	{
+		"default"		"** Shall we equally erase the horizon onto which the burning hot sun sets? **"
+	}
+	"** Ponder at times and remember how the journey began looking at a screen... **"
+	{
+		"default"		"** Ponder at times and remember how the journey began looking at a screen... **"
+	}
+	"** Too meta it is for me to say if it was yours or instead this map's TV... **"
+	{
+		"default"		"** Too meta it is for me to say if it was yours or instead this map's TV... **"
+	}
+	"** Again we meet! Another battle! **"
+	{
+		"default"		"** Again we meet! Another battle! **"
+	}
+	"** Fight this time not with bullets but just transparent fists! **"
+	{
+		"default"		"** Fight this time not with bullets but just transparent fists! **"
+	}
+	"** MOVE IT! The rumble is nigh! **"
+	{
+		"default"		"** MOVE IT! The rumble is nigh! **"
+	}
+	"** Tough luck, lads! Come back when you learn to read computer minds! **"
+	{
+		"default"		"** Tough luck, lads! Come back when you learn to read computer minds! **"
+	}
+	"** Oh! What could you not have done with some more time? **"
+	{
+		"default"		"** Oh! What could you not have done with some more time? **"
+	}
+}

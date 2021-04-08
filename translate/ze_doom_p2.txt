@@ -1,0 +1,167 @@
+"Chat"
+{
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"default"		"** LEVEL: NOT TOO ROUGH **"
+	}
+	"** Map by Night Fury **"
+	{
+		"default"		"** Map by Night Fury **"
+	}
+	"** Door opening in 30 seconds! **"
+	{
+		"default"		"** Door opening in 30 seconds! **"
+	}
+	"A player has aquired the soulsphere powerup!"
+	{
+		"default"		"A player has aquired the soulsphere powerup!"
+	}
+	"Soulsphere power has 2 charges and a 120 second cooldown!"
+	{
+		"default"		"Soulsphere power has 2 charges and a 120 second cooldown!"
+	}
+	"** Door opening in 10 seconds! **"
+	{
+		"default"		"** Door opening in 10 seconds! **"
+	}
+	"First soulsphere charge used!"
+	{
+		"default"		"First soulsphere charge used!"
+	}
+	"** Door opened! **"
+	{
+		"default"		"** Door opened! **"
+	}
+	"Soulsphere first charge depleted!"
+	{
+		"default"		"Soulsphere first charge depleted!"
+	}
+	"** Door opening in 25 seconds! **"
+	{
+		"default"		"** Door opening in 25 seconds! **"
+	}
+	"** Door opening in 25 seconds **"
+	{
+		"default"		"** Door opening in 25 seconds **"
+	}
+	"** Door opening in 10 seconds **"
+	{
+		"default"		"** Door opening in 10 seconds **"
+	}
+	"** Door Opening in 23 Seconds **"
+	{
+		"default"		"** Door Opening in 23 Seconds **"
+	}
+	"** Opening door in 15 Seconds!! **"
+	{
+		"default"		"** Opening door in 15 Seconds!! **"
+	}
+	"Soulsphere recharged!"
+	{
+		"default"		"Soulsphere recharged!"
+	}
+	"** Resist! a few seconds more **"
+	{
+		"default"		"** Resist! a few seconds more **"
+	}
+	"** Exit door opening in 40 seconds! **"
+	{
+		"default"		"** Exit door opening in 40 seconds! **"
+	}
+	"** Exit door opening in 10 seconds! **"
+	{
+		"default"		"** Exit door opening in 10 seconds! **"
+	}
+	"** Exit door opened! **"
+	{
+		"default"		"** Exit door opened! **"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED!! **"
+	{
+		"default"		"** BAD WIN!! ZOMBIES DETECTED!! **"
+	}
+	"Soulsphere final charge used!"
+	{
+		"default"		"Soulsphere final charge used!"
+	}
+	"Soulsphere power fully depleted!"
+	{
+		"default"		"Soulsphere power fully depleted!"
+	}
+	"** Exit door closing in 15 seconds! **"
+	{
+		"default"		"** Exit door closing in 15 seconds! **"
+	}
+	"** Exit door closed! **"
+	{
+		"default"		"** Exit door closed! **"
+	}
+	"** LEVEL: NO REST FOR LIVING **"
+	{
+		"default"		"** LEVEL: NO REST FOR LIVING **"
+	}
+	"** Opening Door... **"
+	{
+		"default"		"** Opening Door... **"
+	}
+	"** Door opening in 20 seconds! **"
+	{
+		"default"		"** Door opening in 20 seconds! **"
+	}
+	"** Door Opened **"
+	{
+		"default"		"** Door Opened **"
+	}
+	"** Door Opening in 15 Seconds !!!**"
+	{
+		"default"		"** Door Opening in 15 Seconds !!!**"
+	}
+	"** Opening door in 20 Seconds **"
+	{
+		"default"		"** Opening door in 20 Seconds **"
+	}
+	"** Opening door in 10 Seconds **"
+	{
+		"default"		"** Opening door in 10 Seconds **"
+	}
+	"** Elevator Leaving in 35 Seconds...**"
+	{
+		"default"		"** Elevator Leaving in 35 Seconds...**"
+	}
+	"** Elevator Leaving in 10 Seconds...**"
+	{
+		"default"		"** Elevator Leaving in 10 Seconds...**"
+	}
+	"Soulsphere recharged"
+	{
+		"default"		"Soulsphere recharged"
+	}
+	"** LEVEL: NIGHTMARE **"
+	{
+		"default"		"** LEVEL: NIGHTMARE **"
+	}
+	"** Door opening in 40 seconds! **"
+	{
+		"default"		"** Door opening in 40 seconds! **"
+	}
+	"** Opening door in 10 seconds... **"
+	{
+		"default"		"** Opening door in 10 seconds... **"
+	}
+	"** Opening X door in few seconds **"
+	{
+		"default"		"** Opening X door in few seconds **"
+	}
+	"** Teleport active in 40 seconds! **"
+	{
+		"default"		"** Teleport active in 40 seconds! **"
+	}
+	"** Teleport active in 10 seconds! **"
+	{
+		"default"		"** Teleport active in 10 seconds! **"
+	}
+	"** Teleport active! **"
+	{
+		"default"		"** Teleport active! **"
+	}
+}

@@ -1,0 +1,127 @@
+"Chat"
+{
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"default"		"+++  MAP MADE BY GARGANTUA +++"
+	}
+	"+++ FIXED BY CISNEROS +++"
+	{
+		"default"		"+++ FIXED BY CISNEROS +++"
+	}
+	"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
+	{
+		"default"		"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
+	}
+	"+++ RESIST IN THIS ZONE +++"
+	{
+		"default"		"+++ RESIST IN THIS ZONE +++"
+	}
+	"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
+	{
+		"default"		"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
+	}
+	"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
+	{
+		"default"		"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
+	}
+	"+++ THE DOOR IS OPEN +++"
+	{
+		"default"		"+++ THE DOOR IS OPEN +++"
+	}
+	"+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++"
+	{
+		"default"		"+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++"
+	}
+	"+++ THE FIRST WALL IS BROKEN +++"
+	{
+		"default"		"+++ THE FIRST WALL IS BROKEN +++"
+	}
+	"+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++"
+	{
+		"default"		"+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++"
+	}
+	"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
+	{
+		"default"		"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
+	}
+	"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
+	{
+		"default"		"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
+	}
+	"+++ THE DOOR IS OPENING IN 10 SECONDS  +++"
+	{
+		"default"		"+++ THE DOOR IS OPENING IN 10 SECONDS  +++"
+	}
+	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
+	{
+		"default"		"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
+	}
+	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
+	{
+		"default"		"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
+	}
+	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
+	{
+		"default"		"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
+	}
+	"+++ THE WALL IS BROKEN +++"
+	{
+		"default"		"+++ THE WALL IS BROKEN +++"
+	}
+	"++ ACTIVATE THE EYE ++"
+	{
+		"default"		"++ ACTIVATE THE EYE ++"
+	}
+	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
+	{
+		"default"		"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
+	}
+	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
+	}
+	"++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
+	{
+		"default"		"++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
+	}
+	"++ LIGHTBRIDGE ACTIVATED ++"
+	{
+		"default"		"++ LIGHTBRIDGE ACTIVATED ++"
+	}
+	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
+	{
+		"default"		"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
+	}
+	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
+	{
+		"default"		"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
+	}
+	"++ FUEL FOR 10 SECONDS ++"
+	{
+		"default"		"++ FUEL FOR 10 SECONDS ++"
+	}
+	"++ LIGHTBRIDGE DEACTIVATED ++"
+	{
+		"default"		"++ LIGHTBRIDGE DEACTIVATED ++"
+	}
+	"+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++"
+	{
+		"default"		"+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++"
+	}
+	"+++ 60 SECONDS OF COOLDOWN. +++"
+	{
+		"default"		"+++ 60 SECONDS OF COOLDOWN. +++"
+	}
+	"++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++"
+	{
+		"default"		"++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++"
+	}
+	"++ ESCAPE DOOR IS OPEN!! ++"
+	{
+		"default"		"++ ESCAPE DOOR IS OPEN!! ++"
+	}
+	"++ ESCAPE DOORS CLOSING!! ++"
+	{
+		"default"		"++ ESCAPE DOORS CLOSING!! ++"
+	}
+}

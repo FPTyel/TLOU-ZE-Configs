@@ -1,0 +1,75 @@
+"Chat"
+{
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"default"		"---***This map will mute your sound if you are outside the lunar base***---"
+	}
+	"***Defend for 30 seconds!***"
+	{
+		"default"		"***Defend for 30 seconds!***"
+	}
+	"***10 seconds!***"
+	{
+		"default"		"***10 seconds!***"
+	}
+	"***Defense 1 is Open again***"
+	{
+		"default"		"***Defense 1 is Open again***"
+	}
+	"***Keep Running!***"
+	{
+		"default"		"***Keep Running!***"
+	}
+	"***Do not look back!***"
+	{
+		"default"		"***Do not look back!***"
+	}
+	"***Defend for 45 seconds!***"
+	{
+		"default"		"***Defend for 45 seconds!***"
+	}
+	"***15 seconds!***"
+	{
+		"default"		"***15 seconds!***"
+	}
+	"***Get to the Lunar Vehicle!***"
+	{
+		"default"		"***Get to the Lunar Vehicle!***"
+	}
+	"***Defence 2 is Open again***"
+	{
+		"default"		"***Defence 2 is Open again***"
+	}
+	"***Lunar vehicle leaves in 10!***"
+	{
+		"default"		"***Lunar vehicle leaves in 10!***"
+	}
+	"***Lunar vehicle is leaving!***"
+	{
+		"default"		"***Lunar vehicle is leaving!***"
+	}
+	"**Space Ship leaves in 90 seconds!**"
+	{
+		"default"		"**Space Ship leaves in 90 seconds!**"
+	}
+	"**Just 60 more seconds!**"
+	{
+		"default"		"**Just 60 more seconds!**"
+	}
+	"**Just 30 more seconds!**"
+	{
+		"default"		"**Just 30 more seconds!**"
+	}
+	"**15 seconds left!**"
+	{
+		"default"		"**15 seconds left!**"
+	}
+	"**Blast Doors have been override!**"
+	{
+		"default"		"**Blast Doors have been override!**"
+	}
+	"**Spaceship is leaving now!**"
+	{
+		"default"		"**Spaceship is leaving now!**"
+	}
+}

@@ -1,0 +1,155 @@
+"Chat"
+{
+	"*** STAGE I ***"
+	{
+		"default"		"*** STAGE I ***"
+	}
+	"*** Lightning Orb has been acquired ***"
+	{
+		"default"		"*** Lightning Orb has been acquired ***"
+	}
+	"*** Divine Orb has been acquired ***"
+	{
+		"default"		"*** Divine Orb has been acquired ***"
+	}
+	"*** Portcullis opening in 30 seconds ***"
+	{
+		"default"		"*** Portcullis opening in 30 seconds ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"default"		"*** 5 seconds left ***"
+	}
+	"*** Spawn area teleport activating in 5 seconds ***"
+	{
+		"default"		"*** Spawn area teleport activating in 5 seconds ***"
+	}
+	"*** Gust Orb has been acquired ***"
+	{
+		"default"		"*** Gust Orb has been acquired ***"
+	}
+	"*** Inner gate opening in 10 seconds ***"
+	{
+		"default"		"*** Inner gate opening in 10 seconds ***"
+	}
+	"*** Glacial Orb has been acquired ***"
+	{
+		"default"		"*** Glacial Orb has been acquired ***"
+	}
+	"*** Bridge area teleport activating in 5 seconds ***"
+	{
+		"default"		"*** Bridge area teleport activating in 5 seconds ***"
+	}
+	"*** Door opening in 45 seconds ***"
+	{
+		"default"		"*** Door opening in 45 seconds ***"
+	}
+	"*** Abyssal Orb has been acquired ***"
+	{
+		"default"		"*** Abyssal Orb has been acquired ***"
+	}
+	"*** Burning Orb has been acquired ***"
+	{
+		"default"		"*** Burning Orb has been acquired ***"
+	}
+	"*** Doors opening in 45 seconds ***"
+	{
+		"default"		"*** Doors opening in 45 seconds ***"
+	}
+	"*** Total destruction in 45 seconds ***"
+	{
+		"default"		"*** Total destruction in 45 seconds ***"
+	}
+	"*** Castle area teleport activating in 5 seconds ***"
+	{
+		"default"		"*** Castle area teleport activating in 5 seconds ***"
+	}
+	"*** Stage completed! ***"
+	{
+		"default"		"*** Stage completed! ***"
+	}
+	"*** STAGE II ***"
+	{
+		"default"		"*** STAGE II ***"
+	}
+	"*** Outer gate opening in 10 seconds ***"
+	{
+		"default"		"*** Outer gate opening in 10 seconds ***"
+	}
+	"*** Chapel lift leaving in 30 seconds ***"
+	{
+		"default"		"*** Chapel lift leaving in 30 seconds ***"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"default"		"*** Round failed! Zombies have reached the objective! ***"
+	}
+	"*** Windows breaking in 45 seconds ***"
+	{
+		"default"		"*** Windows breaking in 45 seconds ***"
+	}
+	"*** Doors closing in 45 seconds ***"
+	{
+		"default"		"*** Doors closing in 45 seconds ***"
+	}
+	"*** Library lift leaving in 30 seconds ***"
+	{
+		"default"		"*** Library lift leaving in 30 seconds ***"
+	}
+	"*** The tomb has been reached ***"
+	{
+		"default"		"*** The tomb has been reached ***"
+	}
+	"*** Defend the 4 statues for 45 seconds ***"
+	{
+		"default"		"*** Defend the 4 statues for 45 seconds ***"
+	}
+	"*** Total destruction in 30 seconds ***"
+	{
+		"default"		"*** Total destruction in 30 seconds ***"
+	}
+	"*** Total destruction in 5 seconds ***"
+	{
+		"default"		"*** Total destruction in 5 seconds ***"
+	}
+	"*** Kill any remaining zombies ***"
+	{
+		"default"		"*** Kill any remaining zombies ***"
+	}
+	"*** STAGE III ***"
+	{
+		"default"		"*** STAGE III ***"
+	}
+	"*** Doors opening in 30 seconds ***"
+	{
+		"default"		"*** Doors opening in 30 seconds ***"
+	}
+	"*** Fountain opening in 20 seconds ***"
+	{
+		"default"		"*** Fountain opening in 20 seconds ***"
+	}
+	"*** Tower lifts activated ***"
+	{
+		"default"		"*** Tower lifts activated ***"
+	}
+	"*** Tower lifts leaving in 10 seconds ***"
+	{
+		"default"		"*** Tower lifts leaving in 10 seconds ***"
+	}
+	"*** Defend the tower for 60 seconds! ***"
+	{
+		"default"		"*** Defend the tower for 60 seconds! ***"
+	}
+	"*** 30 seconds left ***"
+	{
+		"default"		"*** 30 seconds left ***"
+	}
+	"*** Prepare to jump! ***"
+	{
+		"default"		"*** Prepare to jump! ***"
+	}
+	"*** JUMP! ***"
+	{
+		"default"		"*** JUMP! ***"
+	}
+}

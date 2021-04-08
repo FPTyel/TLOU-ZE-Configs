@@ -1,0 +1,23 @@
+"Chat"
+{
+	"Destroy the reactor then get to the escape ships to flee the zombies."
+	{
+		"default"		"Destroy the reactor then get to the escape ships to flee the zombies."
+	}
+	"*** 30 SECONDS UNTIL SHUTTLE AIRLOCKS OPEN ***"
+	{
+		"default"		"*** 30 SECONDS UNTIL SHUTTLE AIRLOCKS OPEN ***"
+	}
+	"*** AIRLOCKS OPENING ***"
+	{
+		"default"		"*** AIRLOCKS OPENING ***"
+	}
+	"*** AIRLOCKS CLOSING IN 10 SECONDS -- EVACUATE IMMEDIATELY ***"
+	{
+		"default"		"*** AIRLOCKS CLOSING IN 10 SECONDS -- EVACUATE IMMEDIATELY ***"
+	}
+	"*** ESCAPE SHIPS HAVE DEPARTED ***"
+	{
+		"default"		"*** ESCAPE SHIPS HAVE DEPARTED ***"
+	}
+}

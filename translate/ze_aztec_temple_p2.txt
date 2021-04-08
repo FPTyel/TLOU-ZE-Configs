@@ -1,0 +1,39 @@
+"Chat"
+{
+	">>First door opening in 20 seconds<<"
+	{
+		"default"		">>First door opening in 20 seconds<<"
+	}
+	">>Door opening in 40 seconds<<"
+	{
+		"default"		">>Door opening in 40 seconds<<"
+	}
+	">>Door will open in 40 sec<< "
+	{
+		"default"		">>Door will open in 40 sec<< "
+	}
+	">>Door will open in 25 sec<< "
+	{
+		"default"		">>Door will open in 25 sec<< "
+	}
+	">>Door will open in 15 sec<< "
+	{
+		"default"		">>Door will open in 15 sec<< "
+	}
+	">>Tram leaves in 25 sec<< "
+	{
+		"default"		">>Tram leaves in 25 sec<< "
+	}
+	">>Tram leaves in 5 sec<< "
+	{
+		"default"		">>Tram leaves in 5 sec<< "
+	}
+	">>Door opens in 30 sec<< "
+	{
+		"default"		">>Door opens in 30 sec<< "
+	}
+	">>Door opens in 5 sec<< "
+	{
+		"default"		">>Door opens in 5 sec<< "
+	}
+}

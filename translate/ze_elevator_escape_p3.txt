@@ -1,0 +1,39 @@
+"Chat"
+{
+	"*** NUCLEAR CORE UNSTABLE ***"
+	{
+		"default"		"*** NUCLEAR CORE UNSTABLE ***"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"default"		"*** MAP BY JB_GAMBLE ***"
+	}
+	"*** HOLD HERE! ***"
+	{
+		"default"		"*** HOLD HERE! ***"
+	}
+	"*** 5 SECONDS ***"
+	{
+		"default"		"*** 5 SECONDS ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"default"		"*** FALL BACK ***"
+	}
+	"*** WATER CART LEAVING IN 5 SECONDS***"
+	{
+		"default"		"*** WATER CART LEAVING IN 5 SECONDS***"
+	}
+	"***** HOLD THIS POSITION *****"
+	{
+		"default"		"***** HOLD THIS POSITION *****"
+	}
+	"*** ELEVATOR 1 & 2 OPENING ***"
+	{
+		"default"		"*** ELEVATOR 1 & 2 OPENING ***"
+	}
+	"*** USE RADIO ***"
+	{
+		"default"		"*** USE RADIO ***"
+	}
+}

@@ -1,0 +1,179 @@
+"Chat"
+{
+	"***MAP BY thegregster101***"
+	{
+		"default"		"***MAP BY thegregster101***"
+	}
+	"***YOU ARE PLAYING ze_minecraft_v1_1***"
+	{
+		"default"		"***YOU ARE PLAYING ze_minecraft_v1_1***"
+	}
+	"***STONE DOOR OPENING***"
+	{
+		"default"		"***STONE DOOR OPENING***"
+	}
+	"***BOAT LEAVES IN 20 SECONDS***"
+	{
+		"default"		"***BOAT LEAVES IN 20 SECONDS***"
+	}
+	"***BOAT LEAVES IN 10 SECONDS***"
+	{
+		"default"		"***BOAT LEAVES IN 10 SECONDS***"
+	}
+	"***PATH BLOCKERS BREAK IN 5 SECONDS***"
+	{
+		"default"		"***PATH BLOCKERS BREAK IN 5 SECONDS***"
+	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	{
+		"default"		"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+	{
+		"default"		"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+	}
+	"***THIS WILL CRAFT THE SWORD*** "
+	{
+		"default"		"***THIS WILL CRAFT THE SWORD*** "
+	}
+	"***TNT EXPLODING IN 30 SECONDS***"
+	{
+		"default"		"***TNT EXPLODING IN 30 SECONDS***"
+	}
+	"***HOLD THE CAVE!!!!***"
+	{
+		"default"		"***HOLD THE CAVE!!!!***"
+	}
+	"***TNT EXPLODING IN 20 SECONDS***"
+	{
+		"default"		"***TNT EXPLODING IN 20 SECONDS***"
+	}
+	"***THE SWORD HAS BEEN PICKED UP***"
+	{
+		"default"		"***THE SWORD HAS BEEN PICKED UP***"
+	}
+	"***TNT EXPLODING IN 10 SECONDS***"
+	{
+		"default"		"***TNT EXPLODING IN 10 SECONDS***"
+	}
+	"***TNT EXPLODING IN 5 SECONDS***"
+	{
+		"default"		"***TNT EXPLODING IN 5 SECONDS***"
+	}
+	"***GOGO.. GET TO THE SLIP GATE***"
+	{
+		"default"		"***GOGO.. GET TO THE SLIP GATE***"
+	}
+	"***AFK TELE TO CAGE IN 15 SECONDS**"
+	{
+		"default"		"***AFK TELE TO CAGE IN 15 SECONDS**"
+	}
+	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	{
+		"default"		"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	}
+	"***DOOR OPENING IN 15 SECONDS***"
+	{
+		"default"		"***DOOR OPENING IN 15 SECONDS***"
+	}
+	"***DOOR OPENING IN 10 SECONDS***"
+	{
+		"default"		"***DOOR OPENING IN 10 SECONDS***"
+	}
+	"***DOOR OPENING IN 5 SECONDS***"
+	{
+		"default"		"***DOOR OPENING IN 5 SECONDS***"
+	}
+	"***DOOR OPEN... RUN!!***"
+	{
+		"default"		"***DOOR OPEN... RUN!!***"
+	}
+	"***DEFEND THE CASTLE DOORS***"
+	{
+		"default"		"***DEFEND THE CASTLE DOORS***"
+	}
+	"***GO GO.. GET TO THE MINE!***"
+	{
+		"default"		"***GO GO.. GET TO THE MINE!***"
+	}
+	"***DEFEND FOR 35 SECONDS***"
+	{
+		"default"		"***DEFEND FOR 35 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 30 SECONDS***"
+	{
+		"default"		"***MINE CARTS ARRIVE IN 30 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 25 SECONDS***"
+	{
+		"default"		"***MINE CARTS ARRIVE IN 25 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	{
+		"default"		"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 15 SECONDS***"
+	{
+		"default"		"***MINE CARTS ARRIVE IN 15 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 10 SECONDS***"
+	{
+		"default"		"***MINE CARTS ARRIVE IN 10 SECONDS***"
+	}
+	"***MINE CARTS ARRIVE IN 5 SECONDS***"
+	{
+		"default"		"***MINE CARTS ARRIVE IN 5 SECONDS***"
+	}
+	"***GET ON TOP OF THE MINE CARTS***"
+	{
+		"default"		"***GET ON TOP OF THE MINE CARTS***"
+	}
+	"***BUNKER HAS BEEN REACHED***"
+	{
+		"default"		"***BUNKER HAS BEEN REACHED***"
+	}
+	"*** SWORD READY ***"
+	{
+		"default"		"*** SWORD READY ***"
+	}
+	"***THE BOW HAS BEEN PICKED UP***"
+	{
+		"default"		"***THE BOW HAS BEEN PICKED UP***"
+	}
+	"***BUNKER DOOR OPENING IN 20 SECONDS***"
+	{
+		"default"		"***BUNKER DOOR OPENING IN 20 SECONDS***"
+	}
+	"***DEFEND THE RAILWAY TRACK***"
+	{
+		"default"		"***DEFEND THE RAILWAY TRACK***"
+	}
+	"***BUNKER DOOR OPENING IN 15 SECONDS***"
+	{
+		"default"		"***BUNKER DOOR OPENING IN 15 SECONDS***"
+	}
+	"***BUNKER DOOR OPENING IN 10 SECONDS***"
+	{
+		"default"		"***BUNKER DOOR OPENING IN 10 SECONDS***"
+	}
+	"***BUNKER DOOR OPENING IN 5 SECONDS***"
+	{
+		"default"		"***BUNKER DOOR OPENING IN 5 SECONDS***"
+	}
+	"***BUNKER DOOR OPEN!***"
+	{
+		"default"		"***BUNKER DOOR OPEN!***"
+	}
+	"***GET INSIDE THE BUNKER***"
+	{
+		"default"		"***GET INSIDE THE BUNKER***"
+	}
+	"***BUNKER DOOR CLOSING***"
+	{
+		"default"		"***BUNKER DOOR CLOSING***"
+	}
+	"***NUKE LAUNCHED! ***"
+	{
+		"default"		"***NUKE LAUNCHED! ***"
+	}
+}

@@ -1,0 +1,43 @@
+"Chat"
+{
+	"*** Map by AERIS.004 ***"
+	{
+		"default"		"*** Map by AERIS.004 ***"
+	}
+	"*** Door will close in 5 secs ***"
+	{
+		"default"		"*** Door will close in 5 secs ***"
+	}
+	"*** Door will open in 2secs ***"
+	{
+		"default"		"*** Door will open in 2secs ***"
+	}
+	"*** Door is opening in 20secs ***"
+	{
+		"default"		"*** Door is opening in 20secs ***"
+	}
+	"*** Door is opening in 5secs ***"
+	{
+		"default"		"*** Door is opening in 5secs ***"
+	}
+	"*** 1st teleport enabled ***"
+	{
+		"default"		"*** 1st teleport enabled ***"
+	}
+	"*** Trains leaving in 30secs***"
+	{
+		"default"		"*** Trains leaving in 30secs***"
+	}
+	"*** Trains are leaving  ***"
+	{
+		"default"		"*** Trains are leaving  ***"
+	}
+	"*** 2nd teleport enabled ***"
+	{
+		"default"		"*** 2nd teleport enabled ***"
+	}
+	"*** 3rd teleport enabled ***"
+	{
+		"default"		"*** 3rd teleport enabled ***"
+	}
+}

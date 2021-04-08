@@ -1,0 +1,43 @@
+"Chat"
+{
+	"*** map by DJ_tusla ***"
+	{
+		"default"		"*** map by DJ_tusla ***"
+	}
+	"***sanic is boost***"
+	{
+		"default"		"***sanic is boost***"
+	}
+	"*** zombie teleport in 10 seconds ***"
+	{
+		"default"		"*** zombie teleport in 10 seconds ***"
+	}
+	"*** survive in 60 seconds ***"
+	{
+		"default"		"*** survive in 60 seconds ***"
+	}
+	"*** 30 seconds left ***"
+	{
+		"default"		"*** 30 seconds left ***"
+	}
+	"*** teleported zombie ***"
+	{
+		"default"		"*** teleported zombie ***"
+	}
+	"*** defense zombie 50 seconds ***"
+	{
+		"default"		"*** defense zombie 50 seconds ***"
+	}
+	"*** defense middle bridge ***"
+	{
+		"default"		"*** defense middle bridge ***"
+	}
+	"*** 3guys clear last surf in 1 min or zombies coming! ***"
+	{
+		"default"		"*** 3guys clear last surf in 1 min or zombies coming! ***"
+	}
+	"*** zombies are coming!!! ***"
+	{
+		"default"		"*** zombies are coming!!! ***"
+	}
+}

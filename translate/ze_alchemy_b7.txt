@@ -1,0 +1,87 @@
+"Chat"
+{
+	"***STAGE 1***"
+	{
+		"default"		"***STAGE 1***"
+	}
+	"MAP BY MK!NG"
+	{
+		"default"		"MAP BY MK!NG"
+	}
+	"SPECIAL THANKS TO ZOMBIE RAGE AND ZEDDY GAMING SERVERS FOR FEEDBACK AND FIRST TESTS"
+	{
+		"default"		"SPECIAL THANKS TO ZOMBIE RAGE AND ZEDDY GAMING SERVERS FOR FEEDBACK AND FIRST TESTS"
+	}
+	"***PLAYER PICKED UP FREEZING AXE***"
+	{
+		"default"		"***PLAYER PICKED UP FREEZING AXE***"
+	}
+	"***Fountain teleport will be ready in 15 seconds***"
+	{
+		"default"		"***Fountain teleport will be ready in 15 seconds***"
+	}
+	"***Path opens in 20 seconds***"
+	{
+		"default"		"***Path opens in 20 seconds***"
+	}
+	"** PLAYER PICKED UP HEALING AXE**"
+	{
+		"default"		"** PLAYER PICKED UP HEALING AXE**"
+	}
+	"***PLAYER PICKED UP ZOMBIE SPEED***"
+	{
+		"default"		"***PLAYER PICKED UP ZOMBIE SPEED***"
+	}
+	"*** PLAYER PICKED UP TWISTER MACE ***"
+	{
+		"default"		"*** PLAYER PICKED UP TWISTER MACE ***"
+	}
+	"**Zombie TP advancing in 15 seconds**"
+	{
+		"default"		"**Zombie TP advancing in 15 seconds**"
+	}
+	"***The path will open in 30 seconds***"
+	{
+		"default"		"***The path will open in 30 seconds***"
+	}
+	"*** PLAYER PICKED UP AMMO MACE ***"
+	{
+		"default"		"*** PLAYER PICKED UP AMMO MACE ***"
+	}
+	"**zombie TP advancing in 10 seconds**"
+	{
+		"default"		"**zombie TP advancing in 10 seconds**"
+	}
+	"Only those who enter the arena may inflict damage in the guardian"
+	{
+		"default"		"Only those who enter the arena may inflict damage in the guardian"
+	}
+	"*** ROCK THROW ***"
+	{
+		"default"		"*** ROCK THROW ***"
+	}
+	"**CHOKE**"
+	{
+		"default"		"**CHOKE**"
+	}
+	"***DEATH ARROW***"
+	{
+		"default"		"***DEATH ARROW***"
+	}
+	"***LANDSLIDE***"
+	{
+		"default"		"***LANDSLIDE***"
+	}
+	"*** PLAYER PICKED UP ELECTRIC MACE ***"
+	{
+		"default"		"*** PLAYER PICKED UP ELECTRIC MACE ***"
+	}
+	"TOWER GUARDIAN HAS BEEN DEFEATED"
+	{
+		"default"		"TOWER GUARDIAN HAS BEEN DEFEATED"
+	}
+	"**Laser wall will go down in 30 seconds**"
+	{
+		"default"		"**Laser wall will go down in 30 seconds**"
+	}
+}

@@ -1,0 +1,70 @@
+"Chat"
+{
+	"Map made by Luffaren"
+	{
+		"Per30010"
+		{
+			"default"		"Map made by Luffaren/Per30010"
+		}
+	}
+	"*** Door opens in 15 seconds ***"
+	{
+		"default"		"*** Door opens in 15 seconds ***"
+	}
+	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
+	{
+		"default"		"*** BLASTDOOR OPENING IN 30 SECONDS ***"
+	}
+	"*** Door opens in 18 seconds ***"
+	{
+		"default"		"*** Door opens in 18 seconds ***"
+	}
+	"--- RESIST 15 SECONDS ---"
+	{
+		"default"		"--- RESIST 15 SECONDS ---"
+	}
+	"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	{
+		"default"		"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	}
+	"--- TRAM LEAVES IN 10 SECONDS ---"
+	{
+		"default"		"--- TRAM LEAVES IN 10 SECONDS ---"
+	}
+	"*** Resist 20 seconds in the poolroom ***"
+	{
+		"default"		"*** Resist 20 seconds in the poolroom ***"
+	}
+	"*** Run to the controlroom and press the button ***"
+	{
+		"default"		"*** Run to the controlroom and press the button ***"
+	}
+	"*** Find a spot and resist for 50 seconds ***"
+	{
+		"default"		"*** Find a spot and resist for 50 seconds ***"
+	}
+	"*** 5 seconds untill radio scrambler collapses ***"
+	{
+		"default"		"*** 5 seconds untill radio scrambler collapses ***"
+	}
+	"*** The zombies are trapped for 15 seconds ***"
+	{
+		"default"		"*** The zombies are trapped for 15 seconds ***"
+	}
+	"*** MOVE IT! ***"
+	{
+		"default"		"*** MOVE IT! ***"
+	}
+	"*** Resist 20 seconds ***"
+	{
+		"default"		"*** Resist 20 seconds ***"
+	}
+	"*** Resist 15 seconds ***"
+	{
+		"default"		"*** Resist 15 seconds ***"
+	}
+	"*** Opening cargo elevator door ***"
+	{
+		"default"		"*** Opening cargo elevator door ***"
+	}
+}

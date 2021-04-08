@@ -1,0 +1,35 @@
+"Chat"
+{
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***Modified by Reflelia***"
+	{
+		"default"		"***Modified by Reflelia***"
+	}
+	"Map made by xXhamadryadesXx"
+	{
+		"default"		"Map made by xXhamadryadesXx"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***5***"
+	{
+		"default"		"***5***"
+	}
+	"***COMPLETE!***"
+	{
+		"default"		"***COMPLETE!***"
+	}
+}

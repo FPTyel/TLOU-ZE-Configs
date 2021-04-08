@@ -1,0 +1,59 @@
+"Chat"
+{
+	"** THE PLANE IS GOING TO CRASH **"
+	{
+		"default"		"** THE PLANE IS GOING TO CRASH **"
+	}
+	"** BRACE YOURSELVES **"
+	{
+		"default"		"** BRACE YOURSELVES **"
+	}
+	"** Follow the game trails through the island interior to reach Embryonic Research B. **"
+	{
+		"default"		"** Follow the game trails through the island interior to reach Embryonic Research B. **"
+	}
+	"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
+	{
+		"default"		"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
+	}
+	"**AFK TELE 20 SECONDS**"
+	{
+		"default"		"**AFK TELE 20 SECONDS**"
+	}
+	"** Push the C4 between the barrels **"
+	{
+		"default"		"** Push the C4 between the barrels **"
+	}
+	"**AFK TELE 10 SECONDS**"
+	{
+		"default"		"**AFK TELE 10 SECONDS**"
+	}
+	"** Raptor nest has been disturbed! **"
+	{
+		"default"		"** Raptor nest has been disturbed! **"
+	}
+	"** There's no power. We're screwed! **"
+	{
+		"default"		"** There's no power. We're screwed! **"
+	}
+	"** Power has been restored to Isla Sorna **"
+	{
+		"default"		"** Power has been restored to Isla Sorna **"
+	}
+	"** Satellite link established. Phone access enabled. **"
+	{
+		"default"		"** Satellite link established. Phone access enabled. **"
+	}
+	"** Zodiac departing for island interior. **"
+	{
+		"default"		"** Zodiac departing for island interior. **"
+	}
+	"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
+	{
+		"default"		"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
+	}
+	"** Laboratory Security online. Locking in 10 seconds... **"
+	{
+		"default"		"** Laboratory Security online. Locking in 10 seconds... **"
+	}
+}

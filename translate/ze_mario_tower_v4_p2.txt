@@ -1,0 +1,67 @@
+"Chat"
+{
+	"*** Right Ladder Wall opens in 5 seconds***"
+	{
+		"default"		"*** Right Ladder Wall opens in 5 seconds***"
+	}
+	"***BlockWall Breaks in 30 seconds!***"
+	{
+		"default"		"***BlockWall Breaks in 30 seconds!***"
+	}
+	"***BlockWall is open***"
+	{
+		"default"		"***BlockWall is open***"
+	}
+	"*** Thomp will open in 20 seconds!!***"
+	{
+		"default"		"*** Thomp will open in 20 seconds!!***"
+	}
+	"*** Star Door opens in 20 seconds ***"
+	{
+		"default"		"*** Star Door opens in 20 seconds ***"
+	}
+	"*** Star Door opens in 10 seconds ***"
+	{
+		"default"		"*** Star Door opens in 10 seconds ***"
+	}
+	"*** Star Door open ***"
+	{
+		"default"		"*** Star Door open ***"
+	}
+	"*** Angry sun and chainchomps hate AFKS"
+	{
+		"default"		"*** Angry sun and chainchomps hate AFKS"
+	}
+	"*** Bowser and his minions are attacking!! ***"
+	{
+		"default"		"*** Bowser and his minions are attacking!! ***"
+	}
+	"*** Angry Sun will scorch everything in his reach in 90 seconds!! ***"
+	{
+		"default"		"*** Angry Sun will scorch everything in his reach in 90 seconds!! ***"
+	}
+	"*** Clouds will raise in 30 seconds ***"
+	{
+		"default"		"*** Clouds will raise in 30 seconds ***"
+	}
+	"*** Clouds will raise in 10 seconds ***"
+	{
+		"default"		"*** Clouds will raise in 10 seconds ***"
+	}
+	"*** Scorch in 30 seconds!!***"
+	{
+		"default"		"*** Scorch in 30 seconds!!***"
+	}
+	"*** Get to the top of the tower before it is too late!! ***"
+	{
+		"default"		"*** Get to the top of the tower before it is too late!! ***"
+	}
+	"*** Middle Wall opens in 10 seconds***"
+	{
+		"default"		"*** Middle Wall opens in 10 seconds***"
+	}
+	"*** Left Ladder wall opens in 5 seconds***"
+	{
+		"default"		"*** Left Ladder wall opens in 5 seconds***"
+	}
+}

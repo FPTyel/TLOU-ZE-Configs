@@ -1,0 +1,107 @@
+"Chat"
+{
+	"**Stage1-Easy**"
+	{
+		"default"		"**Stage1-Easy**"
+	}
+	"**Map By noob**"
+	{
+		"default"		"**Map By noob**"
+	}
+	"**Fence will break in 15 seconds**"
+	{
+		"default"		"**Fence will break in 15 seconds**"
+	}
+	"**Path will be opened in 20 seconds**"
+	{
+		"default"		"**Path will be opened in 20 seconds**"
+	}
+	"**Defend for 20 seconds**"
+	{
+		"default"		"**Defend for 20 seconds**"
+	}
+	"**Boss fight in 42 seconds**"
+	{
+		"default"		"**Boss fight in 42 seconds**"
+	}
+	"**Ice Ball**"
+	{
+		"default"		"**Ice Ball**"
+	}
+	"**Wind[Backward]**"
+	{
+		"default"		"**Wind[Backward]**"
+	}
+	"**[ice Laser]**"
+	{
+		"default"		"**[ice Laser]**"
+	}
+	"**Wind[Forward]**"
+	{
+		"default"		"**Wind[Forward]**"
+	}
+	"**You have to defend for 150 seconds now**"
+	{
+		"default"		"**You have to defend for 150 seconds now**"
+	}
+	"**Zombie Escape**"
+	{
+		"default"		"**Zombie Escape**"
+	}
+	"**Stage1 Complete**"
+	{
+		"default"		"**Stage1 Complete**"
+	}
+	"**Stage2-Hard**"
+	{
+		"default"		"**Stage2-Hard**"
+	}
+	"**The doors will open in 25 seconds**"
+	{
+		"default"		"**The doors will open in 25 seconds**"
+	}
+	"**Defend for 10 seconds**"
+	{
+		"default"		"**Defend for 10 seconds**"
+	}
+	"**Path will be opened in 30 seconds**"
+	{
+		"default"		"**Path will be opened in 30 seconds**"
+	}
+	"**The doors will open in 12 seconds**"
+	{
+		"default"		"**The doors will open in 12 seconds**"
+	}
+	"**Hold 30 second**"
+	{
+		"default"		"**Hold 30 second**"
+	}
+	"**Burn of Wind**"
+	{
+		"default"		"**Burn of Wind**"
+	}
+	"**Wind of Destruction**"
+	{
+		"default"		"**Wind of Destruction**"
+	}
+	"**Sword of Wind**"
+	{
+		"default"		"**Sword of Wind**"
+	}
+	"**Dance of Death**"
+	{
+		"default"		"**Dance of Death**"
+	}
+	"**Flame Strike**"
+	{
+		"default"		"**Flame Strike**"
+	}
+	"**Quake**"
+	{
+		"default"		"**Quake**"
+	}
+	"**Flame Holy**"
+	{
+		"default"		"**Flame Holy**"
+	}
+}

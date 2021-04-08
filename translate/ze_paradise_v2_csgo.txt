@@ -1,0 +1,55 @@
+"Chat"
+{
+	"HINT: Break your way out!"
+	{
+		"default"		"HINT: Break your way out!"
+	}
+	"** Tram leaving in 15 seconds **"
+	{
+		"default"		"** Tram leaving in 15 seconds **"
+	}
+	"HINT: Ocean currents will impede progress."
+	{
+		"default"		"HINT: Ocean currents will impede progress."
+	}
+	"** Jungle bus out of fuel! **"
+	{
+		"default"		"** Jungle bus out of fuel! **"
+	}
+	"HINT: 'Crouch' into the hang gliders and then stand up inside."
+	{
+		"default"		"HINT: 'Crouch' into the hang gliders and then stand up inside."
+	}
+	"HINT: Cut the boat cable!"
+	{
+		"default"		"HINT: Cut the boat cable!"
+	}
+	"HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
+	{
+		"default"		"HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
+	}
+	"** Boat leaving in 10 seconds! **"
+	{
+		"default"		"** Boat leaving in 10 seconds! **"
+	}
+	"** Helicopter leaving in 15 seconds! **"
+	{
+		"default"		"** Helicopter leaving in 15 seconds! **"
+	}
+	"** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **"
+	{
+		"default"		"** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **"
+	}
+	"** Missile launched! You will have to jump! **"
+	{
+		"default"		"** Missile launched! You will have to jump! **"
+	}
+	"** Magma chamber charges detonated. Wilmekea Peak has become unstable! **"
+	{
+		"default"		"** Magma chamber charges detonated. Wilmekea Peak has become unstable! **"
+	}
+	"** Wilmekea has gone critical. 10 seconds until eruption! **"
+	{
+		"default"		"** Wilmekea has gone critical. 10 seconds until eruption! **"
+	}
+}

@@ -1,0 +1,119 @@
+"Chat"
+{
+	"*** TELEPORT IN 20 SECONDS ***"
+	{
+		"default"		"*** TELEPORT IN 20 SECONDS ***"
+	}
+	"*** MAP BY: eastern swiss power ***"
+	{
+		"default"		"*** MAP BY: eastern swiss power ***"
+	}
+	"*** THANKS TO: Syoudous ***"
+	{
+		"default"		"*** THANKS TO: Syoudous ***"
+	}
+	"*** 10 SECONDS ***"
+	{
+		"default"		"*** 10 SECONDS ***"
+	}
+	"***DOOR BREAKS IN 15 SECONDS***"
+	{
+		"default"		"***DOOR BREAKS IN 15 SECONDS***"
+	}
+	"*** SECURITY SYSTEM SHUTTING DOWN... ***"
+	{
+		"default"		"*** SECURITY SYSTEM SHUTTING DOWN... ***"
+	}
+	"*** DOOR OPENS IN 30 SECONDS ***"
+	{
+		"default"		"*** DOOR OPENS IN 30 SECONDS ***"
+	}
+	"*** ZOMBIES TELEPORT IN 10 SECONDS ***"
+	{
+		"default"		"*** ZOMBIES TELEPORT IN 10 SECONDS ***"
+	}
+	"*** WE DON'T HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***"
+	{
+		"default"		"*** WE DON'T HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***"
+	}
+	"*** TIME FOR PLAN [B] ***"
+	{
+		"default"		"*** TIME FOR PLAN [B] ***"
+	}
+	"*** PLANT THE [B]OMB! ***"
+	{
+		"default"		"*** PLANT THE [B]OMB! ***"
+	}
+	"*** JUST A TRIM ***"
+	{
+		"default"		"*** JUST A TRIM ***"
+	}
+	"*** [B]OATS START IN 5 SECONDS ***"
+	{
+		"default"		"*** [B]OATS START IN 5 SECONDS ***"
+	}
+	"*** DODGE THE LASERS ***"
+	{
+		"default"		"*** DODGE THE LASERS ***"
+	}
+	"*** OR GO TO JAIL! ***"
+	{
+		"default"		"*** OR GO TO JAIL! ***"
+	}
+	"*** GOOD JOB, YOU DID IT! ***"
+	{
+		"default"		"*** GOOD JOB, YOU DID IT! ***"
+	}
+	"*** ZOMBIE ITEM SPAWNED! ***"
+	{
+		"default"		"*** ZOMBIE ITEM SPAWNED! ***"
+	}
+	"*** HUMAN ITEM SPAWNED! ***"
+	{
+		"default"		"*** HUMAN ITEM SPAWNED! ***"
+	}
+	"*** MONEY ITEM PICKED UP ***"
+	{
+		"default"		"*** MONEY ITEM PICKED UP ***"
+	}
+	"*** JIHAD ITEM PICKED UP ***"
+	{
+		"default"		"*** JIHAD ITEM PICKED UP ***"
+	}
+	"*** DOOR OPENS IN 20 SECONDS ***"
+	{
+		"default"		"*** DOOR OPENS IN 20 SECONDS ***"
+	}
+	"*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***"
+	{
+		"default"		"*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***"
+	}
+	"*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
+	{
+		"default"		"*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
+	}
+	"*** [B]RIDGE ACTIVATING IN 5 SECONDS ***"
+	{
+		"default"		"*** [B]RIDGE ACTIVATING IN 5 SECONDS ***"
+	}
+	"*** LASER WALL DEACTIVATES IN 10 SECONDS ***"
+	{
+		"default"		"*** LASER WALL DEACTIVATES IN 10 SECONDS ***"
+	}
+	"*** LASERS TURNING OFF IN 20 SECONDS ***"
+	{
+		"default"		"*** LASERS TURNING OFF IN 20 SECONDS ***"
+	}
+	"*** LASER WALL ITEM PICKED UP ***"
+	{
+		"default"		"*** LASER WALL ITEM PICKED UP ***"
+	}
+	"*** FIDGET SPINNER PICKED UP ***"
+	{
+		"default"		"*** FIDGET SPINNER PICKED UP ***"
+	}
+	"*** ELEVATOR ARRIVES IN 40 SECONDS ***"
+	{
+		"default"		"*** ELEVATOR ARRIVES IN 40 SECONDS ***"
+	}
+}

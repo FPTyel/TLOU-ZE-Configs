@@ -1,0 +1,299 @@
+"Chat"
+{
+	"*** WARMUP ROUND ***"
+	{
+		"default"		"*** WARMUP ROUND ***"
+	}
+	"*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***"
+	{
+		"default"		"*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***"
+	}
+	"***Thanks Batnik_Ref.smd for animation TRI-FACE ***"
+	{
+		"default"		"***Thanks Batnik_Ref.smd for animation TRI-FACE ***"
+	}
+	"*** STAGE 1 [NORMAL] ***"
+	{
+		"default"		"*** STAGE 1 [NORMAL] ***"
+	}
+	"[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS"
+	{
+		"default"		"[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS"
+	}
+	"[AERIS] I WANT TO GO INSIDE!"
+	{
+		"default"		"[AERIS] I WANT TO GO INSIDE!"
+	}
+	"*** follow the white sphere ***"
+	{
+		"default"		"*** follow the white sphere ***"
+	}
+	"*** DEFEND FOR 15 SEC ***"
+	{
+		"default"		"*** DEFEND FOR 15 SEC ***"
+	}
+	"*** GO GO ***"
+	{
+		"default"		"*** GO GO ***"
+	}
+	"A player has picked up the WIND Materia"
+	{
+		"default"		"A player has picked up the WIND Materia"
+	}
+	"*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***"
+	{
+		"default"		"*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***"
+	}
+	"*** GET INSIDE ***"
+	{
+		"default"		"*** GET INSIDE ***"
+	}
+	"*** GO GO GO  ***"
+	{
+		"default"		"*** GO GO GO  ***"
+	}
+	"***  Down and then to the right ***"
+	{
+		"default"		"***  Down and then to the right ***"
+	}
+	"*** DEFEND FOR 10 SEC ***"
+	{
+		"default"		"*** DEFEND FOR 10 SEC ***"
+	}
+	"*** Get up to the white sphere ***"
+	{
+		"default"		"*** Get up to the white sphere ***"
+	}
+	"*** the teleport to the temple will work in 15 seconds ***"
+	{
+		"default"		"*** the teleport to the temple will work in 15 seconds ***"
+	}
+	"*** DEFEND ***"
+	{
+		"default"		"*** DEFEND ***"
+	}
+	"*** One of the paths is chosen randomly ***"
+	{
+		"default"		"*** One of the paths is chosen randomly ***"
+	}
+	"A player has picked up the HEAL Materia"
+	{
+		"default"		"A player has picked up the HEAL Materia"
+	}
+	"*** DEFEND CLOUD FOR 10 SEC ***"
+	{
+		"default"		"*** DEFEND CLOUD FOR 10 SEC ***"
+	}
+	"A player has picked up the ICE Materia"
+	{
+		"default"		"A player has picked up the ICE Materia"
+	}
+	"** DOORS WILL OPEN IN 15 SEC **"
+	{
+		"default"		"** DOORS WILL OPEN IN 15 SEC **"
+	}
+	"A player has picked up the POISON Materia"
+	{
+		"default"		"A player has picked up the POISON Materia"
+	}
+	"*** IT'S OVER"
+	{
+		"default"		"*** IT'S OVER"
+	}
+	"A player has picked up the FIRE Materia"
+	{
+		"default"		"A player has picked up the FIRE Materia"
+	}
+	"A player has picked up the EARTH Materia"
+	{
+		"default"		"A player has picked up the EARTH Materia"
+	}
+	"*** DEFEND FOR 20 SEC ***"
+	{
+		"default"		"*** DEFEND FOR 20 SEC ***"
+	}
+	"[AERIS] CLOUD look..."
+	{
+		"default"		"[AERIS] CLOUD look..."
+	}
+	"[AERIS] IT IS SEPHIROTH "
+	{
+		"default"		"[AERIS] IT IS SEPHIROTH "
+	}
+	"*** FALL BACK ***"
+	{
+		"default"		"*** FALL BACK ***"
+	}
+	"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
+	{
+		"default"		"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
+	}
+	"** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **"
+	{
+		"default"		"** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **"
+	}
+	"*** THE DRAGON HAS BEEN KILLED ***"
+	{
+		"default"		"*** THE DRAGON HAS BEEN KILLED ***"
+	}
+	"[AERIS] CLOUD GO TO A CRYSTAL"
+	{
+		"default"		"[AERIS] CLOUD GO TO A CRYSTAL"
+	}
+	"*** STAGE 1 WIN ***"
+	{
+		"default"		"*** STAGE 1 WIN ***"
+	}
+	"*** STAGE 2 [NORMAL] ***"
+	{
+		"default"		"*** STAGE 2 [NORMAL] ***"
+	}
+	"*** GAULLE HAS BEEN KILLED ***"
+	{
+		"default"		"*** GAULLE HAS BEEN KILLED ***"
+	}
+	"*** DEFEND FOR 15sec ***"
+	{
+		"default"		"*** DEFEND FOR 15sec ***"
+	}
+	"*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***"
+	{
+		"default"		"*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***"
+	}
+	"*** Pick the crystal below ***"
+	{
+		"default"		"*** Pick the crystal below ***"
+	}
+	"*** GO TO THE CAVES TO PICK IT UP ***"
+	{
+		"default"		"*** GO TO THE CAVES TO PICK IT UP ***"
+	}
+	"*** HI CRYSTAL WAS PICKED UP ***"
+	{
+		"default"		"*** HI CRYSTAL WAS PICKED UP ***"
+	}
+	"*** the door will open in 15 sec ***"
+	{
+		"default"		"*** the door will open in 15 sec ***"
+	}
+	"**HE USES GRAVITY ATTACK!BE CAREFUL!**"
+	{
+		"default"		"**HE USES GRAVITY ATTACK!BE CAREFUL!**"
+	}
+	"*** TRI-FACE USED SHIELD DONT SHOOT ***"
+	{
+		"default"		"*** TRI-FACE USED SHIELD DONT SHOOT ***"
+	}
+	"**HE USES WIND ATTACK! RESIST IT!**"
+	{
+		"default"		"**HE USES WIND ATTACK! RESIST IT!**"
+	}
+	"**Tri Face is going to jump! Move to the edges**"
+	{
+		"default"		"**Tri Face is going to jump! Move to the edges**"
+	}
+	"**Tri Face is healing himself"
+	{
+		"default"		"**Tri Face is healing himself"
+	}
+	"*** TRI FACE HAS BEEN KILLED   ***"
+	{
+		"default"		"*** TRI FACE HAS BEEN KILLED   ***"
+	}
+	"*** THE DOOR WILL OPEN IN 25 SEC."
+	{
+		"default"		"*** THE DOOR WILL OPEN IN 25 SEC."
+	}
+	"*** BLACK MATERIA HAS BEEN PICKED UP ***"
+	{
+		"default"		"*** BLACK MATERIA HAS BEEN PICKED UP ***"
+	}
+	"*** WAIT ***"
+	{
+		"default"		"*** WAIT ***"
+	}
+	"*** Get on the ship ***"
+	{
+		"default"		"*** Get on the ship ***"
+	}
+	"*** WAIT 12SEC ***"
+	{
+		"default"		"*** WAIT 12SEC ***"
+	}
+	"** STAGE 2 WIN **"
+	{
+		"default"		"** STAGE 2 WIN **"
+	}
+	"*** STAGE 1 [EXTREME] ***"
+	{
+		"default"		"*** STAGE 1 [EXTREME] ***"
+	}
+	"*** STAGE 1 WIN [EXTREME]***"
+	{
+		"default"		"*** STAGE 1 WIN [EXTREME]***"
+	}
+	"*** GG ***"
+	{
+		"default"		"*** GG ***"
+	}
+	"*** ZOMBIE DETECTED ***"
+	{
+		"default"		"*** ZOMBIE DETECTED ***"
+	}
+	"*** STAGE 2 [EXTREME] ***"
+	{
+		"default"		"*** STAGE 2 [EXTREME] ***"
+	}
+	"*** WAIT 10 SEC ***"
+	{
+		"default"		"*** WAIT 10 SEC ***"
+	}
+	"*** WAIT 5 SEC ***"
+	{
+		"default"		"*** WAIT 5 SEC ***"
+	}
+	"*** SEPHIROT USED HEAL ***"
+	{
+		"default"		"*** SEPHIROT USED HEAL ***"
+	}
+	"*** DONT SHOOT HIM ***"
+	{
+		"default"		"*** DONT SHOOT HIM ***"
+	}
+	"*** Kill SUMMONS ***"
+	{
+		"default"		"*** Kill SUMMONS ***"
+	}
+	"*** SEPHIROT USED LIMIT BREAK"
+	{
+		"default"		"*** SEPHIROT USED LIMIT BREAK"
+	}
+	"*** SEPHIROT USED DOUBLE DAMAGE"
+	{
+		"default"		"*** SEPHIROT USED DOUBLE DAMAGE"
+	}
+	"*** YOU KEEP 30 SEC ***"
+	{
+		"default"		"*** YOU KEEP 30 SEC ***"
+	}
+	"*** Black materiar almost at us! ***"
+	{
+		"default"		"*** Black materiar almost at us! ***"
+	}
+	"*** SEPHIROT ***"
+	{
+		"default"		"*** SEPHIROT ***"
+	}
+	"** MAP COMPLETED **"
+	{
+		"default"		"** MAP COMPLETED **"
+	}
+	"*** MAP COMPLETED ***"
+	{
+		"default"		"*** MAP COMPLETED ***"
+	}
+	"[ADMIN] LVL 2 EXTREME SET"
+	{
+		"default"		"[ADMIN] LVL 2 EXTREME SET"
+	}
+}

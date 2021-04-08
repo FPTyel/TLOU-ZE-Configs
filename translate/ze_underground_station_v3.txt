@@ -1,0 +1,7 @@
+"Chat"
+{
+	"***Door opens in 5 seconds***"
+	{
+		"default"		"***Door opens in 5 seconds***"
+	}
+}

@@ -1,0 +1,107 @@
+"Chat"
+{
+	"A VIRUS HAS MUTATED AMONG YOU!!!"
+	{
+		"default"		"A VIRUS HAS MUTATED AMONG YOU!!!"
+	}
+	"ESCAPE!!!"
+	{
+		"default"		"ESCAPE!!!"
+	}
+	"YOU BETTER GET OUT OF THIS PLACE!!!"
+	{
+		"default"		"YOU BETTER GET OUT OF THIS PLACE!!!"
+	}
+	"PLAYER 1 HAS JOINED THE GAME"
+	{
+		"default"		"PLAYER 1 HAS JOINED THE GAME"
+	}
+	"* @!#?@! *"
+	{
+		"default"		"* @!#?@! *"
+	}
+	"LEFT? MIDDLE? MAYBE RIGHT?"
+	{
+		"default"		"LEFT? MIDDLE? MAYBE RIGHT?"
+	}
+	"ZOMBIES TELEPORT IN 5 SECONDS"
+	{
+		"default"		"ZOMBIES TELEPORT IN 5 SECONDS"
+	}
+	"TRY NOT TO GET EATEN ^^"
+	{
+		"default"		"TRY NOT TO GET EATEN ^^"
+	}
+	"NOM NOM NOM!"
+	{
+		"default"		"NOM NOM NOM!"
+	}
+	"LEFT COIN COLLECTED"
+	{
+		"default"		"LEFT COIN COLLECTED"
+	}
+	"RIGHT COIN COLLECTED"
+	{
+		"default"		"RIGHT COIN COLLECTED"
+	}
+	"A NOOB JUST ACTIVATED A BOMB"
+	{
+		"default"		"A NOOB JUST ACTIVATED A BOMB"
+	}
+	"ZOMBIES TELEPORT IN 10 SECONDS"
+	{
+		"default"		"ZOMBIES TELEPORT IN 10 SECONDS"
+	}
+	"DOORS OPEN IN 25 SECONDS"
+	{
+		"default"		"DOORS OPEN IN 25 SECONDS"
+	}
+	"DON'T FOLLOW THE DEAD"
+	{
+		"default"		"DON'T FOLLOW THE DEAD"
+	}
+	"BEWARE OF GHOSTS..."
+	{
+		"default"		"BEWARE OF GHOSTS..."
+	}
+	"PLAYER 2 HAS JOINED THE GAME"
+	{
+		"default"		"PLAYER 2 HAS JOINED THE GAME"
+	}
+	"BOO!"
+	{
+		"default"		"BOO!"
+	}
+	"THE GHOST ARENA IS OPENING - GET INSIDE!"
+	{
+		"default"		"THE GHOST ARENA IS OPENING - GET INSIDE!"
+	}
+	"THE GHOST ARENA IS CLOSING - DON'T LET THE ZOMBIES ENTER!"
+	{
+		"default"		"THE GHOST ARENA IS CLOSING - DON'T LET THE ZOMBIES ENTER!"
+	}
+	"YOU CAN'T SHOOT A GHOST - YOU BETTER JUST AVOID CONTACT!"
+	{
+		"default"		"YOU CAN'T SHOOT A GHOST - YOU BETTER JUST AVOID CONTACT!"
+	}
+	"GAME OVER - THE WALL HAS CRACKED"
+	{
+		"default"		"GAME OVER - THE WALL HAS CRACKED"
+	}
+	"THIS ISN'T THE END THOUGH"
+	{
+		"default"		"THIS ISN'T THE END THOUGH"
+	}
+	"IS THAT YOU, MARIO?"
+	{
+		"default"		"IS THAT YOU, MARIO?"
+	}
+	"MAKE THE TEMPLE COLLAPSE"
+	{
+		"default"		"MAKE THE TEMPLE COLLAPSE"
+	}
+	"THROW GRENADES INTO THE HOLES"
+	{
+		"default"		"THROW GRENADES INTO THE HOLES"
+	}
+}

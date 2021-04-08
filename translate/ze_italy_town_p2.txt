@@ -1,0 +1,203 @@
+"Chat"
+{
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"default"		"++ ZE_ITALY_TOWN ++"
+	}
+	"+++ CURRENT LEVEL: EASY +++"
+	{
+		"default"		"+++ CURRENT LEVEL: EASY +++"
+	}
+	"++ HOLD! THE DOOR OPENS SOON! ++"
+	{
+		"default"		"++ HOLD! THE DOOR OPENS SOON! ++"
+	}
+	"++ FLAMETHROWER ADQUIRED ++"
+	{
+		"default"		"++ FLAMETHROWER ADQUIRED ++"
+	}
+	"+++ Defend for 25 seconds +++"
+	{
+		"default"		"+++ Defend for 25 seconds +++"
+	}
+	"+++ Cold gun adquired +++"
+	{
+		"default"		"+++ Cold gun adquired +++"
+	}
+	"+++ 10 seconds left!!! +++"
+	{
+		"default"		"+++ 10 seconds left!!! +++"
+	}
+	"+++ The door is opening +++"
+	{
+		"default"		"+++ The door is opening +++"
+	}
+	"+++ The door opens in 25 seconds +++"
+	{
+		"default"		"+++ The door opens in 25 seconds +++"
+	}
+	"+++ The door opens in 10 seconds +++"
+	{
+		"default"		"+++ The door opens in 10 seconds +++"
+	}
+	"+++ The door is opening... RETREAT!!! +++"
+	{
+		"default"		"+++ The door is opening... RETREAT!!! +++"
+	}
+	"+++ Double doors open in 10 seconds +++"
+	{
+		"default"		"+++ Double doors open in 10 seconds +++"
+	}
+	"+++ Double doors are opening!!! +++"
+	{
+		"default"		"+++ Double doors are opening!!! +++"
+	}
+	"+++ Keep the zombies out while the doors close +++"
+	{
+		"default"		"+++ Keep the zombies out while the doors close +++"
+	}
+	"+++ Second double doors open in 15 seconds +++"
+	{
+		"default"		"+++ Second double doors open in 15 seconds +++"
+	}
+	"++ Nuke launched. Impact in 30 seconds ++"
+	{
+		"default"		"++ Nuke launched. Impact in 30 seconds ++"
+	}
+	"++ Impact in 10 seconds ++"
+	{
+		"default"		"++ Impact in 10 seconds ++"
+	}
+	"+++ NEXT LEVEL IS NORMAL +++"
+	{
+		"default"		"+++ NEXT LEVEL IS NORMAL +++"
+	}
+	"+++ CURRENT LEVEL: NORMAL +++"
+	{
+		"default"		"+++ CURRENT LEVEL: NORMAL +++"
+	}
+	"++ HOLD! DOOR OPENS IN 20 SEC ++"
+	{
+		"default"		"++ HOLD! DOOR OPENS IN 20 SEC ++"
+	}
+	"++ Hold for 20 seconds ++"
+	{
+		"default"		"++ Hold for 20 seconds ++"
+	}
+	"++ Hold for 5 more seconds!!! ++"
+	{
+		"default"		"++ Hold for 5 more seconds!!! ++"
+	}
+	"++ HOLD! WE ARE TRAPPED HERE!!! ++"
+	{
+		"default"		"++ HOLD! WE ARE TRAPPED HERE!!! ++"
+	}
+	"++ WE HAVE TO FIND A WAY OUT!!! ++"
+	{
+		"default"		"++ WE HAVE TO FIND A WAY OUT!!! ++"
+	}
+	"++ THE BALCONY! JUMP!!! ++"
+	{
+		"default"		"++ THE BALCONY! JUMP!!! ++"
+	}
+	"++ HOLD! The door will open in 20 seconds!!! ++"
+	{
+		"default"		"++ HOLD! The door will open in 20 seconds!!! ++"
+	}
+	"++ RESIST! 5 LAST SECONDS!!! ++"
+	{
+		"default"		"++ RESIST! 5 LAST SECONDS!!! ++"
+	}
+	"+++ Defend for 20 seconds +++"
+	{
+		"default"		"+++ Defend for 20 seconds +++"
+	}
+	"+++ The door opens in 45 seconds +++"
+	{
+		"default"		"+++ The door opens in 45 seconds +++"
+	}
+	"+++ Secret rocketlauncher has been found +++"
+	{
+		"default"		"+++ Secret rocketlauncher has been found +++"
+	}
+	"+++ You can only use it once +++"
+	{
+		"default"		"+++ You can only use it once +++"
+	}
+	"+++ The door opens in 30 seconds +++"
+	{
+		"default"		"+++ The door opens in 30 seconds +++"
+	}
+	"+++ Double doors open in 20 seconds +++"
+	{
+		"default"		"+++ Double doors open in 20 seconds +++"
+	}
+	"+++ FIRE! +++"
+	{
+		"default"		"+++ FIRE! +++"
+	}
+	"++ Nuke launched. Impact in 60 seconds ++"
+	{
+		"default"		"++ Nuke launched. Impact in 60 seconds ++"
+	}
+	"++ Impact in 30 seconds ++"
+	{
+		"default"		"++ Impact in 30 seconds ++"
+	}
+	"+++ Sword has been picked up +++"
+	{
+		"default"		"+++ Sword has been picked up +++"
+	}
+	"+++ NEXT LEVEL IS HARD +++"
+	{
+		"default"		"+++ NEXT LEVEL IS HARD +++"
+	}
+	"+++ CURRENT LEVEL: HARD +++"
+	{
+		"default"		"+++ CURRENT LEVEL: HARD +++"
+	}
+	"+++ Defend for 35 seconds +++"
+	{
+		"default"		"+++ Defend for 35 seconds +++"
+	}
+	"+++ ZOMBIES ON BUNKER +++"
+	{
+		"default"		"+++ ZOMBIES ON BUNKER +++"
+	}
+	"+++ LEVEL IS NOT CHANGING +++"
+	{
+		"default"		"+++ LEVEL IS NOT CHANGING +++"
+	}
+	"+++ NEXT LEVEL IS EXTREME +++"
+	{
+		"default"		"+++ NEXT LEVEL IS EXTREME +++"
+	}
+	"+++ CURRENT LEVEL: EXTREME +++"
+	{
+		"default"		"+++ CURRENT LEVEL: EXTREME +++"
+	}
+	"++ HOLD! DOORS OPENS IN 30 SEC ++"
+	{
+		"default"		"++ HOLD! DOORS OPENS IN 30 SEC ++"
+	}
+	"++ RESIST! 15 SECONDS LEFT ++"
+	{
+		"default"		"++ RESIST! 15 SECONDS LEFT ++"
+	}
+	"++ Hold for 30 seconds ++"
+	{
+		"default"		"++ Hold for 30 seconds ++"
+	}
+	"+++ Defend for 30 seconds +++"
+	{
+		"default"		"+++ Defend for 30 seconds +++"
+	}
+	"++ Hold for 15 more seconds!!! ++"
+	{
+		"default"		"++ Hold for 15 more seconds!!! ++"
+	}
+	"+++ 15 seconds left!!! +++"
+	{
+		"default"		"+++ 15 seconds left!!! +++"
+	}
+}

@@ -1,0 +1,79 @@
+"Chat"
+{
+	"MAP MADE BY GARGANTUA"
+	{
+		"default"		"MAP MADE BY GARGANTUA"
+	}
+	"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 ARRIVED ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 ARRIVED ++"
+	}
+	"++ LIFT DOOR 1 OPENING UP ++"
+	{
+		"default"		"++ LIFT DOOR 1 OPENING UP ++"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	}
+	"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	{
+		"default"		"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	}
+	"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	{
+		"default"		"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	}
+	"++ SECRET LIFT IS LEAVING!! ++"
+	{
+		"default"		"++ SECRET LIFT IS LEAVING!! ++"
+	}
+	"++ TOXIC MINE GAS IN AIR !! ++"
+	{
+		"default"		"++ TOXIC MINE GAS IN AIR !! ++"
+	}
+	"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 ARRIVED ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 ARRIVED ++"
+	}
+	"++ LIFT DOOR 2 OPENING UP ++"
+	{
+		"default"		"++ LIFT DOOR 2 OPENING UP ++"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	}
+	"++ GARGANTUA'S BOAT LEAVING IN 3 SECONDS ++"
+	{
+		"default"		"++ GARGANTUA'S BOAT LEAVING IN 3 SECONDS ++"
+	}
+	"++ GARGANTUA'S BOAT IS LEAVING!! ++"
+	{
+		"default"		"++ GARGANTUA'S BOAT IS LEAVING!! ++"
+	}
+}

@@ -1,0 +1,115 @@
+"Chat"
+{
+	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
+	{
+		"default"		"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
+	}
+	"***HOLD THE DOOR FOR 10 SECONDS***"
+	{
+		"default"		"***HOLD THE DOOR FOR 10 SECONDS***"
+	}
+	"***THE COVENANT IS ATTACKING***"
+	{
+		"default"		"***THE COVENANT IS ATTACKING***"
+	}
+	"***THEY HAVE TAKEN DOWN OUR MAIN DEFENSES***"
+	{
+		"default"		"***THEY HAVE TAKEN DOWN OUR MAIN DEFENSES***"
+	}
+	"***MISSION -- PLANT EXPLOSIVES IN THE ENGINE ROOM AND ESCAPE***"
+	{
+		"default"		"***MISSION -- PLANT EXPLOSIVES IN THE ENGINE ROOM AND ESCAPE***"
+	}
+	"***GET READY TO RUN***"
+	{
+		"default"		"***GET READY TO RUN***"
+	}
+	"***GO***"
+	{
+		"default"		"***GO***"
+	}
+	"***THE ELEVATOR STARTS IN 30 SECONDS***"
+	{
+		"default"		"***THE ELEVATOR STARTS IN 30 SECONDS***"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"default"		"***10 SECONDS LEFT***"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"default"		"***5 SECONDS LEFT***"
+	}
+	"***ZOMBIES CLIMB UP THE LADDER*"
+	{
+		"default"		"***ZOMBIES CLIMB UP THE LADDER*"
+	}
+	"***DOOR OPENING IN 20 SECONDS***"
+	{
+		"default"		"***DOOR OPENING IN 20 SECONDS***"
+	}
+	"***SPAM E ON THE BOMBS TO ACTIVATE THEM***"
+	{
+		"default"		"***SPAM E ON THE BOMBS TO ACTIVATE THEM***"
+	}
+	"***UPPER DOOR IS OPENING IN 10 SECONDS***"
+	{
+		"default"		"***UPPER DOOR IS OPENING IN 10 SECONDS***"
+	}
+	"***BOMB 2 HAS BEEN ACTIVATED***"
+	{
+		"default"		"***BOMB 2 HAS BEEN ACTIVATED***"
+	}
+	"***BOMB 1 HAS BEEN ACTIVATED***"
+	{
+		"default"		"***BOMB 1 HAS BEEN ACTIVATED***"
+	}
+	"***ELVATOR LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***ELVATOR LEAVING IN 10 SECONDS***"
+	}
+	"***ELEVATOR LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***ELEVATOR LEAVING IN 10 SECONDS***"
+	}
+	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
+	{
+		"default"		"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
+	}
+	"***BOMB 3 HAS BEEN ACTIVATED***"
+	{
+		"default"		"***BOMB 3 HAS BEEN ACTIVATED***"
+	}
+	"***ALL BOMBS ARE PLANTED***"
+	{
+		"default"		"***ALL BOMBS ARE PLANTED***"
+	}
+	"***RUN DOWN TO ESCAPE***"
+	{
+		"default"		"***RUN DOWN TO ESCAPE***"
+	}
+	"***THE CARGO LIFT IS ON THE WAY***"
+	{
+		"default"		"***THE CARGO LIFT IS ON THE WAY***"
+	}
+	"***THE CARGO LIFT IS HERE***"
+	{
+		"default"		"***THE CARGO LIFT IS HERE***"
+	}
+	"***GET IN NUMBNUTS!***"
+	{
+		"default"		"***GET IN NUMBNUTS!***"
+	}
+	"***THE PODS ARE LEAVING IN 2 MINUTES***"
+	{
+		"default"		"***THE PODS ARE LEAVING IN 2 MINUTES***"
+	}
+	"***STRATEGISE YOUR DEFENDING TO ESCAPE SAFELY***"
+	{
+		"default"		"***STRATEGISE YOUR DEFENDING TO ESCAPE SAFELY***"
+	}
+	"***GO!***"
+	{
+		"default"		"***GO!***"
+	}
+}

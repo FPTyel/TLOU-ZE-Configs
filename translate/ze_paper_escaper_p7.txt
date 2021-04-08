@@ -1,0 +1,495 @@
+"Chat"
+{
+	"*** Current level: NORMAL  *** Escape: VERYBAD CORP. LABS ***"
+	{
+		"default"		"*** Current level: NORMAL  *** Escape: VERYBAD CORP. LABS ***"
+	}
+	"*Doors opening in 7 seconds.*"
+	{
+		"default"		"*Doors opening in 7 seconds.*"
+	}
+	"*Exit door is not working.*"
+	{
+		"default"		"*Exit door is not working.*"
+	}
+	"*Choose one way and evade from the zombies.*"
+	{
+		"default"		"*Choose one way and evade from the zombies.*"
+	}
+	"*Follow the signs in the floor.*"
+	{
+		"default"		"*Follow the signs in the floor.*"
+	}
+	"*WARNING: WEAPON SPAMMING WILL BE PUNISHED.*"
+	{
+		"default"		"*WARNING: WEAPON SPAMMING WILL BE PUNISHED.*"
+	}
+	"*Hallway door opening in 10 seconds*"
+	{
+		"default"		"*Hallway door opening in 10 seconds*"
+	}
+	"*Water deposit door opening in 15 seconds*"
+	{
+		"default"		"*Water deposit door opening in 15 seconds*"
+	}
+	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
+	{
+		"default"		"*Zombies detected on Elevator Nr. 3. Sealing door.*"
+	}
+	"*Water deposit door broken. Go though the vents!*"
+	{
+		"default"		"*Water deposit door broken. Go though the vents!*"
+	}
+	"*Garage door opening in 35 seconds*"
+	{
+		"default"		"*Garage door opening in 35 seconds*"
+	}
+	"*Garage Door is opening. RETREAT!*"
+	{
+		"default"		"*Garage Door is opening. RETREAT!*"
+	}
+	"*The truck will leave in 15 seconds. Resist!*"
+	{
+		"default"		"*The truck will leave in 15 seconds. Resist!*"
+	}
+	"**Flamethrower has been picked up. Press +Use (E) to activate**"
+	{
+		"default"		"**Flamethrower has been picked up. Press +Use (E) to activate**"
+	}
+	"**Fuel lasts about 10 seconds. **"
+	{
+		"default"		"**Fuel lasts about 10 seconds. **"
+	}
+	"*The door has locked! Resist for 30 seconds until it closes.*"
+	{
+		"default"		"*The door has locked! Resist for 30 seconds until it closes.*"
+	}
+	"**Rocket launcher picked up. Press +USE (E) to activate.**"
+	{
+		"default"		"**Rocket launcher picked up. Press +USE (E) to activate.**"
+	}
+	"**It only has one use**"
+	{
+		"default"		"**It only has one use**"
+	}
+	"**Rocket launcher charging**"
+	{
+		"default"		"**Rocket launcher charging**"
+	}
+	"*The door is closing! Use the ladder to go to the roof.*"
+	{
+		"default"		"*The door is closing! Use the ladder to go to the roof.*"
+	}
+	"*We will have to jump to the balconies to escape!*"
+	{
+		"default"		"*We will have to jump to the balconies to escape!*"
+	}
+	"*Main lab's doors opening in 5 seconds.*"
+	{
+		"default"		"*Main lab's doors opening in 5 seconds.*"
+	}
+	"*Zombies must take the back-exit door.*"
+	{
+		"default"		"*Zombies must take the back-exit door.*"
+	}
+	"*Escape elevator area opening in 10 seconds.*"
+	{
+		"default"		"*Escape elevator area opening in 10 seconds.*"
+	}
+	"*There's no power! One human must activate it through the vent..*"
+	{
+		"default"		"*There's no power! One human must activate it through the vent..*"
+	}
+	"*Activate the Elevator and open the dock's door.*"
+	{
+		"default"		"*Activate the Elevator and open the dock's door.*"
+	}
+	"*Dock's door opening in 5 seconds..*"
+	{
+		"default"		"*Dock's door opening in 5 seconds..*"
+	}
+	"*Elevator is coming! Resist until you leave!*"
+	{
+		"default"		"*Elevator is coming! Resist until you leave!*"
+	}
+	"*** JUMP INTO THE ELEVATOR ***"
+	{
+		"default"		"*** JUMP INTO THE ELEVATOR ***"
+	}
+	"*Defend at Transporter I (1) for 25 seconds.*"
+	{
+		"default"		"*Defend at Transporter I (1) for 25 seconds.*"
+	}
+	"*Transporter I leaving in 5 seconds.*"
+	{
+		"default"		"*Transporter I leaving in 5 seconds.*"
+	}
+	"*Transporter II leaving in 5 seconds.*"
+	{
+		"default"		"*Transporter II leaving in 5 seconds.*"
+	}
+	"*Keep the zombies out of this roof so that they are killed!*"
+	{
+		"default"		"*Keep the zombies out of this roof so that they are killed!*"
+	}
+	"*The whole facility explodes in 7 seconds!*"
+	{
+		"default"		"*The whole facility explodes in 7 seconds!*"
+	}
+	"*** NORMAL MODE COMPLETED ***"
+	{
+		"default"		"*** NORMAL MODE COMPLETED ***"
+	}
+	"*** NEXT LEVEL IS HARD ***"
+	{
+		"default"		"*** NEXT LEVEL IS HARD ***"
+	}
+	"*** Current level: HARD  *** Escape: RIVER POWERSTATION ***"
+	{
+		"default"		"*** Current level: HARD  *** Escape: RIVER POWERSTATION ***"
+	}
+	"*Speed weapon has been picked up. It grants a slight speed boost.*"
+	{
+		"default"		"*Speed weapon has been picked up. It grants a slight speed boost.*"
+	}
+	"*Emergency elevator activates in 12 seconds*"
+	{
+		"default"		"*Emergency elevator activates in 12 seconds*"
+	}
+	"*Heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"default"		"*Heal has been picked up. Press +USE (E) to activate.*"
+	}
+	"*Leave this building by going to the lab. vault.*"
+	{
+		"default"		"*Leave this building by going to the lab. vault.*"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"default"		"*It has a 90 seconds cooldown.*"
+	}
+	"*Vault area opening in 20 seconds.*"
+	{
+		"default"		"*Vault area opening in 20 seconds.*"
+	}
+	"*Door opening in 15 seconds. RESIST!*"
+	{
+		"default"		"*Door opening in 15 seconds. RESIST!*"
+	}
+	"*The doors are now open. LEAVE!!!*"
+	{
+		"default"		"*The doors are now open. LEAVE!!!*"
+	}
+	"*Powerstation doors opening in 7 seconds*"
+	{
+		"default"		"*Powerstation doors opening in 7 seconds*"
+	}
+	"*Go inside the powerstation's office!*"
+	{
+		"default"		"*Go inside the powerstation's office!*"
+	}
+	"*Activate the bridge to enter the engines area*"
+	{
+		"default"		"*Activate the bridge to enter the engines area*"
+	}
+	"*** DEFEND THE ENTRANCE UNTIL THE BRIDGE DEPLOYS ***"
+	{
+		"default"		"*** DEFEND THE ENTRANCE UNTIL THE BRIDGE DEPLOYS ***"
+	}
+	"*Deploying bridge. Resist untill it's down!!!*"
+	{
+		"default"		"*Deploying bridge. Resist untill it's down!!!*"
+	}
+	"*Main reactor reached. Break the glass to go into emergency mode!*"
+	{
+		"default"		"*Main reactor reached. Break the glass to go into emergency mode!*"
+	}
+	"*Calling the escape boat. Resist untill it comes! (30 sec)*"
+	{
+		"default"		"*Calling the escape boat. Resist untill it comes! (30 sec)*"
+	}
+	"*Storage door opening in 15 seconds*"
+	{
+		"default"		"*Storage door opening in 15 seconds*"
+	}
+	"*TNT will explode in 7 seconds.*"
+	{
+		"default"		"*TNT will explode in 7 seconds.*"
+	}
+	"*Office doors opening in 15 seconds*"
+	{
+		"default"		"*Office doors opening in 15 seconds*"
+	}
+	"*Open the bunker door while others defend the spot.*"
+	{
+		"default"		"*Open the bunker door while others defend the spot.*"
+	}
+	"*Zombies detected on office area. Defense mode activated.*"
+	{
+		"default"		"*Zombies detected on office area. Defense mode activated.*"
+	}
+	"*Bunker door opening in 10 seconds*"
+	{
+		"default"		"*Bunker door opening in 10 seconds*"
+	}
+	"*Exit door opening in 5 seconds*"
+	{
+		"default"		"*Exit door opening in 5 seconds*"
+	}
+	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	{
+		"default"		"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	}
+	"*The boat is here. Get on it!!!*"
+	{
+		"default"		"*The boat is here. Get on it!!!*"
+	}
+	"*** HARD MODE COMPLETED ***"
+	{
+		"default"		"*** HARD MODE COMPLETED ***"
+	}
+	"*** NEXT LEVEL IS EXTREME ***"
+	{
+		"default"		"*** NEXT LEVEL IS EXTREME ***"
+	}
+	"*** Current level: EXTREME  *** Escape: EVIL CORP. HEADQUARTERS ***"
+	{
+		"default"		"*** Current level: EXTREME  *** Escape: EVIL CORP. HEADQUARTERS ***"
+	}
+	"*Resist for 10 seconds. Other people may come!*"
+	{
+		"default"		"*Resist for 10 seconds. Other people may come!*"
+	}
+	"*We have waited long enough! RUN!*"
+	{
+		"default"		"*We have waited long enough! RUN!*"
+	}
+	"** Raivb1000 Prototype door has been unlocked! **"
+	{
+		"default"		"** Raivb1000 Prototype door has been unlocked! **"
+	}
+	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	{
+		"default"		"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	}
+	"** WARNING: It only has one use and affects zombies and killer robots. **"
+	{
+		"default"		"** WARNING: It only has one use and affects zombies and killer robots. **"
+	}
+	"*The door will open in 20 seconds. Hold and then resist untill it closes.*"
+	{
+		"default"		"*The door will open in 20 seconds. Hold and then resist untill it closes.*"
+	}
+	"*Landmine picked up. Jump and press +USE (E) to activate.*"
+	{
+		"default"		"*Landmine picked up. Jump and press +USE (E) to activate.*"
+	}
+	"*Evil Corp. Headquarters' doors opening in 10 seconds.*"
+	{
+		"default"		"*Evil Corp. Headquarters' doors opening in 10 seconds.*"
+	}
+	"*Doors close in 7 seconds. RESIST!!!*"
+	{
+		"default"		"*Doors close in 7 seconds. RESIST!!!*"
+	}
+	"*Elevator leaves in 10 seconds.*"
+	{
+		"default"		"*Elevator leaves in 10 seconds.*"
+	}
+	"** GO! **"
+	{
+		"default"		"** GO! **"
+	}
+	"*Use the computers to open the door!*"
+	{
+		"default"		"*Use the computers to open the door!*"
+	}
+	"*Security system accesed: opening doors in 5 seconds. RESIST!*"
+	{
+		"default"		"*Security system accesed: opening doors in 5 seconds. RESIST!*"
+	}
+	"** TIP: He Grenades deal a lot of damage to the robot.**"
+	{
+		"default"		"** TIP: He Grenades deal a lot of damage to the robot.**"
+	}
+	"*Basic defensive mode activated: Laser and Landmines*"
+	{
+		"default"		"*Basic defensive mode activated: Laser and Landmines*"
+	}
+	"*Basic offensive mode activated: 'Fist crusher' module loaded*"
+	{
+		"default"		"*Basic offensive mode activated: 'Fist crusher' module loaded*"
+	}
+	"*Offensive module loaded: Laser meat slasher*"
+	{
+		"default"		"*Offensive module loaded: Laser meat slasher*"
+	}
+	"*Defensive robot has been defeated.*"
+	{
+		"default"		"*Defensive robot has been defeated.*"
+	}
+	"*Well done! You stopped the robot's most powerfull attack!*"
+	{
+		"default"		"*Well done! You stopped the robot's most powerfull attack!*"
+	}
+	"*Explosion inminent! Find a way out! RUN!!!*"
+	{
+		"default"		"*Explosion inminent! Find a way out! RUN!!!*"
+	}
+	"*Reloading all offensive modules.*"
+	{
+		"default"		"*Reloading all offensive modules.*"
+	}
+	"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
+	{
+		"default"		"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
+	}
+	"** Explosion in 25 seconds **"
+	{
+		"default"		"** Explosion in 25 seconds **"
+	}
+	"** Explosion in 10 seconds **"
+	{
+		"default"		"** Explosion in 10 seconds **"
+	}
+	"*Offensive module loaded: Napalm shower module.*"
+	{
+		"default"		"*Offensive module loaded: Napalm shower module.*"
+	}
+	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	{
+		"default"		"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	}
+	"** Explosion in 30 seconds **"
+	{
+		"default"		"** Explosion in 30 seconds **"
+	}
+	"*Bunker Door opening in 7 seconds*"
+	{
+		"default"		"*Bunker Door opening in 7 seconds*"
+	}
+	"** Explosion in 20 seconds **"
+	{
+		"default"		"** Explosion in 20 seconds **"
+	}
+	"** Explosion in 5 seconds **"
+	{
+		"default"		"** Explosion in 5 seconds **"
+	}
+	"** Explosion in 4 seconds **"
+	{
+		"default"		"** Explosion in 4 seconds **"
+	}
+	"** Explosion in 3 seconds **"
+	{
+		"default"		"** Explosion in 3 seconds **"
+	}
+	"** Explosion in 2 seconds **"
+	{
+		"default"		"** Explosion in 2 seconds **"
+	}
+	"** Explosion in 1 seconds **"
+	{
+		"default"		"** Explosion in 1 seconds **"
+	}
+	"*** EXTREME MODE COMPLETED ***"
+	{
+		"default"		"*** EXTREME MODE COMPLETED ***"
+	}
+	"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
+	{
+		"default"		"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
+	}
+	"* Door is opening in 20 seconds. *"
+	{
+		"default"		"* Door is opening in 20 seconds. *"
+	}
+	"* Trainstation's door is opening!*"
+	{
+		"default"		"* Trainstation's door is opening!*"
+	}
+	"*Tornado generator has been picked up. Press +USE (E) to activate.*"
+	{
+		"default"		"*Tornado generator has been picked up. Press +USE (E) to activate.*"
+	}
+	"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
+	{
+		"default"		"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
+	}
+	"*It has a 120 seconds cooldown.*"
+	{
+		"default"		"*It has a 120 seconds cooldown.*"
+	}
+	"* TIP: Some buttons activate when shot. *"
+	{
+		"default"		"* TIP: Some buttons activate when shot. *"
+	}
+	"*Maintenance elevator leaves in 30 seconds*"
+	{
+		"default"		"*Maintenance elevator leaves in 30 seconds*"
+	}
+	"*Maintenance elevator leaves in 5 seconds!!! GO!*"
+	{
+		"default"		"*Maintenance elevator leaves in 5 seconds!!! GO!*"
+	}
+	"* Resist! Door opens in 15 seconds!!! *"
+	{
+		"default"		"* Resist! Door opens in 15 seconds!!! *"
+	}
+	"* Train area door is opening... RETREAT!*"
+	{
+		"default"		"* Train area door is opening... RETREAT!*"
+	}
+	"*** Management office doors opening in 25 seconds. ***"
+	{
+		"default"		"*** Management office doors opening in 25 seconds. ***"
+	}
+	"*** HOLD RIGHT HERE! Train doors will open in 25 seconds! ***"
+	{
+		"default"		"*** HOLD RIGHT HERE! Train doors will open in 25 seconds! ***"
+	}
+	"*** DOORS OPENED! ***"
+	{
+		"default"		"*** DOORS OPENED! ***"
+	}
+	"*** Someone has to open the train doors. That's our escape route! ***"
+	{
+		"default"		"*** Someone has to open the train doors. That's our escape route! ***"
+	}
+	"*** Train door opens in 15 seconds. ***"
+	{
+		"default"		"*** Train door opens in 15 seconds. ***"
+	}
+	"*** RESIST! The doors will be opening in 10 seconds! ***"
+	{
+		"default"		"*** RESIST! The doors will be opening in 10 seconds! ***"
+	}
+	"*** Hold the second cart! We're nearing our escape. ***"
+	{
+		"default"		"*** Hold the second cart! We're nearing our escape. ***"
+	}
+	"*** The doors appear to have malfunctioned. ***"
+	{
+		"default"		"*** The doors appear to have malfunctioned. ***"
+	}
+	"*** Figure out the cause of it! ***"
+	{
+		"default"		"*** Figure out the cause of it! ***"
+	}
+	"*** Doors breached... MOVE! ***"
+	{
+		"default"		"*** Doors breached... MOVE! ***"
+	}
+	"*** RESIST! Only 5 seconds left! ***"
+	{
+		"default"		"*** RESIST! Only 5 seconds left! ***"
+	}
+	"*** MOVE! The doors will close in 15 seconds! ***"
+	{
+		"default"		"*** MOVE! The doors will close in 15 seconds! ***"
+	}
+	"*Zombies detected on Elevator Nr. 1. Sealing door.*"
+	{
+		"default"		"*Zombies detected on Elevator Nr. 1. Sealing door.*"
+	}
+}

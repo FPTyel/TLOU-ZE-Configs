@@ -1,0 +1,79 @@
+"Chat"
+{
+	"***The road will open in 30 seconds***"
+	{
+		"default"		"***The road will open in 30 seconds***"
+	}
+	"***A player has picked up Wind***"
+	{
+		"default"		"***A player has picked up Wind***"
+	}
+	"**The elevator door will open in 25 seconds**"
+	{
+		"default"		"**The elevator door will open in 25 seconds**"
+	}
+	"***A player has picked up Heal***"
+	{
+		"default"		"***A player has picked up Heal***"
+	}
+	"**Wait 10 seconds. The door will open soon**"
+	{
+		"default"		"**Wait 10 seconds. The door will open soon**"
+	}
+	"***A player has picked up Gravity***"
+	{
+		"default"		"***A player has picked up Gravity***"
+	}
+	"**The door will open in 45 seconds**"
+	{
+		"default"		"**The door will open in 45 seconds**"
+	}
+	"**The exit is blocked by stone, wait 30 seconds**"
+	{
+		"default"		"**The exit is blocked by stone, wait 30 seconds**"
+	}
+	"***A player has picked up HurtFire***"
+	{
+		"default"		"***A player has picked up HurtFire***"
+	}
+	"**We need 30 seconds to clear the stone**"
+	{
+		"default"		"**We need 30 seconds to clear the stone**"
+	}
+	"***A player has picked up FreezeIce***"
+	{
+		"default"		"***A player has picked up FreezeIce***"
+	}
+	"***A player has picked up Ammo***"
+	{
+		"default"		"***A player has picked up Ammo***"
+	}
+	"***A player has picked up Electric***"
+	{
+		"default"		"***A player has picked up Electric***"
+	}
+	"***A player has picked up Earth***"
+	{
+		"default"		"***A player has picked up Earth***"
+	}
+	"***A player has picked up Slowfire***"
+	{
+		"default"		"***A player has picked up Slowfire***"
+	}
+	"**Crystal appears, break it!!!**"
+	{
+		"default"		"**Crystal appears, break it!!!**"
+	}
+	"**Keep defending until the teleport enable**"
+	{
+		"default"		"**Keep defending until the teleport enable**"
+	}
+	"***A player has picked up GodThunder***"
+	{
+		"default"		"***A player has picked up GodThunder***"
+	}
+	"***Door will open in 30 seconds***"
+	{
+		"default"		"***Door will open in 30 seconds***"
+	}
+}

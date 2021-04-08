@@ -1,0 +1,99 @@
+"Chat"
+{
+	"** ZE TEMPLE RAIDER **"
+	{
+		"default"		"** ZE TEMPLE RAIDER **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"default"		"** MAP BY SLAYERDRAGON **"
+	}
+	"** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **"
+	{
+		"default"		"** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **"
+	}
+	"** HEALTH KIT ACQUIRED - 50s cooldown **"
+	{
+		"default"		"** HEALTH KIT ACQUIRED - 50s cooldown **"
+	}
+	"** SHOOT THE CRATES TO OPEN A WAY **"
+	{
+		"default"		"** SHOOT THE CRATES TO OPEN A WAY **"
+	}
+	"** HOLD THE TEMPLE ENTRANCE **"
+	{
+		"default"		"** HOLD THE TEMPLE ENTRANCE **"
+	}
+	"** DOOR OPENS IN 5 SECONDS **"
+	{
+		"default"		"** DOOR OPENS IN 5 SECONDS **"
+	}
+	"** FALL BACK **"
+	{
+		"default"		"** FALL BACK **"
+	}
+	"** WE FOUND THE TREASURE ROOM! **"
+	{
+		"default"		"** WE FOUND THE TREASURE ROOM! **"
+	}
+	"** HOLD HERE TILL THE DOOR OPENS **"
+	{
+		"default"		"** HOLD HERE TILL THE DOOR OPENS **"
+	}
+	"** END OF THE LINE - HOLD THE TOP **"
+	{
+		"default"		"** END OF THE LINE - HOLD THE TOP **"
+	}
+	"** ESCAPE VIA THE ROPES! **"
+	{
+		"default"		"** ESCAPE VIA THE ROPES! **"
+	}
+	"** KEEP DEFENDING TILL WE FIND A WAY OUT **"
+	{
+		"default"		"** KEEP DEFENDING TILL WE FIND A WAY OUT **"
+	}
+	"** RUN !! THE TUNNEL IS COLLAPSING !! **"
+	{
+		"default"		"** RUN !! THE TUNNEL IS COLLAPSING !! **"
+	}
+	"** DEFEND WHILE WE ARE OPENING THE FINAL GATES **"
+	{
+		"default"		"** DEFEND WHILE WE ARE OPENING THE FINAL GATES **"
+	}
+	"** KEEP DEFENDING TILL THE LAST GATE OPENS **"
+	{
+		"default"		"** KEEP DEFENDING TILL THE LAST GATE OPENS **"
+	}
+	"** THIS IS THE END - DEFEND TILL WE SECURED THIS POSITION! **"
+	{
+		"default"		"** THIS IS THE END - DEFEND TILL WE SECURED THIS POSITION! **"
+	}
+	"** DESTROY THE INVADERS - unlimited ammo enabled **"
+	{
+		"default"		"** DESTROY THE INVADERS - unlimited ammo enabled **"
+	}
+	"** ZOMBIES HAVE ESCAPED **"
+	{
+		"default"		"** ZOMBIES HAVE ESCAPED **"
+	}
+	"** A TACTICAL NUKE IS ABOUT TO EXPLODE **"
+	{
+		"default"		"** A TACTICAL NUKE IS ABOUT TO EXPLODE **"
+	}
+	"** GET THERE BEFORE IT DETONATES! **"
+	{
+		"default"		"** GET THERE BEFORE IT DETONATES! **"
+	}
+	"** HURRY UP!!! **"
+	{
+		"default"		"** HURRY UP!!! **"
+	}
+	"** BOMB HAS BEEN DEFUSED!! **"
+	{
+		"default"		"** BOMB HAS BEEN DEFUSED!! **"
+	}
+	"** ESCAPE FROM THE ZOMBIES!! **"
+	{
+		"default"		"** ESCAPE FROM THE ZOMBIES!! **"
+	}
+}

@@ -1,0 +1,83 @@
+"Chat"
+{
+	"** MAP MADE BY NANO AND SADDONG **"
+	{
+		"default"		"** MAP MADE BY NANO AND SADDONG **"
+	}
+	"** DEFEND 30 SECONDS ! **"
+	{
+		"default"		"** DEFEND 30 SECONDS ! **"
+	}
+	"** 10 SECONDS LEFT !! **"
+	{
+		"default"		"** 10 SECONDS LEFT !! **"
+	}
+	"** DEFEND 15 SECONDS ! **"
+	{
+		"default"		"** DEFEND 15 SECONDS ! **"
+	}
+	"** DEFEND 40 SECONDS ! **"
+	{
+		"default"		"** DEFEND 40 SECONDS ! **"
+	}
+	"** HOLD IN THE CHURCH FOR 45 SECONDS !! **"
+	{
+		"default"		"** HOLD IN THE CHURCH FOR 45 SECONDS !! **"
+	}
+	"** 10 MORE SECONDS !! **"
+	{
+		"default"		"** 10 MORE SECONDS !! **"
+	}
+	"** DEFEND 20 SECONDS **"
+	{
+		"default"		"** DEFEND 20 SECONDS **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"default"		"** 5 SECONDS LEFT **"
+	}
+	"** GET IN THE CASTLE **"
+	{
+		"default"		"** GET IN THE CASTLE **"
+	}
+	"** FIND THE LEVER TO OPEN THE CASTLE DOOR ! **"
+	{
+		"default"		"** FIND THE LEVER TO OPEN THE CASTLE DOOR ! **"
+	}
+	"** IT IS INSIDE ONE OF THOSE HOUSES **"
+	{
+		"default"		"** IT IS INSIDE ONE OF THOSE HOUSES **"
+	}
+	"** WE FOUND THE LEVER !! **"
+	{
+		"default"		"** WE FOUND THE LEVER !! **"
+	}
+	"** OPENING THE LAST GATES IN 8 SECONDS **"
+	{
+		"default"		"** OPENING THE LAST GATES IN 8 SECONDS **"
+	}
+	"** GATES OPENED **"
+	{
+		"default"		"** GATES OPENED **"
+	}
+	"** WATCH OUT! THE WALL WILL EXPLODE!!  **"
+	{
+		"default"		"** WATCH OUT! THE WALL WILL EXPLODE!!  **"
+	}
+	"** DEFEND 30 SECONDS !!! **"
+	{
+		"default"		"** DEFEND 30 SECONDS !!! **"
+	}
+	"** 10 SECONDS LEFT!! **"
+	{
+		"default"		"** 10 SECONDS LEFT!! **"
+	}
+	"** ZOMBIES HAVE ENTERED THE CASTLE **"
+	{
+		"default"		"** ZOMBIES HAVE ENTERED THE CASTLE **"
+	}
+	"** DOOR CLOSING **"
+	{
+		"default"		"** DOOR CLOSING **"
+	}
+}

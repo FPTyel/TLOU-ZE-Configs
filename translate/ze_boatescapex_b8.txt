@@ -1,0 +1,315 @@
+"Chat"
+{
+	"*** ZE_BOATESCAPEX ***"
+	{
+		"default"		"*** ZE_BOATESCAPEX ***"
+	}
+	"*** A mode is being randomly chosen... ***"
+	{
+		"default"		"*** A mode is being randomly chosen... ***"
+	}
+	"*** ... ***"
+	{
+		"default"		"*** ... ***"
+	}
+	"*** MODE: CHICKEN HELL ***"
+	{
+		"default"		"*** MODE: CHICKEN HELL ***"
+	}
+	"*** The chickens are electrifying! Run! Don't stand still! ***"
+	{
+		"default"		"*** The chickens are electrifying! Run! Don't stand still! ***"
+	}
+	"*** MODE: WINTER ***"
+	{
+		"default"		"*** MODE: WINTER ***"
+	}
+	"*** IT'S FREEZING! IT'S COLD! The water has been frozen! Use the fire to warm yourselves and get to the end! ***"
+	{
+		"default"		"*** IT'S FREEZING! IT'S COLD! The water has been frozen! Use the fire to warm yourselves and get to the end! ***"
+	}
+	"*** It's wise to take the alternative path than the main one as the water is frozen and you have no boats! ***"
+	{
+		"default"		"*** It's wise to take the alternative path than the main one as the water is frozen and you have no boats! ***"
+	}
+	"** Trainer has been picked. **"
+	{
+		"default"		"** Trainer has been picked. **"
+	}
+	"** Interdimensional wooden vortex has been acquired. **"
+	{
+		"default"		"** Interdimensional wooden vortex has been acquired. **"
+	}
+	"*** MODE: GOAL ***"
+	{
+		"default"		"*** MODE: GOAL ***"
+	}
+	"*** Two giant soccer balls have appeared. Shoot them and break down walls! ***"
+	{
+		"default"		"*** Two giant soccer balls have appeared. Shoot them and break down walls! ***"
+	}
+	"*** First boat is preparing to leave the dock. ***"
+	{
+		"default"		"*** First boat is preparing to leave the dock. ***"
+	}
+	"*** Shield has been picked. ***"
+	{
+		"default"		"*** Shield has been picked. ***"
+	}
+	"*** Second boat is preparing to leave the dock. ***"
+	{
+		"default"		"*** Second boat is preparing to leave the dock. ***"
+	}
+	"** HE Maker has been picked. **"
+	{
+		"default"		"** HE Maker has been picked. **"
+	}
+	"*Spacesuit has been taken. It lowers gravity by a 60%.*"
+	{
+		"default"		"*Spacesuit has been taken. It lowers gravity by a 60%.*"
+	}
+	"** Zombie silhouetting kit has been acquired! **"
+	{
+		"default"		"** Zombie silhouetting kit has been acquired! **"
+	}
+	"*** Zombie jumper has been picked. ****"
+	{
+		"default"		"*** Zombie jumper has been picked. ****"
+	}
+	"*** Zombie boss has been discovered. ****"
+	{
+		"default"		"*** Zombie boss has been discovered. ****"
+	}
+	"*** Zombie summoner has been picked. ****"
+	{
+		"default"		"*** Zombie summoner has been picked. ****"
+	}
+	"*** MODE: VIETNAM ***"
+	{
+		"default"		"*** MODE: VIETNAM ***"
+	}
+	"*** Get out of the jungle! There's traps all over! Watch your step! ***"
+	{
+		"default"		"*** Get out of the jungle! There's traps all over! Watch your step! ***"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"default"		"**Gandalf staff has been picked!**"
+	}
+	"*** Disk has been picked. ***"
+	{
+		"default"		"*** Disk has been picked. ***"
+	}
+	"**Saruman staff has been picked!**"
+	{
+		"default"		"**Saruman staff has been picked!**"
+	}
+	"Sponge builder has been picked up."
+	{
+		"default"		"Sponge builder has been picked up."
+	}
+	"*** AIRSHIPS UNLOCKED! ***"
+	{
+		"default"		"*** AIRSHIPS UNLOCKED! ***"
+	}
+	"*** Long pathway to open in 30 secs! ***"
+	{
+		"default"		"*** Long pathway to open in 30 secs! ***"
+	}
+	"*** LONG PATH OPEN! ***"
+	{
+		"default"		"*** LONG PATH OPEN! ***"
+	}
+	"*** First boat has reached the final dock. ***"
+	{
+		"default"		"*** First boat has reached the final dock. ***"
+	}
+	"*** Zombie Stopper has been picked up. ***"
+	{
+		"default"		"*** Zombie Stopper has been picked up. ***"
+	}
+	"*** Second boat has reached the final dock. ***"
+	{
+		"default"		"*** Second boat has reached the final dock. ***"
+	}
+	"*** A BOAT MUST ARRIVE AT THE ISLAND BEFORE THE NUKE CAN GO OFF! ***"
+	{
+		"default"		"*** A BOAT MUST ARRIVE AT THE ISLAND BEFORE THE NUKE CAN GO OFF! ***"
+	}
+	"*** Upper tram leaving in 5 secs. ***"
+	{
+		"default"		"*** Upper tram leaving in 5 secs. ***"
+	}
+	"*** Rescue boats inbound! ***"
+	{
+		"default"		"*** Rescue boats inbound! ***"
+	}
+	"*** DEFEND UNTIL THE BOATS ARRIVE! ***"
+	{
+		"default"		"*** DEFEND UNTIL THE BOATS ARRIVE! ***"
+	}
+	"*** Zombie Rage has been picked up. ***"
+	{
+		"default"		"*** Zombie Rage has been picked up. ***"
+	}
+	"*** MODE: CLASSIC ***"
+	{
+		"default"		"*** MODE: CLASSIC ***"
+	}
+	"*** No frills & no thrills. It's you against the zombies! ***"
+	{
+		"default"		"*** No frills & no thrills. It's you against the zombies! ***"
+	}
+	"*** FINAL FIRST BOAT IS LEAVING SOON! ***"
+	{
+		"default"		"*** FINAL FIRST BOAT IS LEAVING SOON! ***"
+	}
+	"*** FINAL FIRST BOAT IS LEAVING! GET IN!!! ***"
+	{
+		"default"		"*** FINAL FIRST BOAT IS LEAVING! GET IN!!! ***"
+	}
+	"*** FINAL SECOND BOAT IS LEAVING SOON! ***"
+	{
+		"default"		"*** FINAL SECOND BOAT IS LEAVING SOON! ***"
+	}
+	"*** FINAL SECOND BOAT IS LEAVING! GET IN!!! ***"
+	{
+		"default"		"*** FINAL SECOND BOAT IS LEAVING! GET IN!!! ***"
+	}
+	"*** NUKE INBOUND! ***"
+	{
+		"default"		"*** NUKE INBOUND! ***"
+	}
+	"*** MODE: TORNADO ***"
+	{
+		"default"		"*** MODE: TORNADO ***"
+	}
+	"*** You may want to actually avoid the tornados. ***"
+	{
+		"default"		"*** You may want to actually avoid the tornados. ***"
+	}
+	"*** Freeze Ring has been picked up. ***"
+	{
+		"default"		"*** Freeze Ring has been picked up. ***"
+	}
+	"*** Flamethrower has been picked up. ***"
+	{
+		"default"		"*** Flamethrower has been picked up. ***"
+	}
+	"*** MODE: PIZZA TIME ***"
+	{
+		"default"		"*** MODE: PIZZA TIME ***"
+	}
+	"***FIRST MINI PIZZA ROLLER LEAVING IN 8 SECONDS***"
+	{
+		"default"		"***FIRST MINI PIZZA ROLLER LEAVING IN 8 SECONDS***"
+	}
+	"*** This is what you wanted, right? ***"
+	{
+		"default"		"*** This is what you wanted, right? ***"
+	}
+	"***SECOND MINI PIZZA ROLLER LEAVING IN 8 SECONDS***"
+	{
+		"default"		"***SECOND MINI PIZZA ROLLER LEAVING IN 8 SECONDS***"
+	}
+	"***PIZZA ROLLER LEAVING IN 8 SECONDS***"
+	{
+		"default"		"***PIZZA ROLLER LEAVING IN 8 SECONDS***"
+	}
+	"***THE PIZZA IS AGGRESSIVE***"
+	{
+		"default"		"***THE PIZZA IS AGGRESSIVE***"
+	}
+	"*** Remember to trigger a boat or face your doom! ***"
+	{
+		"default"		"*** Remember to trigger a boat or face your doom! ***"
+	}
+	"*** It's still BOAT ESCAPE! ***"
+	{
+		"default"		"*** It's still BOAT ESCAPE! ***"
+	}
+	"** Secret italian pomodoro seeds have been acquired. **"
+	{
+		"default"		"** Secret italian pomodoro seeds have been acquired. **"
+	}
+	"** Explosive kamikaze bum-bum has been acquired! **"
+	{
+		"default"		"** Explosive kamikaze bum-bum has been acquired! **"
+	}
+	"***FINAL PIZZA ROLLERS INBOUND!***"
+	{
+		"default"		"***FINAL PIZZA ROLLERS INBOUND!***"
+	}
+	"***DEFEND UNTIL THE PIZZA ROLLERS ARRIVE!***"
+	{
+		"default"		"***DEFEND UNTIL THE PIZZA ROLLERS ARRIVE!***"
+	}
+	"***FIRST FINAL MINI PIZZA ROLLER LEAVING IN 15 SECONDS***"
+	{
+		"default"		"***FIRST FINAL MINI PIZZA ROLLER LEAVING IN 15 SECONDS***"
+	}
+	"***SECOND FINAL MINI PIZZA ROLLER LEAVING IN 15 SECONDS***"
+	{
+		"default"		"***SECOND FINAL MINI PIZZA ROLLER LEAVING IN 15 SECONDS***"
+	}
+	"*** MODE: WALLS ***"
+	{
+		"default"		"*** MODE: WALLS ***"
+	}
+	"*** The walls have eyes. ***"
+	{
+		"default"		"*** The walls have eyes. ***"
+	}
+	"*** Invisibility for humans in 3 secs... ***"
+	{
+		"default"		"*** Invisibility for humans in 3 secs... ***"
+	}
+	"** All aircraft are heavily damaged from the nuke! **"
+	{
+		"default"		"** All aircraft are heavily damaged from the nuke! **"
+	}
+	"*** Invulnerability for humans in 3 secs... ***"
+	{
+		"default"		"*** Invulnerability for humans in 3 secs... ***"
+	}
+	"*** MODE: DARKNESS ***"
+	{
+		"default"		"*** MODE: DARKNESS ***"
+	}
+	"*** IT'S DARK! Be sure not to meet any unfriendly folks along the way! ***"
+	{
+		"default"		"*** IT'S DARK! Be sure not to meet any unfriendly folks along the way! ***"
+	}
+	"*** MODE: SPACE ***"
+	{
+		"default"		"*** MODE: SPACE ***"
+	}
+	"*** Gravity is near gone! Watch for flying zombies! ***"
+	{
+		"default"		"*** Gravity is near gone! Watch for flying zombies! ***"
+	}
+	"*** MODE: DEPRESSION ***"
+	{
+		"default"		"*** MODE: DEPRESSION ***"
+	}
+	"*** There will be no help for you. ***"
+	{
+		"default"		"*** There will be no help for you. ***"
+	}
+	"** AIRSHIPS ARE GOING DOWN! **"
+	{
+		"default"		"** AIRSHIPS ARE GOING DOWN! **"
+	}
+	"*** MODE: EXPLOSIVE ***"
+	{
+		"default"		"*** MODE: EXPLOSIVE ***"
+	}
+	"*** Raining cannonballs from the sky! Try to avoid them at all costs! ***"
+	{
+		"default"		"*** Raining cannonballs from the sky! Try to avoid them at all costs! ***"
+	}
+	"*** Invert controls in 3 seconds... ***"
+	{
+		"default"		"*** Invert controls in 3 seconds... ***"
+	}
+}

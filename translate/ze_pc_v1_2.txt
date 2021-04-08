@@ -1,0 +1,19 @@
+"Chat"
+{
+	">>> Defend 25 sec <<<"
+	{
+		"default"		">>> Defend 25 sec <<<"
+	}
+	">>> Defend 30 sec <<<"
+	{
+		"default"		">>> Defend 30 sec <<<"
+	}
+	">>> Fall Back <<<"
+	{
+		"default"		">>> Fall Back <<<"
+	}
+	">>> Defend 20 sec <<<"
+	{
+		"default"		">>> Defend 20 sec <<<"
+	}
+}

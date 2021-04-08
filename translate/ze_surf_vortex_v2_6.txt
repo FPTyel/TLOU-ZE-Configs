@@ -1,0 +1,87 @@
+"Chat"
+{
+	"***Map by Reflelia***"
+	{
+		"default"		"***Map by Reflelia***"
+	}
+	"***Teleport activates in 20 seconds***"
+	{
+		"default"		"***Teleport activates in 20 seconds***"
+	}
+	"***Resist for 60 seconds***"
+	{
+		"default"		"***Resist for 60 seconds***"
+	}
+	"***Gravity picked up***"
+	{
+		"default"		"***Gravity picked up***"
+	}
+	"***Low Health picked up***"
+	{
+		"default"		"***Low Health picked up***"
+	}
+	"***shorcut open***"
+	{
+		"default"		"***shorcut open***"
+	}
+	"***Resist 45 seconds***"
+	{
+		"default"		"***Resist 45 seconds***"
+	}
+	"***Zombies are coming!***"
+	{
+		"default"		"***Zombies are coming!***"
+	}
+	"***10 seconds left***"
+	{
+		"default"		"***10 seconds left***"
+	}
+	"***Find Another Button***"
+	{
+		"default"		"***Find Another Button***"
+	}
+	"***Teleport error fixed in 30 seconds***"
+	{
+		"default"		"***Teleport error fixed in 30 seconds***"
+	}
+	"***Low Health Used***"
+	{
+		"default"		"***Low Health Used***"
+	}
+	"***Try to find second button***"
+	{
+		"default"		"***Try to find second button***"
+	}
+	"***Second teleport fixed in 30 seconds***"
+	{
+		"default"		"***Second teleport fixed in 30 seconds***"
+	}
+	"***zombies are coming***"
+	{
+		"default"		"***zombies are coming***"
+	}
+	"***5 second left***"
+	{
+		"default"		"***5 second left***"
+	}
+	"***Watch out!***"
+	{
+		"default"		"***Watch out!***"
+	}
+	"***READY TO RUN***"
+	{
+		"default"		"***READY TO RUN***"
+	}
+	"***Resist for 30 seconds***"
+	{
+		"default"		"***Resist for 30 seconds***"
+	}
+	"***5 seconds left***"
+	{
+		"default"		"***5 seconds left***"
+	}
+	"***Ready for final surf***"
+	{
+		"default"		"***Ready for final surf***"
+	}
+}

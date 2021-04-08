@@ -1,0 +1,115 @@
+"Chat"
+{
+	"** There seems to be a nasty bug infestation! **"
+	{
+		"default"		"** There seems to be a nasty bug infestation! **"
+	}
+	"** Luckily bugs tend to dislike bright lights! **"
+	{
+		"default"		"** Luckily bugs tend to dislike bright lights! **"
+	}
+	"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
+	{
+		"default"		"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
+	}
+	"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
+	{
+		"default"		"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
+	}
+	"** THE WINDOW! GET ON IT! **"
+	{
+		"default"		"** THE WINDOW! GET ON IT! **"
+	}
+	"** We need to make the door move! **"
+	{
+		"default"		"** We need to make the door move! **"
+	}
+	"** It looks as if it would probably open if we get the wheel moving... **"
+	{
+		"default"		"** It looks as if it would probably open if we get the wheel moving... **"
+	}
+	"** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
+	{
+		"default"		"** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
+	}
+	"** THE TOP DOOR IS OPENING 5 SECONDS! **"
+	{
+		"default"		"** THE TOP DOOR IS OPENING 5 SECONDS! **"
+	}
+	"** Something spooky seems to be going on that table! **"
+	{
+		"default"		"** Something spooky seems to be going on that table! **"
+	}
+	"** We need to reach the top! **"
+	{
+		"default"		"** We need to reach the top! **"
+	}
+	"** The seance is beginning and the spirits are calling... **"
+	{
+		"default"		"** The seance is beginning and the spirits are calling... **"
+	}
+	"** The spirits marked the 'H' leter... **"
+	{
+		"default"		"** The spirits marked the 'H' leter... **"
+	}
+	"** 'A'... **"
+	{
+		"default"		"** 'A'... **"
+	}
+	"** 'L'... **"
+	{
+		"default"		"** 'L'... **"
+	}
+	"** 'L' again... **"
+	{
+		"default"		"** 'L' again... **"
+	}
+	"** 'O'... **"
+	{
+		"default"		"** 'O'... **"
+	}
+	"** 'W'... **"
+	{
+		"default"		"** 'W'... **"
+	}
+	"** 'E'... **"
+	{
+		"default"		"** 'E'... **"
+	}
+	"** 'E' yet again... **"
+	{
+		"default"		"** 'E' yet again... **"
+	}
+	"** 'N'... **"
+	{
+		"default"		"** 'N'... **"
+	}
+	"** It spelled 'HALLOWEEN'! **"
+	{
+		"default"		"** It spelled 'HALLOWEEN'! **"
+	}
+	"** Who would have guessed? **"
+	{
+		"default"		"** Who would have guessed? **"
+	}
+	"** Something is happening! **"
+	{
+		"default"		"** Something is happening! **"
+	}
+	"** Get on the lamp! Quick! The spell might not last long! **"
+	{
+		"default"		"** Get on the lamp! Quick! The spell might not last long! **"
+	}
+	"** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
+	{
+		"default"		"** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
+	}
+	"** Try to get that old toy going! We must get out of here! **"
+	{
+		"default"		"** Try to get that old toy going! We must get out of here! **"
+	}
+	"** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
+	{
+		"default"		"** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
+	}
+}

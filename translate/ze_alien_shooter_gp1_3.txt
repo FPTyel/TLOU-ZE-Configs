@@ -1,0 +1,59 @@
+"Chat"
+{
+	"** Welcome to ze_Alien Shooter_v7 **"
+	{
+		"default"		"** Welcome to ze_Alien Shooter_v7 **"
+	}
+	"** Map made DarkRoad **"
+	{
+		"default"		"** Map made DarkRoad **"
+	}
+	"** Special thanks:Moltard & Nostar & Microsoft Edge **"
+	{
+		"default"		"** Special thanks:Moltard & Nostar & Microsoft Edge **"
+	}
+	"** Thanks for the test map: Shiz0 & BalG & Pivogay & GaGaGa & Yuudachi & Bandit**"
+	{
+		"default"		"** Thanks for the test map: Shiz0 & BalG & Pivogay & GaGaGa & Yuudachi & Bandit**"
+	}
+	">>>C4 will explode in 25 seconds<<<"
+	{
+		"default"		">>>C4 will explode in 25 seconds<<<"
+	}
+	">>>The door opens after 45 seconds<<<"
+	{
+		"default"		">>>The door opens after 45 seconds<<<"
+	}
+	">>>[3]<<<"
+	{
+		"default"		">>>[3]<<<"
+	}
+	">>>[2]<<<"
+	{
+		"default"		">>>[2]<<<"
+	}
+	">>>[1]<<<"
+	{
+		"default"		">>>[1]<<<"
+	}
+	">>>The door opens in 35 seconds<<<"
+	{
+		"default"		">>>The door opens in 35 seconds<<<"
+	}
+	">>>The door opens in 5 seconds<<<"
+	{
+		"default"		">>>The door opens in 5 seconds<<<"
+	}
+	">>>Door is open<<<"
+	{
+		"default"		">>>Door is open<<<"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"default"		"** Boss Fight in 10s **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"default"		"** Boss Fight in 5s **"
+	}
+}

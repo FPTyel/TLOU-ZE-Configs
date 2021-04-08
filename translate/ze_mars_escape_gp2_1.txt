@@ -1,0 +1,83 @@
+"Chat"
+{
+	"After a long trip to mars you finally land but something strange has happend..."
+	{
+		"default"		"After a long trip to mars you finally land but something strange has happend..."
+	}
+	"Map made by Xquality."
+	{
+		"default"		"Map made by Xquality."
+	}
+	"Mini airlock opening in 5."
+	{
+		"default"		"Mini airlock opening in 5."
+	}
+	"Security airlock closing."
+	{
+		"default"		"Security airlock closing."
+	}
+	"Power generator Offline."
+	{
+		"default"		"Power generator Offline."
+	}
+	"Power generator waiting for restart."
+	{
+		"default"		"Power generator waiting for restart."
+	}
+	"Airlock opening in 20 secs."
+	{
+		"default"		"Airlock opening in 20 secs."
+	}
+	"Power Generator Online."
+	{
+		"default"		"Power Generator Online."
+	}
+	"Airlock opening in 15 secs."
+	{
+		"default"		"Airlock opening in 15 secs."
+	}
+	"Airlock opening in 10 secs."
+	{
+		"default"		"Airlock opening in 10 secs."
+	}
+	"Airlock opening in 5 secs."
+	{
+		"default"		"Airlock opening in 5 secs."
+	}
+	"Airlock opening."
+	{
+		"default"		"Airlock opening."
+	}
+	"Bunker closing in 60 secs"
+	{
+		"default"		"Bunker closing in 60 secs"
+	}
+	"Pole doors closing."
+	{
+		"default"		"Pole doors closing."
+	}
+	"Bunker closing in 40 secs"
+	{
+		"default"		"Bunker closing in 40 secs"
+	}
+	"Bunker closing in 20 secs"
+	{
+		"default"		"Bunker closing in 20 secs"
+	}
+	"Bunker closing in 10 secs"
+	{
+		"default"		"Bunker closing in 10 secs"
+	}
+	"Bunker closing in 5 secs"
+	{
+		"default"		"Bunker closing in 5 secs"
+	}
+	"Marslab self-destructing in..."
+	{
+		"default"		"Marslab self-destructing in..."
+	}
+	"Elevator broken."
+	{
+		"default"		"Elevator broken."
+	}
+}

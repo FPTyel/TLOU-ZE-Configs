@@ -1,0 +1,183 @@
+"Chat"
+{
+	"<<< DIFFICULTY LEVEL : EASY >>>"
+	{
+		"default"		"<<< DIFFICULTY LEVEL : EASY >>>"
+	}
+	"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+	{
+		"default"		"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+	}
+	">>>Map created by Dark Arrow<<<"
+	{
+		"default"		">>>Map created by Dark Arrow<<<"
+	}
+	">>>Edited first by [pF]Detonator<<<"
+	{
+		"default"		">>>Edited first by [pF]Detonator<<<"
+	}
+	">>>Finished by Hallucinogenic Troll<<<"
+	{
+		"default"		">>>Finished by Hallucinogenic Troll<<<"
+	}
+	">>>Helicopter will leave in 3 seconds...<<<"
+	{
+		"default"		">>>Helicopter will leave in 3 seconds...<<<"
+	}
+	">>>2<<<"
+	{
+		"default"		">>>2<<<"
+	}
+	">>>1<<<"
+	{
+		"default"		">>>1<<<"
+	}
+	">>>HELICOPTER IS LEAVING<<<"
+	{
+		"default"		">>>HELICOPTER IS LEAVING<<<"
+	}
+	"<<< WELL DONE YOU WIN >>>"
+	{
+		"default"		"<<< WELL DONE YOU WIN >>>"
+	}
+	"<<< Nuke launched>>>"
+	{
+		"default"		"<<< Nuke launched>>>"
+	}
+	"<<< 4 >>>"
+	{
+		"default"		"<<< 4 >>>"
+	}
+	"<<< 3 >>>"
+	{
+		"default"		"<<< 3 >>>"
+	}
+	"<<< 2 >>>"
+	{
+		"default"		"<<< 2 >>>"
+	}
+	"<<< 1 >>>"
+	{
+		"default"		"<<< 1 >>>"
+	}
+	"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	{
+		"default"		"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"default"		"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	}
+	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	{
+		"default"		"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	}
+	"<<< Door Opens In 15 sec >>>"
+	{
+		"default"		"<<< Door Opens In 15 sec >>>"
+	}
+	"<<< Door Opens In 10 sec >>>"
+	{
+		"default"		"<<< Door Opens In 10 sec >>>"
+	}
+	"<<< Door Opens In 5 sec >>>"
+	{
+		"default"		"<<< Door Opens In 5 sec >>>"
+	}
+	"<<< HOLD HERE FOR 20 SEC >>>"
+	{
+		"default"		"<<< HOLD HERE FOR 20 SEC >>>"
+	}
+	"<<< RUN!!! >>>"
+	{
+		"default"		"<<< RUN!!! >>>"
+	}
+	"<<< Hold For 25 secs >>>"
+	{
+		"default"		"<<< Hold For 25 secs >>>"
+	}
+	"<<< 10 Seconds Remaining >>>"
+	{
+		"default"		"<<< 10 Seconds Remaining >>>"
+	}
+	"<<< Heli leaves in 30 seconds >>>"
+	{
+		"default"		"<<< Heli leaves in 30 seconds >>>"
+	}
+	"<<< Heli leaves in 20 seconds >>>"
+	{
+		"default"		"<<< Heli leaves in 20 seconds >>>"
+	}
+	"<<< Heli leaves in 10 seconds >>>"
+	{
+		"default"		"<<< Heli leaves in 10 seconds >>>"
+	}
+	"<<< Heli is leaving hop on >>>"
+	{
+		"default"		"<<< Heli is leaving hop on >>>"
+	}
+	"<<< DIFFICULTY LEVEL : HARD >>>"
+	{
+		"default"		"<<< DIFFICULTY LEVEL : HARD >>>"
+	}
+	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	{
+		"default"		"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	}
+	"<<< Unlimited ammo has been picked >>>"
+	{
+		"default"		"<<< Unlimited ammo has been picked >>>"
+	}
+	"<<< Door Opens In 20 sec >>>"
+	{
+		"default"		"<<< Door Opens In 20 sec >>>"
+	}
+	"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
+	{
+		"default"		"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
+	}
+	"<<< SUITCASE DOOR IS OPENING!>>>"
+	{
+		"default"		"<<< SUITCASE DOOR IS OPENING!>>>"
+	}
+	"<<< SUITCASE COLLECTED! RUN! >>>"
+	{
+		"default"		"<<< SUITCASE COLLECTED! RUN! >>>"
+	}
+	"<<< SUITCASE MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"default"		"<<< SUITCASE MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	}
+	"<<< DIFFICULTY LEVEL : EXTREME >>>"
+	{
+		"default"		"<<< DIFFICULTY LEVEL : EXTREME >>>"
+	}
+	"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	{
+		"default"		"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	}
+	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	{
+		"default"		"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	}
+	"<<< Door Opens In 30 sec >>>"
+	{
+		"default"		"<<< Door Opens In 30 sec >>>"
+	}
+	"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+	{
+		"default"		"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+	}
+	"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+	{
+		"default"		"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+	}
+	">>>Hold more 25 seconds<<<"
+	{
+		"default"		">>>Hold more 25 seconds<<<"
+	}
+	"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
+	{
+		"default"		"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
+	}
+}

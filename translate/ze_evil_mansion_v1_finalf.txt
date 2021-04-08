@@ -1,0 +1,199 @@
+"Chat"
+{
+	"-=Map By Westsiderain=-"
+	{
+		"default"		"-=Map By Westsiderain=-"
+	}
+	"-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-"
+	{
+		"default"		"-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-"
+	}
+	"-= SCACLAN.COM >> 50.31.65.61:27015 =-"
+	{
+		"default"		"-= SCACLAN.COM >> 50.31.65.61:27015 =-"
+	}
+	"**GET TO THE MANSION!**"
+	{
+		"default"		"**GET TO THE MANSION!**"
+	}
+	"-=Detonating=-"
+	{
+		"default"		"-=Detonating=-"
+	}
+	"-=Main door opens in 10 seconds!=-"
+	{
+		"default"		"-=Main door opens in 10 seconds!=-"
+	}
+	"-=Hold here for 40 seconds=-"
+	{
+		"default"		"-=Hold here for 40 seconds=-"
+	}
+	"**Zombies ate the main gate!**"
+	{
+		"default"		"**Zombies ate the main gate!**"
+	}
+	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
+	{
+		"default"		"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
+	}
+	"-=Defense System Activated.=-"
+	{
+		"default"		"-=Defense System Activated.=-"
+	}
+	"**Lightning: Oooo Yeah!!! Did that hurt?**"
+	{
+		"default"		"**Lightning: Oooo Yeah!!! Did that hurt?**"
+	}
+	"-=Door opens in 10 seconds.=-"
+	{
+		"default"		"-=Door opens in 10 seconds.=-"
+	}
+	"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
+	{
+		"default"		"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
+	}
+	"**Zombies held back for 5 seconds.**"
+	{
+		"default"		"**Zombies held back for 5 seconds.**"
+	}
+	"-=Toilet Defense System Activated=-"
+	{
+		"default"		"-=Toilet Defense System Activated=-"
+	}
+	"**Those Planks Look Oftly Flimsy!**"
+	{
+		"default"		"**Those Planks Look Oftly Flimsy!**"
+	}
+	"-=Hold here for 30 Seconds.=-"
+	{
+		"default"		"-=Hold here for 30 Seconds.=-"
+	}
+	"**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**"
+	{
+		"default"		"**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**"
+	}
+	"-=Zombies advance in 15 seconds.=-"
+	{
+		"default"		"-=Zombies advance in 15 seconds.=-"
+	}
+	"**Sailor Moon: I'M CUMMIN FOR YOU!**"
+	{
+		"default"		"**Sailor Moon: I'M CUMMIN FOR YOU!**"
+	}
+	"-=A Player Has Been Raped By Sailormoon.=-"
+	{
+		"default"		"-=A Player Has Been Raped By Sailormoon.=-"
+	}
+	"-=5 seconds remaining.=-"
+	{
+		"default"		"-=5 seconds remaining.=-"
+	}
+	"-=DOOR OPENED! Zombies held back for 5 seconds.=-"
+	{
+		"default"		"-=DOOR OPENED! Zombies held back for 5 seconds.=-"
+	}
+	"**Does this copter have enough fuel?**"
+	{
+		"default"		"**Does this copter have enough fuel?**"
+	}
+	"-=Helicopter Departing in 10 Seconds.=-"
+	{
+		"default"		"-=Helicopter Departing in 10 Seconds.=-"
+	}
+	"-=Hold here for 20 seconds=-"
+	{
+		"default"		"-=Hold here for 20 seconds=-"
+	}
+	"-=MAYDAY! MAYDAY!!!=-"
+	{
+		"default"		"-=MAYDAY! MAYDAY!!!=-"
+	}
+	"WE'RE GOING DOWN!!!"
+	{
+		"default"		"WE'RE GOING DOWN!!!"
+	}
+	"-=WE'RE GOING DOWN!=-"
+	{
+		"default"		"-=WE'RE GOING DOWN!=-"
+	}
+	"-=Door opened!  Zombies held back 5 seconds.=-"
+	{
+		"default"		"-=Door opened!  Zombies held back 5 seconds.=-"
+	}
+	"-=Door opens in 20 seconds.=-"
+	{
+		"default"		"-=Door opens in 20 seconds.=-"
+	}
+	"-=Door opens in 5 seconds.=-"
+	{
+		"default"		"-=Door opens in 5 seconds.=-"
+	}
+	"-=Defense System Activated=-"
+	{
+		"default"		"-=Defense System Activated=-"
+	}
+	"** Zombies are trapped for 15 secs or til CTs find a solution.**"
+	{
+		"default"		"** Zombies are trapped for 15 secs or til CTs find a solution.**"
+	}
+	"-=Find Dr. Valencia=-"
+	{
+		"default"		"-=Find Dr. Valencia=-"
+	}
+	"**Dr. Valencia:  I'm in the john!**"
+	{
+		"default"		"**Dr. Valencia:  I'm in the john!**"
+	}
+	"-=Force her out!=-"
+	{
+		"default"		"-=Force her out!=-"
+	}
+	"-=Zombies released in 3 seconds=-"
+	{
+		"default"		"-=Zombies released in 3 seconds=-"
+	}
+	"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
+	{
+		"default"		"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
+	}
+	"**Dr Valencia:  Ok... I'll open the door.**"
+	{
+		"default"		"**Dr Valencia:  Ok... I'll open the door.**"
+	}
+	"**Dr Valencia: Give me 15 seconds.**"
+	{
+		"default"		"**Dr Valencia: Give me 15 seconds.**"
+	}
+	"**Dr. Valencia: I might need to expell some gas soon.**"
+	{
+		"default"		"**Dr. Valencia: I might need to expell some gas soon.**"
+	}
+	"-=Dr. Valencia:  Door opening in 5.=-"
+	{
+		"default"		"-=Dr. Valencia:  Door opening in 5.=-"
+	}
+	"-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
+	{
+		"default"		"-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
+	}
+	"**Dr. Valencia: TAKE THIS!!!**"
+	{
+		"default"		"**Dr. Valencia: TAKE THIS!!!**"
+	}
+	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
+	{
+		"default"		"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
+	}
+	"**Dr. Valencia:  Nuke in 3...**"
+	{
+		"default"		"**Dr. Valencia:  Nuke in 3...**"
+	}
+	"**Dr. Valencia:  2...**"
+	{
+		"default"		"**Dr. Valencia:  2...**"
+	}
+	"**Dr. Valencia:  1...**"
+	{
+		"default"		"**Dr. Valencia:  1...**"
+	}
+}

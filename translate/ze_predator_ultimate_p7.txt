@@ -1,0 +1,359 @@
+"Chat"
+{
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"default"		"***DIFFICULTY --- NORMAL***"
+	}
+	"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
+	{
+		"default"		"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
+	}
+	"***HOLD FOR 50 SECONDS***"
+	{
+		"default"		"***HOLD FOR 50 SECONDS***"
+	}
+	"***FIRST AID PICKED UP***"
+	{
+		"default"		"***FIRST AID PICKED UP***"
+	}
+	"***FALL BACK***"
+	{
+		"default"		"***FALL BACK***"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"default"		"***5 SECONDS LEFT***"
+	}
+	"***4 SECONDS LEFT***"
+	{
+		"default"		"***4 SECONDS LEFT***"
+	}
+	"***3 SECONDS LEFT***"
+	{
+		"default"		"***3 SECONDS LEFT***"
+	}
+	"***2 SECONDS LEFT***"
+	{
+		"default"		"***2 SECONDS LEFT***"
+	}
+	"***1 SECONDS LEFT***"
+	{
+		"default"		"***1 SECONDS LEFT***"
+	}
+	"***RUN***"
+	{
+		"default"		"***RUN***"
+	}
+	"***HOLD THIS AREA FOR 10 SECONDS***"
+	{
+		"default"		"***HOLD THIS AREA FOR 10 SECONDS***"
+	}
+	"***TELEPORTING EVERYONE TO COMPOUND***"
+	{
+		"default"		"***TELEPORTING EVERYONE TO COMPOUND***"
+	}
+	"***MOVE IT***"
+	{
+		"default"		"***MOVE IT***"
+	}
+	"***ITS A PREDATOR!***"
+	{
+		"default"		"***ITS A PREDATOR!***"
+	}
+	"***KILL IT***"
+	{
+		"default"		"***KILL IT***"
+	}
+	"***DODGE THE LASERS***"
+	{
+		"default"		"***DODGE THE LASERS***"
+	}
+	"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
+	{
+		"default"		"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
+	}
+	"***SHOOT IT BEFORE IT'S TOO LATE***"
+	{
+		"default"		"***SHOOT IT BEFORE IT'S TOO LATE***"
+	}
+	"***IT'S RUNNING AWAY***"
+	{
+		"default"		"***IT'S RUNNING AWAY***"
+	}
+	"***WELL DONE***"
+	{
+		"default"		"***WELL DONE***"
+	}
+	"***PLAYER PICKED UP GAUSS RIFLE***"
+	{
+		"default"		"***PLAYER PICKED UP GAUSS RIFLE***"
+	}
+	"***HOLD FOR 30 SECONDS***"
+	{
+		"default"		"***HOLD FOR 30 SECONDS***"
+	}
+	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
+	{
+		"default"		"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
+	}
+	"***HOLD THIS AREA FOR 40 SECONDS***"
+	{
+		"default"		"***HOLD THIS AREA FOR 40 SECONDS***"
+	}
+	"***TELEPORTING EVERYONE TO RUINS***"
+	{
+		"default"		"***TELEPORTING EVERYONE TO RUINS***"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"default"		"***20 SECONDS LEFT***"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"default"		"***10 SECONDS LEFT***"
+	}
+	"***RUN! GO BEFORE ITS TOO LATE!***"
+	{
+		"default"		"***RUN! GO BEFORE ITS TOO LATE!***"
+	}
+	"***THE CHOPPER IS ON IT'S WAY!***"
+	{
+		"default"		"***THE CHOPPER IS ON IT'S WAY!***"
+	}
+	"***CHOPPER LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***CHOPPER LEAVING IN 10 SECONDS***"
+	}
+	"***CHOPPER LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***CHOPPER LEAVING IN 5 SECONDS***"
+	}
+	"***PLAYER PICKED UP AMMO DISPENSER***"
+	{
+		"default"		"***PLAYER PICKED UP AMMO DISPENSER***"
+	}
+	"***CHOPPER IS LEAVING***"
+	{
+		"default"		"***CHOPPER IS LEAVING***"
+	}
+	"***THE NUKE HAS EXPLODED***"
+	{
+		"default"		"***THE NUKE HAS EXPLODED***"
+	}
+	"***OH NO! THE NUKE EXPLODED!***"
+	{
+		"default"		"***OH NO! THE NUKE EXPLODED!***"
+	}
+	"***YOU COMPLETED NORMAL***"
+	{
+		"default"		"***YOU COMPLETED NORMAL***"
+	}
+	"***MOVING ON TO HARD***"
+	{
+		"default"		"***MOVING ON TO HARD***"
+	}
+	"***DIFFICULTY --- HARD***"
+	{
+		"default"		"***DIFFICULTY --- HARD***"
+	}
+	"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
+	{
+		"default"		"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
+	}
+	"***PLAYER PICKED UP ALIEN SAMPLE***"
+	{
+		"default"		"***PLAYER PICKED UP ALIEN SAMPLE***"
+	}
+	"***HOLD BOULDERAREA FOR 15 SECONDS***"
+	{
+		"default"		"***HOLD BOULDERAREA FOR 15 SECONDS***"
+	}
+	"***RUN !***"
+	{
+		"default"		"***RUN !***"
+	}
+	"***HOLD 30 SECONDS***"
+	{
+		"default"		"***HOLD 30 SECONDS***"
+	}
+	"***5***"
+	{
+		"default"		"***5***"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***GET INSIDE***"
+	{
+		"default"		"***GET INSIDE***"
+	}
+	"***YOU HAVE DEFEATED THE PREDATOR!***"
+	{
+		"default"		"***YOU HAVE DEFEATED THE PREDATOR!***"
+	}
+	"***PLAYER PICKED UP GRENADE LAUNCHER***"
+	{
+		"default"		"***PLAYER PICKED UP GRENADE LAUNCHER***"
+	}
+	"***PLAYER PICKED UP PUSH GUN***"
+	{
+		"default"		"***PLAYER PICKED UP PUSH GUN***"
+	}
+	"***YOU COMPLETED HARD***"
+	{
+		"default"		"***YOU COMPLETED HARD***"
+	}
+	"***MOVING ON TO HYPER***"
+	{
+		"default"		"***MOVING ON TO HYPER***"
+	}
+	"***DIFFICULTY --- HYPER***"
+	{
+		"default"		"***DIFFICULTY --- HYPER***"
+	}
+	"***ELEVATOR IS WARMING UP***"
+	{
+		"default"		"***ELEVATOR IS WARMING UP***"
+	}
+	"***ELEVATOR IS ON THE WAY***"
+	{
+		"default"		"***ELEVATOR IS ON THE WAY***"
+	}
+	"***ELEVATOR'S HERE***"
+	{
+		"default"		"***ELEVATOR'S HERE***"
+	}
+	"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
+	{
+		"default"		"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
+	}
+	"***C4 ACTIVATED***"
+	{
+		"default"		"***C4 ACTIVATED***"
+	}
+	"***HOLD FOR 20 SECONDS***"
+	{
+		"default"		"***HOLD FOR 20 SECONDS***"
+	}
+	"***ITS THE PREDATOR!***"
+	{
+		"default"		"***ITS THE PREDATOR!***"
+	}
+	"***TELEPORTING EVERYONE TO COMPLEX CORE***"
+	{
+		"default"		"***TELEPORTING EVERYONE TO COMPLEX CORE***"
+	}
+	"***THE PREDATOR IS CHARGING AN ATTACK!***"
+	{
+		"default"		"***THE PREDATOR IS CHARGING AN ATTACK!***"
+	}
+	"***YOU ARE TOO SLOW!***"
+	{
+		"default"		"***YOU ARE TOO SLOW!***"
+	}
+	"***HOLD ON TO YOUR HELMETS!***"
+	{
+		"default"		"***HOLD ON TO YOUR HELMETS!***"
+	}
+	"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
+	{
+		"default"		"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
+	}
+	"***YOU KILLED THE PREDATOR***"
+	{
+		"default"		"***YOU KILLED THE PREDATOR***"
+	}
+	"***RUN TOWARDS THE ELEVATOR!***"
+	{
+		"default"		"***RUN TOWARDS THE ELEVATOR!***"
+	}
+	"***CHOPPER IS ON IT'S WAY***"
+	{
+		"default"		"***CHOPPER IS ON IT'S WAY***"
+	}
+	"***THE CHOPPER IS HERE! MOVE IT!***"
+	{
+		"default"		"***THE CHOPPER IS HERE! MOVE IT!***"
+	}
+	"***CHOPPER LEAVES IN 10 SECONDS***"
+	{
+		"default"		"***CHOPPER LEAVES IN 10 SECONDS***"
+	}
+	"***CHOPPER LEAVES IN 5 SECONDS***"
+	{
+		"default"		"***CHOPPER LEAVES IN 5 SECONDS***"
+	}
+	"***YOU COMPLETED HYPER***"
+	{
+		"default"		"***YOU COMPLETED HYPER***"
+	}
+	"***MOVING ON TO ULTIMATE***"
+	{
+		"default"		"***MOVING ON TO ULTIMATE***"
+	}
+	"***GOOD LUCK...***"
+	{
+		"default"		"***GOOD LUCK...***"
+	}
+	"***DIFFICULTY --- ULTIMATE***"
+	{
+		"default"		"***DIFFICULTY --- ULTIMATE***"
+	}
+	"***PLAYER PICKED UP CLAYMORE MINES***"
+	{
+		"default"		"***PLAYER PICKED UP CLAYMORE MINES***"
+	}
+	"***GET IN THE ELEVATOR***"
+	{
+		"default"		"***GET IN THE ELEVATOR***"
+	}
+	"***HOLD THIS AREA FOR 20 SECONDS***"
+	{
+		"default"		"***HOLD THIS AREA FOR 20 SECONDS***"
+	}
+	"***15 SECONDS LEFT***"
+	{
+		"default"		"***15 SECONDS LEFT***"
+	}
+	"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
+	{
+		"default"		"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
+	}
+	"***PLAYER PICKED UP ALIEN DEVICE***"
+	{
+		"default"		"***PLAYER PICKED UP ALIEN DEVICE***"
+	}
+	"***GET INSIDE THE TRANSPORTER***"
+	{
+		"default"		"***GET INSIDE THE TRANSPORTER***"
+	}
+	"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
+	{
+		"default"		"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
+	}
+	"***THE PREDATOR IS IN RAGEMODE***"
+	{
+		"default"		"***THE PREDATOR IS IN RAGEMODE***"
+	}
+	"***THE SPACESHIP IS STARTING TO COLLAPSE***"
+	{
+		"default"		"***THE SPACESHIP IS STARTING TO COLLAPSE***"
+	}
+	"***PLAYER PICKED UP FLAMETHROWER***"
+	{
+		"default"		"***PLAYER PICKED UP FLAMETHROWER***"
+	}
+}

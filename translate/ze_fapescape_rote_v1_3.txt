@@ -1,0 +1,123 @@
+"Chat"
+{
+	"*** Level 1 ***"
+	{
+		"default"		"*** Level 1 ***"
+	}
+	"* Turning music on *"
+	{
+		"default"		"* Turning music on *"
+	}
+	"*** Player has picked up Lego Maker ***"
+	{
+		"default"		"*** Player has picked up Lego Maker ***"
+	}
+	"*** It has 10 uses ***"
+	{
+		"default"		"*** It has 10 uses ***"
+	}
+	"*** Player has picked up EyeTech Launcher ***"
+	{
+		"default"		"*** Player has picked up EyeTech Launcher ***"
+	}
+	"*** Player has picked up Pushgun ***"
+	{
+		"default"		"*** Player has picked up Pushgun ***"
+	}
+	"*** It has unlimited uses ***"
+	{
+		"default"		"*** It has unlimited uses ***"
+	}
+	"*** Doors open in 35 Seconds ***"
+	{
+		"default"		"*** Doors open in 35 Seconds ***"
+	}
+	"*** Doors open in 25 Seconds ***"
+	{
+		"default"		"*** Doors open in 25 Seconds ***"
+	}
+	"*** Doors open in 10 Seconds ***"
+	{
+		"default"		"*** Doors open in 10 Seconds ***"
+	}
+	"*** Doors are opening ***"
+	{
+		"default"		"*** Doors are opening ***"
+	}
+	"*** Bridge activates in 30 seconds ***"
+	{
+		"default"		"*** Bridge activates in 30 seconds ***"
+	}
+	"*** Bridge activates in 15 seconds ***"
+	{
+		"default"		"*** Bridge activates in 15 seconds ***"
+	}
+	"*** Hold until the path is cleared ***"
+	{
+		"default"		"*** Hold until the path is cleared ***"
+	}
+	"*** FALL BACK NOW!! ***"
+	{
+		"default"		"*** FALL BACK NOW!! ***"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"default"		"*** Door opens in 25 seconds ***"
+	}
+	"*** Door opens in 10 seconds ***"
+	{
+		"default"		"*** Door opens in 10 seconds ***"
+	}
+	"*** Door is opening ***"
+	{
+		"default"		"*** Door is opening ***"
+	}
+	"*** Door should open quickly ***"
+	{
+		"default"		"*** Door should open quickly ***"
+	}
+	"*** Keep holding ***"
+	{
+		"default"		"*** Keep holding ***"
+	}
+	"*** Player has picked up EyeTech Cannon ***"
+	{
+		"default"		"*** Player has picked up EyeTech Cannon ***"
+	}
+	"*** Player has picked up Heal ***"
+	{
+		"default"		"*** Player has picked up Heal ***"
+	}
+	"*** It has 1 use ***"
+	{
+		"default"		"*** It has 1 use ***"
+	}
+	"*** Player has picked up Ammo Box ***"
+	{
+		"default"		"*** Player has picked up Ammo Box ***"
+	}
+	"*** Player has picked up Flamethrower ***"
+	{
+		"default"		"*** Player has picked up Flamethrower ***"
+	}
+	"*** It has 8 uses ***"
+	{
+		"default"		"*** It has 8 uses ***"
+	}
+	"*** Player has picked up Electro gun ***"
+	{
+		"default"		"*** Player has picked up Electro gun ***"
+	}
+	"*** It has fuel for 10 seconds ***"
+	{
+		"default"		"*** It has fuel for 10 seconds ***"
+	}
+	"*** Player has picked up Pipe bombs ***"
+	{
+		"default"		"*** Player has picked up Pipe bombs ***"
+	}
+	"*** It has 5 uses ***"
+	{
+		"default"		"*** It has 5 uses ***"
+	}
+}

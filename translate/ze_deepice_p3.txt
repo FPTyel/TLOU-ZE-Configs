@@ -1,0 +1,23 @@
+"Chat"
+{
+	"*** STEAMGAMERS.COM ***"
+	{
+		"default"		"*** STEAMGAMERS.COM ***"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"default"		"*** Mapper: yardy ***"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"default"		"*** Co-Mapper: starbucks ***"
+	}
+	"*** Door is being fixed defend yourself ***"
+	{
+		"default"		"*** Door is being fixed defend yourself ***"
+	}
+	"*** ALIEN shield has been activated ***"
+	{
+		"default"		"*** ALIEN shield has been activated ***"
+	}
+}

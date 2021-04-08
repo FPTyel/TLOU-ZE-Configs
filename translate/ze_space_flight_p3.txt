@@ -1,0 +1,67 @@
+"Chat"
+{
+	"Starting Evacuation Plan !"
+	{
+		"default"		"Starting Evacuation Plan !"
+	}
+	"First shuttle departing in 1 minute and 20 seconds !"
+	{
+		"default"		"First shuttle departing in 1 minute and 20 seconds !"
+	}
+	"Second shuttle departing in 2 minutes !"
+	{
+		"default"		"Second shuttle departing in 2 minutes !"
+	}
+	"First shuttle departing in 30 seconds !"
+	{
+		"default"		"First shuttle departing in 30 seconds !"
+	}
+	"Second shuttle departing in 1 minute !"
+	{
+		"default"		"Second shuttle departing in 1 minute !"
+	}
+	"First shuttle departing in 10 seconds !"
+	{
+		"default"		"First shuttle departing in 10 seconds !"
+	}
+	"Second shuttle departing in 30 seconds !"
+	{
+		"default"		"Second shuttle departing in 30 seconds !"
+	}
+	"Second shuttle departing in 10 seconds !"
+	{
+		"default"		"Second shuttle departing in 10 seconds !"
+	}
+	"Find the nuke and activate it !"
+	{
+		"default"		"Find the nuke and activate it !"
+	}
+	"Hold here until someone activates bomb !"
+	{
+		"default"		"Hold here until someone activates bomb !"
+	}
+	"Activate nuke glowing yellow !"
+	{
+		"default"		"Activate nuke glowing yellow !"
+	}
+	"Nuclear Bomb has been activated !"
+	{
+		"default"		"Nuclear Bomb has been activated !"
+	}
+	"2 minutes remaining till explosion !"
+	{
+		"default"		"2 minutes remaining till explosion !"
+	}
+	"1 minute remaining till explosion !"
+	{
+		"default"		"1 minute remaining till explosion !"
+	}
+	"Fall back ! There are zombies jumping out of the vents !"
+	{
+		"default"		"Fall back ! There are zombies jumping out of the vents !"
+	}
+	"30 seconds remaining till explosion !"
+	{
+		"default"		"30 seconds remaining till explosion !"
+	}
+}

@@ -1,0 +1,79 @@
+"Chat"
+{
+	"*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---"
+	{
+		"default"		"*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---"
+	}
+	"*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"
+	{
+		"default"		"*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"
+	}
+	"*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***"
+	{
+		"default"		"*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***"
+	}
+	"*** ELEVATOR LEAVING IN 15 SECONDS ***"
+	{
+		"default"		"*** ELEVATOR LEAVING IN 15 SECONDS ***"
+	}
+	"*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***"
+	{
+		"default"		"*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***"
+	}
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"default"		"*** ELEVATOR LEAVING IN 5 SECONDS ***"
+	}
+	"*** PLAYER HAS PICKED UP RED TRAIL ***"
+	{
+		"default"		"*** PLAYER HAS PICKED UP RED TRAIL ***"
+	}
+	"*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***"
+	{
+		"default"		"*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***"
+	}
+	"*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***"
+	{
+		"default"		"*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***"
+	}
+	"*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***"
+	{
+		"default"		"*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***"
+	}
+	"*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***"
+	{
+		"default"		"*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***"
+	}
+	"*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***"
+	{
+		"default"		"*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***"
+	}
+	"*** 5 SECONDS LEFT UNTIL DETONATION! ***"
+	{
+		"default"		"*** 5 SECONDS LEFT UNTIL DETONATION! ***"
+	}
+	"*** C4 DETONATED, GO GO GO! ***"
+	{
+		"default"		"*** C4 DETONATED, GO GO GO! ***"
+	}
+	"*** ACTIVATE THE CONSOLE AFTER THE LAVA***"
+	{
+		"default"		"*** ACTIVATE THE CONSOLE AFTER THE LAVA***"
+	}
+	"*** PLAYER HAS PICKED UP BLUE TRAIL ***"
+	{
+		"default"		"*** PLAYER HAS PICKED UP BLUE TRAIL ***"
+	}
+	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
+	{
+		"default"		"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
+	}
+	"*** WALL BREAKS IN 5 SECONDS ***"
+	{
+		"default"		"*** WALL BREAKS IN 5 SECONDS ***"
+	}
+	"*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***"
+	{
+		"default"		"*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***"
+	}
+}

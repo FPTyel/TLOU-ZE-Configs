@@ -1,0 +1,139 @@
+"Chat"
+{
+	"**Map By Batnik_Reference.smd and Microsoft Edge**"
+	{
+		"default"		"**Map By Batnik_Reference.smd and Microsoft Edge**"
+	}
+	"**level 1**"
+	{
+		"default"		"**level 1**"
+	}
+	"**This is a map based on the game STALKER**"
+	{
+		"default"		"**This is a map based on the game STALKER**"
+	}
+	"**models and textures Zombie**"
+	{
+		"default"		"**models and textures Zombie**"
+	}
+	"**defend 7 sec**"
+	{
+		"default"		"**defend 7 sec**"
+	}
+	"**Run Run**"
+	{
+		"default"		"**Run Run**"
+	}
+	"**A player has picked up Freezegun**"
+	{
+		"default"		"**A player has picked up Freezegun**"
+	}
+	"**A player has picked up Flamethrower**"
+	{
+		"default"		"**A player has picked up Flamethrower**"
+	}
+	"**A player has picked up Healthkit**"
+	{
+		"default"		"**A player has picked up Healthkit**"
+	}
+	"**defend 30sec**"
+	{
+		"default"		"**defend 30sec**"
+	}
+	"**Zombie have been teleported**"
+	{
+		"default"		"**Zombie have been teleported**"
+	}
+	"**defend 30s**"
+	{
+		"default"		"**defend 30s**"
+	}
+	"**Anomaly is open**"
+	{
+		"default"		"**Anomaly is open**"
+	}
+	"**hold the train for 30 sec**"
+	{
+		"default"		"**hold the train for 30 sec**"
+	}
+	"**jump on the train**"
+	{
+		"default"		"**jump on the train**"
+	}
+	"**Defend 35s**"
+	{
+		"default"		"**Defend 35s**"
+	}
+	"*** Defend 25 sec ***"
+	{
+		"default"		"*** Defend 25 sec ***"
+	}
+	"*** Defend 15 sec ***"
+	{
+		"default"		"*** Defend 15 sec ***"
+	}
+	"*** lets go ***"
+	{
+		"default"		"*** lets go ***"
+	}
+	"**Kill the controller**"
+	{
+		"default"		"**Kill the controller**"
+	}
+	"**He is using an energy shield. Destroy 4 generators**"
+	{
+		"default"		"**He is using an energy shield. Destroy 4 generators**"
+	}
+	"**Destroy them first**"
+	{
+		"default"		"**Destroy them first**"
+	}
+	"*** CONTROLLER Uses electric field WARNING ***"
+	{
+		"default"		"*** CONTROLLER Uses electric field WARNING ***"
+	}
+	"**2 generator was destroyed**"
+	{
+		"default"		"**2 generator was destroyed**"
+	}
+	"**3 generator was destroyed**"
+	{
+		"default"		"**3 generator was destroyed**"
+	}
+	"**4 generator was destroyed**"
+	{
+		"default"		"**4 generator was destroyed**"
+	}
+	"**1 generator was destroyed**"
+	{
+		"default"		"**1 generator was destroyed**"
+	}
+	"**Eliminate the controller**"
+	{
+		"default"		"**Eliminate the controller**"
+	}
+	"**controller ran away**"
+	{
+		"default"		"**controller ran away**"
+	}
+	"**lets move**"
+	{
+		"default"		"**lets move**"
+	}
+	"**The door will open in 15 seconds**"
+	{
+		"default"		"**The door will open in 15 seconds**"
+	}
+	"**shoot the helicopter**"
+	{
+		"default"		"**shoot the helicopter**"
+	}
+	"**the helicopter is destroyed.  run*"
+	{
+		"default"		"**the helicopter is destroyed.  run*"
+	}
+	"**BTR will leave in 20sec**"
+	{
+		"default"		"**BTR will leave in 20sec**"
+	}
+}

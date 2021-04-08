@@ -1,0 +1,319 @@
+"Chat"
+{
+	">> IDEA: Sienestaja <<"
+	{
+		"default"		">> IDEA: Sienestaja <<"
+	}
+	">> Map by TaskuVaras <<"
+	{
+		"default"		">> Map by TaskuVaras <<"
+	}
+	">> Fixed by Moltard <<"
+	{
+		"default"		">> Fixed by Moltard <<"
+	}
+	"[Special Thanks to: Muro#[A] FT]"
+	{
+		"default"		"[Special Thanks to: Muro#[A] FT]"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"default"		">> WARMUP ROUND <<"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"default"		">> 40 SECONDS LEFT <<"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"default"		">> 30 SECONDS LEFT <<"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"default"		">> 20 SECONDS LEFT <<"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"default"		">> 10 SECONDS LEFT <<"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"default"		">> WARMUP ROUND END <<"
+	}
+	">> LEVEL: FLAT GRASS <<"
+	{
+		"default"		">> LEVEL: FLAT GRASS <<"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP ICE <<"
+	}
+	"*** WAIT TILL THAT WALL BREAKS ***"
+	{
+		"default"		"*** WAIT TILL THAT WALL BREAKS ***"
+	}
+	"*** WALL IS BROKEN RUUUUUUN!! ***"
+	{
+		"default"		"*** WALL IS BROKEN RUUUUUUN!! ***"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP 6 MINES <<"
+	}
+	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+	{
+		"default"		"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+	}
+	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+	{
+		"default"		"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+	}
+	"*** Leaf 1 leaving in 7 seconds ***"
+	{
+		"default"		"*** Leaf 1 leaving in 7 seconds ***"
+	}
+	"*** Leaf 2 leaving in 7 seconds ***"
+	{
+		"default"		"*** Leaf 2 leaving in 7 seconds ***"
+	}
+	">> HOLD FOR 30 seconds <<"
+	{
+		"default"		">> HOLD FOR 30 seconds <<"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"default"		">> ALL 6 MINES USED <<"
+	}
+	">> 5 more seconds <<"
+	{
+		"default"		">> 5 more seconds <<"
+	}
+	">> GO! GO! GO! <<"
+	{
+		"default"		">> GO! GO! GO! <<"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP GRAVITY <<"
+	}
+	"*** OH NO Its an EVIL BUTTERFLY ***"
+	{
+		"default"		"*** OH NO Its an EVIL BUTTERFLY ***"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	{
+		"default"		"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	}
+	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	{
+		"default"		"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	}
+	">> BUTTERFLY LEAVING IN 10 seconds <<"
+	{
+		"default"		">> BUTTERFLY LEAVING IN 10 seconds <<"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"default"		">> LEVEL COMPLETED!! <<"
+	}
+	">> LEVEL: BIG TREE <<"
+	{
+		"default"		">> LEVEL: BIG TREE <<"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP HEAL <<"
+	}
+	"*** HOLD FOR 10 seconds ***"
+	{
+		"default"		"*** HOLD FOR 10 seconds ***"
+	}
+	"*** HOLD FOR 20 seconds ***"
+	{
+		"default"		"*** HOLD FOR 20 seconds ***"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP EARTH <<"
+	}
+	"*** HOLD FOR 40 seconds ***"
+	{
+		"default"		"*** HOLD FOR 40 seconds ***"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	}
+	"*** HOLD FOR 5 seconds ***"
+	{
+		"default"		"*** HOLD FOR 5 seconds ***"
+	}
+	"*** GO GO GO!!!! ***"
+	{
+		"default"		"*** GO GO GO!!!! ***"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"default"		"*** ELEVATOR LEAVING IN 20 seconds ***"
+	}
+	"*** ELEVATOR LEAVING IN 10 seconds ***"
+	{
+		"default"		"*** ELEVATOR LEAVING IN 10 seconds ***"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"default"		"*** ELEVATOR LEAVING IN 5 seconds ***"
+	}
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	{
+		"default"		">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	}
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	{
+		"default"		">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	}
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"default"		">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	}
+	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	{
+		"default"		"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	}
+	">> BUTTERFLY LEAVING IN 15 seconds <<"
+	{
+		"default"		">> BUTTERFLY LEAVING IN 15 seconds <<"
+	}
+	">> LEVEL: HELL <<"
+	{
+		"default"		">> LEVEL: HELL <<"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP WIND <<"
+	}
+	"*** HOLD FOR 30 seconds ***"
+	{
+		"default"		"*** HOLD FOR 30 seconds ***"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"default"		"*** DOOR IS OPEN! RUUUN! ***"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP FIRE <<"
+	}
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	{
+		"default"		">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	}
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	{
+		"default"		">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"default"		"*** PLAYER FOUND A KEY ***"
+	}
+	"*** OH NO!! ITS SATAN!! ***"
+	{
+		"default"		"*** OH NO!! ITS SATAN!! ***"
+	}
+	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	{
+		"default"		"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	}
+	"*** THROW GRENADES TO KILL IT EASIER ***"
+	{
+		"default"		"*** THROW GRENADES TO KILL IT EASIER ***"
+	}
+	"*** SATAN IS PREPARING TO ATTACK ***"
+	{
+		"default"		"*** SATAN IS PREPARING TO ATTACK ***"
+	}
+	"*** SATAN IS ATTACKING ***"
+	{
+		"default"		"*** SATAN IS ATTACKING ***"
+	}
+	"*** KEEP SHOOTING ***"
+	{
+		"default"		"*** KEEP SHOOTING ***"
+	}
+	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"default"		"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	}
+	">> WAIT FOR 10 SECONDS <<"
+	{
+		"default"		">> WAIT FOR 10 SECONDS <<"
+	}
+	">> LEVEL COMPLETED <<"
+	{
+		"default"		">> LEVEL COMPLETED <<"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"default"		">> EXTREME MODE ADDED <<"
+	}
+	">> BOSSES ON LEVEL II <<"
+	{
+		"default"		">> BOSSES ON LEVEL II <<"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS ***"
+	{
+		"default"		"*** HOLD FOR ABOUT 30 SECONDS ***"
+	}
+	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	{
+		"default"		"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	}
+	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	{
+		"default"		"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	}
+	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	{
+		"default"		">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	}
+	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	{
+		"default"		">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	}
+	">> DITTO IS USING SEED ATTACK <<"
+	{
+		"default"		">> DITTO IS USING SEED ATTACK <<"
+	}
+	">> DITTO IS USING FLAMETHROWER <<"
+	{
+		"default"		">> DITTO IS USING FLAMETHROWER <<"
+	}
+	">> DITTO IS USING WATER... SOMETHING <<"
+	{
+		"default"		">> DITTO IS USING WATER... SOMETHING <<"
+	}
+	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	{
+		"default"		">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	}
+	">> DITTO IS USING SOMETHING... FUNNY? <<"
+	{
+		"default"		">> DITTO IS USING SOMETHING... FUNNY? <<"
+	}
+	">> AND IT'S NOT VERY EFFECTIVE!!!! <<"
+	{
+		"default"		">> AND IT'S NOT VERY EFFECTIVE!!!! <<"
+	}
+	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+	{
+		"default"		">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+	}
+	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+	{
+		"default"		">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+	}
+	">> BUTTERFLY LEAVING IN 30 seconds <<"
+	{
+		"default"		">> BUTTERFLY LEAVING IN 30 seconds <<"
+	}
+}

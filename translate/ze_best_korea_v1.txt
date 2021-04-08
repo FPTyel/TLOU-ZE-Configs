@@ -1,0 +1,183 @@
+"Chat"
+{
+	"***MAP BY LUFFAREN***"
+	{
+		"default"		"***MAP BY LUFFAREN***"
+	}
+	"***WELCOME TO BEST KOREA***"
+	{
+		"default"		"***WELCOME TO BEST KOREA***"
+	}
+	"***WE WILL PROCESS YOUR ENTRY REQUEST***"
+	{
+		"default"		"***WE WILL PROCESS YOUR ENTRY REQUEST***"
+	}
+	"***PLEASE HOLD***"
+	{
+		"default"		"***PLEASE HOLD***"
+	}
+	"***PLEASE HOLD.***"
+	{
+		"default"		"***PLEASE HOLD.***"
+	}
+	"***PLEASE HOLD..***"
+	{
+		"default"		"***PLEASE HOLD..***"
+	}
+	"***PLEASE HOLD...***"
+	{
+		"default"		"***PLEASE HOLD...***"
+	}
+	"***WELCOME MY YOUNG BOYS***"
+	{
+		"default"		"***WELCOME MY YOUNG BOYS***"
+	}
+	"***THE GUARDS IN THE BACK ARE A BIT SLOW***"
+	{
+		"default"		"***THE GUARDS IN THE BACK ARE A BIT SLOW***"
+	}
+	"***JUST LET THEM THINK FOR A WHILE***"
+	{
+		"default"		"***JUST LET THEM THINK FOR A WHILE***"
+	}
+	"***THEY WERE THINKING ABOUT PIZZA***"
+	{
+		"default"		"***THEY WERE THINKING ABOUT PIZZA***"
+	}
+	"***PATH OPENING IN 30 SECONDS***"
+	{
+		"default"		"***PATH OPENING IN 30 SECONDS***"
+	}
+	"***PATH OPENING IN 10 SECONDS***"
+	{
+		"default"		"***PATH OPENING IN 10 SECONDS***"
+	}
+	"***PATH OPENING IN 5 SECONDS***"
+	{
+		"default"		"***PATH OPENING IN 5 SECONDS***"
+	}
+	"***PATH IS OPEN***"
+	{
+		"default"		"***PATH IS OPEN***"
+	}
+	"***PATH OPENING IN 20 SECONDS***"
+	{
+		"default"		"***PATH OPENING IN 20 SECONDS***"
+	}
+	"***YOU NEED TO EAT SOME PRINGLES***"
+	{
+		"default"		"***YOU NEED TO EAT SOME PRINGLES***"
+	}
+	"***HANG ON WHILE THE DOOR OPENS***"
+	{
+		"default"		"***HANG ON WHILE THE DOOR OPENS***"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"default"		"***5 SECONDS LEFT***"
+	}
+	"***YOU ATE THE PRINGLES***"
+	{
+		"default"		"***YOU ATE THE PRINGLES***"
+	}
+	"***YOU SCUM***"
+	{
+		"default"		"***YOU SCUM***"
+	}
+	"***STEP ON THE TRAM PLEASE***"
+	{
+		"default"		"***STEP ON THE TRAM PLEASE***"
+	}
+	"***TRAM IS LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***TRAM IS LEAVING IN 10 SECONDS***"
+	}
+	"***TRAM IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***TRAM IS LEAVING IN 5 SECONDS***"
+	}
+	"***TRAM IS LEAVING***"
+	{
+		"default"		"***TRAM IS LEAVING***"
+	}
+	"***DEFEND FOR 20 SECONDS***"
+	{
+		"default"		"***DEFEND FOR 20 SECONDS***"
+	}
+	"***WELCOME TO THE BEST KOREAN BALLOON***"
+	{
+		"default"		"***WELCOME TO THE BEST KOREAN BALLOON***"
+	}
+	"***SPONSORED BY PRINGLES***"
+	{
+		"default"		"***SPONSORED BY PRINGLES***"
+	}
+	"***BALLOON DOORS WILL OPEN IN 10 SECONDS***"
+	{
+		"default"		"***BALLOON DOORS WILL OPEN IN 10 SECONDS***"
+	}
+	"***BALLOON DOORS WILL OPEN IN 5 SECONDS***"
+	{
+		"default"		"***BALLOON DOORS WILL OPEN IN 5 SECONDS***"
+	}
+	"***BALLOON DOORS ARE OPENING***"
+	{
+		"default"		"***BALLOON DOORS ARE OPENING***"
+	}
+	"***BALLOON IS LEAVING***"
+	{
+		"default"		"***BALLOON IS LEAVING***"
+	}
+	"***ENJOY THE RIDE WHILE MURDERING***"
+	{
+		"default"		"***ENJOY THE RIDE WHILE MURDERING***"
+	}
+	"***DESTINATION ETA - 30 SECONDS***"
+	{
+		"default"		"***DESTINATION ETA - 30 SECONDS***"
+	}
+	"***DESTINATION ETA - 20 SECONDS***"
+	{
+		"default"		"***DESTINATION ETA - 20 SECONDS***"
+	}
+	"***DESTINATION ETA - 10 SECONDS***"
+	{
+		"default"		"***DESTINATION ETA - 10 SECONDS***"
+	}
+	"***DESTINATION ETA - 5 SECONDS***"
+	{
+		"default"		"***DESTINATION ETA - 5 SECONDS***"
+	}
+	"***DESTINATION REACHED***"
+	{
+		"default"		"***DESTINATION REACHED***"
+	}
+	"***ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"default"		"***ELEVATOR IS LEAVING IN 30 SECONDS***"
+	}
+	"***ELEVATOR IS COMING IN 10 SECONDS***"
+	{
+		"default"		"***ELEVATOR IS COMING IN 10 SECONDS***"
+	}
+	"***SOLVE THE BEST KOREAN PUZZLE***"
+	{
+		"default"		"***SOLVE THE BEST KOREAN PUZZLE***"
+	}
+	"***IF YOU ARE NAUGHTY YOU WILL DIE***"
+	{
+		"default"		"***IF YOU ARE NAUGHTY YOU WILL DIE***"
+	}
+	"***HAIL BEST KOREA***"
+	{
+		"default"		"***HAIL BEST KOREA***"
+	}
+	"***ELEVATOR IS COMING IN 5 SECONDS***"
+	{
+		"default"		"***ELEVATOR IS COMING IN 5 SECONDS***"
+	}
+	"***ELEVATOR IS COMING***"
+	{
+		"default"		"***ELEVATOR IS COMING***"
+	}
+}

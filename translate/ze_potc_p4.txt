@@ -1,0 +1,107 @@
+"Chat"
+{
+	">>>Map created by FreeZe<<<"
+	{
+		"default"		">>>Map created by FreeZe<<<"
+	}
+	">>>MAKE YOUR WAY TO THE BLACK PEARL!<<<"
+	{
+		"default"		">>>MAKE YOUR WAY TO THE BLACK PEARL!<<<"
+	}
+	"Thanks to Belafarinrod Fuu and Kaemon!"
+	{
+		"default"		"Thanks to Belafarinrod Fuu and Kaemon!"
+	}
+	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
+	{
+		"default"		">>>JACKS PISTOL HAS BEEN TAKEN<<<"
+	}
+	">>>Cool Down 60 secs<<<"
+	{
+		"default"		">>>Cool Down 60 secs<<<"
+	}
+	">>>Press USE to shoot<<<"
+	{
+		"default"		">>>Press USE to shoot<<<"
+	}
+	">>>Defend 30 seconds<<<"
+	{
+		"default"		">>>Defend 30 seconds<<<"
+	}
+	">>>5 seconds left<<<"
+	{
+		"default"		">>>5 seconds left<<<"
+	}
+	">>>RUUUUUN<<<"
+	{
+		"default"		">>>RUUUUUN<<<"
+	}
+	">>>10 seconds until 1st hold zone gets teleported<<<"
+	{
+		"default"		">>>10 seconds until 1st hold zone gets teleported<<<"
+	}
+	">>> HOLD THE MILL 30 SECONDS <<<"
+	{
+		"default"		">>> HOLD THE MILL 30 SECONDS <<<"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"default"		">>> 5 SECONDS LEFT <<<"
+	}
+	">>> JUMP ONTO THE WHEEL <<<"
+	{
+		"default"		">>> JUMP ONTO THE WHEEL <<<"
+	}
+	">>>GET ONTO THE BLACK PEARL<<<"
+	{
+		"default"		">>>GET ONTO THE BLACK PEARL<<<"
+	}
+	">>>Pearl has been reached<<<"
+	{
+		"default"		">>>Pearl has been reached<<<"
+	}
+	">>>Jungle gettting teleported in 10 seconds<<<"
+	{
+		"default"		">>>Jungle gettting teleported in 10 seconds<<<"
+	}
+	">>>Cannons charging. 60 seconds left<<<"
+	{
+		"default"		">>>Cannons charging. 60 seconds left<<<"
+	}
+	">>>15 seconds left<<<"
+	{
+		"default"		">>>15 seconds left<<<"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"default"		">>> HOLD 30 SECONDS <<<"
+	}
+	">>> RUUUN <<<"
+	{
+		"default"		">>> RUUUN <<<"
+	}
+	">>>PISTOL-SHOT CHARGING<<<"
+	{
+		"default"		">>>PISTOL-SHOT CHARGING<<<"
+	}
+	">>>>Pistol ready in 60 s<<<<"
+	{
+		"default"		">>>>Pistol ready in 60 s<<<<"
+	}
+	">>>>Pistol ready in 30 s<<<<"
+	{
+		"default"		">>>>Pistol ready in 30 s<<<<"
+	}
+	">>>>Pistol ready in 5 s<<<<"
+	{
+		"default"		">>>>Pistol ready in 5 s<<<<"
+	}
+	">>>>PISTOL READY<<<<"
+	{
+		"default"		">>>>PISTOL READY<<<<"
+	}
+	">>>CANNONS SHOOTING<<<"
+	{
+		"default"		">>>CANNONS SHOOTING<<<"
+	}
+}

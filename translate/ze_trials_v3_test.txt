@@ -1,0 +1,75 @@
+"Chat"
+{
+	"<<< Map by Jllaneras >>>"
+	{
+		"default"		"<<< Map by Jllaneras >>>"
+	}
+	"<<< Trial 1 >>>"
+	{
+		"default"		"<<< Trial 1 >>>"
+	}
+	"<<< Door opens in 30 seconds! >>>"
+	{
+		"default"		"<<< Door opens in 30 seconds! >>>"
+	}
+	"<<< Wand has been picked up! >>>"
+	{
+		"default"		"<<< Wand has been picked up! >>>"
+	}
+	"<<< Press e to use, 50 second cooldown! >>>"
+	{
+		"default"		"<<< Press e to use, 50 second cooldown! >>>"
+	}
+	"<<< Zombies teleport in 40 seconds! >>>"
+	{
+		"default"		"<<< Zombies teleport in 40 seconds! >>>"
+	}
+	"<<< Wand used! >>>"
+	{
+		"default"		"<<< Wand used! >>>"
+	}
+	"<<< Door_opens in 30 seconds! >>>"
+	{
+		"default"		"<<< Door_opens in 30 seconds! >>>"
+	}
+	"<<< Fence opens in 30 seconds! >>>"
+	{
+		"default"		"<<< Fence opens in 30 seconds! >>>"
+	}
+	"<<< Zombies teleport in 15 seconds! >>>"
+	{
+		"default"		"<<< Zombies teleport in 15 seconds! >>>"
+	}
+	"<<< Door opens in 45 seconds! >>>"
+	{
+		"default"		"<<< Door opens in 45 seconds! >>>"
+	}
+	"<<< Doors open in 15 seconds! >>>"
+	{
+		"default"		"<<< Doors open in 15 seconds! >>>"
+	}
+	"<<< Bridge breaks in 10 seconds! >>>"
+	{
+		"default"		"<<< Bridge breaks in 10 seconds! >>>"
+	}
+	"<<< Zombies teleport in 10 seconds! >>>"
+	{
+		"default"		"<<< Zombies teleport in 10 seconds! >>>"
+	}
+	"<<< Spinning Pushing Bolts >>>"
+	{
+		"default"		"<<< Spinning Pushing Bolts >>>"
+	}
+	"<<< Ultra Beam >>>"
+	{
+		"default"		"<<< Ultra Beam >>>"
+	}
+	"<<< Ramming Bolts >>>"
+	{
+		"default"		"<<< Ramming Bolts >>>"
+	}
+	"<<< Ominous Wind >>>"
+	{
+		"default"		"<<< Ominous Wind >>>"
+	}
+}

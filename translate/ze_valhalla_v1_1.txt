@@ -1,0 +1,63 @@
+"Chat"
+{
+	"**Warmup**"
+	{
+		"default"		"**Warmup**"
+	}
+	"**Map By Soc**"
+	{
+		"default"		"**Map By Soc**"
+	}
+	"**10seconds left**"
+	{
+		"default"		"**10seconds left**"
+	}
+	"**Stage 1**"
+	{
+		"default"		"**Stage 1**"
+	}
+	"**Hold 20second**"
+	{
+		"default"		"**Hold 20second**"
+	}
+	"**We need to defend for a time**"
+	{
+		"default"		"**We need to defend for a time**"
+	}
+	"**Start moving forward**"
+	{
+		"default"		"**Start moving forward**"
+	}
+	"**Holo 20second**"
+	{
+		"default"		"**Holo 20second**"
+	}
+	"**Continue to defend**"
+	{
+		"default"		"**Continue to defend**"
+	}
+	"**Blow up a random piece of wall after 20 seconds**"
+	{
+		"default"		"**Blow up a random piece of wall after 20 seconds**"
+	}
+	"**The last rock will be blasted away in 15 seconds**"
+	{
+		"default"		"**The last rock will be blasted away in 15 seconds**"
+	}
+	"**The first door will open in 40 seconds**"
+	{
+		"default"		"**The first door will open in 40 seconds**"
+	}
+	"**The second door will open in 10 seconds**"
+	{
+		"default"		"**The second door will open in 10 seconds**"
+	}
+	"**final 10 seconds**"
+	{
+		"default"		"**final 10 seconds**"
+	}
+	"**There are no humans in the final area,Stage1 Fail**"
+	{
+		"default"		"**There are no humans in the final area,Stage1 Fail**"
+	}
+}

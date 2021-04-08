@@ -1,0 +1,95 @@
+"Chat"
+{
+	"*** Map by : Airvulpes ***"
+	{
+		"default"		"*** Map by : Airvulpes ***"
+	}
+	"*** Door Opens in 10 seconds ***"
+	{
+		"default"		"*** Door Opens in 10 seconds ***"
+	}
+	"*** Door opening in 5 seconds !***"
+	{
+		"default"		"*** Door opening in 5 seconds !***"
+	}
+	"*** Resist 30 seconds ! ***"
+	{
+		"default"		"*** Resist 30 seconds ! ***"
+	}
+	"***Button Pressed***"
+	{
+		"default"		"***Button Pressed***"
+	}
+	"*** Wall Opens in 30 seconds! ***"
+	{
+		"default"		"*** Wall Opens in 30 seconds! ***"
+	}
+	"*** Wall Opening ***"
+	{
+		"default"		"*** Wall Opening ***"
+	}
+	"*** HOLD 20 seconds ! ***"
+	{
+		"default"		"*** HOLD 20 seconds ! ***"
+	}
+	"*** Resist 10 seconds ! ***"
+	{
+		"default"		"*** Resist 10 seconds ! ***"
+	}
+	"*** Resist 20 seconds ! ***"
+	{
+		"default"		"*** Resist 20 seconds ! ***"
+	}
+	"*** Door opens in 5 seconds ***"
+	{
+		"default"		"*** Door opens in 5 seconds ***"
+	}
+	"*** Hold 25 seconds ! ***"
+	{
+		"default"		"*** Hold 25 seconds ! ***"
+	}
+	"*** Human beat red emblem !! ***"
+	{
+		"default"		"*** Human beat red emblem !! ***"
+	}
+	"*** HOLD ON ! ***"
+	{
+		"default"		"*** HOLD ON ! ***"
+	}
+	"*** Entrance Door will close in 1 minutes ! ***"
+	{
+		"default"		"*** Entrance Door will close in 1 minutes ! ***"
+	}
+	"*** STAGE COMPLETED ***"
+	{
+		"default"		"*** STAGE COMPLETED ***"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"default"		"*** Door Opens in 15 seconds ***"
+	}
+	"*** Wall opens in 20 seconds ! ***"
+	{
+		"default"		"*** Wall opens in 20 seconds ! ***"
+	}
+	"*** Door opens in 15 seconds ! ***"
+	{
+		"default"		"*** Door opens in 15 seconds ! ***"
+	}
+	"*** Hold here ***"
+	{
+		"default"		"*** Hold here ***"
+	}
+	"*** Door opening in 10 seconds ! ***"
+	{
+		"default"		"*** Door opening in 10 seconds ! ***"
+	}
+	"*** Door opens in 10 seconds ! ***"
+	{
+		"default"		"*** Door opens in 10 seconds ! ***"
+	}
+	"*** Superior door opens in 30 seconds ! ***"
+	{
+		"default"		"*** Superior door opens in 30 seconds ! ***"
+	}
+}

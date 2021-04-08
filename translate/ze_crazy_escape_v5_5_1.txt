@@ -1,0 +1,475 @@
+"Chat"
+{
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"default"		"### WELCOME TO CRAZY ESCAPE ###"
+	}
+	"### MAP CREATED BY NARAKA  ###"
+	{
+		"default"		"### MAP CREATED BY NARAKA  ###"
+	}
+	"### SPECIAL THANKS : Moltard ###"
+	{
+		"default"		"### SPECIAL THANKS : Moltard ###"
+	}
+	"### GRAMMAR CORRECTION BY: ###"
+	{
+		"default"		"### GRAMMAR CORRECTION BY: ###"
+	}
+	"### [GFL] : reduct [SMALL LOAN] ###"
+	{
+		"default"		"### [GFL] : reduct [SMALL LOAN] ###"
+	}
+	"### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###"
+	{
+		"default"		"### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"default"		"### 10 SECONDS REMAINING ###"
+	}
+	"### HIDE AND HOLD FOR 75 SECONDS ###"
+	{
+		"default"		"### HIDE AND HOLD FOR 75 SECONDS ###"
+	}
+	"### ZOMBIES WILL BE TELEPORTED SOON ### "
+	{
+		"default"		"### ZOMBIES WILL BE TELEPORTED SOON ### "
+	}
+	"### ZOMBIES ARE HERE !! ###"
+	{
+		"default"		"### ZOMBIES ARE HERE !! ###"
+	}
+	"### 30 SECONDS REMAINING ###"
+	{
+		"default"		"### 30 SECONDS REMAINING ###"
+	}
+	"### TELEPORT INCOMING IN 5 SECONDS ###"
+	{
+		"default"		"### TELEPORT INCOMING IN 5 SECONDS ###"
+	}
+	"### GET TO THE TOP OF THE TOWER ###"
+	{
+		"default"		"### GET TO THE TOP OF THE TOWER ###"
+	}
+	"### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###"
+	{
+		"default"		"### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###"
+	}
+	"### THE TOWER IS GONNA EXPLODE !! ###"
+	{
+		"default"		"### THE TOWER IS GONNA EXPLODE !! ###"
+	}
+	"### WARNING *** TOWER WILL EXPLODE IN 30 SECONDS ###"
+	{
+		"default"		"### WARNING *** TOWER WILL EXPLODE IN 30 SECONDS ###"
+	}
+	"### HOLD HERE AND SHOOT MADAFAKA ###"
+	{
+		"default"		"### HOLD HERE AND SHOOT MADAFAKA ###"
+	}
+	"### 50 SECONDS REMAINING ###"
+	{
+		"default"		"### 50 SECONDS REMAINING ###"
+	}
+	"### TOWER WILL EXPLODE IN 10 SECONDS ###"
+	{
+		"default"		"### TOWER WILL EXPLODE IN 10 SECONDS ###"
+	}
+	"### KAABOOOMMMMM ###"
+	{
+		"default"		"### KAABOOOMMMMM ###"
+	}
+	"### STAY IN THE GREEN LIGHT FOR TELEPORT ###"
+	{
+		"default"		"### STAY IN THE GREEN LIGHT FOR TELEPORT ###"
+	}
+	"### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###"
+	{
+		"default"		"### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###"
+	}
+	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 5 SECONDS ###"
+	{
+		"default"		"### WAIT HERE TO RACE AGAINST ZOMBIES IN 5 SECONDS ###"
+	}
+	"### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###"
+	{
+		"default"		"### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###"
+	}
+	"### HOLD FOR 40 SECONDS ###"
+	{
+		"default"		"### HOLD FOR 40 SECONDS ###"
+	}
+	"### DONT DELAY OR BE PUNISHED ###"
+	{
+		"default"		"### DONT DELAY OR BE PUNISHED ###"
+	}
+	"### 20 SECONDS REMAINING ###"
+	{
+		"default"		"### 20 SECONDS REMAINING ###"
+	}
+	"### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###"
+	{
+		"default"		"### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###"
+	}
+	"### WILL BE TELEPORTED TO BOSS JAIL ###"
+	{
+		"default"		"### WILL BE TELEPORTED TO BOSS JAIL ###"
+	}
+	"### 5 SECONDS UNTL THE NEXT TELEPORT ###"
+	{
+		"default"		"### 5 SECONDS UNTL THE NEXT TELEPORT ###"
+	}
+	"### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###"
+	{
+		"default"		"### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###"
+	}
+	"### SINNER INCOMING IN 10 SECONDS ###"
+	{
+		"default"		"### SINNER INCOMING IN 10 SECONDS ###"
+	}
+	"### DON'T CROSS THE RED LINE, IT IS NOT A HOLY AREA ###"
+	{
+		"default"		"### DON'T CROSS THE RED LINE, IT IS NOT A HOLY AREA ###"
+	}
+	"### THAT IS A SINNER KILL HIM ###"
+	{
+		"default"		"### THAT IS A SINNER KILL HIM ###"
+	}
+	"### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###"
+	{
+		"default"		"### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###"
+	}
+	"### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###"
+	{
+		"default"		"### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###"
+	}
+	"### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###"
+	{
+		"default"		"### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###"
+	}
+	"### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###"
+	{
+		"default"		"### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###"
+	}
+	"### SINNER IS DEAD ###"
+	{
+		"default"		"### SINNER IS DEAD ###"
+	}
+	"### HUMANS WILL BE TELEPORTED TO THE FINAL DESTINATION IN 10 SECONDS ##"
+	{
+		"default"		"### HUMANS WILL BE TELEPORTED TO THE FINAL DESTINATION IN 10 SECONDS ##"
+	}
+	"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
+	{
+		"default"		"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
+	}
+	"### BRIDGES WILL BREAK BEFORE ZOMBIES ARE TELEPORTED ###"
+	{
+		"default"		"### BRIDGES WILL BREAK BEFORE ZOMBIES ARE TELEPORTED ###"
+	}
+	"### ZOMBIES INCOMING IN 10 SECONDS ###"
+	{
+		"default"		"### ZOMBIES INCOMING IN 10 SECONDS ###"
+	}
+	"### DON'T LET ZOMBIES TOUCH THE TV OR YOU WILL LOSE ###"
+	{
+		"default"		"### DON'T LET ZOMBIES TOUCH THE TV OR YOU WILL LOSE ###"
+	}
+	"### ZOMBIES HAVE ARRIVED ###"
+	{
+		"default"		"### ZOMBIES HAVE ARRIVED ###"
+	}
+	"### Thanks to ACME who found the bug here! ###"
+	{
+		"default"		"### Thanks to ACME who found the bug here! ###"
+	}
+	"### TELEPORT IN 10 SECONDS ###"
+	{
+		"default"		"### TELEPORT IN 10 SECONDS ###"
+	}
+	"### RUN TO THE OTHER SIDE  ###"
+	{
+		"default"		"### RUN TO THE OTHER SIDE  ###"
+	}
+	"### AND SHOOT THOSE ZOMBIES  ### "
+	{
+		"default"		"### AND SHOOT THOSE ZOMBIES  ### "
+	}
+	"### MAKE YOUR WAY TO THE OTHER SIDE ###"
+	{
+		"default"		"### MAKE YOUR WAY TO THE OTHER SIDE ###"
+	}
+	"### WHILE DEFENDING AGAINST ZOMBIES ###"
+	{
+		"default"		"### WHILE DEFENDING AGAINST ZOMBIES ###"
+	}
+	"### HUMANS, DO NOT DELAY ###"
+	{
+		"default"		"### HUMANS, DO NOT DELAY ###"
+	}
+	"### PRESS THE BUTTON ON THE OTHER SIDE ###"
+	{
+		"default"		"### PRESS THE BUTTON ON THE OTHER SIDE ###"
+	}
+	"### YOU HAVE 90 SECONDS BEFORE ###"
+	{
+		"default"		"### YOU HAVE 90 SECONDS BEFORE ###"
+	}
+	"### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###"
+	{
+		"default"		"### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###"
+	}
+	"### HOLD AND DEFEND FOR 30 SECONDS ###"
+	{
+		"default"		"### HOLD AND DEFEND FOR 30 SECONDS ###"
+	}
+	"### WAIT UNTIL THE DOOR OPENS ###"
+	{
+		"default"		"### WAIT UNTIL THE DOOR OPENS ###"
+	}
+	"### 10 SECONDS REMAININGS ###"
+	{
+		"default"		"### 10 SECONDS REMAININGS ###"
+	}
+	"### TELEPORTING THE REST IN 5 SECONDS ###"
+	{
+		"default"		"### TELEPORTING THE REST IN 5 SECONDS ###"
+	}
+	"### TIP: DON'T TOUCH THE CAUTION PILLARS ###"
+	{
+		"default"		"### TIP: DON'T TOUCH THE CAUTION PILLARS ###"
+	}
+	"### THEY WILL TELEPORT YOU BACKK LOL ###"
+	{
+		"default"		"### THEY WILL TELEPORT YOU BACKK LOL ###"
+	}
+	"### ZOMBIES WAIT FOR 10 SECONDS ###"
+	{
+		"default"		"### ZOMBIES WAIT FOR 10 SECONDS ###"
+	}
+	"### STAY IN THE GREEN LIGHT ZONE ###"
+	{
+		"default"		"### STAY IN THE GREEN LIGHT ZONE ###"
+	}
+	"### TELEPORT INCOMING IN 30 SECONDS ###"
+	{
+		"default"		"### TELEPORT INCOMING IN 30 SECONDS ###"
+	}
+	"### HUMANS NOT IN THE GREEN LIGHT ZONE ###"
+	{
+		"default"		"### HUMANS NOT IN THE GREEN LIGHT ZONE ###"
+	}
+	"### WILL BE TELEPORTED WITH ZOMBIES ###"
+	{
+		"default"		"### WILL BE TELEPORTED WITH ZOMBIES ###"
+	}
+	"### WAIT HERE FOR A BIT ###"
+	{
+		"default"		"### WAIT HERE FOR A BIT ###"
+	}
+	"### BE READY IN 5 SECONDS ###"
+	{
+		"default"		"### BE READY IN 5 SECONDS ###"
+	}
+	"### HOLD HERE AND SHOOT FOR 30 SECONDS ###"
+	{
+		"default"		"### HOLD HERE AND SHOOT FOR 30 SECONDS ###"
+	}
+	"### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###"
+	{
+		"default"		"### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###"
+	}
+	"### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###"
+	{
+		"default"		"### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###"
+	}
+	"### IN 10 SECONDS ###"
+	{
+		"default"		"### IN 10 SECONDS ###"
+	}
+	"### MADUDU FAKA MADAFAKAA HUEHUE ###"
+	{
+		"default"		"### MADUDU FAKA MADAFAKAA HUEHUE ###"
+	}
+	"### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###"
+	{
+		"default"		"### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###"
+	}
+	"### YOU ALL HAVE 2 MINUTES BEFORE ###"
+	{
+		"default"		"### YOU ALL HAVE 2 MINUTES BEFORE ###"
+	}
+	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
+	{
+		"default"		"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
+	}
+	">>> HE'S DEAD. DEFEND UNTIL DOOR BREAKS <<<"
+	{
+		"default"		">>> HE'S DEAD. DEFEND UNTIL DOOR BREAKS <<<"
+	}
+	"### ALL ZOMBIES AND HUMANS IN BOSS AREA ###"
+	{
+		"default"		"### ALL ZOMBIES AND HUMANS IN BOSS AREA ###"
+	}
+	"### WILL BE TELEPORTED TO THE FINAL DESTINATION ###"
+	{
+		"default"		"### WILL BE TELEPORTED TO THE FINAL DESTINATION ###"
+	}
+	"### IN 15 SECONDS ###"
+	{
+		"default"		"### IN 15 SECONDS ###"
+	}
+	"### RIGHT BUTTON HAS BEEN PRESSED ###"
+	{
+		"default"		"### RIGHT BUTTON HAS BEEN PRESSED ###"
+	}
+	"### BOTH BUTTONS ACTIVATED ###"
+	{
+		"default"		"### BOTH BUTTONS ACTIVATED ###"
+	}
+	"### LEFT BUTTON HAS BEEN PRESSED ###"
+	{
+		"default"		"### LEFT BUTTON HAS BEEN PRESSED ###"
+	}
+	"### BRIDGE BREAKS IN 50 SECONDS ###"
+	{
+		"default"		"### BRIDGE BREAKS IN 50 SECONDS ###"
+	}
+	"### DEFEND YOU NOOBS ###"
+	{
+		"default"		"### DEFEND YOU NOOBS ###"
+	}
+	"### ONE OF GFL ADMINS SAID TO ME ###"
+	{
+		"default"		"### ONE OF GFL ADMINS SAID TO ME ###"
+	}
+	"### IT WOULD BE GREAT IF YOU CAN ADD THE LASER ###"
+	{
+		"default"		"### IT WOULD BE GREAT IF YOU CAN ADD THE LASER ###"
+	}
+	"### AT THE END OF YOUR MAP : HMM OKIEEE ^^ ###"
+	{
+		"default"		"### AT THE END OF YOUR MAP : HMM OKIEEE ^^ ###"
+	}
+	"### ZOMBIES IN COMING !! HOLD THIS PLATFORM FOR 30 SECONDS ###"
+	{
+		"default"		"### ZOMBIES IN COMING !! HOLD THIS PLATFORM FOR 30 SECONDS ###"
+	}
+	"### TIP: YOU CAN SHOOT ZOMBIE OFF THE PLATFORM ###"
+	{
+		"default"		"### TIP: YOU CAN SHOOT ZOMBIE OFF THE PLATFORM ###"
+	}
+	"### TIP: DEFEND 3 WAYS PLEASE THATS ALL ###"
+	{
+		"default"		"### TIP: DEFEND 3 WAYS PLEASE THATS ALL ###"
+	}
+	"### TIP: JUST DONT EDGE U RETARD !! OR U WILL GET AIDS ###"
+	{
+		"default"		"### TIP: JUST DONT EDGE U RETARD !! OR U WILL GET AIDS ###"
+	}
+	"### TELEPORT INCOMING IN 10 SECONDS !! ###"
+	{
+		"default"		"### TELEPORT INCOMING IN 10 SECONDS !! ###"
+	}
+	"### LOOK UP AND YOU KNOW THAT PLATFORM GONNA TRIM US HARD ###"
+	{
+		"default"		"### LOOK UP AND YOU KNOW THAT PLATFORM GONNA TRIM US HARD ###"
+	}
+	"### ZOMBIES CAN TRY TO BREAK THAT THING TO ###"
+	{
+		"default"		"### ZOMBIES CAN TRY TO BREAK THAT THING TO ###"
+	}
+	"### ACTIVATE SPINNING THING !! IF THIS THING BREAKS ###"
+	{
+		"default"		"### ACTIVATE SPINNING THING !! IF THIS THING BREAKS ###"
+	}
+	"### GOOD LUCK HUMAN !!! ###"
+	{
+		"default"		"### GOOD LUCK HUMAN !!! ###"
+	}
+	"### HOLD HERE FOR 30 SECONDS ###"
+	{
+		"default"		"### HOLD HERE FOR 30 SECONDS ###"
+	}
+	"### THE WALL IS BROKEN NOW CLIMB ###"
+	{
+		"default"		"### THE WALL IS BROKEN NOW CLIMB ###"
+	}
+	"### ZOMBIES PLEASE KINDLY WAIT FOR A SEC ###"
+	{
+		"default"		"### ZOMBIES PLEASE KINDLY WAIT FOR A SEC ###"
+	}
+	"### AND WATCH SOME TRIMS RELAXX !!! ###"
+	{
+		"default"		"### AND WATCH SOME TRIMS RELAXX !!! ###"
+	}
+	"### HUMAN DONT DELAY U GONNA FACE UR DESTINY SOON ###"
+	{
+		"default"		"### HUMAN DONT DELAY U GONNA FACE UR DESTINY SOON ###"
+	}
+	"### THANK YOU FOR YOUR PATIENT NOW GO !! ###"
+	{
+		"default"		"### THANK YOU FOR YOUR PATIENT NOW GO !! ###"
+	}
+	"### YOU SEE THAT TRUMP'S WALL !! SHOOT ITTT ###"
+	{
+		"default"		"### YOU SEE THAT TRUMP'S WALL !! SHOOT ITTT ###"
+	}
+	"### FOR ZOMBIE: FENCES BREAK IN 10 SECONDS  ###"
+	{
+		"default"		"### FOR ZOMBIE: FENCES BREAK IN 10 SECONDS  ###"
+	}
+	"### FOR HUMAN: FENCES BREAK IN 5 SECONDS  ###"
+	{
+		"default"		"### FOR HUMAN: FENCES BREAK IN 5 SECONDS  ###"
+	}
+	"### SHOOT THESE 2 BUTTONS PLEASE ###"
+	{
+		"default"		"### SHOOT THESE 2 BUTTONS PLEASE ###"
+	}
+	"### OH MY WALL U REFUGEE U GONNA PAY FOR IT !! ###"
+	{
+		"default"		"### OH MY WALL U REFUGEE U GONNA PAY FOR IT !! ###"
+	}
+	"### BOTH BUTTONS DESTROYED ###"
+	{
+		"default"		"### BOTH BUTTONS DESTROYED ###"
+	}
+	"### DOOR BREAKS IN 30 SECONDS ###"
+	{
+		"default"		"### DOOR BREAKS IN 30 SECONDS ###"
+	}
+	"### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###"
+	{
+		"default"		"### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###"
+	}
+	"### TELEPORTING THE REST OF MAP IN 5 SECONDS ###"
+	{
+		"default"		"### TELEPORTING THE REST OF MAP IN 5 SECONDS ###"
+	}
+	"### NARAKA UNLEASHES HIS POWER ###"
+	{
+		"default"		"### NARAKA UNLEASHES HIS POWER ###"
+	}
+	"### PRESS S PLEASE THANK YOU ###"
+	{
+		"default"		"### PRESS S PLEASE THANK YOU ###"
+	}
+	"### JUMP PLEASE THANK YOU ###"
+	{
+		"default"		"### JUMP PLEASE THANK YOU ###"
+	}
+	"### PLEASE LOOK DOWN THANK YOU ###"
+	{
+		"default"		"### PLEASE LOOK DOWN THANK YOU ###"
+	}
+	"### YOU THINK YOU ARE PRO LASER DODGER ? U MAD ? ###"
+	{
+		"default"		"### YOU THINK YOU ARE PRO LASER DODGER ? U MAD ? ###"
+	}
+	"### PRESS W PLEASE THANKS YOU ###"
+	{
+		"default"		"### PRESS W PLEASE THANKS YOU ###"
+	}
+}

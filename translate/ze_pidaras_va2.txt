@@ -1,0 +1,263 @@
+"Chat"
+{
+	"*** ze_Pidaras_v1_5 ***"
+	{
+		"default"		"*** ze_Pidaras_v1_5 ***"
+	}
+	"*** Map by Nostar ***"
+	{
+		"default"		"*** Map by Nostar ***"
+	}
+	"*** Thank you so much to Noctali "
+	{
+		" Cuniczek "
+		{
+			" Moltard "
+			{
+				" and all Pidaras ***"
+				{
+					"default"		"*** Thank you so much to Noctali / Cuniczek / Moltard / and all Pidaras ***"
+				}
+			}
+		}
+	}
+	"*** Good luck and Let's Rock ! ***"
+	{
+		"default"		"*** Good luck and Let's Rock ! ***"
+	}
+	"*** Admoun please Minas Tirith nextmap or ban or flute ***"
+	{
+		"default"		"*** Admoun please Minas Tirith nextmap or ban or flute ***"
+	}
+	"*** LEVEL 1 : KILL THE PYRAMIGAY ***"
+	{
+		"default"		"*** LEVEL 1 : KILL THE PYRAMIGAY ***"
+	}
+	"*** Pidaras Shotgun pickep up ! (35 shots) ! ***"
+	{
+		"default"		"*** Pidaras Shotgun pickep up ! (35 shots) ! ***"
+	}
+	"*** Pidaras Heal "
+	{
+		" Unlimited Ammo has been picked ***"
+		{
+			"default"		"*** Pidaras Heal / Unlimited Ammo has been picked ***"
+		}
+	}
+	"*** Pidaras Freezer has been picked ***"
+	{
+		"default"		"*** Pidaras Freezer has been picked ***"
+	}
+	"*** Pidaras flamethrower has been picked ***"
+	{
+		"default"		"*** Pidaras flamethrower has been picked ***"
+	}
+	"*** GANDALF DONT LIKE DOOR HUGGER ***"
+	{
+		"default"		"*** GANDALF DONT LIKE DOOR HUGGER ***"
+	}
+	"*** BECAUSE HE'S A FUCKING RACIST ***"
+	{
+		"default"		"*** BECAUSE HE'S A FUCKING RACIST ***"
+	}
+	"*** DOOR OPEN IN 25 SECONDS ***"
+	{
+		"default"		"*** DOOR OPEN IN 25 SECONDS ***"
+	}
+	"*** DOOR OPEN IN 10 SECONDS ***"
+	{
+		"default"		"*** DOOR OPEN IN 10 SECONDS ***"
+	}
+	"*** DOOR OPEN FUCKING PIDARAS !!! GO GO GO !!! ***"
+	{
+		"default"		"*** DOOR OPEN FUCKING PIDARAS !!! GO GO GO !!! ***"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"default"		"*** AFK TELEPORT IN 5 SECONDS ***"
+	}
+	"*** EXPLOSION IN 20 SECONDS PIDARAS ***"
+	{
+		"default"		"*** EXPLOSION IN 20 SECONDS PIDARAS ***"
+	}
+	"***Bahatard is dead ! Run fucking idiot !***"
+	{
+		"default"		"***Bahatard is dead ! Run fucking idiot !***"
+	}
+	"***The pidaras train move in 10 seconds***"
+	{
+		"default"		"***The pidaras train move in 10 seconds***"
+	}
+	"*** Zombies will be teleported in 10 seconds ! Run to the gate ! ***"
+	{
+		"default"		"*** Zombies will be teleported in 10 seconds ! Run to the gate ! ***"
+	}
+	"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
+	{
+		"default"		"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
+	}
+	"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
+	{
+		"default"		"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
+	}
+	"*** Welcome to unloze world ***"
+	{
+		"default"		"*** Welcome to unloze world ***"
+	}
+	"*** Penis everywhere ***"
+	{
+		"default"		"*** Penis everywhere ***"
+	}
+	"*** Cuz all admin are gay (especially when they mute me) ***"
+	{
+		"default"		"*** Cuz all admin are gay (especially when they mute me) ***"
+	}
+	"*** Can we play Minas please ***"
+	{
+		"default"		"*** Can we play Minas please ***"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"default"		"*** 5 SECONDS LEFT ***"
+	}
+	"*** Cover 25 seconds ***"
+	{
+		"default"		"*** Cover 25 seconds ***"
+	}
+	"*** ZM teleport in 3 seconds ***"
+	{
+		"default"		"*** ZM teleport in 3 seconds ***"
+	}
+	"*** The gay horses move in 5 seconds ***"
+	{
+		"default"		"*** The gay horses move in 5 seconds ***"
+	}
+	"*** OMFG SHOOT THIS FUCKING PYRAMIGAY ***"
+	{
+		"default"		"*** OMFG SHOOT THIS FUCKING PYRAMIGAY ***"
+	}
+	"*** WARNING THESE HORSES ARE BITCHES ! ***"
+	{
+		"default"		"*** WARNING THESE HORSES ARE BITCHES ! ***"
+	}
+	"*** Stay cover here guys while waiting for the bridge ***"
+	{
+		"default"		"*** Stay cover here guys while waiting for the bridge ***"
+	}
+	"*** Find the pidaras key to open the door ***"
+	{
+		"default"		"*** Find the pidaras key to open the door ***"
+	}
+	"*** The pidaras key was found ! ***"
+	{
+		"default"		"*** The pidaras key was found ! ***"
+	}
+	"*** FALL BACK FUCKING RETARD ***"
+	{
+		"default"		"*** FALL BACK FUCKING RETARD ***"
+	}
+	"*** PORTAL OPEN IN 25 SECONDS ***"
+	{
+		"default"		"*** PORTAL OPEN IN 25 SECONDS ***"
+	}
+	"*** TELEPORT AFK IN 5 SECONDS ***"
+	{
+		"default"		"*** TELEPORT AFK IN 5 SECONDS ***"
+	}
+	"*** GO GO GO PIDARAS ! ***"
+	{
+		"default"		"*** GO GO GO PIDARAS ! ***"
+	}
+	"*** RUN TO THE RED DOOR ***"
+	{
+		"default"		"*** RUN TO THE RED DOOR ***"
+	}
+	"*** ZM TELEPORT IN 5 SECONDS ***"
+	{
+		"default"		"*** ZM TELEPORT IN 5 SECONDS ***"
+	}
+	"***  RED DOOR OPEN IN 30 SECONDS ***"
+	{
+		"default"		"***  RED DOOR OPEN IN 30 SECONDS ***"
+	}
+	"*** GOGOGO FUCKING PIDARAS !!! ***"
+	{
+		"default"		"*** GOGOGO FUCKING PIDARAS !!! ***"
+	}
+	"*** OK... GUYS... IT'S TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMEE !!!!! ***"
+	{
+		"default"		"*** OK... GUYS... IT'S TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMEE !!!!! ***"
+	}
+	"*** ZOMBIE TELEPORT IN 5 SECONDS ***"
+	{
+		"default"		"*** ZOMBIE TELEPORT IN 5 SECONDS ***"
+	}
+	"** Boss Fight in 20s **"
+	{
+		"default"		"** Boss Fight in 20s **"
+	}
+	"*** It's time guys ! fight for mother RUSSIA ! ***"
+	{
+		"default"		"*** It's time guys ! fight for mother RUSSIA ! ***"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"default"		"** Boss Fight in 10s **"
+	}
+	"*** OMFG SHOOT THIS FUCKING KID !!! ***"
+	{
+		"default"		"*** OMFG SHOOT THIS FUCKING KID !!! ***"
+	}
+	"*** MESHLEM USE DIARRHEA ! JUMP ! ***"
+	{
+		"default"		"*** MESHLEM USE DIARRHEA ! JUMP ! ***"
+	}
+	"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
+	{
+		"default"		"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
+	}
+	"*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***"
+	{
+		"default"		"*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***"
+	}
+	"*** MESHLEM USE FLAMING FART ***"
+	{
+		"default"		"*** MESHLEM USE FLAMING FART ***"
+	}
+	"*** ZM TELEPORT IN 10 SECONDS ***"
+	{
+		"default"		"*** ZM TELEPORT IN 10 SECONDS ***"
+	}
+	"*** GLASS BREAK IN 5 SECONDS ! ***"
+	{
+		"default"		"*** GLASS BREAK IN 5 SECONDS ! ***"
+	}
+	"*** OH MY GOD ! THIS IS BOMEC ! ***"
+	{
+		"default"		"*** OH MY GOD ! THIS IS BOMEC ! ***"
+	}
+	"*** Minigun has been picked"
+	{
+		"default"		"*** Minigun has been picked"
+	}
+	"*** MINIGUN STAY COVER OR CANCER ***"
+	{
+		"default"		"*** MINIGUN STAY COVER OR CANCER ***"
+	}
+	"*** OK FUCKING FAGGOT STAY COVER HERE 20 SECONDS ***"
+	{
+		"default"		"*** OK FUCKING FAGGOT STAY COVER HERE 20 SECONDS ***"
+	}
+	"*** OMFG ! IT'S FAGGET TIME ! LET'S ROCK ! ***"
+	{
+		"default"		"*** OMFG ! IT'S FAGGET TIME ! LET'S ROCK ! ***"
+	}
+	"*** LASER TIME"
+	{
+		"default"		"*** LASER TIME"
+	}
+	"*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***"
+	{
+		"default"		"*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***"
+	}
+}

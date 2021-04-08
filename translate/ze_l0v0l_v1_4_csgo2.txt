@@ -1,0 +1,139 @@
+"Chat"
+{
+	">>> STAGE 1 : GARDEN MODE<<<"
+	{
+		"default"		">>> STAGE 1 : GARDEN MODE<<<"
+	}
+	">>> Map made by Moray <<<"
+	{
+		"default"		">>> Map made by Moray <<<"
+	}
+	">>> Special thanks to hobbit <<<"
+	{
+		"default"		">>> Special thanks to hobbit <<<"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"default"		">>> HOLD 20 SECONDS <<<"
+	}
+	">>> ROUTE2 : HOLD 20 SECONDS <<<"
+	{
+		"default"		">>> ROUTE2 : HOLD 20 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP HEAL <<<"
+	}
+	">>> ROUTE1 : HOLD 20 SECONDS <<<"
+	{
+		"default"		">>> ROUTE1 : HOLD 20 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP AMMO <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP PUSH <<<"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"default"		">>> HOLD 25 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"default"		">>> HOLD 10 SECONDS <<<"
+	}
+	">>> ROUTE3 : HOLD 15 SECONDS <<<"
+	{
+		"default"		">>> ROUTE3 : HOLD 15 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
+	}
+	">>> PLAYER HAS PICKED UP WATER TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP WATER TOILET <<<"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"default"		">>> HOLD 15 SECONDS <<<"
+	}
+	">>> PRIEST IS COMING <<<"
+	{
+		"default"		">>> PRIEST IS COMING <<<"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
+	}
+	">>> PRIEST IS DEFEATED <<<"
+	{
+		"default"		">>> PRIEST IS DEFEATED <<<"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"default"		">>> STAGE 1 COMPLETED <<<"
+	}
+	">>> STAGE 2 : FOREST MODE<<<"
+	{
+		"default"		">>> STAGE 2 : FOREST MODE<<<"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"default"		">>> HOLD 35 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP POISON TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP POISON TOILET <<<"
+	}
+	">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
+	}
+	">>> GUNSHIP IS COMING <<<"
+	{
+		"default"		">>> GUNSHIP IS COMING <<<"
+	}
+	">>> GUNSHIP IS DEFEATED <<<"
+	{
+		"default"		">>> GUNSHIP IS DEFEATED <<<"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"default"		">>> 5 SECONDS LEFT <<<"
+	}
+	">>> GARGANTUA IS COMING <<<"
+	{
+		"default"		">>> GARGANTUA IS COMING <<<"
+	}
+	">>> GARGANTUA IS DEFEATED <<<"
+	{
+		"default"		">>> GARGANTUA IS DEFEATED <<<"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"default"		">>> HOLD 30 SECONDS <<<"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"default"		">>> FAIL ROUND <<<"
+	}
+	">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
+	}
+}

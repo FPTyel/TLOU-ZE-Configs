@@ -1,0 +1,143 @@
+"Chat"
+{
+	"***Welcome***"
+	{
+		"default"		"***Welcome***"
+	}
+	"***Map by Qahnaarin***"
+	{
+		"default"		"***Map by Qahnaarin***"
+	}
+	"***Special thanks to: Luffaren***"
+	{
+		"default"		"***Special thanks to: Luffaren***"
+	}
+	"***Special thanks to: Leks***"
+	{
+		"default"		"***Special thanks to: Leks***"
+	}
+	"***Special thanks to: Jllaneras***"
+	{
+		"default"		"***Special thanks to: Jllaneras***"
+	}
+	"***Special thanks to: Moltard***"
+	{
+		"default"		"***Special thanks to: Moltard***"
+	}
+	"***Special thanks to: Onahole***"
+	{
+		"default"		"***Special thanks to: Onahole***"
+	}
+	"***Level: The Maze***"
+	{
+		"default"		"***Level: The Maze***"
+	}
+	"***Door will open in 40s***"
+	{
+		"default"		"***Door will open in 40s***"
+	}
+	"***Door will open in 20s***"
+	{
+		"default"		"***Door will open in 20s***"
+	}
+	"***Door will open in 5s***"
+	{
+		"default"		"***Door will open in 5s***"
+	}
+	"***The door will open in 20s***"
+	{
+		"default"		"***The door will open in 20s***"
+	}
+	"***The door will open in 5s***"
+	{
+		"default"		"***The door will open in 5s***"
+	}
+	"**Door is opening***"
+	{
+		"default"		"**Door is opening***"
+	}
+	"***All pillars have been activated***"
+	{
+		"default"		"***All pillars have been activated***"
+	}
+	"***Teleporter will activate in 40s***"
+	{
+		"default"		"***Teleporter will activate in 40s***"
+	}
+	"***Teleporter will activate in 20s***"
+	{
+		"default"		"***Teleporter will activate in 20s***"
+	}
+	"***Teleporter will activate in 5s***"
+	{
+		"default"		"***Teleporter will activate in 5s***"
+	}
+	"***Teleporter activated***"
+	{
+		"default"		"***Teleporter activated***"
+	}
+	"***Bridge ready in 30s***"
+	{
+		"default"		"***Bridge ready in 30s***"
+	}
+	"***The bridge will lower down soon, keep defending***"
+	{
+		"default"		"***The bridge will lower down soon, keep defending***"
+	}
+	"***Bridge ready in 15s***"
+	{
+		"default"		"***Bridge ready in 15s***"
+	}
+	"***FALL BACK***"
+	{
+		"default"		"***Fall back***"
+	}
+	"***Button 1 is triggered***"
+	{
+		"default"		"***Button 1 is triggered***"
+	}
+	"***Button 2 is triggered***"
+	{
+		"default"		"***Button 2 is triggered***"
+	}
+	"***All buttons are pressed***"
+	{
+		"default"		"***All buttons are pressed***"
+	}
+	"***The door will open in 30s***"
+	{
+		"default"		"***The door will open in 30s***"
+	}
+	"***The door will open in 15s***"
+	{
+		"default"		"***The door will open in 15s***"
+	}
+	"***Door is opening***"
+	{
+		"default"		"***Door is opening***"
+	}
+	"***WELCOME TO THE MAZE***"
+	{
+		"default"		"***WELCOME TO THE MAZE***"
+	}
+	"***Find the button to open the door***"
+	{
+		"default"		"***Find the button to open the door***"
+	}
+	"***AFK teleport in 10s***"
+	{
+		"default"		"***AFK teleport in 10s***"
+	}
+	"***You found the button***"
+	{
+		"default"		"***You found the button***"
+	}
+	"***The door will open in 10s***"
+	{
+		"default"		"***The door will open in 10s***"
+	}
+	"***Waiting for something to happen...***"
+	{
+		"default"		"***Waiting for something to happen...***"
+	}
+}

@@ -1,0 +1,83 @@
+"Chat"
+{
+	"**The ship is sinking! You have 5 minutes to get to the surface!!!**"
+	{
+		"default"		"**The ship is sinking! You have 5 minutes to get to the surface!!!**"
+	}
+	"**Map created by DoomsKnight and Mousey. **"
+	{
+		"default"		"**Map created by DoomsKnight and Mousey. **"
+	}
+	"**Elevator 1 is leaving in 5 seconds**"
+	{
+		"default"		"**Elevator 1 is leaving in 5 seconds**"
+	}
+	"**Security gate closing in 5 seconds**"
+	{
+		"default"		"**Security gate closing in 5 seconds**"
+	}
+	"**Main elevator is leaving in 15 seconds!!**"
+	{
+		"default"		"**Main elevator is leaving in 15 seconds!!**"
+	}
+	"**Main elevator is leaving in 5 seconds!!**"
+	{
+		"default"		"**Main elevator is leaving in 5 seconds!!**"
+	}
+	"**Final Door will open in 60 seconds**"
+	{
+		"default"		"**Final Door will open in 60 seconds**"
+	}
+	"**Lasers will be de-activated in 20 seconds**"
+	{
+		"default"		"**Lasers will be de-activated in 20 seconds**"
+	}
+	"**Main elevator's second doors now unlocked**"
+	{
+		"default"		"**Main elevator's second doors now unlocked**"
+	}
+	"**Lasers will be de-activated in 5 seconds**"
+	{
+		"default"		"**Lasers will be de-activated in 5 seconds**"
+	}
+	"**Final Door will open in 30 seconds**"
+	{
+		"default"		"**Final Door will open in 30 seconds**"
+	}
+	"**Final Door will open unlock in 5 seconds**"
+	{
+		"default"		"**Final Door will open unlock in 5 seconds**"
+	}
+	"**The boats will leave in 2 minutes!** "
+	{
+		"default"		"**The boats will leave in 2 minutes!** "
+	}
+	"**Zombies have reached the glass doors!!!**"
+	{
+		"default"		"**Zombies have reached the glass doors!!!**"
+	}
+	"**The boats will leave in 1 minute!**"
+	{
+		"default"		"**The boats will leave in 1 minute!**"
+	}
+	"**The boats will leave in 30 seconds!**"
+	{
+		"default"		"**The boats will leave in 30 seconds!**"
+	}
+	"**The boats will leave in 10 seconds!**"
+	{
+		"default"		"**The boats will leave in 10 seconds!**"
+	}
+	"**The boats have left!!!**"
+	{
+		"default"		"**The boats have left!!!**"
+	}
+	"**Elevator 2 is leaving in 5 seconds**"
+	{
+		"default"		"**Elevator 2 is leaving in 5 seconds**"
+	}
+	"**Tested by FlamedSoul. Oszy. Xblade. Sonic. RmX. BHK. Born2Die and Scarface.**"
+	{
+		"default"		"**Tested by FlamedSoul. Oszy. Xblade. Sonic. RmX. BHK. Born2Die and Scarface.**"
+	}
+}

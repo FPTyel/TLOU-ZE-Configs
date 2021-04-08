@@ -1,0 +1,59 @@
+"Chat"
+{
+	"***Tram Leaving Momentarily***"
+	{
+		"default"		"***Tram Leaving Momentarily***"
+	}
+	"***Aux Door Opening In 15 Seconds***"
+	{
+		"default"		"***Aux Door Opening In 15 Seconds***"
+	}
+	"***Outdoor Tram Starting in 45 Seconds***"
+	{
+		"default"		"***Outdoor Tram Starting in 45 Seconds***"
+	}
+	"***Outdoor Tram Starting in 30 Seconds***"
+	{
+		"default"		"***Outdoor Tram Starting in 30 Seconds***"
+	}
+	"***Outdoor Tram Starting in 5 Seconds***"
+	{
+		"default"		"***Outdoor Tram Starting in 5 Seconds***"
+	}
+	"***Airlock Door Opening In 5 Seconds***"
+	{
+		"default"		"***Airlock Door Opening In 5 Seconds***"
+	}
+	"***Rocket Lift Leaving In 20 Seconds***"
+	{
+		"default"		"***Rocket Lift Leaving In 20 Seconds***"
+	}
+	"***Zombies can now climb on the side of the rocket lift***"
+	{
+		"default"		"***Zombies can now climb on the side of the rocket lift***"
+	}
+	"<Rocket Launch In 30 Seconds>"
+	{
+		"default"		"<Rocket Launch In 30 Seconds>"
+	}
+	"<Rocket Launch In 20 Seconds>"
+	{
+		"default"		"<Rocket Launch In 20 Seconds>"
+	}
+	"<Rocket Launch In 10 Seconds>"
+	{
+		"default"		"<Rocket Launch In 10 Seconds>"
+	}
+	"<Rocket Launch In 5 Seconds>"
+	{
+		"default"		"<Rocket Launch In 5 Seconds>"
+	}
+	"<<ROCKET LAUNCHING>>"
+	{
+		"default"		"<<ROCKET LAUNCHING>>"
+	}
+	"<<<Map by Thatguyoverthere>>>"
+	{
+		"default"		"<<<Map by Thatguyoverthere>>>"
+	}
+}

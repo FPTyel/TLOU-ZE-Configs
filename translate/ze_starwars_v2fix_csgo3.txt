@@ -1,0 +1,355 @@
+"Chat"
+{
+	"**MAP BY MAKVI_ANKOM**"
+	{
+		"default"		"**MAP BY MAKVI_ANKOM**"
+	}
+	"**Ze_Star_wars**"
+	{
+		"default"		"**Ze_Star_wars**"
+	}
+	"**The bridge will open in 15 seconds**"
+	{
+		"default"		"**The bridge will open in 15 seconds**"
+	}
+	"A player picked up Force Grip"
+	{
+		"default"		"A player picked up Force Grip"
+	}
+	"**The bridge will open in 5 seconds**"
+	{
+		"default"		"**The bridge will open in 5 seconds**"
+	}
+	"**Fall back! The bridge open**"
+	{
+		"default"		"**Fall back! The bridge open**"
+	}
+	"**The doors will open in 15 seconds**"
+	{
+		"default"		"**The doors will open in 15 seconds**"
+	}
+	"**The doors will open in 5 seconds**"
+	{
+		"default"		"**The doors will open in 5 seconds**"
+	}
+	"**Fall back! The doors are open**"
+	{
+		"default"		"**Fall back! The doors are open**"
+	}
+	"**The barricade will explode in 10 seconds**"
+	{
+		"default"		"**The barricade will explode in 10 seconds**"
+	}
+	"A player picked up Force Speed"
+	{
+		"default"		"A player picked up Force Speed"
+	}
+	"**barricade exploded**"
+	{
+		"default"		"**barricade exploded**"
+	}
+	"**Destroy the barricade 15 second**"
+	{
+		"default"		"**Destroy the barricade 15 second**"
+	}
+	"**Destroy the barricade 5 second**"
+	{
+		"default"		"**Destroy the barricade 5 second**"
+	}
+	"A player picked up Force Heal"
+	{
+		"default"		"A player picked up Force Heal"
+	}
+	"A player picked up Force Push"
+	{
+		"default"		"A player picked up Force Push"
+	}
+	"**The palace doors will open in 30 seconds**"
+	{
+		"default"		"**The palace doors will open in 30 seconds**"
+	}
+	"AFK TELEPORT IN 5 SECOND"
+	{
+		"default"		"AFK TELEPORT IN 5 SECOND"
+	}
+	"**The palace doors will open in 5 seconds**"
+	{
+		"default"		"**The palace doors will open in 5 seconds**"
+	}
+	"A player picked up Force Lightning"
+	{
+		"default"		"A player picked up Force Lightning"
+	}
+	"A player picked up Force Blaster"
+	{
+		"default"		"A player picked up Force Blaster"
+	}
+	"**Destroy the barricade in 20 second**"
+	{
+		"default"		"**Destroy the barricade in 20 second**"
+	}
+	"**Last door will open in 30 seconds**"
+	{
+		"default"		"**Last door will open in 30 seconds**"
+	}
+	"**Fall back**"
+	{
+		"default"		"**FALL BACK**"
+	}
+	"**Fall back close door in 20 second**"
+	{
+		"default"		"**Fall back close door in 20 second**"
+	}
+	"**Level 1 is complete**"
+	{
+		"default"		"**Level 1 is complete**"
+	}
+	"**Level changes to NORMAL** "
+	{
+		"default"		"**Level changes to NORMAL** "
+	}
+	"**The doors will open in 3 seconds**"
+	{
+		"default"		"**The doors will open in 3 seconds**"
+	}
+	"**The droids will be killed in 10 seconds**"
+	{
+		"default"		"**The droids will be killed in 10 seconds**"
+	}
+	"**Fall back! Droids are killed**"
+	{
+		"default"		"**Fall back! Droids are killed**"
+	}
+	"**The doors will open in 30 seconds**"
+	{
+		"default"		"**The doors will open in 30 seconds**"
+	}
+	"**The droids will be killed in 30 seconds**"
+	{
+		"default"		"**The droids will be killed in 30 seconds**"
+	}
+	"**The droids will be killed in 5 seconds**"
+	{
+		"default"		"**The droids will be killed in 5 seconds**"
+	}
+	"**Fall back! Droids are killed** "
+	{
+		"default"		"**Fall back! Droids are killed** "
+	}
+	"**The doors will open in 20 seconds**"
+	{
+		"default"		"**The doors will open in 20 seconds**"
+	}
+	"**The doors will open in 5 seconds** "
+	{
+		"default"		"**The doors will open in 5 seconds** "
+	}
+	"**AFK TELEPORT IN 5 SECOND**"
+	{
+		"default"		"**AFK TELEPORT IN 5 SECOND**"
+	}
+	"**The droids will be killed in 20 seconds**"
+	{
+		"default"		"**The droids will be killed in 20 seconds**"
+	}
+	"**The droids will be killed in 25 seconds**"
+	{
+		"default"		"**The droids will be killed in 25 seconds**"
+	}
+	"**The hangar doors will open in 20 seconds**"
+	{
+		"default"		"**The hangar doors will open in 20 seconds**"
+	}
+	"**The hangar doors will open in 5 seconds**"
+	{
+		"default"		"**The hangar doors will open in 5 seconds**"
+	}
+	"**Activate the ship**"
+	{
+		"default"		"**Activate the ship**"
+	}
+	"**OMG! This is Darth Vader! SHOOT!**"
+	{
+		"default"		"**OMG! This is Darth Vader! SHOOT!**"
+	}
+	"**The ship will move in 15 seconds**"
+	{
+		"default"		"**The ship will move in 15 seconds**"
+	}
+	"**Fall back! The ship will move in 5 seconds**"
+	{
+		"default"		"**Fall back! The ship will move in 5 seconds**"
+	}
+	"**Level changes to HARD** "
+	{
+		"default"		"**Level changes to HARD** "
+	}
+	"**You completed Level 2**"
+	{
+		"default"		"**You completed Level 2**"
+	}
+	"**The bridge will open in 25 seconds**"
+	{
+		"default"		"**The bridge will open in 25 seconds**"
+	}
+	"**Fall back! The bridge has closed**"
+	{
+		"default"		"**Fall back! The bridge has closed**"
+	}
+	"*The doors will open in 10 seconds*"
+	{
+		"default"		"*The doors will open in 10 seconds*"
+	}
+	"*The doors will open in 5 seconds*"
+	{
+		"default"		"*The doors will open in 5 seconds*"
+	}
+	"BOSS USE RAGE. BACK BACK BACK!!!!!!"
+	{
+		"default"		"BOSS USE RAGE. BACK BACK BACK!!!!!!"
+	}
+	"get to the side GET TO THE SIDE"
+	{
+		"default"		"get to the side GET TO THE SIDE"
+	}
+	"*The droids will be killed in 20 seconds*"
+	{
+		"default"		"*The droids will be killed in 20 seconds*"
+	}
+	"*Droids cover the vicegerent. Capture him!*"
+	{
+		"default"		"*Droids cover the vicegerent. Capture him!*"
+	}
+	"*The droids will be killed in 5 seconds*"
+	{
+		"default"		"*The droids will be killed in 5 seconds*"
+	}
+	"*The doors will open in 15 seconds*"
+	{
+		"default"		"*The doors will open in 15 seconds*"
+	}
+	"*Fall back door close in 15 second*"
+	{
+		"default"		"*Fall back door close in 15 second*"
+	}
+	"**Darth maul dead**"
+	{
+		"default"		"**Darth maul dead**"
+	}
+	"**Level changes to EXTREME** "
+	{
+		"default"		"**Level changes to EXTREME** "
+	}
+	"**You completed Level 3**"
+	{
+		"default"		"**You completed Level 3**"
+	}
+	"Boss fight in 25 second"
+	{
+		"default"		"Boss fight in 25 second"
+	}
+	"Boss fight in 10 second"
+	{
+		"default"		"Boss fight in 10 second"
+	}
+	"Boss fight in 5 second"
+	{
+		"default"		"Boss fight in 5 second"
+	}
+	"Boss Fight"
+	{
+		"default"		"Boss Fight"
+	}
+	"BOSS USE PUSH"
+	{
+		"default"		"BOSS USE PUSH"
+	}
+	"BOSS USE RAGE "
+	{
+		"default"		"BOSS USE RAGE "
+	}
+	"BOSS USE ANGER"
+	{
+		"default"		"BOSS USE ANGER"
+	}
+	"BOSS USE  GRIP"
+	{
+		"default"		"BOSS USE  GRIP"
+	}
+	"BOSS USE THUNDER"
+	{
+		"default"		"BOSS USE THUNDER"
+	}
+	"**The wall will explode in 30 second**"
+	{
+		"default"		"**The wall will explode in 30 second**"
+	}
+	"A player picked up Force Rage"
+	{
+		"default"		"A player picked up Force Rage"
+	}
+	"The ship will fly away in 35 seconds"
+	{
+		"default"		"The ship will fly away in 35 seconds"
+	}
+	"Jumping on platform"
+	{
+		"default"		"Jumping on platform"
+	}
+	"**You completed Level 4**"
+	{
+		"default"		"**You completed Level 4**"
+	}
+	"**Level changes to EPIC** "
+	{
+		"default"		"**Level changes to EPIC** "
+	}
+	"First door will open in 10 seconds"
+	{
+		"default"		"First door will open in 10 seconds"
+	}
+	"Third door will open in 10 seconds"
+	{
+		"default"		"Third door will open in 10 seconds"
+	}
+	"Second door will open in 10 seconds "
+	{
+		"default"		"Second door will open in 10 seconds "
+	}
+	"Last door will open in 40 seconds"
+	{
+		"default"		"Last door will open in 40 seconds"
+	}
+	"AFK TELEPORT 5 IN SECOND"
+	{
+		"default"		"AFK TELEPORT 5 IN SECOND"
+	}
+	"BOSS USE RAGE"
+	{
+		"default"		"BOSS USE RAGE"
+	}
+	"BOSS USE SWORD. CROUCH!!!!!!"
+	{
+		"default"		"BOSS USE SWORD. CROUCH!!!!!!"
+	}
+	"FINAL ATTACK!!!!!!!!!!!! DESTROY DARTH MAUL!!!"
+	{
+		"default"		"FINAL ATTACK!!!!!!!!!!!! DESTROY DARTH MAUL!!!"
+	}
+	"**First door will open in 45 seconds** "
+	{
+		"default"		"**First door will open in 45 seconds** "
+	}
+	"Second door will open in 15 seconds"
+	{
+		"default"		"Second door will open in 15 seconds"
+	}
+	"Third door will open in 30 seconds"
+	{
+		"default"		"Third door will open in 30 seconds"
+	}
+	"**Level 5 is complete**"
+	{
+		"default"		"**Level 5 is complete**"
+	}
+}

@@ -1,0 +1,107 @@
+"Chat"
+{
+	"++DIFFICULTY LEVEL : EASY++"
+	{
+		"default"		"++DIFFICULTY LEVEL : EASY++"
+	}
+	"++GO TO THE PATH YOU WANT++"
+	{
+		"default"		"++GO TO THE PATH YOU WANT++"
+	}
+	"++HELICOPTER LEAVING IN 5 SECONDS++"
+	{
+		"default"		"++HELICOPTER LEAVING IN 5 SECONDS++"
+	}
+	"++MAP BY GARGANTUA++"
+	{
+		"default"		"++MAP BY GARGANTUA++"
+	}
+	"++EDITED BY: Hallucinogenic Troll++"
+	{
+		"default"		"++EDITED BY: Hallucinogenic Troll++"
+	}
+	"++HELICOPTER IS LEAVING++"
+	{
+		"default"		"++HELICOPTER IS LEAVING++"
+	}
+	"++DOOR WILL OPEN IN 90 SECONDS++"
+	{
+		"default"		"++DOOR WILL OPEN IN 90 SECONDS++"
+	}
+	"++DOOR WILL OPEN IN 60 SECONDS++"
+	{
+		"default"		"++DOOR WILL OPEN IN 60 SECONDS++"
+	}
+	"++DOOR WILL OPEN IN 30 SECONDS++"
+	{
+		"default"		"++DOOR WILL OPEN IN 30 SECONDS++"
+	}
+	"++DOOR WILL OPEN IN 15 SECONDS++"
+	{
+		"default"		"++DOOR WILL OPEN IN 15 SECONDS++"
+	}
+	"++DOOR WILL OPEN IN 10 SECONDS++"
+	{
+		"default"		"++DOOR WILL OPEN IN 10 SECONDS++"
+	}
+	"++DOOR WILL OPEN IN 5 SECONDS++"
+	{
+		"default"		"++DOOR WILL OPEN IN 5 SECONDS++"
+	}
+	"++DOOR IS NOW OPEN!!++"
+	{
+		"default"		"++DOOR IS NOW OPEN!!++"
+	}
+	"++DOOR WILL CLOSE IN 10 SECONDS++"
+	{
+		"default"		"++DOOR WILL CLOSE IN 10 SECONDS++"
+	}
+	"++DOOR WILL CLOSE IN 5 SECONDS++"
+	{
+		"default"		"++DOOR WILL CLOSE IN 5 SECONDS++"
+	}
+	"++DOOR IS CLOSING++"
+	{
+		"default"		"++DOOR IS CLOSING++"
+	}
+	"++ZOMBIES ARE INSIDE!!YOU LOSE++ "
+	{
+		"default"		"++ZOMBIES ARE INSIDE!!YOU LOSE++ "
+	}
+	"++INCOMING AIRSTRIKE!!++"
+	{
+		"default"		"++INCOMING AIRSTRIKE!!++"
+	}
+	"++EASY MODE COMPLETED++"
+	{
+		"default"		"++EASY MODE COMPLETED++"
+	}
+	"++NEXT LEVEL IS NORMAL++"
+	{
+		"default"		"++NEXT LEVEL IS NORMAL++"
+	}
+	"++DIFFICULTY LEVEL : NORMAL++"
+	{
+		"default"		"++DIFFICULTY LEVEL : NORMAL++"
+	}
+	"++GO ONLY UPON THE ROOF++"
+	{
+		"default"		"++GO ONLY UPON THE ROOF++"
+	}
+	"++GLASS BREAK IN 20 SECONDS++"
+	{
+		"default"		"++GLASS BREAK IN 20 SECONDS++"
+	}
+	"++GLASS IS BROKEN++"
+	{
+		"default"		"++GLASS IS BROKEN++"
+	}
+	"++NORMAL MODE COMPLETED++"
+	{
+		"default"		"++NORMAL MODE COMPLETED++"
+	}
+	"++NEXT LEVEL IS HARD++"
+	{
+		"default"		"++NEXT LEVEL IS HARD++"
+	}
+}

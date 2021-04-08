@@ -1,0 +1,107 @@
+"Chat"
+{
+	"**Stage 1**"
+	{
+		"default"		"**Stage 1**"
+	}
+	"**Original map : kz_otakuroom_v3 , by GemaYue**"
+	{
+		"default"		"**Original map : kz_otakuroom_v3 , by GemaYue**"
+	}
+	"**Map by Tenshi**"
+	{
+		"default"		"**Map by Tenshi**"
+	}
+	"**Model by uuz**"
+	{
+		"default"		"**Model by uuz**"
+	}
+	"**Special Thanks: GemaYue , uuz , ClariceTang, Jakka**"
+	{
+		"default"		"**Special Thanks: GemaYue , uuz , ClariceTang, Jakka**"
+	}
+	"**It's my first map , thanks for playing**"
+	{
+		"default"		"**It's my first map , thanks for playing**"
+	}
+	"**Hold 15 seconds**"
+	{
+		"default"		"**Hold 15 seconds**"
+	}
+	"**Hold 30 seconds**"
+	{
+		"default"		"**Hold 30 seconds**"
+	}
+	"**5 seconds**"
+	{
+		"default"		"**5 seconds**"
+	}
+	"**Hold 35 seconds**"
+	{
+		"default"		"**Hold 35 seconds**"
+	}
+	"**Hold on 80 seconds**"
+	{
+		"default"		"**Hold on 80 seconds**"
+	}
+	"**The elevator is rising**"
+	{
+		"default"		"**The elevator is rising**"
+	}
+	"**Round Failed**"
+	{
+		"default"		"**Round Failed**"
+	}
+	"**Nuke in 5 seconds**"
+	{
+		"default"		"**Nuke in 5 seconds**"
+	}
+	"**3**"
+	{
+		"default"		"**3**"
+	}
+	"**2**"
+	{
+		"default"		"**2**"
+	}
+	"**1**"
+	{
+		"default"		"**1**"
+	}
+	"**Stage 2**"
+	{
+		"default"		"**Stage 2**"
+	}
+	"**Hold 15 seconds until the lid of the rubbish bin opens**"
+	{
+		"default"		"**Hold 15 seconds until the lid of the rubbish bin opens**"
+	}
+	"**Jump into the rubbish bin**"
+	{
+		"default"		"**Jump into the rubbish bin**"
+	}
+	"**Hold 10 seconds**"
+	{
+		"default"		"**Hold 10 seconds**"
+	}
+	"**Wait 30 seconds**"
+	{
+		"default"		"**Wait 30 seconds**"
+	}
+	"**Wall breaking in 20 seconds**"
+	{
+		"default"		"**Wall breaking in 20 seconds**"
+	}
+	"**Hold 40 seconds**"
+	{
+		"default"		"**Hold 40 seconds**"
+	}
+	"**Go to the ClearRobot**"
+	{
+		"default"		"**Go to the ClearRobot**"
+	}
+	"**ClearRobot leaving in 8 seconds**"
+	{
+		"default"		"**ClearRobot leaving in 8 seconds**"
+	}
+}

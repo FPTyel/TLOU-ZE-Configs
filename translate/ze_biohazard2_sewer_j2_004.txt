@@ -1,0 +1,43 @@
+"Chat"
+{
+	"**** MAP BY AERIS_004 ****"
+	{
+		"default"		"**** MAP BY AERIS_004 ****"
+	}
+	"*** WWW.SUPREME-ELITE.FR ***"
+	{
+		"default"		"*** WWW.SUPREME-ELITE.FR ***"
+	}
+	"***START ELEVATOR 15 SEC***"
+	{
+		"default"		"***START ELEVATOR 15 SEC***"
+	}
+	"***ELEVATOR UP 14 SEC***"
+	{
+		"default"		"***ELEVATOR UP 14 SEC***"
+	}
+	"***GENERATOR DESACTIVED***"
+	{
+		"default"		"***GENERATOR DESACTIVED***"
+	}
+	"***CATCH FUSE***"
+	{
+		"default"		"***CATCH FUSE***"
+	}
+	"*** CATCH GOLD MEDAL ***"
+	{
+		"default"		"*** CATCH GOLD MEDAL ***"
+	}
+	"***CATCH SILVER MEDAL***"
+	{
+		"default"		"***CATCH SILVER MEDAL***"
+	}
+	"*** START TRAIN 20 SEC ***"
+	{
+		"default"		"*** START TRAIN 20 SEC ***"
+	}
+	"*** START TRAIN 10 SEC ***"
+	{
+		"default"		"*** START TRAIN 10 SEC ***"
+	}
+}

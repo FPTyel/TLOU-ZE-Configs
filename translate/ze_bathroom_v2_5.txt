@@ -1,0 +1,115 @@
+"Chat"
+{
+	"Map made by Puklica & Cuniczek"
+	{
+		"default"		"Map made by Puklica & Cuniczek"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"default"		">>> |LEVEL 1| <<<"
+	}
+	"Mouse trap has been picked up."
+	{
+		"default"		"Mouse trap has been picked up."
+	}
+	"Sponge builder has been picked up."
+	{
+		"default"		"Sponge builder has been picked up."
+	}
+	"We'll have to roll down the toilet paper to safely climb down."
+	{
+		"default"		"We'll have to roll down the toilet paper to safely climb down."
+	}
+	"Toilet paper has been rolled down. Fall back!"
+	{
+		"default"		"Toilet paper has been rolled down. Fall back!"
+	}
+	"Hold for 15 seconds."
+	{
+		"default"		"Hold for 15 seconds."
+	}
+	"Resist for 30 seconds."
+	{
+		"default"		"Resist for 30 seconds."
+	}
+	"Resist for 25 seconds."
+	{
+		"default"		"Resist for 25 seconds."
+	}
+	"Hold here until the blue sponge drops, then get in the tub!"
+	{
+		"default"		"Hold here until the blue sponge drops, then get in the tub!"
+	}
+	"The path is blocked. Fall back!"
+	{
+		"default"		"The path is blocked. Fall back!"
+	}
+	"The Rubber Duck has been defeated."
+	{
+		"default"		"The Rubber Duck has been defeated."
+	}
+	"You have won first level!"
+	{
+		"default"		"You have won first level!"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"default"		">>> |LEVEL 2| <<<"
+	}
+	"Resist until the wall breaks."
+	{
+		"default"		"Resist until the wall breaks."
+	}
+	"Fall back!"
+	{
+		"default"		"Fall back!"
+	}
+	"We have to clear the soap out of the way to be able to climb up."
+	{
+		"default"		"We have to clear the soap out of the way to be able to climb up."
+	}
+	"The path has been cleared."
+	{
+		"default"		"The path has been cleared."
+	}
+	"We'll have to jump outside and walk across the mirror."
+	{
+		"default"		"We'll have to jump outside and walk across the mirror."
+	}
+	"Hold on for a few seconds."
+	{
+		"default"		"Hold on for a few seconds."
+	}
+	"We can use the hairdryer to reach the shelf!"
+	{
+		"default"		"We can use the hairdryer to reach the shelf!"
+	}
+	"Seems like there is no way to escape."
+	{
+		"default"		"Seems like there is no way to escape."
+	}
+	"That's it! Break the shelf support."
+	{
+		"default"		"That's it! Break the shelf support."
+	}
+	"We are trapped! Resist!"
+	{
+		"default"		"We are trapped! Resist!"
+	}
+	"Fall back we can walk across the door."
+	{
+		"default"		"Fall back we can walk across the door."
+	}
+	"There is no way around."
+	{
+		"default"		"There is no way around."
+	}
+	"We'll have to enter the boiler. Resist!"
+	{
+		"default"		"We'll have to enter the boiler. Resist!"
+	}
+	"We can enter through that hole! Fall back!"
+	{
+		"default"		"We can enter through that hole! Fall back!"
+	}
+}

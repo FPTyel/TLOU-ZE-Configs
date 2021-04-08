@@ -1,0 +1,247 @@
+"Chat"
+{
+	">>> WARMUP ROUND <<<"
+	{
+		"default"		">>> WARMUP ROUND <<<"
+	}
+	">>>Welcome to ZE_PoncherMonkey_Shooter<<<"
+	{
+		"default"		">>>Welcome to ZE_PoncherMonkey_Shooter<<<"
+	}
+	">>> Map By Saddong <<<"
+	{
+		"default"		">>> Map By Saddong <<<"
+	}
+	">>> Special Thanks To Moltard Noctali Nano Soft Serve Lev<<<"
+	{
+		"default"		">>> Special Thanks To Moltard Noctali Nano Soft Serve Lev<<<"
+	}
+	">>> WARMUP ROUND 5 SECONDS REMAINING <<<"
+	{
+		"default"		">>> WARMUP ROUND 5 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 4 SECONDS REMAINING <<<"
+	{
+		"default"		">>> WARMUP ROUND 4 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 3 SECONDS REMAINING <<<"
+	{
+		"default"		">>> WARMUP ROUND 3 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 2 SECONDS REMAINING <<<"
+	{
+		"default"		">>> WARMUP ROUND 2 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 1 SECONDS REMAINING <<<"
+	{
+		"default"		">>> WARMUP ROUND 1 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND END <<<"
+	{
+		"default"		">>> WARMUP ROUND END <<<"
+	}
+	">>>[STAGE 1] Poncher Monkey Temple<<<"
+	{
+		"default"		">>>[STAGE 1] Poncher Monkey Temple<<<"
+	}
+	">>>The Doors Will Open In 25 seconds<<<"
+	{
+		"default"		">>>The Doors Will Open In 25 seconds<<<"
+	}
+	">>>A player has picked up Ice Tank <<<"
+	{
+		"default"		">>>A player has picked up Ice Tank <<<"
+	}
+	">>>Player Has Picked Up AmmoTank<<<"
+	{
+		"default"		">>>Player Has Picked Up AmmoTank<<<"
+	}
+	">>>Go<<<"
+	{
+		"default"		">>>Go<<<"
+	}
+	">>>The Zombies Will Tele In 10 Seconds<<<"
+	{
+		"default"		">>>The Zombies Will Tele In 10 Seconds<<<"
+	}
+	">>>Player Has Picked Up BoulderTank<<<"
+	{
+		"default"		">>>Player Has Picked Up BoulderTank<<<"
+	}
+	">>>Player Has Picked Up LightingTank<<<"
+	{
+		"default"		">>>Player Has Picked Up LightingTank<<<"
+	}
+	">>> Player Has Picked Up Zombie Invisibility <<<"
+	{
+		"default"		">>> Player Has Picked Up Zombie Invisibility <<<"
+	}
+	">>>The Door Will Open in 25 Seconds<<<"
+	{
+		"default"		">>>The Door Will Open in 25 Seconds<<<"
+	}
+	">>>Player Has Picked Up GravityTank<<<"
+	{
+		"default"		">>>Player Has Picked Up GravityTank<<<"
+	}
+	">>>Player Has Picked Up SubTank<<<"
+	{
+		"default"		">>>Player Has Picked Up SubTank<<<"
+	}
+	">>>The Zombies Will Tele In 5 Seconds<<<"
+	{
+		"default"		">>>The Zombies Will Tele In 5 Seconds<<<"
+	}
+	">>>Player Has Picked Up FireTank<<<"
+	{
+		"default"		">>>Player Has Picked Up FireTank<<<"
+	}
+	">>>The Door Will Open in 30 Seconds<<<"
+	{
+		"default"		">>>The Door Will Open in 30 Seconds<<<"
+	}
+	">>>The Door Will Close In 10 seconds<<<"
+	{
+		"default"		">>>The Door Will Close In 10 seconds<<<"
+	}
+	">>>Poncher Monkey Used WelFare<<<"
+	{
+		"default"		">>>Poncher Monkey Used WelFare<<<"
+	}
+	"Crouch To Avoid It"
+	{
+		"default"		"Crouch To Avoid It"
+	}
+	">>>Poncher Monkey Used Artic Watermelon<<<"
+	{
+		"default"		">>>Poncher Monkey Used Artic Watermelon<<<"
+	}
+	">>>Poncher Monkey Summoned Fried Chicken<<<"
+	{
+		"default"		">>>Poncher Monkey Summoned Fried Chicken<<<"
+	}
+	">>> Poncher Monkey Used Watermelon Executor <<<"
+	{
+		"default"		">>> Poncher Monkey Used Watermelon Executor <<<"
+	}
+	">>>Poncher Monkey Used Watermelon Tornando<<<"
+	{
+		"default"		">>>Poncher Monkey Used Watermelon Tornando<<<"
+	}
+	">>>DatBoi Wagon Leaving In 30 Seconds<<<"
+	{
+		"default"		">>>DatBoi Wagon Leaving In 30 Seconds<<<"
+	}
+	">>>DatBoi Wagon Leaving In 10 Seconds<<<"
+	{
+		"default"		">>>DatBoi Wagon Leaving In 10 Seconds<<<"
+	}
+	">>>DatBoi Wagon Is Now Leaving<<<"
+	{
+		"default"		">>>DatBoi Wagon Is Now Leaving<<<"
+	}
+	">>>Player Has Picked Up Zombie Heal<<<"
+	{
+		"default"		">>>Player Has Picked Up Zombie Heal<<<"
+	}
+	">>>Player Has Picked Up WindTank<<<"
+	{
+		"default"		">>>Player Has Picked Up WindTank<<<"
+	}
+	">>>Poncher Monkey Summoned Loud Nigra<<<"
+	{
+		"default"		">>>Poncher Monkey Summoned Loud Nigra<<<"
+	}
+	">>>The Duck God Appears<<<"
+	{
+		"default"		">>>The Duck God Appears<<<"
+	}
+	">>> Stage 1 Completed!!!!! <<<"
+	{
+		"default"		">>> Stage 1 Completed!!!!! <<<"
+	}
+	">>> Moving onto Stage 2 <<<"
+	{
+		"default"		">>> Moving onto Stage 2 <<<"
+	}
+	">>>STAGE 2: Islam<<<"
+	{
+		"default"		">>>STAGE 2: Islam<<<"
+	}
+	"***Allah yok***"
+	{
+		"default"		"***Allah yok***"
+	}
+	">>>You Found Osama Bin Laden!!!<<<"
+	{
+		"default"		">>>You Found Osama Bin Laden!!!<<<"
+	}
+	">>>He Will Guide You Through Islam<<<"
+	{
+		"default"		">>>He Will Guide You Through Islam<<<"
+	}
+	">>>The Door To Islam Will Open in 25 Seconds<<<"
+	{
+		"default"		">>>The Door To Islam Will Open in 25 Seconds<<<"
+	}
+	">>>FallBack<<<"
+	{
+		"default"		">>>FallBack<<<"
+	}
+	">>>Osama Is Getting Thirsty<<<<<<"
+	{
+		"default"		">>>Osama Is Getting Thirsty<<<<<<"
+	}
+	">>>Find The Mountain Dew In One Of The Rooms<<<<<<"
+	{
+		"default"		">>>Find The Mountain Dew In One Of The Rooms<<<<<<"
+	}
+	">>>Zombies Will Tele in 10 seconds<<<"
+	{
+		"default"		">>>Zombies Will Tele in 10 seconds<<<"
+	}
+	">>>Mountain Dew Has Been Found!!!!!<<<<"
+	{
+		"default"		">>>Mountain Dew Has Been Found!!!!!<<<<"
+	}
+	">>>Door Will open in 20 Seconds<<<"
+	{
+		"default"		">>>Door Will open in 20 Seconds<<<"
+	}
+	">>>Muhammad Will Guide Us Further into Islam!!!!<<<<"
+	{
+		"default"		">>>Muhammad Will Guide Us Further into Islam!!!!<<<<"
+	}
+	">>>Fall Back<<<"
+	{
+		"default"		">>>Fall Back<<<"
+	}
+	">>>Zombie tele in 10 seconds<<<"
+	{
+		"default"		">>>Zombie tele in 10 seconds<<<"
+	}
+	">>>Door Will Open In 16 Seconds<<<"
+	{
+		"default"		">>>Door Will Open In 16 Seconds<<<"
+	}
+	">>>FallBack!!!<<<"
+	{
+		"default"		">>>FallBack!!!<<<"
+	}
+	">>>Zombie Will Tele in 10 Seconds<<<"
+	{
+		"default"		">>>Zombie Will Tele in 10 Seconds<<<"
+	}
+	">>>The Door Will Open in 20 Seconds<<<"
+	{
+		"default"		">>>The Door Will Open in 20 Seconds<<<"
+	}
+	">>>Door Will Open in 15 Seconds<<<"
+	{
+		"default"		">>>Door Will Open in 15 Seconds<<<"
+	}
+	">>>Door Closing in 5 Seconds<<<"
+	{
+		"default"		">>>Door Closing in 5 Seconds<<<"
+	}
+}

@@ -1,0 +1,19 @@
+"Chat"
+{
+	"[MAP BY GEORGE]"
+	{
+		"default"		"[MAP BY GEORGE]"
+	}
+	"[A LEVER HAS BEEN PRESSED]"
+	{
+		"default"		"[A LEVER HAS BEEN PRESSED]"
+	}
+	"[A BOW HAS BEEN ACQUIRED]"
+	{
+		"default"		"[A BOW HAS BEEN ACQUIRED]"
+	}
+	"[THE END... FOR NOW]"
+	{
+		"default"		"[THE END... FOR NOW]"
+	}
+}

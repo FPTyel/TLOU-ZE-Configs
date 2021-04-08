@@ -1,0 +1,603 @@
+"Chat"
+{
+	"** [STORY] STAGE 1 - PRISON **"
+	{
+		"default"		"** [STORY] STAGE 1 - PRISON **"
+	}
+	"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
+	{
+		"default"		"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
+	}
+	"** [STORY] The old prison lies under the big forest of slender world **"
+	{
+		"default"		"** [STORY] The old prison lies under the big forest of slender world **"
+	}
+	"** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **"
+	{
+		"default"		"** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **"
+	}
+	"** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **"
+	{
+		"default"		"** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **"
+	}
+	"** Teleporting HUMANS in 5 secs **"
+	{
+		"default"		"** Teleporting HUMANS in 5 secs **"
+	}
+	"** SPIDERZOMBIE INCOMING **"
+	{
+		"default"		"** SPIDERZOMBIE INCOMING **"
+	}
+	"** Teleporting ZOMBIES in 5 secs **"
+	{
+		"default"		"** Teleporting ZOMBIES in 5 secs **"
+	}
+	"** Cover 20 seconds **"
+	{
+		"default"		"** Cover 20 seconds **"
+	}
+	"** Cover 5 seconds **"
+	{
+		"default"		"** Cover 5 seconds **"
+	}
+	"** Cover 30 seconds **"
+	{
+		"default"		"** Cover 30 seconds **"
+	}
+	"** Prison door will open in 5 seconds **"
+	{
+		"default"		"** Prison door will open in 5 seconds **"
+	}
+	"** GO LEFT **"
+	{
+		"default"		"** GO LEFT **"
+	}
+	"** Cover 25 seconds **"
+	{
+		"default"		"** Cover 25 seconds **"
+	}
+	"** Cover 30 seconds until the gate opens **"
+	{
+		"default"		"** Cover 30 seconds until the gate opens **"
+	}
+	"** Cover 5 more seconds **"
+	{
+		"default"		"** Cover 5 more seconds **"
+	}
+	"** 50 seconds left until final escape!! **"
+	{
+		"default"		"** 50 seconds left until final escape!! **"
+	}
+	"** 40 seconds left until final escape!! **"
+	{
+		"default"		"** 40 seconds left until final escape!! **"
+	}
+	"** 30 seconds left until final escape!! **"
+	{
+		"default"		"** 30 seconds left until final escape!! **"
+	}
+	"** 20 seconds left until final escape!! **"
+	{
+		"default"		"** 20 seconds left until final escape!! **"
+	}
+	"** 10 seconds left until final escape!! **"
+	{
+		"default"		"** 10 seconds left until final escape!! **"
+	}
+	"** 5 seconds left until final escape!! **"
+	{
+		"default"		"** 5 seconds left until final escape!! **"
+	}
+	"** Go UP the ladder!! **"
+	{
+		"default"		"** Go UP the ladder!! **"
+	}
+	"** Incoming nuke in 8 seconds!! **"
+	{
+		"default"		"** Incoming nuke in 8 seconds!! **"
+	}
+	"** Congratulations - you won STAGE 1 **"
+	{
+		"default"		"** Congratulations - you won STAGE 1 **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"default"		"** MAP BY SLAYERDRAGON **"
+	}
+	"** [STORY] STAGE 2 - SCHOOL **"
+	{
+		"default"		"** [STORY] STAGE 2 - SCHOOL **"
+	}
+	"** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **"
+	{
+		"default"		"** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **"
+	}
+	"** [STORY] We have to collect some items if we want to survive in slender world**"
+	{
+		"default"		"** [STORY] We have to collect some items if we want to survive in slender world**"
+	}
+	"** DOORS WILL OPEN IN 20 SECS **"
+	{
+		"default"		"** DOORS WILL OPEN IN 20 SECS **"
+	}
+	"** DOORS WILL OPEN IN 5 SECS **"
+	{
+		"default"		"** DOORS WILL OPEN IN 5 SECS **"
+	}
+	"** DOOR WILL OPEN IN 15 SECS **"
+	{
+		"default"		"** DOOR WILL OPEN IN 15 SECS **"
+	}
+	"** DOOR WILL OPEN IN 5 SECS **"
+	{
+		"default"		"** DOOR WILL OPEN IN 5 SECS **"
+	}
+	"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
+	{
+		"default"		"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
+	}
+	"** 5 MORE SECONDS **"
+	{
+		"default"		"** 5 MORE SECONDS **"
+	}
+	"** DEFEND 20 SECONDS **"
+	{
+		"default"		"** DEFEND 20 SECONDS **"
+	}
+	"** [STORY] Oh no! It's a trap! Slenderman betrayed us! **"
+	{
+		"default"		"** [STORY] Oh no! It's a trap! Slenderman betrayed us! **"
+	}
+	"** [STORY] He killed a few of our good men! **"
+	{
+		"default"		"** [STORY] He killed a few of our good men! **"
+	}
+	"** DEFEND 15 MORE SECONDS **"
+	{
+		"default"		"** DEFEND 15 MORE SECONDS **"
+	}
+	"** GO BACK TO THE EXIT OF THE SCHOOL ! **"
+	{
+		"default"		"** GO BACK TO THE EXIT OF THE SCHOOL ! **"
+	}
+	"** THE EXIT WILL OPEN IN 40 SECS **"
+	{
+		"default"		"** THE EXIT WILL OPEN IN 40 SECS **"
+	}
+	"** SLENDERZOMBIE -FIRE- WOKE UP **"
+	{
+		"default"		"** SLENDERZOMBIE -FIRE- WOKE UP **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"default"		"** 10 SECONDS LEFT **"
+	}
+	"** GET IN THE CHOPPER !! **"
+	{
+		"default"		"** GET IN THE CHOPPER !! **"
+	}
+	"** CHOPPER WILL LEAVE IN 10 SECS !! **"
+	{
+		"default"		"** CHOPPER WILL LEAVE IN 10 SECS !! **"
+	}
+	"** Congratulations - you won STAGE 2 **"
+	{
+		"default"		"** Congratulations - you won STAGE 2 **"
+	}
+	"** [STORY] STAGE 3 - FOREST **"
+	{
+		"default"		"** [STORY] STAGE 3 - FOREST **"
+	}
+	"** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **"
+	{
+		"default"		"** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **"
+	}
+	"** [STORY] If we want to survive this forest we need to power the main generator **"
+	{
+		"default"		"** [STORY] If we want to survive this forest we need to power the main generator **"
+	}
+	"** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **"
+	{
+		"default"		"** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **"
+	}
+	"** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **"
+	{
+		"default"		"** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **"
+	}
+	"** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **"
+	{
+		"default"		"** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **"
+	}
+	"** A fuel can has been picked up **"
+	{
+		"default"		"** A fuel can has been picked up **"
+	}
+	"** FUEL 20 % **"
+	{
+		"default"		"** FUEL 20 % **"
+	}
+	"** FUEL 40 % **"
+	{
+		"default"		"** FUEL 40 % **"
+	}
+	"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
+	{
+		"default"		"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
+	}
+	"** FUEL 60 % **"
+	{
+		"default"		"** FUEL 60 % **"
+	}
+	"** FUEL 80 % **"
+	{
+		"default"		"** FUEL 80 % **"
+	}
+	"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
+	{
+		"default"		"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
+	}
+	"** FUEL 100 % **"
+	{
+		"default"		"** FUEL 100 % **"
+	}
+	"** THE GENERATOR HAS ENOUGH FUEL! **"
+	{
+		"default"		"** THE GENERATOR HAS ENOUGH FUEL! **"
+	}
+	"** GET ALL BACK TO THE BASE **"
+	{
+		"default"		"** GET ALL BACK TO THE BASE **"
+	}
+	"** NUKE in 45 SECONDS **"
+	{
+		"default"		"** NUKE in 45 SECONDS **"
+	}
+	"** NUKE in 35 SECONDS **"
+	{
+		"default"		"** NUKE in 35 SECONDS **"
+	}
+	"** NUKE in 25 SECONDS **"
+	{
+		"default"		"** NUKE in 25 SECONDS **"
+	}
+	"** NUKE in 15 SECONDS **"
+	{
+		"default"		"** NUKE in 15 SECONDS **"
+	}
+	"** NUKE in 5 SECONDS **"
+	{
+		"default"		"** NUKE in 5 SECONDS **"
+	}
+	"** Congratulations - you won STAGE 3 **"
+	{
+		"default"		"** Congratulations - you won STAGE 3 **"
+	}
+	"** [STORY] STAGE 4 - MANSION **"
+	{
+		"default"		"** [STORY] STAGE 4 - MANSION **"
+	}
+	"** [STORY] After a few days of wandering we finally arrived at slender mansion **"
+	{
+		"default"		"** [STORY] After a few days of wandering we finally arrived at slender mansion **"
+	}
+	"** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **"
+	{
+		"default"		"** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **"
+	}
+	"** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **"
+	{
+		"default"		"** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **"
+	}
+	"** [STORY] Good luck hunting him down once and for all!! **"
+	{
+		"default"		"** [STORY] Good luck hunting him down once and for all!! **"
+	}
+	"** Cover here till we broke the mansions main door **"
+	{
+		"default"		"** Cover here till we broke the mansions main door **"
+	}
+	"** KEEP DEFENDING **"
+	{
+		"default"		"** KEEP DEFENDING **"
+	}
+	"** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **"
+	{
+		"default"		"** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **"
+	}
+	"** CLOSE THE VALVES FOR LOWERING THE WATER **"
+	{
+		"default"		"** CLOSE THE VALVES FOR LOWERING THE WATER **"
+	}
+	"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
+	{
+		"default"		"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
+	}
+	"** All drains have been closed - Water is lowering ** "
+	{
+		"default"		"** All drains have been closed - Water is lowering ** "
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"default"		"** 5 SECONDS LEFT **"
+	}
+	"** GO BACK TO THE MAIN HALL **"
+	{
+		"default"		"** GO BACK TO THE MAIN HALL **"
+	}
+	"** 15 SECONDS TILL WE OPENED FIRST GATE **"
+	{
+		"default"		"** 15 SECONDS TILL WE OPENED FIRST GATE **"
+	}
+	"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
+	{
+		"default"		"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
+	}
+	"** GO GO GO **"
+	{
+		"default"		"** GO GO GO **"
+	}
+	"** ELEVATOR WILL START IN 30 SECONDS **"
+	{
+		"default"		"** ELEVATOR WILL START IN 30 SECONDS **"
+	}
+	"** ELEVATOR IS LEAVING IN 20 SECONDS **"
+	{
+		"default"		"** ELEVATOR IS LEAVING IN 20 SECONDS **"
+	}
+	"** ELEVATOR IS LEAVING IN 10 SECONDS **"
+	{
+		"default"		"** ELEVATOR IS LEAVING IN 10 SECONDS **"
+	}
+	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
+	{
+		"default"		"** ELEVATOR IS LEAVING IN 5 SECONDS **"
+	}
+	"** WE ARE ALMOST AT SLENDERMAN !! **"
+	{
+		"default"		"** WE ARE ALMOST AT SLENDERMAN !! **"
+	}
+	"** KEEP COVERING **"
+	{
+		"default"		"** KEEP COVERING **"
+	}
+	"** 5 MORE SECONDS! **"
+	{
+		"default"		"** 5 MORE SECONDS! **"
+	}
+	"** YOU FINALLY FOUND ME **"
+	{
+		"default"		"** YOU FINALLY FOUND ME **"
+	}
+	"** NOW YOU WILL MEET YOUR DESTINY **"
+	{
+		"default"		"** NOW YOU WILL MEET YOUR DESTINY **"
+	}
+	"** BOSS USES TELEPORTS NOW **"
+	{
+		"default"		"** BOSS USES TELEPORTS NOW **"
+	}
+	"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
+	{
+		"default"		"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
+	}
+	"** FINAL STAND **"
+	{
+		"default"		"** FINAL STAND **"
+	}
+	"** GOGOGO **"
+	{
+		"default"		"** GOGOGO **"
+	}
+	"** YOU DID IT **"
+	{
+		"default"		"** YOU DID IT **"
+	}
+	"** YOU ESCAPED SLENDER!! **"
+	{
+		"default"		"** YOU ESCAPED SLENDER!! **"
+	}
+	"** .. OR NOT ? **"
+	{
+		"default"		"** .. OR NOT ? **"
+	}
+	"** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 2 **"
+	{
+		"default"		"** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 2 **"
+	}
+	"** [SURVIVAL] ROUND 2 **"
+	{
+		"default"		"** [SURVIVAL] ROUND 2 **"
+	}
+	"** [MODE] BARRELMODE **"
+	{
+		"default"		"** [MODE] BARRELMODE **"
+	}
+	"** [MAP] FOREST **"
+	{
+		"default"		"** [MAP] FOREST **"
+	}
+	"** [ITEMS] BARRELS ! **"
+	{
+		"default"		"** [ITEMS] BARRELS ! **"
+	}
+	"** [ZMITEM] BARRELBOSS **"
+	{
+		"default"		"** [ZMITEM] BARRELBOSS **"
+	}
+	"** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"default"		"** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **"
+	}
+	"** BARRELS BARRELS EVERYWHERE! **"
+	{
+		"default"		"** BARRELS BARRELS EVERYWHERE! **"
+	}
+	"** BARRELBOSS INCOMING **"
+	{
+		"default"		"** BARRELBOSS INCOMING **"
+	}
+	"** NUKE in 180 seconds **"
+	{
+		"default"		"** NUKE in 180 seconds **"
+	}
+	"** NUKE in 150 seconds **"
+	{
+		"default"		"** NUKE in 150 seconds **"
+	}
+	"** NUKE in 120 seconds **"
+	{
+		"default"		"** NUKE in 120 seconds **"
+	}
+	"** NUKE in 90 seconds **"
+	{
+		"default"		"** NUKE in 90 seconds **"
+	}
+	"** NUKE in 60 seconds **"
+	{
+		"default"		"** NUKE in 60 seconds **"
+	}
+	"** NUKE in 30 seconds **"
+	{
+		"default"		"** NUKE in 30 seconds **"
+	}
+	"** Congratulations - you won SURVIVAL 2 **"
+	{
+		"default"		"** Congratulations - you won SURVIVAL 2 **"
+	}
+	"** [SURVIVAL] ROUND 3 **"
+	{
+		"default"		"** [SURVIVAL] ROUND 3 **"
+	}
+	"** [MODE] MADNESS! **"
+	{
+		"default"		"** [MODE] MADNESS! **"
+	}
+	"** [MAP] SCHOOL **"
+	{
+		"default"		"** [MAP] SCHOOL **"
+	}
+	"** [ITEMS] Lantern - Glowstick - Monkey BOMB **"
+	{
+		"default"		"** [ITEMS] Lantern - Glowstick - Monkey BOMB **"
+	}
+	"** [ZMITEM] SLENDERFIREZOMBIES! **"
+	{
+		"default"		"** [ZMITEM] SLENDERFIREZOMBIES! **"
+	}
+	"** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"default"		"** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **"
+	}
+	"** SURVIVE **"
+	{
+		"default"		"** SURVIVE **"
+	}
+	"** INVADERS MUST DIE !! **"
+	{
+		"default"		"** INVADERS MUST DIE !! **"
+	}
+	"** Congratulations - you won SURVIVAL 3 **"
+	{
+		"default"		"** Congratulations - you won SURVIVAL 3 **"
+	}
+	"** [DIFFICULTY] FINAL MADNESS MODE **"
+	{
+		"default"		"** [DIFFICULTY] FINAL MADNESS MODE **"
+	}
+	"** NO SPAWN PROTECTION **"
+	{
+		"default"		"** NO SPAWN PROTECTION **"
+	}
+	"** FINAL MADNESS MODE TRY 1"
+	{
+		"3 **"
+		{
+			"default"		"** FINAL MADNESS MODE TRY 1/3 **"
+		}
+	}
+	"** FINAL MADNESS MODE TRY 2"
+	{
+		"3 **"
+		{
+			"default"		"** FINAL MADNESS MODE TRY 2/3 **"
+		}
+	}
+	"** FINAL MADNESS MODE TRY 3"
+	{
+		"3 **"
+		{
+			"default"		"** FINAL MADNESS MODE TRY 3/3 **"
+		}
+	}
+	"** IF YOU FAIL THIS ROUND > RETURN TO FUN 3 MODE **"
+	{
+		"default"		"** IF YOU FAIL THIS ROUND > RETURN TO FUN 3 MODE **"
+	}
+	"** [MODE] SLENDERMAN **"
+	{
+		"default"		"** [MODE] SLENDERMAN **"
+	}
+	"** [ITEMS] Lantern - Glowstick - Flashlight **"
+	{
+		"default"		"** [ITEMS] Lantern - Glowstick - Flashlight **"
+	}
+	"** [ZMITEM] SLENDERZOMBIES **"
+	{
+		"default"		"** [ZMITEM] SLENDERZOMBIES **"
+	}
+	"** Collect all 8 Pages **"
+	{
+		"default"		"** Collect all 8 Pages **"
+	}
+	"** SLENDERZOMBIE INCOMING **"
+	{
+		"default"		"** SLENDERZOMBIE INCOMING **"
+	}
+	"** Pages 1"
+	{
+		"8 **"
+		{
+			"default"		"** Pages 1/8 **"
+		}
+	}
+	"** Pages 2"
+	{
+		"8 **"
+		{
+			"default"		"** Pages 2/8 **"
+		}
+	}
+	"** Pages 3"
+	{
+		"8 **"
+		{
+			"default"		"** Pages 3/8 **"
+		}
+	}
+	"** Pages 4"
+	{
+		"8 **"
+		{
+			"default"		"** Pages 4/8 **"
+		}
+	}
+	"** Pages 5"
+	{
+		"8 **"
+		{
+			"default"		"** Pages 5/8 **"
+		}
+	}
+	"** 30 Seconds left until slenderman RAPE! **"
+	{
+		"default"		"** 30 Seconds left until slenderman RAPE! **"
+	}
+	"** You have failed - NO TIME LEFT **"
+	{
+		"default"		"** You have failed - NO TIME LEFT **"
+	}
+	"** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 3 **"
+	{
+		"default"		"** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 3 **"
+	}
+}

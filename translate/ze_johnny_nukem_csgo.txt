@@ -1,0 +1,203 @@
+"Chat"
+{
+	"**ZE_JOHNNY_NUKEM**"
+	{
+		"default"		"**ZE_JOHNNY_NUKEM**"
+	}
+	"**Map by Lucky9Two (original autor) Headshooter.SC HaRyDe and autism**"
+	{
+		"default"		"**Map by Lucky9Two (original autor) Headshooter.SC HaRyDe and autism**"
+	}
+	"**We are not giving thanks to Microsoft Edge for models**"
+	{
+		"default"		"**We are not giving thanks to Microsoft Edge for models**"
+	}
+	"**...or to GAF for some cookies**"
+	{
+		"default"		"**...or to GAF for some cookies**"
+	}
+	"**...Vanya and Blue Dragon are not thanked aswell**"
+	{
+		"default"		"**...Vanya and Blue Dragon are not thanked aswell**"
+	}
+	"**[Stage 1 - The Rebellion against the Frog Kingdom]**"
+	{
+		"default"		"**[Stage 1 - The Rebellion against the Frog Kingdom]**"
+	}
+	"Professor  *Johnny. We found out that Hitler is hiding in this dimension..*"
+	{
+		"default"		"Professor  *Johnny. We found out that Hitler is hiding in this dimension..*"
+	}
+	"Professor  *Don't forget that you are here to kill him. Roger?*"
+	{
+		"default"		"Professor  *Don't forget that you are here to kill him. Roger?*"
+	}
+	"Professor  *No lollygagging!*"
+	{
+		"default"		"Professor  *No lollygagging!*"
+	}
+	"Johnny  *Yeah yeah... I know. Roger that.*"
+	{
+		"default"		"Johnny  *Yeah yeah... I know. Roger that.*"
+	}
+	"Johnny  *But how the fuck did I end up doing this?*"
+	{
+		"default"		"Johnny  *But how the fuck did I end up doing this?*"
+	}
+	"**TIP -- These elephants work as explosive mines**"
+	{
+		"default"		"**TIP -- These elephants work as explosive mines**"
+	}
+	"**TIP -- This item gives unlimited ammo for 5 seconds**"
+	{
+		"default"		"**TIP -- This item gives unlimited ammo for 5 seconds**"
+	}
+	"**TIP -- Can only be used two times and has a 60 second cooldown**"
+	{
+		"default"		"**TIP -- Can only be used two times and has a 60 second cooldown**"
+	}
+	"Rayvel *Welcome stranger. How can I help you?*"
+	{
+		"default"		"Rayvel *Welcome stranger. How can I help you?*"
+	}
+	"**The entrance to the Frog Kingdom will open in 20 seconds** "
+	{
+		"default"		"**The entrance to the Frog Kingdom will open in 20 seconds** "
+	}
+	"Johnny *I need to find Hitler and make him pay for everything he has done*"
+	{
+		"default"		"Johnny *I need to find Hitler and make him pay for everything he has done*"
+	}
+	"Rayvel *Huh... you don't hear that everyday...*"
+	{
+		"default"		"Rayvel *Huh... you don't hear that everyday...*"
+	}
+	"Rayvel *But I have some information that can help you*"
+	{
+		"default"		"Rayvel *But I have some information that can help you*"
+	}
+	"Rayvel *Kill the King of the Frogs. His hideout is in that bathtub up ahead*"
+	{
+		"default"		"Rayvel *Kill the King of the Frogs. His hideout is in that bathtub up ahead*"
+	}
+	"Rayvel *He has some very valuable intel that can help you. *"
+	{
+		"default"		"Rayvel *He has some very valuable intel that can help you. *"
+	}
+	"Rayvel  *With that intel you can open up the teleport to the Kingdom of Steroids...*"
+	{
+		"default"		"Rayvel  *With that intel you can open up the teleport to the Kingdom of Steroids...*"
+	}
+	"Rayvel  *...and maybe you will find Hitler there.*"
+	{
+		"default"		"Rayvel  *...and maybe you will find Hitler there.*"
+	}
+	"**Entrance has been opened - Move!**"
+	{
+		"default"		"**Entrance has been opened - Move!**"
+	}
+	"Johnny *Jesus... in what did I just get myself into?*"
+	{
+		"default"		"Johnny *Jesus... in what did I just get myself into?*"
+	}
+	"**TIP -- Flamethrower can last up to 20 seconds**"
+	{
+		"default"		"**TIP -- Flamethrower can last up to 20 seconds**"
+	}
+	"**The paper wall will disappear in 30 seconds** "
+	{
+		"default"		"**The paper wall will disappear in 30 seconds** "
+	}
+	"**Fall back!**"
+	{
+		"default"		"**Fall back!**"
+	}
+	"**There's no way out... Hold here until something happens!** "
+	{
+		"default"		"**There's no way out... Hold here until something happens!** "
+	}
+	"**TIP -- The laser it fires slows down the zombies**"
+	{
+		"default"		"**TIP -- The laser it fires slows down the zombies**"
+	}
+	"**TIP -- It has a 55 second cooldown**"
+	{
+		"default"		"**TIP -- It has a 55 second cooldown**"
+	}
+	"**TIP -- This item heals you and teammates around you for 5 seconds**"
+	{
+		"default"		"**TIP -- This item heals you and teammates around you for 5 seconds**"
+	}
+	"**TIP -- Can only be used twice and has a 10 second cooldown**"
+	{
+		"default"		"**TIP -- Can only be used twice and has a 10 second cooldown**"
+	}
+	"**Fall back**"
+	{
+		"default"		"**Fall back**"
+	}
+	"**We have nowhere to go again...** "
+	{
+		"default"		"**We have nowhere to go again...** "
+	}
+	"**Defend the zombies off until something happens** "
+	{
+		"default"		"**Defend the zombies off until something happens** "
+	}
+	"**Looks like that ship can move - Defend until it comes for us** "
+	{
+		"default"		"**Looks like that ship can move - Defend until it comes for us** "
+	}
+	"Rayvel *Well done! The King of Frogs is right there in that arena*"
+	{
+		"default"		"Rayvel *Well done! The King of Frogs is right there in that arena*"
+	}
+	"Rayvel *Just be warned... He is a very dangerous foe!*"
+	{
+		"default"		"Rayvel *Just be warned... He is a very dangerous foe!*"
+	}
+	"Rayvel *Once you've killed him don't forget to send me the intel!*"
+	{
+		"default"		"Rayvel *Once you've killed him don't forget to send me the intel!*"
+	}
+	"Rayvel *And then find a way back to the teleporter.*"
+	{
+		"default"		"Rayvel *And then find a way back to the teleporter.*"
+	}
+	"Johnny *And why should I trust you?*"
+	{
+		"default"		"Johnny *And why should I trust you?*"
+	}
+	"Rayvel *Is there anyone else you can trust in?*"
+	{
+		"default"		"Rayvel *Is there anyone else you can trust in?*"
+	}
+	"Johnny *I guess not...*"
+	{
+		"default"		"Johnny *I guess not...*"
+	}
+	"**A player has picked up the Dong Chainsaw**"
+	{
+		"default"		"**A player has picked up the Dong Chainsaw**"
+	}
+	"Rayvel *Send me that intel and I'll fix the teleporter for you*"
+	{
+		"default"		"Rayvel *Send me that intel and I'll fix the teleporter for you*"
+	}
+	"**The boat is here -- Get on**"
+	{
+		"default"		"**The boat is here -- Get on**"
+	}
+	"**TIP -- Boss Fight incoming**"
+	{
+		"default"		"**TIP -- Boss Fight incoming**"
+	}
+	"Johnny *King my ass - Come out here and fight me!*"
+	{
+		"default"		"Johnny *King my ass - Come out here and fight me!*"
+	}
+	"King of Frogs *With great pleasure! You'll regret coming up here to fight me*"
+	{
+		"default"		"King of Frogs *With great pleasure! You'll regret coming up here to fight me*"
+	}
+}

@@ -1,0 +1,399 @@
+"Chat"
+{
+	"***Map by RelaxingWalls***"
+	{
+		"default"		"***Map by RelaxingWalls***"
+	}
+	"***LEVEL -- BOX WITH A LIGHT IN IT***"
+	{
+		"default"		"***LEVEL -- BOX WITH A LIGHT IN IT***"
+	}
+	"***Hold off the until you're teleport to 1 of the 12 maps!***"
+	{
+		"default"		"***Hold off the until you're teleport to 1 of the 12 maps!***"
+	}
+	"***Teleporting in 30secs!***"
+	{
+		"default"		"***Teleporting in 30secs!***"
+	}
+	"***By the way...zombie should be spawning soon...so pick a corner and good luck!***"
+	{
+		"default"		"***By the way...zombie should be spawning soon...so pick a corner and good luck!***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***Good Luck!!***"
+	{
+		"default"		"***Good Luck!!***"
+	}
+	"***LEVEL -- OPEN FIELD***"
+	{
+		"default"		"***LEVEL -- OPEN FIELD***"
+	}
+	"***Beware K.'s SlenderMan!*** "
+	{
+		"default"		"***Beware K.'s SlenderMan!*** "
+	}
+	"***Survive for 75secs***"
+	{
+		"default"		"***Survive for 75secs***"
+	}
+	"***Survive for 15secs***"
+	{
+		"default"		"***Survive for 15secs***"
+	}
+	"***Don't Delay!***"
+	{
+		"default"		"***Don't Delay!***"
+	}
+	"***Teleporting to next map!***"
+	{
+		"default"		"***Teleporting to next map!***"
+	}
+	"***LEVEL -- ZOMEAL ESCAPE***"
+	{
+		"default"		"***LEVEL -- ZOMEAL ESCAPE***"
+	}
+	"***The Combealz Empire has invaded! Escape the falling kingdom!***"
+	{
+		"default"		"***The Combealz Empire has invaded! Escape the falling kingdom!***"
+	}
+	"***Use the two-man manual override to open the gate! LEFT then RIGHT!***"
+	{
+		"default"		"***Use the two-man manual override to open the gate! LEFT then RIGHT!***"
+	}
+	"***Enemy air troops have dropped off ground forces! Hatch will open in 25secs!***"
+	{
+		"default"		"***Enemy air troops have dropped off ground forces! Hatch will open in 25secs!***"
+	}
+	"***Gate open!***"
+	{
+		"default"		"***Gate open!***"
+	}
+	"***Gavitiy outside is beening warped!? Make you way to the escape pod at the end of the bridge!***"
+	{
+		"default"		"***Gavitiy outside is beening warped!? Make you way to the escape pod at the end of the bridge!***"
+	}
+	"***Escape vehicle leaving in 10secs!***"
+	{
+		"default"		"***Escape vehicle leaving in 10secs!***"
+	}
+	"***OH NO! The escape vehicle has been destroyed!***"
+	{
+		"default"		"***OH NO! The escape vehicle has been destroyed!***"
+	}
+	"***Hold the zombies back and defeat the boss before its too late!***"
+	{
+		"default"		"***Hold the zombies back and defeat the boss before its too late!***"
+	}
+	"***RUN AND SHOOT!!***"
+	{
+		"default"		"***RUN AND SHOOT!!***"
+	}
+	"***ESCAPE POD LEAVING IN 10secs!!***"
+	{
+		"default"		"***ESCAPE POD LEAVING IN 10secs!!***"
+	}
+	"***BOSS DEFEATED!!***"
+	{
+		"default"		"***BOSS DEFEATED!!***"
+	}
+	"***GET INTO THE ESCAPE POD!!***"
+	{
+		"default"		"***GET INTO THE ESCAPE POD!!***"
+	}
+	"***3!!***"
+	{
+		"default"		"***3!!***"
+	}
+	"***2!!***"
+	{
+		"default"		"***2!!***"
+	}
+	"***1!!***"
+	{
+		"default"		"***1!!***"
+	}
+	"***LEVEL -- CITY NIGHT ESCAPE***"
+	{
+		"default"		"***LEVEL -- CITY NIGHT ESCAPE***"
+	}
+	"***Escape to the helicopter on the roof!***"
+	{
+		"default"		"***Escape to the helicopter on the roof!***"
+	}
+	"***Elevator will arrive in 10secs!***"
+	{
+		"default"		"***Elevator will arrive in 10secs!***"
+	}
+	"***Elevator will leave in 10secs!***"
+	{
+		"default"		"***Elevator will leave in 10secs!***"
+	}
+	"***In case of emergency DO NOT break glass!***"
+	{
+		"default"		"***In case of emergency DO NOT break glass!***"
+	}
+	"***LEVEL -- CLASSIC ZOMBIE MOD***"
+	{
+		"default"		"***LEVEL -- CLASSIC ZOMBIE MOD***"
+	}
+	"***Zombie will arrive in 15secs!***"
+	{
+		"default"		"***Zombie will arrive in 15secs!***"
+	}
+	"***Hide and survive for 90secs!***"
+	{
+		"default"		"***Hide and survive for 90secs!***"
+	}
+	"***Survive for 20secs!***"
+	{
+		"default"		"***Survive for 20secs!***"
+	}
+	"***LEVEL -- VOLCANO ALTER ***"
+	{
+		"default"		"***LEVEL -- VOLCANO ALTER ***"
+	}
+	"***Hold here for 30secs!***"
+	{
+		"default"		"***Hold here for 30secs!***"
+	}
+	"***Only 90secs until the volcano erupts!***"
+	{
+		"default"		"***Only 90secs until the volcano erupts!***"
+	}
+	"***To escape the 4 sacrificial alters must be enabled!***"
+	{
+		"default"		"***To escape the 4 sacrificial alters must be enabled!***"
+	}
+	"***Only 30secs until the volcano erupts!***"
+	{
+		"default"		"***Only 30secs until the volcano erupts!***"
+	}
+	"***Volcano erupting!***"
+	{
+		"default"		"***Volcano erupting!***"
+	}
+	"***LEVEL -- MAGIC CARPET ESCAPE***"
+	{
+		"default"		"***LEVEL -- MAGIC CARPET ESCAPE***"
+	}
+	"***Take the magic carpet to escape the desert city!***"
+	{
+		"default"		"***Take the magic carpet to escape the desert city!***"
+	}
+	"***Magic Carpet leaving in 3secs!***"
+	{
+		"default"		"***Magic Carpet leaving in 3secs!***"
+	}
+	"***Hurry through the warehouse while the Magic Carpet passes underneath!***"
+	{
+		"default"		"***Hurry through the warehouse while the Magic Carpet passes underneath!***"
+	}
+	"***C4 set to go off in 30secs!***"
+	{
+		"default"		"***C4 set to go off in 30secs!***"
+	}
+	"***C4 set to go off in 10secs!***"
+	{
+		"default"		"***C4 set to go off in 10secs!***"
+	}
+	"***Path Clear!***"
+	{
+		"default"		"***Path Clear!***"
+	}
+	"***Defend for 35secs as the Magic Carpet...refuels?***"
+	{
+		"default"		"***Defend for 35secs as the Magic Carpet...refuels?***"
+	}
+	"***Magic Carpet leaving in 5secs!***"
+	{
+		"default"		"***Magic Carpet leaving in 5secs!***"
+	}
+	"***LEVEL -- INTERSTELLAR ESCAPE 9***"
+	{
+		"default"		"***LEVEL -- INTERSTELLAR ESCAPE 9***"
+	}
+	"***Escape the black hole by making it to the Interstellar 999!***"
+	{
+		"default"		"***Escape the black hole by making it to the Interstellar 999!***"
+	}
+	"***Cargo doors open in 10secs and will remain open for 10secs after opening! ***"
+	{
+		"default"		"***Cargo doors open in 10secs and will remain open for 10secs after opening! ***"
+	}
+	"***Bridge doors open in 10secs!***"
+	{
+		"default"		"***Bridge doors open in 10secs!***"
+	}
+	"***Bridge doors open!***"
+	{
+		"default"		"***Bridge doors open!***"
+	}
+	"***Interstellar 999 will enter warp in 30secs!***"
+	{
+		"default"		"***Interstellar 999 will enter warp in 30secs!***"
+	}
+	"***Interstellar 999 will enter warp in 10secs! Get inside!***"
+	{
+		"default"		"***Interstellar 999 will enter warp in 10secs! Get inside!***"
+	}
+	"***LEVEL -- GREEN HILL ESCAPE***"
+	{
+		"default"		"***LEVEL -- GREEN HILL ESCAPE***"
+	}
+	"***Gotta Go Fast! Escape to the Goal Plate! ***"
+	{
+		"default"		"***Gotta Go Fast! Escape to the Goal Plate! ***"
+	}
+	"***Tunnel path will open in 15secs!***"
+	{
+		"default"		"***Tunnel path will open in 15secs!***"
+	}
+	"***Tunnel path is open!***"
+	{
+		"default"		"***Tunnel path is open!***"
+	}
+	"***Tunnel path will open!***"
+	{
+		"default"		"***Tunnel path will open!***"
+	}
+	"***Jump on the Spring and go on the Loop !***"
+	{
+		"default"		"***Jump on the Spring and go on the Loop !***"
+	}
+	"***Goal reached!***"
+	{
+		"default"		"***Goal reached!***"
+	}
+	"***Score will finish being added in 30secs!***"
+	{
+		"default"		"***Score will finish being added in 30secs!***"
+	}
+	"***Time Bonus 5000!***"
+	{
+		"default"		"***Time Bonus 5000!***"
+	}
+	"***Ring Bonus 4100!***"
+	{
+		"default"		"***Ring Bonus 4100!***"
+	}
+	"***Score 9100!***"
+	{
+		"default"		"***Score 9100!***"
+	}
+	"***Pass the Goal within 10secs to win!***"
+	{
+		"default"		"***Pass the Goal within 10secs to win!***"
+	}
+	"***LEVEL -- ZOMBIE DEATHRUN***"
+	{
+		"default"		"***LEVEL -- ZOMBIE DEATHRUN***"
+	}
+	"***Escape the Rusty Temple Ruins before the curse spreads to the exit!***"
+	{
+		"default"		"***Escape the Rusty Temple Ruins before the curse spreads to the exit!***"
+	}
+	"***Be careful as the zombies will use traps to send you to the zombie cage!***"
+	{
+		"default"		"***Be careful as the zombies will use traps to send you to the zombie cage!***"
+	}
+	"***Curse has reached the entrance!***"
+	{
+		"default"		"***Curse has reached the entrance!***"
+	}
+	"***Curse has reached the dual arches!***"
+	{
+		"default"		"***Curse has reached the dual arches!***"
+	}
+	"***Good things come to those who wait...***"
+	{
+		"default"		"***Good things come to those who wait...***"
+	}
+	"***Temple exit reached 15secs left to escape!***"
+	{
+		"default"		"***Temple exit reached 15secs left to escape!***"
+	}
+	"***Curse has reached the Mona's hall!***"
+	{
+		"default"		"***Curse has reached the Mona's hall!***"
+	}
+	"***LEVEL -- FAIL NADE***"
+	{
+		"default"		"***LEVEL -- FAIL NADE***"
+	}
+	"***Survive 35secs until the upper pipe barriers break!***"
+	{
+		"default"		"***Survive 35secs until the upper pipe barriers break!***"
+	}
+	"***Land a nade in each one to activate the zombie drain!***"
+	{
+		"default"		"***Land a nade in each one to activate the zombie drain!***"
+	}
+	"***Zombies will arrive in 5secs!***"
+	{
+		"default"		"***Zombies will arrive in 5secs!***"
+	}
+	"***Upper pipes now open! Land a nade inside both within 25secs!***"
+	{
+		"default"		"***Upper pipes now open! Land a nade inside both within 25secs!***"
+	}
+	"***Pipe A block destroyed!***"
+	{
+		"default"		"***Pipe A block destroyed!***"
+	}
+	"***Pipe B block destroyed!***"
+	{
+		"default"		"***Pipe B block destroyed!***"
+	}
+	"***Zombie drain is now open!***"
+	{
+		"default"		"***Zombie drain is now open!***"
+	}
+	"***LEVEL -- ICECAP ESCAPE***"
+	{
+		"default"		"***LEVEL -- ICECAP ESCAPE***"
+	}
+	"***CAREFULLY make you way to the escape dock!***"
+	{
+		"default"		"***CAREFULLY make you way to the escape dock!***"
+	}
+	"***Cave charges set! HOLD the boxes for 20secs!***"
+	{
+		"default"		"***Cave charges set! HOLD the boxes for 20secs!***"
+	}
+	"***Cave open!***"
+	{
+		"default"		"***Cave open!***"
+	}
+	"***OH NO! Bridge charges triggered from the blast!***"
+	{
+		"default"		"***OH NO! Bridge charges triggered from the blast!***"
+	}
+	"***Boat and washtub leaving in 45secs!***"
+	{
+		"default"		"***Boat and washtub leaving in 45secs!***"
+	}
+	"***Boat and washtub leaving in 10secs!***"
+	{
+		"default"		"***Boat and washtub leaving in 10secs!***"
+	}
+	"***Wash tub has a hole! Take the boat!***"
+	{
+		"default"		"***Wash tub has a hole! Take the boat!***"
+	}
+	"***Nuke in 10secs!***"
+	{
+		"default"		"***Nuke in 10secs!***"
+	}
+}

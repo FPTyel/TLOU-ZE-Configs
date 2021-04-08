@@ -1,0 +1,111 @@
+"Chat"
+{
+	">> Warm up round End <<"
+	{
+		"default"		">> Warm up round End <<"
+	}
+	">> Light is born 20 s <<"
+	{
+		"default"		">> Light is born 20 s <<"
+	}
+	">> Light is born 10 s <<"
+	{
+		"default"		">> Light is born 10 s <<"
+	}
+	">> Offer a prayer... 30 s <<"
+	{
+		"default"		">> Offer a prayer... 30 s <<"
+	}
+	">> Offer a prayer... 10 s <<"
+	{
+		"default"		">> Offer a prayer... 10 s <<"
+	}
+	"<!!> Something is missing... <!!>"
+	{
+		"default"		"<!!> Something is missing... <!!>"
+	}
+	">> Nice ! Light is born 30 s <<"
+	{
+		"default"		">> Nice ! Light is born 30 s <<"
+	}
+	">> Nice ! Light is born 10 s <<"
+	{
+		"default"		">> Nice ! Light is born 10 s <<"
+	}
+	">> Destroy the door 30 s <<"
+	{
+		"default"		">> Destroy the door 30 s <<"
+	}
+	">> Destroy the door 10 s <<"
+	{
+		"default"		">> Destroy the door 10 s <<"
+	}
+	">> Mysterious powers intersect 30 s <<"
+	{
+		"default"		">> Mysterious powers intersect 30 s <<"
+	}
+	">> Mysterious powers intersect 10 s <<"
+	{
+		"default"		">> Mysterious powers intersect 10 s <<"
+	}
+	">> Nice ! Destroy the door 30 s <<"
+	{
+		"default"		">> Nice ! Destroy the door 30 s <<"
+	}
+	">> Nice ! Destroy the door 10 s <<"
+	{
+		"default"		">> Nice ! Destroy the door 10 s <<"
+	}
+	">> Elevator starts moving 30 s <<"
+	{
+		"default"		">> Elevator starts moving 30 s <<"
+	}
+	">> Elevator starts moving 10 s <<"
+	{
+		"default"		">> Elevator starts moving 10 s <<"
+	}
+	"<!!> LOOK UP !!!! <!!>"
+	{
+		"default"		"<!!> LOOK UP !!!! <!!>"
+	}
+	">> Nice ! Mysterious powers intersect 30 s <<"
+	{
+		"default"		">> Nice ! Mysterious powers intersect 30 s <<"
+	}
+	">> Nice ! Mysterious powers intersect 10 s <<"
+	{
+		"default"		">> Nice ! Mysterious powers intersect 10 s <<"
+	}
+	">> Activate the elevator 30 s <<"
+	{
+		"default"		">> Activate the elevator 30 s <<"
+	}
+	">> Activate the elevator 10 s <<"
+	{
+		"default"		">> Activate the elevator 10 s <<"
+	}
+	">> Let's go see the goddess. 30 s <<"
+	{
+		"default"		">> Let's go see the goddess. 30 s <<"
+	}
+	">> Let's go see the goddess. 10 s <<"
+	{
+		"default"		">> Let's go see the goddess. 10 s <<"
+	}
+	"<!!> Oh Shit! Elevator broke down... <!!>"
+	{
+		"default"		"<!!> Oh Shit! Elevator broke down... <!!>"
+	}
+	">> Nice ! Elevator is restored ! 30 s <<"
+	{
+		"default"		">> Nice ! Elevator is restored ! 30 s <<"
+	}
+	">> Nice ! Elevator is restored ! 10 s <<"
+	{
+		"default"		">> Nice ! Elevator is restored ! 10 s <<"
+	}
+	"<!!> Its not over yet, kid... <!!>"
+	{
+		"default"		"<!!> Its not over yet, kid... <!!>"
+	}
+}

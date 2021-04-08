@@ -1,0 +1,63 @@
+"Chat"
+{
+	"** MAP MADE BY DARKOGRE AND PATRAO! **"
+	{
+		"default"		"** MAP MADE BY DARKOGRE AND PATRAO! **"
+	}
+	"** USE THE COMPUTERS TO OPEN THE DOOR **"
+	{
+		"default"		"** USE THE COMPUTERS TO OPEN THE DOOR **"
+	}
+	"** DOOR OPENS IN 20 SECONDS **"
+	{
+		"default"		"** DOOR OPENS IN 20 SECONDS **"
+	}
+	"** TURN THE LASERS OFF **"
+	{
+		"default"		"** TURN THE LASERS OFF **"
+	}
+	"** GO TO THE BATHROOM **"
+	{
+		"default"		"** GO TO THE BATHROOM **"
+	}
+	"** BATHROOM DOOR OPENS IN 15 SECONDS **"
+	{
+		"default"		"** BATHROOM DOOR OPENS IN 15 SECONDS **"
+	}
+	"** DOOR IS OPEN **"
+	{
+		"default"		"** DOOR IS OPEN **"
+	}
+	"** Truck leaving in 15 seconds! **"
+	{
+		"default"		"** Truck leaving in 15 seconds! **"
+	}
+	"** The police wants to stop you! **"
+	{
+		"default"		"** The police wants to stop you! **"
+	}
+	"** Shoot them! **"
+	{
+		"default"		"** Shoot them! **"
+	}
+	"** The Elevator will leave in 10 seconds. Don't miss it! **"
+	{
+		"default"		"** The Elevator will leave in 10 seconds. Don't miss it! **"
+	}
+	"** HOLD 40 SECONDS **"
+	{
+		"default"		"** HOLD 40 SECONDS **"
+	}
+	"** 5 SECONDS LEFT  **"
+	{
+		"default"		"** 5 SECONDS LEFT  **"
+	}
+	"** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **"
+	{
+		"default"		"** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **"
+	}
+	"** DOOR IS OPENING **"
+	{
+		"default"		"** DOOR IS OPENING **"
+	}
+}

@@ -1,0 +1,27 @@
+"Chat"
+{
+	"*** Alien Moutain Escape - Final Fantasy Version ***"
+	{
+		"default"		"*** Alien Moutain Escape - Final Fantasy Version ***"
+	}
+	"*** Map remake by simsen ***"
+	{
+		"default"		"*** Map remake by simsen ***"
+	}
+	"*** For ZE server ggeasy.pl ***"
+	{
+		"default"		"*** For ZE server ggeasy.pl ***"
+	}
+	"*** Elevator is starting in 14 sec ***"
+	{
+		"default"		"*** Elevator is starting in 14 sec ***"
+	}
+	"*** Tram is starting in 5 sec ***"
+	{
+		"default"		"*** Tram is starting in 5 sec ***"
+	}
+	"*** Ship starting in 35 sec ***"
+	{
+		"default"		"*** Ship starting in 35 sec ***"
+	}
+}

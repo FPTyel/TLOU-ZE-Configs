@@ -1,0 +1,383 @@
+"Chat"
+{
+	"[PLAYING] Herb Alpert : Spanish Flea"
+	{
+		"default"		"[PLAYING] Herb Alpert : Spanish Flea"
+	}
+	"**MAP BY Hannibal[SPA] ** "
+	{
+		"default"		"**MAP BY Hannibal[SPA] ** "
+	}
+	"*** Thanks to  Kaemon ***"
+	{
+		"default"		"*** Thanks to  Kaemon ***"
+	}
+	"*** Thanks to  Lunatxz ***"
+	{
+		"default"		"*** Thanks to  Lunatxz ***"
+	}
+	"** The round will start in few seconds** ** You must choose a room when door opening**"
+	{
+		"default"		"** The round will start in few seconds** ** You must choose a room when door opening**"
+	}
+	"[PLAYING] Blarsa : Garden Party"
+	{
+		"default"		"[PLAYING] Blarsa : Garden Party"
+	}
+	"** LETS START THE SELECCION PROCESS! **"
+	{
+		"default"		"** LETS START THE SELECCION PROCESS! **"
+	}
+	"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
+	{
+		"default"		"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
+	}
+	"** Playable area set to SMALL **"
+	{
+		"default"		"** Playable area set to SMALL **"
+	}
+	"**Giant chainsaw has been picked**"
+	{
+		"default"		"**Giant chainsaw has been picked**"
+	}
+	"[PLAYING] Crysis Warhead : jungle fight"
+	{
+		"default"		"[PLAYING] Crysis Warhead : jungle fight"
+	}
+	"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
+	{
+		"default"		"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
+	}
+	"[PLAYING] The Qemists : Stompbox"
+	{
+		"default"		"[PLAYING] The Qemists : Stompbox"
+	}
+	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	{
+		"default"		"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	}
+	"** 3 **"
+	{
+		"default"		"** 3 **"
+	}
+	"** 2 **"
+	{
+		"default"		"** 2 **"
+	}
+	"** 1 **"
+	{
+		"default"		"** 1 **"
+	}
+	"** FIRE! **"
+	{
+		"default"		"** FIRE! **"
+	}
+	"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
+	{
+		"default"		"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
+	}
+	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
+	{
+		"default"		"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
+	}
+	"** Playable area set to BIG **"
+	{
+		"default"		"** Playable area set to BIG **"
+	}
+	"**Team trigger activated: untouchable ct in 5s (15s)**"
+	{
+		"default"		"**Team trigger activated: untouchable ct in 5s (15s)**"
+	}
+	"**Team trigger activated: slow T in 5 s**"
+	{
+		"default"		"**Team trigger activated: slow T in 5 s**"
+	}
+	"**Global trigger activated: invert controls**"
+	{
+		"default"		"**Global trigger activated: invert controls**"
+	}
+	"**DOORS OPENING IN 30 SECONDS**"
+	{
+		"default"		"**DOORS OPENING IN 30 SECONDS**"
+	}
+	"** A CT reached the second labyrinth wall **"
+	{
+		"default"		"** A CT reached the second labyrinth wall **"
+	}
+	"** Every random walls from first labyrinth will be removed in 15s**"
+	{
+		"default"		"** Every random walls from first labyrinth will be removed in 15s**"
+	}
+	"**Gravity gun has been picked**"
+	{
+		"default"		"**Gravity gun has been picked**"
+	}
+	"**Global trigger activated: low gravity for humans**"
+	{
+		"default"		"**Global trigger activated: low gravity for humans**"
+	}
+	"**Doors opening**"
+	{
+		"default"		"**Doors opening**"
+	}
+	"**Global trigger activated: slippery ground in 5s**"
+	{
+		"default"		"**Global trigger activated: slippery ground in 5s**"
+	}
+	"**Team trigger activated: fast CT in 5 s**"
+	{
+		"default"		"**Team trigger activated: fast CT in 5 s**"
+	}
+	"**Teleporting all people of first labyrinth in 20 s**"
+	{
+		"default"		"**Teleporting all people of first labyrinth in 20 s**"
+	}
+	"** TREX HAS BEEN PICKED UP! **"
+	{
+		"default"		"** TREX HAS BEEN PICKED UP! **"
+	}
+	"**Global trigger activated: absolute darkness in 5s **"
+	{
+		"default"		"**Global trigger activated: absolute darkness in 5s **"
+	}
+	"**Global trigger activated: everyone will be teleported to a room int 8s**"
+	{
+		"default"		"**Global trigger activated: everyone will be teleported to a room int 8s**"
+	}
+	"**Team trigger activated: untouchable zombies in 5s (7s)**"
+	{
+		"default"		"**Team trigger activated: untouchable zombies in 5s (7s)**"
+	}
+	"**Team trigger activated: fast T in 5 s**"
+	{
+		"default"		"**Team trigger activated: fast T in 5 s**"
+	}
+	"** ZOMBIE BOSS! 1 zombie faster and stronger than ever  **"
+	{
+		"default"		"** ZOMBIE BOSS! 1 zombie faster and stronger than ever  **"
+	}
+	"** Someone has reached the core walls **"
+	{
+		"default"		"** Someone has reached the core walls **"
+	}
+	"[PLAYING] Crysis Warhead : Airfield 2"
+	{
+		"default"		"[PLAYING] Crysis Warhead : Airfield 2"
+	}
+	"** Every random walls from second labyrinth will be removed in 20s**"
+	{
+		"default"		"** Every random walls from second labyrinth will be removed in 20s**"
+	}
+	"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
+	{
+		"default"		"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
+	}
+	"**Resist 35 s!**"
+	{
+		"default"		"**Resist 35 s!**"
+	}
+	"**Final barrier WILL BREAK IN 4 SECONDS**"
+	{
+		"default"		"**Final barrier WILL BREAK IN 4 SECONDS**"
+	}
+	"**Run! Reach the core!**"
+	{
+		"default"		"**Run! Reach the core!**"
+	}
+	"[PLAYING] Little Big Planet : Garden theme"
+	{
+		"default"		"[PLAYING] Little Big Planet : Garden theme"
+	}
+	"*** The CT have win the round! Choose the finish mode ***"
+	{
+		"default"		"*** The CT have win the round! Choose the finish mode ***"
+	}
+	"*** Finish mode ** 1 shoot 1 kill!**"
+	{
+		"default"		"*** Finish mode ** 1 shoot 1 kill!**"
+	}
+	"**Lift leaving in 7 s**"
+	{
+		"default"		"**Lift leaving in 7 s**"
+	}
+	"**3**"
+	{
+		"default"		"**3**"
+	}
+	"**2**"
+	{
+		"default"		"**2**"
+	}
+	"**1**"
+	{
+		"default"		"**1**"
+	}
+	"**Go!**"
+	{
+		"default"		"**Go!**"
+	}
+	"** MASSACRE AT AT BUYZONE! Be careful with the zombies! **"
+	{
+		"default"		"** MASSACRE AT AT BUYZONE! Be careful with the zombies! **"
+	}
+	"**Global trigger activated: absolute blind in 5 s**"
+	{
+		"default"		"**Global trigger activated: absolute blind in 5 s**"
+	}
+	"**Titan monster has entered the game**"
+	{
+		"default"		"**Titan monster has entered the game**"
+	}
+	"*** Finish mode ** Normal nuke!**"
+	{
+		"default"		"*** Finish mode ** Normal nuke!**"
+	}
+	"[PLAYING] Jim Carrey : Cuban Pete"
+	{
+		"default"		"[PLAYING] Jim Carrey : Cuban Pete"
+	}
+	"** Playable area set to HUGE **"
+	{
+		"default"		"** Playable area set to HUGE **"
+	}
+	"** VOLUNTARY! Jump into the red hole to get zombified **"
+	{
+		"default"		"** VOLUNTARY! Jump into the red hole to get zombified **"
+	}
+	"** Unlimited ammo weapon picked! **"
+	{
+		"default"		"** Unlimited ammo weapon picked! **"
+	}
+	"**Pyramid Head is looking for you ... **"
+	{
+		"default"		"**Pyramid Head is looking for you ... **"
+	}
+	"** Playable area set to MEDIUM **"
+	{
+		"default"		"** Playable area set to MEDIUM **"
+	}
+	"**Zombie stopper has been picked by a zombie**"
+	{
+		"default"		"**Zombie stopper has been picked by a zombie**"
+	}
+	"**Scary zombie has been picked**"
+	{
+		"default"		"**Scary zombie has been picked**"
+	}
+	"**Team trigger activated: global push to zombies in 5 s**"
+	{
+		"default"		"**Team trigger activated: global push to zombies in 5 s**"
+	}
+	"**Team trigger activated: zombies health is now 50000**"
+	{
+		"default"		"**Team trigger activated: zombies health is now 50000**"
+	}
+	"** GRAVITY! Low gravity all the round! **"
+	{
+		"default"		"** GRAVITY! Low gravity all the round! **"
+	}
+	"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
+	{
+		"default"		"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
+	}
+	"** STATIC LABYRINTH! Choose the correct way! **"
+	{
+		"default"		"** STATIC LABYRINTH! Choose the correct way! **"
+	}
+	"** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
+	{
+		"default"		"** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
+	}
+	"** NUKE IN 60 SECONDS **"
+	{
+		"default"		"** NUKE IN 60 SECONDS **"
+	}
+	"** NUKE IN 40 SECONDS **"
+	{
+		"default"		"** NUKE IN 40 SECONDS **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"default"		"** NUKE IN 20 SECONDS **"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"default"		"**10 SECONDS LEFT**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"default"		"**5 SECONDS LEFT**"
+	}
+	"** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
+	{
+		"default"		"** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
+	}
+	"**Resist 35 seconds!**"
+	{
+		"default"		"**Resist 35 seconds!**"
+	}
+	"** RUN **"
+	{
+		"default"		"** RUN **"
+	}
+	"** LORDS OF DESTRUCTION! Two voluntaries please! **"
+	{
+		"default"		"** LORDS OF DESTRUCTION! Two voluntaries please! **"
+	}
+	"[PLAYING] Crysis Warhead : Hovercraft Pursuit"
+	{
+		"default"		"[PLAYING] Crysis Warhead : Hovercraft Pursuit"
+	}
+	"** ALL ITEMS MODE ENABLED **"
+	{
+		"default"		"** ALL ITEMS MODE ENABLED **"
+	}
+	"** REVERSE! Go from coliseum to the begining! **"
+	{
+		"default"		"** REVERSE! Go from coliseum to the begining! **"
+	}
+	"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
+	{
+		"default"		"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
+	}
+	"** BRIDGE IS OPENING IN 20 SECONDS **"
+	{
+		"default"		"** BRIDGE IS OPENING IN 20 SECONDS **"
+	}
+	"** Metal door will open in 20 seconds! **"
+	{
+		"default"		"** Metal door will open in 20 seconds! **"
+	}
+	"** Portal will open in 30 seconds! **"
+	{
+		"default"		"** Portal will open in 30 seconds! **"
+	}
+	"** PORTAL IS READY! GO IN! **"
+	{
+		"default"		"** PORTAL IS READY! GO IN! **"
+	}
+	"** VIP! Protect the VIP! If the dies you all die! **"
+	{
+		"default"		"** VIP! Protect the VIP! If the dies you all die! **"
+	}
+	"**VIP selected! ** The Human without knife will be turned into the VIP!**"
+	{
+		"default"		"**VIP selected! ** The Human without knife will be turned into the VIP!**"
+	}
+	"**If the VIP dies EVERYONE die**"
+	{
+		"default"		"**If the VIP dies EVERYONE die**"
+	}
+	"**If the VIP survive you will have a reward for next round**"
+	{
+		"default"		"**If the VIP survive you will have a reward for next round**"
+	}
+	"**The VIP has been killed!**"
+	{
+		"default"		"**The VIP has been killed!**"
+	}
+	"**Hold 20 seconds!**"
+	{
+		"default"		"**Hold 20 seconds!**"
+	}
+}

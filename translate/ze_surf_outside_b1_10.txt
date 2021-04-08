@@ -1,0 +1,23 @@
+"Chat"
+{
+	"##Many ideas come from ze_rizomata##"
+	{
+		"default"		"##Many ideas come from ze_rizomata##"
+	}
+	"##thaks for your playing##"
+	{
+		"default"		"##thaks for your playing##"
+	}
+	"##someone picked up the Heal&Wind##"
+	{
+		"default"		"##someone picked up the Heal&Wind##"
+	}
+	"##Heal&Wind has been used##"
+	{
+		"default"		"##Heal&Wind has been used##"
+	}
+	"##Next surf will be harder to beat##"
+	{
+		"default"		"##Next surf will be harder to beat##"
+	}
+}

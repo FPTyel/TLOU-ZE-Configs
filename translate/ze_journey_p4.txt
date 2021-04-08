@@ -1,0 +1,111 @@
+"Chat"
+{
+	"*** Lightning Orb has been acquired ***"
+	{
+		"default"		"*** Lightning Orb has been acquired ***"
+	}
+	"*** Door opening in 20 seconds ***"
+	{
+		"default"		"*** Door opening in 20 seconds ***"
+	}
+	"*** Door opening in 5 seconds ***"
+	{
+		"default"		"*** Door opening in 5 seconds ***"
+	}
+	"*** Boats departing in 20 seconds ***"
+	{
+		"default"		"*** Boats departing in 20 seconds ***"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"default"		"*** Round failed! Zombies have reached the objective! ***"
+	}
+	"*** Abyssal Orb has been acquired ***"
+	{
+		"default"		"*** Abyssal Orb has been acquired ***"
+	}
+	"*** Celestial Embrace has been acquired ***"
+	{
+		"default"		"*** Celestial Embrace has been acquired ***"
+	}
+	"*** Glacial Orb has been acquired ***"
+	{
+		"default"		"*** Glacial Orb has been acquired ***"
+	}
+	"*** Boats departing in 5 seconds ***"
+	{
+		"default"		"*** Boats departing in 5 seconds ***"
+	}
+	"*** Gust Orb has been acquired ***"
+	{
+		"default"		"*** Gust Orb has been acquired ***"
+	}
+	"*** Gate opening in 10 seconds ***"
+	{
+		"default"		"*** Gate opening in 10 seconds ***"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"default"		"*** 5 seconds left ***"
+	}
+	"*** Divine Orb has been acquired ***"
+	{
+		"default"		"*** Divine Orb has been acquired ***"
+	}
+	"*** All 4 levers activated ***"
+	{
+		"default"		"*** All 4 levers activated ***"
+	}
+	"*** Gate opening in 15 seconds ***"
+	{
+		"default"		"*** Gate opening in 15 seconds ***"
+	}
+	"*** Gate opening ***"
+	{
+		"default"		"*** Gate opening ***"
+	}
+	"*** Burning Orb has been acquired ***"
+	{
+		"default"		"*** Burning Orb has been acquired ***"
+	}
+	"*** Lift activated ***"
+	{
+		"default"		"*** Lift activated ***"
+	}
+	"*** Gate opening in 20 seconds ***"
+	{
+		"default"		"*** Gate opening in 20 seconds ***"
+	}
+	"*** Door opening in 15 seconds ***"
+	{
+		"default"		"*** Door opening in 15 seconds ***"
+	}
+	"*** Platform rising in 15 seconds ***"
+	{
+		"default"		"*** Platform rising in 15 seconds ***"
+	}
+	"*** Right lever activated ***"
+	{
+		"default"		"*** Right lever activated ***"
+	}
+	"*** Left lever activated ***"
+	{
+		"default"		"*** Left lever activated ***"
+	}
+	"*** Final door opening in 30 seconds ***"
+	{
+		"default"		"*** Final door opening in 30 seconds ***"
+	}
+	"*** Final door opening in 5 seconds ***"
+	{
+		"default"		"*** Final door opening in 5 seconds ***"
+	}
+	"*** Final door closing in 5 seconds ***"
+	{
+		"default"		"*** Final door closing in 5 seconds ***"
+	}
+	"*** Humans win! ***"
+	{
+		"default"		"*** Humans win! ***"
+	}
+}

@@ -1,0 +1,359 @@
+"Chat"
+{
+	"** ZE_CHRISTMAS_INFECTION **"
+	{
+		"default"		"** ZE_CHRISTMAS_INFECTION **"
+	}
+	"** CURRENT LEVEL: EASY **"
+	{
+		"default"		"** CURRENT LEVEL: EASY **"
+	}
+	"** TIP: You can pick up special items from the spinning presents randomly placed in the map. **"
+	{
+		"default"		"** TIP: You can pick up special items from the spinning presents randomly placed in the map. **"
+	}
+	"** Red and blue presents will contain zombie and human items respectively. **"
+	{
+		"default"		"** Red and blue presents will contain zombie and human items respectively. **"
+	}
+	"** Napalm candle has been picked up. Press +USE (E) to activate **"
+	{
+		"default"		"** Napalm candle has been picked up. Press +USE (E) to activate **"
+	}
+	"*** The door opens in 30 seconds ***"
+	{
+		"default"		"*** The door opens in 30 seconds ***"
+	}
+	"** Magical lantern has been picked up. Press +USE (E) to activate it. **"
+	{
+		"default"		"** Magical lantern has been picked up. Press +USE (E) to activate it. **"
+	}
+	"*** The door opens in 10 seconds. Hold! ***"
+	{
+		"default"		"*** The door opens in 10 seconds. Hold! ***"
+	}
+	"*** The door opens in 5 seconds. RESIST!!! ***"
+	{
+		"default"		"*** The door opens in 5 seconds. RESIST!!! ***"
+	}
+	"** An evil christmas ogre has appeared... **"
+	{
+		"default"		"** An evil christmas ogre has appeared... **"
+	}
+	"*** Hold the bridge! The door opens in 20 seconds! ***"
+	{
+		"default"		"*** Hold the bridge! The door opens in 20 seconds! ***"
+	}
+	"** Well done! The door will open in 15 seconds! **"
+	{
+		"default"		"** Well done! The door will open in 15 seconds! **"
+	}
+	"** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
+	{
+		"default"		"** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
+	}
+	"*** HOLD! The elevator will leave in 25 seconds! ***"
+	{
+		"default"		"*** HOLD! The elevator will leave in 25 seconds! ***"
+	}
+	"*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***"
+	{
+		"default"		"*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***"
+	}
+	"** Hold! The door will open in 25 seconds! **"
+	{
+		"default"		"** Hold! The door will open in 25 seconds! **"
+	}
+	"** Only 5 seconds left! RESIST! **"
+	{
+		"default"		"** Only 5 seconds left! RESIST! **"
+	}
+	"** We have to hold this area for 40 seconds until the doors open! **"
+	{
+		"default"		"** We have to hold this area for 40 seconds until the doors open! **"
+	}
+	"** Keep defending! 15 seconds left! **"
+	{
+		"default"		"** Keep defending! 15 seconds left! **"
+	}
+	"** 5 seconds! RESIST!!! **"
+	{
+		"default"		"** 5 seconds! RESIST!!! **"
+	}
+	"** Storage area door opening in 15 seconds. HOLD! **"
+	{
+		"default"		"** Storage area door opening in 15 seconds. HOLD! **"
+	}
+	"** Hold a bit! The door will open in 15 seconds! **"
+	{
+		"default"		"** Hold a bit! The door will open in 15 seconds! **"
+	}
+	"** Hold 10 more seconds! The second doors will open soon!**"
+	{
+		"default"		"** Hold 10 more seconds! The second doors will open soon!**"
+	}
+	"** THIS IS OUR LAST STAND! **"
+	{
+		"default"		"** THIS IS OUR LAST STAND! **"
+	}
+	"** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **"
+	{
+		"default"		"** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **"
+	}
+	"** Tree placer has been picked up. Press +USE (E) to place a tree. **"
+	{
+		"default"		"** Tree placer has been picked up. Press +USE (E) to place a tree. **"
+	}
+	"** Ice boomerang has been picked up. Press +USE (E) to throw it. **"
+	{
+		"default"		"** Ice boomerang has been picked up. Press +USE (E) to throw it. **"
+	}
+	"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
+	{
+		"default"		"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
+	}
+	"*** Activate one of the control pannels! ***"
+	{
+		"default"		"*** Activate one of the control pannels! ***"
+	}
+	"** Well done! The door opens in 20 seconds. RESIST!!! **"
+	{
+		"default"		"** Well done! The door opens in 20 seconds. RESIST!!! **"
+	}
+	"** Icewall spawner has been picked up. Press +USE (E) to spawn a wall. **"
+	{
+		"default"		"** Icewall spawner has been picked up. Press +USE (E) to spawn a wall. **"
+	}
+	"** RESIST! 30 SECONDS LEFT!!! **"
+	{
+		"default"		"** RESIST! 30 SECONDS LEFT!!! **"
+	}
+	"** 15 SECONDS! KEEP IT UP!!! **"
+	{
+		"default"		"** 15 SECONDS! KEEP IT UP!!! **"
+	}
+	"** LAST 5 SECONDS! RESIST!!! **"
+	{
+		"default"		"** LAST 5 SECONDS! RESIST!!! **"
+	}
+	"** You have beaten easy mode... Let's see now how you do in MEDIUM! **"
+	{
+		"default"		"** You have beaten easy mode... Let's see now how you do in MEDIUM! **"
+	}
+	"** CURRENT LEVEL: MEDIUM **"
+	{
+		"default"		"** CURRENT LEVEL: MEDIUM **"
+	}
+	"** Zombie present placer has been picked up. Press +USE (E) to place a present. **"
+	{
+		"default"		"** Zombie present placer has been picked up. Press +USE (E) to place a present. **"
+	}
+	"** We have to hold this area for 60 seconds until the doors open! **"
+	{
+		"default"		"** We have to hold this area for 60 seconds until the doors open! **"
+	}
+	"** Keep defending! 30 seconds left! **"
+	{
+		"default"		"** Keep defending! 30 seconds left! **"
+	}
+	"** 15 seconds! RESIST!!! **"
+	{
+		"default"		"** 15 seconds! RESIST!!! **"
+	}
+	"** LAST 5 SECONDS! GET READY!!! **"
+	{
+		"default"		"** LAST 5 SECONDS! GET READY!!! **"
+	}
+	"** Hold! The door opens in 20 seconds!!! **"
+	{
+		"default"		"** Hold! The door opens in 20 seconds!!! **"
+	}
+	"** KEEP HOLDING! 5 MORE SECONDS!!! **"
+	{
+		"default"		"** KEEP HOLDING! 5 MORE SECONDS!!! **"
+	}
+	"** Hold a bit! The door will open in 20 seconds! **"
+	{
+		"default"		"** Hold a bit! The door will open in 20 seconds! **"
+	}
+	"** DEFEND THE CHRISTMAS AIRBOAT! THE STAR OF THE NORTH IS FALLING! **"
+	{
+		"default"		"** DEFEND THE CHRISTMAS AIRBOAT! THE STAR OF THE NORTH IS FALLING! **"
+	}
+	"** THE CORE OF THE AIRBOAT IS MISSING! WE HAVE TO FIND IT!!! **"
+	{
+		"default"		"** THE CORE OF THE AIRBOAT IS MISSING! WE HAVE TO FIND IT!!! **"
+	}
+	"** TIP: The core must be brought back to the back of the ship to leave. **"
+	{
+		"default"		"** TIP: The core must be brought back to the back of the ship to leave. **"
+	}
+	"** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **"
+	{
+		"default"		"** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **"
+	}
+	"** The core has been found! Take it to the boat! **"
+	{
+		"default"		"** The core has been found! Take it to the boat! **"
+	}
+	"** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
+	{
+		"default"		"** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
+	}
+	"*** Activate both control pannels at once to unlock the door! ***"
+	{
+		"default"		"*** Activate both control pannels at once to unlock the door! ***"
+	}
+	"** The boat has energy again! We will be able to leave now!!! **"
+	{
+		"default"		"** The boat has energy again! We will be able to leave now!!! **"
+	}
+	"** Resist for 15 seconds! **"
+	{
+		"default"		"** Resist for 15 seconds! **"
+	}
+	"** LAST 5 SECONDS! KEEP HOLDING!!! **"
+	{
+		"default"		"** LAST 5 SECONDS! KEEP HOLDING!!! **"
+	}
+	"** Well done! The things are now getting interesting at TOUGH mode!!! **"
+	{
+		"default"		"** Well done! The things are now getting interesting at TOUGH mode!!! **"
+	}
+	"** CURRENT LEVEL: TOUGH **"
+	{
+		"default"		"** CURRENT LEVEL: TOUGH **"
+	}
+	"* Trampoline placer has been picked up. Press +USE (E) to place a trampoline. *"
+	{
+		"default"		"* Trampoline placer has been picked up. Press +USE (E) to place a trampoline. *"
+	}
+	"** RESIST! There are two ways they can come from! **"
+	{
+		"default"		"** RESIST! There are two ways they can come from! **"
+	}
+	"** HOLD! The door is opening in 10 seconds! **"
+	{
+		"default"		"** HOLD! The door is opening in 10 seconds! **"
+	}
+	"** Resist! The doors will open in 10 seconds!!! **"
+	{
+		"default"		"** Resist! The doors will open in 10 seconds!!! **"
+	}
+	"** RESIST FOR 20 SECONDS! Help is on the way! **"
+	{
+		"default"		"** RESIST FOR 20 SECONDS! Help is on the way! **"
+	}
+	"** Fall back! The hot air balloon is here!!! **"
+	{
+		"default"		"** Fall back! The hot air balloon is here!!! **"
+	}
+	"** SHOOT! Zombies can jump into the balloon!!! **"
+	{
+		"default"		"** SHOOT! Zombies can jump into the balloon!!! **"
+	}
+	"** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **"
+	{
+		"default"		"** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **"
+	}
+	"** CURRENT LEVEL: APOCALYPSE **"
+	{
+		"default"		"** CURRENT LEVEL: APOCALYPSE **"
+	}
+	"** Zombie fog has been picked up. Press +USE (E) to activate **"
+	{
+		"default"		"** Zombie fog has been picked up. Press +USE (E) to activate **"
+	}
+	"** The way is locked! Open the doors pressing the buttons at the control area! **"
+	{
+		"default"		"** The way is locked! Open the doors pressing the buttons at the control area! **"
+	}
+	"** Systems activated! Doors opening in 10 seconds! **"
+	{
+		"default"		"** Systems activated! Doors opening in 10 seconds! **"
+	}
+	"** Hold! The doors will open in 15 seconds! **"
+	{
+		"default"		"** Hold! The doors will open in 15 seconds! **"
+	}
+	"** The core is being deactivated... **"
+	{
+		"default"		"** The core is being deactivated... **"
+	}
+	"** The core has become unstable! The reactor will explode!!! **"
+	{
+		"default"		"** The core has become unstable! The reactor will explode!!! **"
+	}
+	"** We need to get into the safety bunker! Resist until the doors open!!! **"
+	{
+		"default"		"** We need to get into the safety bunker! Resist until the doors open!!! **"
+	}
+	"*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***"
+	{
+		"default"		"*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***"
+	}
+	"*** The door has locked! We need to resist until it keeps moving! ***"
+	{
+		"default"		"*** The door has locked! We need to resist until it keeps moving! ***"
+	}
+	"*** ALMOST THERE! KEEP DEFENDING!!! ***"
+	{
+		"default"		"*** ALMOST THERE! KEEP DEFENDING!!! ***"
+	}
+	"** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **"
+	{
+		"default"		"** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **"
+	}
+	"** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **"
+	{
+		"default"		"** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **"
+	}
+	"** Survive for 4 minutes to get to the vote level! **"
+	{
+		"default"		"** Survive for 4 minutes to get to the vote level! **"
+	}
+	"** Only humans will be able to vote! **"
+	{
+		"default"		"** Only humans will be able to vote! **"
+	}
+	"** Zombie heal has been picked up. Press +USE (E) to activate.**"
+	{
+		"default"		"** Zombie heal has been picked up. Press +USE (E) to activate.**"
+	}
+	"** Two minutes left! RESIST! **"
+	{
+		"default"		"** Two minutes left! RESIST! **"
+	}
+	"** Just one minute! Keep it up! **"
+	{
+		"default"		"** Just one minute! Keep it up! **"
+	}
+	"** LAST 30 SECONDS! HOLD THE LAST BIT! **"
+	{
+		"default"		"** LAST 30 SECONDS! HOLD THE LAST BIT! **"
+	}
+	"** 15 SECONDS!!! **"
+	{
+		"default"		"** 15 SECONDS!!! **"
+	}
+	"** RESIST! 5 SECONDS!!! **"
+	{
+		"default"		"** RESIST! 5 SECONDS!!! **"
+	}
+	"** Well done! Vote for the level you want to play! **"
+	{
+		"default"		"** Well done! Vote for the level you want to play! **"
+	}
+	"** If after 30 seconds no level has been selected the nuke will activate! **"
+	{
+		"default"		"** If after 30 seconds no level has been selected the nuke will activate! **"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE MEDIUM! **"
+	{
+		"default"		"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE MEDIUM! **"
+	}
+	"** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
+	{
+		"default"		"** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
+	}
+}

@@ -1,0 +1,39 @@
+"Chat"
+{
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"default"		"^^^ Map By: BillSmauz ^^^"
+	}
+	"*** Lift Starts in 10 Seconds ***"
+	{
+		"default"		"*** Lift Starts in 10 Seconds ***"
+	}
+	"*** Dropship Arrives in 2 Minutes ***"
+	{
+		"default"		"*** Dropship Arrives in 2 Minutes ***"
+	}
+	"*** Nuke Immediate After Dropship Departure ***"
+	{
+		"default"		"*** Nuke Immediate After Dropship Departure ***"
+	}
+	"*** Dropship Arrival in 1 Minute ***"
+	{
+		"default"		"*** Dropship Arrival in 1 Minute ***"
+	}
+	"*** Dropship Arrival in 20 ***"
+	{
+		"default"		"*** Dropship Arrival in 20 ***"
+	}
+	"*** Dropship is Here ***"
+	{
+		"default"		"*** Dropship is Here ***"
+	}
+	"*** Dropship Departure in 30 Seconds ***"
+	{
+		"default"		"*** Dropship Departure in 30 Seconds ***"
+	}
+	"*** Dropship Departure in 10 Seconds ***"
+	{
+		"default"		"*** Dropship Departure in 10 Seconds ***"
+	}
+}

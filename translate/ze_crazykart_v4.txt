@@ -1,0 +1,150 @@
+"Chat"
+{
+	"***Welcome to Crazy Kart***"
+	{
+		"default"		"***Welcome to Crazy Kart***"
+	}
+	"***Map by Luffaren***"
+	{
+		"default"		"***Map by Luffaren***"
+	}
+	"***Thanks to Enviolinador for the green shell bounce"
+	{
+		"vector logic***"
+		{
+			"default"		"***Thanks to Enviolinador for the green shell bounce/vector logic***"
+		}
+	}
+	"***WARMUP***"
+	{
+		"default"		"***WARMUP***"
+	}
+	"***WARMUP DONE***"
+	{
+		"default"		"***WARMUP DONE***"
+	}
+	"***STAGE PICKED - Mute city***"
+	{
+		"default"		"***STAGE PICKED - Mute city***"
+	}
+	"***F-ZERO RACE STARTS IN 20 SECONDS***"
+	{
+		"default"		"***F-ZERO RACE STARTS IN 20 SECONDS***"
+	}
+	"***GET IN YOUR KARTS***"
+	{
+		"default"		"***GET IN YOUR KARTS***"
+	}
+	"***5***"
+	{
+		"default"		"***5***"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***LET'S A GO***"
+	{
+		"default"		"***LET'S A GO***"
+	}
+	"***ALL THE KARTS ARE BROKEN DOWN***"
+	{
+		"default"		"***ALL THE KARTS ARE BROKEN DOWN***"
+	}
+	"***ROUND ENDING IN 5 SECONDS***"
+	{
+		"default"		"***ROUND ENDING IN 5 SECONDS***"
+	}
+	"***ROUND ENDING IN 4 SECONDS***"
+	{
+		"default"		"***ROUND ENDING IN 4 SECONDS***"
+	}
+	"***ROUND ENDING IN 3 SECONDS***"
+	{
+		"default"		"***ROUND ENDING IN 3 SECONDS***"
+	}
+	"***ROUND ENDING IN 2 SECONDS***"
+	{
+		"default"		"***ROUND ENDING IN 2 SECONDS***"
+	}
+	"***ROUND ENDING IN 1 SECONDS***"
+	{
+		"default"		"***ROUND ENDING IN 1 SECONDS***"
+	}
+	"***ROUND ENDED***"
+	{
+		"default"		"***ROUND ENDED***"
+	}
+	"***STAGE PICKED - Winter wonderland***"
+	{
+		"default"		"***STAGE PICKED - Winter wonderland***"
+	}
+	"***RACE STARTS IN 20 SECONDS***"
+	{
+		"default"		"***RACE STARTS IN 20 SECONDS***"
+	}
+	"***ROUND ENDED EARLY - RACE CANCELED***"
+	{
+		"default"		"***ROUND ENDED EARLY - RACE CANCELED***"
+	}
+	"***ALL DRIVERS GOT (20) POINTS***"
+	{
+		"default"		"***ALL DRIVERS GOT (20) POINTS***"
+	}
+	"***STAGE PICKED - Baby park waaah***"
+	{
+		"default"		"***STAGE PICKED - Baby park waaah***"
+	}
+	"[<userid-36> FINISHED 1]"
+	{
+		"default"		"[<userid-36> FINISHED 1]"
+	}
+	"***ROUND ENDS IN 30 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 30 SECONDS***"
+	}
+	"***ROUND ENDS IN 20 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 20 SECONDS***"
+	}
+	"***ROUND ENDS IN 10 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 10 SECONDS***"
+	}
+	"***ROUND ENDS IN 5 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 5 SECONDS***"
+	}
+	"***ROUND ENDS IN 4 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 4 SECONDS***"
+	}
+	"***ROUND ENDS IN 3 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 3 SECONDS***"
+	}
+	"***ROUND ENDS IN 2 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 2 SECONDS***"
+	}
+	"***ROUND ENDS IN 1 SECONDS***"
+	{
+		"default"		"***ROUND ENDS IN 1 SECONDS***"
+	}
+	"[<userid-33> CHEATED AND DIED]"
+	{
+		"default"		"[<userid-33> CHEATED AND DIED]"
+	}
+}

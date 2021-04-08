@@ -1,0 +1,163 @@
+"Chat"
+{
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"default"		"*** CURRENT STAGE IS 1: Overworld ***"
+	}
+	"Map made by Cuniczek"
+	{
+		"default"		"Map made by Cuniczek"
+	}
+	"Thanks to Enviolinador & Kaesar"
+	{
+		"default"		"Thanks to Enviolinador & Kaesar"
+	}
+	"*** DEFEND 25 SECONDS ***"
+	{
+		"default"		"*** DEFEND 25 SECONDS ***"
+	}
+	"*** 5 SECONDS REMAINING ***"
+	{
+		"default"		"*** 5 SECONDS REMAINING ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"default"		"*** FALL BACK ***"
+	}
+	"*** MINECARTS LEAVING IN 25 SEC ***"
+	{
+		"default"		"*** MINECARTS LEAVING IN 25 SEC ***"
+	}
+	"*** MINECARTS LEAVING IN 10 SEC ***"
+	{
+		"default"		"*** MINECARTS LEAVING IN 10 SEC ***"
+	}
+	"*** GET INTO MINECARTS ***"
+	{
+		"default"		"*** GET INTO MINECARTS ***"
+	}
+	"***HOLD CASTLE 35 SEC***"
+	{
+		"default"		"***HOLD CASTLE 35 SEC***"
+	}
+	"*** 5 SEC REMAINING ***"
+	{
+		"default"		"*** 5 SEC REMAINING ***"
+	}
+	"*** BOATS LEAVING IN 15 SEC ***"
+	{
+		"default"		"*** BOATS LEAVING IN 15 SEC ***"
+	}
+	"*** FALL BACK INTO BOATS ***"
+	{
+		"default"		"*** FALL BACK INTO BOATS ***"
+	}
+	"*** TNT EXPLODING IN 20 SEC ***"
+	{
+		"default"		"*** TNT EXPLODING IN 20 SEC ***"
+	}
+	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
+	{
+		"default"		"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
+	}
+	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
+	{
+		"default"		"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
+	}
+	"*** BUNKER IS CLOSING IN 15 SEC ***"
+	{
+		"default"		"*** BUNKER IS CLOSING IN 15 SEC ***"
+	}
+	"*** BUNKER IS CLOSING ***"
+	{
+		"default"		"*** BUNKER IS CLOSING ***"
+	}
+	"*** KILL ZOMBIES INSIDE!  ***"
+	{
+		"default"		"*** KILL ZOMBIES INSIDE!  ***"
+	}
+	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	{
+		"default"		"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	}
+	"*** CURRENT STAGE IS 2: The Nether ***"
+	{
+		"default"		"*** CURRENT STAGE IS 2: The Nether ***"
+	}
+	"*** WALLS BREAK IN 15 SEC ***"
+	{
+		"default"		"*** WALLS BREAK IN 15 SEC ***"
+	}
+	"*** RESIST 15 SECONDS ***"
+	{
+		"default"		"*** RESIST 15 SECONDS ***"
+	}
+	"*** RESIST 10 SECONDS ***"
+	{
+		"default"		"*** RESIST 10 SECONDS ***"
+	}
+	"***RESIST 20 SECONDS***"
+	{
+		"default"		"***RESIST 20 SECONDS***"
+	}
+	"***5 SECONDS REMAINING***"
+	{
+		"default"		"***5 SECONDS REMAINING***"
+	}
+	"*** RESIST 20 SECONDS ***"
+	{
+		"default"		"*** RESIST 20 SECONDS ***"
+	}
+	"*** RESIST 25 SECONDS ***"
+	{
+		"default"		"*** RESIST 25 SECONDS ***"
+	}
+	"*** RESIST 30 SECONDS ***"
+	{
+		"default"		"*** RESIST 30 SECONDS ***"
+	}
+	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
+	{
+		"default"		"*** HOLD NETHERFORTRESS 30 SECONDS ***"
+	}
+	"*** EVERYONE GET INSIDE! ***"
+	{
+		"default"		"*** EVERYONE GET INSIDE! ***"
+	}
+	"*** GHAST HAS BEEN DEFEATED ***"
+	{
+		"default"		"*** GHAST HAS BEEN DEFEATED ***"
+	}
+	"*** ESCAPE FROM THE NETHER!!! ***"
+	{
+		"default"		"*** ESCAPE FROM THE NETHER!!! ***"
+	}
+	"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
+	{
+		"default"		"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
+	}
+	"*** 40 SECONDS REMAINING ***"
+	{
+		"default"		"*** 40 SECONDS REMAINING ***"
+	}
+	"*** 30 SECONDS REMAINING ***"
+	{
+		"default"		"*** 30 SECONDS REMAINING ***"
+	}
+	"*** FLINT HAS BEEN PICKED UP ***"
+	{
+		"default"		"*** FLINT HAS BEEN PICKED UP ***"
+	}
+	"*** 20 SECONDS REMAINING ***"
+	{
+		"default"		"*** 20 SECONDS REMAINING ***"
+	}
+	"*** STEEL HAS BEEN PICKED UP ***"
+	{
+		"default"		"*** STEEL HAS BEEN PICKED UP ***"
+	}
+	"*** 10 SECONDS REMAINING ***"
+	{
+		"default"		"*** 10 SECONDS REMAINING ***"
+	}
+}

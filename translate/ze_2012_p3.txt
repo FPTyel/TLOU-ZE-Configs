@@ -1,0 +1,83 @@
+"Chat"
+{
+	"*** Lift 3 is leaving in 30 seconds ***"
+	{
+		"default"		"*** Lift 3 is leaving in 30 seconds ***"
+	}
+	"*** Lift 1 is leaving in 20 seconds ***"
+	{
+		"default"		"*** Lift 1 is leaving in 20 seconds ***"
+	}
+	"***Appartment lift is opening in 20 seconds!***"
+	{
+		"default"		"***Appartment lift is opening in 20 seconds!***"
+	}
+	"***Keep Zombies outside!***"
+	{
+		"default"		"***Keep Zombies outside!***"
+	}
+	"***Appartment lift is opening in 10 seconds!***"
+	{
+		"default"		"***Appartment lift is opening in 10 seconds!***"
+	}
+	"***Appartment lift is opening in 5 seconds!***"
+	{
+		"default"		"***Appartment lift is opening in 5 seconds!***"
+	}
+	"***Appartment lift is open! Press the button to activate it!***"
+	{
+		"default"		"***Appartment lift is open! Press the button to activate it!***"
+	}
+	"***Lift is leaving in 5 seconds!***"
+	{
+		"default"		"***Lift is leaving in 5 seconds!***"
+	}
+	"***Goto the cargo door***"
+	{
+		"default"		"***Goto the cargo door***"
+	}
+	"***Cargo door is opening in 15 seconds. HOLD!!!***"
+	{
+		"default"		"***Cargo door is opening in 15 seconds. HOLD!!!***"
+	}
+	"*** Lift 5 is leaving in 20 seconds ***"
+	{
+		"default"		"*** Lift 5 is leaving in 20 seconds ***"
+	}
+	"***GO! The door is opening!***"
+	{
+		"default"		"***GO! The door is opening!***"
+	}
+	"***Make your way to the cockpit and start the engines!***"
+	{
+		"default"		"***Make your way to the cockpit and start the engines!***"
+	}
+	"***Defend the top floor!***"
+	{
+		"default"		"***Defend the top floor!***"
+	}
+	"***Start the engine by pressing the button!***"
+	{
+		"default"		"***Start the engine by pressing the button!***"
+	}
+	"***Hold the cockpit for 30s!***"
+	{
+		"default"		"***Hold the cockpit for 30s!***"
+	}
+	"***Keep Zombies in the cargo!***"
+	{
+		"default"		"***Keep Zombies in the cargo!***"
+	}
+	"***Keep defending the top floor !***"
+	{
+		"default"		"***Keep defending the top floor !***"
+	}
+	"***Cockpit door closing in 15s***"
+	{
+		"default"		"***Cockpit door closing in 15s***"
+	}
+	"***Cockpit & Cargo door closing in 5s***"
+	{
+		"default"		"***Cockpit & Cargo door closing in 5s***"
+	}
+}

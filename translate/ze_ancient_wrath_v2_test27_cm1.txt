@@ -1,0 +1,47 @@
+"Chat"
+{
+	"||| Map by Struppi |||"
+	{
+		"default"		"||| Map by Struppi |||"
+	}
+	"||| WARMUP ROUND |||"
+	{
+		"default"		"||| WARMUP ROUND |||"
+	}
+	"||| CHAPTER 1 => RETURN |||"
+	{
+		"default"		"||| CHAPTER 1 => RETURN |||"
+	}
+	"||| HOLD FOR 30 SECONDS |||"
+	{
+		"default"		"||| HOLD FOR 30 SECONDS |||"
+	}
+	"||| FALL BACK |||"
+	{
+		"default"		"||| FALL BACK |||"
+	}
+	"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+	{
+		"default"		"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+	}
+	"||| HOLD FOR 20 SECONDS |||"
+	{
+		"default"		"||| HOLD FOR 20 SECONDS |||"
+	}
+	"||| ELEVATOR OPENS IN 25 SECONDS |||"
+	{
+		"default"		"||| ELEVATOR OPENS IN 25 SECONDS |||"
+	}
+	"||| HOLD FOR 10 SECONDS |||"
+	{
+		"default"		"||| HOLD FOR 10 SECONDS |||"
+	}
+	"||| DOOR IS CLOSING |||"
+	{
+		"default"		"||| DOOR IS CLOSING |||"
+	}
+	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+	{
+		"default"		"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+	}
+}

@@ -1,0 +1,71 @@
+"Chat"
+{
+	"** !!! Visit: www.dreist-multigaming.com !!!** "
+	{
+		"default"		"** !!! Visit: www.dreist-multigaming.com !!!** "
+	}
+	"** ESCAPE FROM HELL!! Get to to the magic Graves **"
+	{
+		"default"		"** ESCAPE FROM HELL!! Get to to the magic Graves **"
+	}
+	"** The Graves have been reached - RESIST 20 sec.**"
+	{
+		"default"		"** The Graves have been reached - RESIST 20 sec.**"
+	}
+	"** RESIST 5 Seconds **"
+	{
+		"default"		"** RESIST 5 Seconds **"
+	}
+	"** THE GRAVES ARE MOVING!**"
+	{
+		"default"		"** THE GRAVES ARE MOVING!**"
+	}
+	"** Wait a little until the 2nd Way spawns**"
+	{
+		"default"		"** Wait a little until the 2nd Way spawns**"
+	}
+	"** ZOMBIES DETECTED! The Grave is slowing down!**"
+	{
+		"default"		"** ZOMBIES DETECTED! The Grave is slowing down!**"
+	}
+	"** ZOMBIES ARE COMING! **"
+	{
+		"default"		"** ZOMBIES ARE COMING! **"
+	}
+	"** The Lab has been reached - resist 30 Seconds **"
+	{
+		"default"		"** The Lab has been reached - resist 30 Seconds **"
+	}
+	"** RESIST 10 Seconds **"
+	{
+		"default"		"** RESIST 10 Seconds **"
+	}
+	"**GET TO THE CHUTE - Door opens again in 15 Seconds ** "
+	{
+		"default"		"**GET TO THE CHUTE - Door opens again in 15 Seconds ** "
+	}
+	"** GET ON TOP OF THE OILRIG AND WAIT FOR THE CHOPPER **"
+	{
+		"default"		"** GET ON TOP OF THE OILRIG AND WAIT FOR THE CHOPPER **"
+	}
+	"** ZOMBIES ARE COMING!**"
+	{
+		"default"		"** ZOMBIES ARE COMING!**"
+	}
+	"** GET ON TOP OF THE OILRIG AND DEFEND IT**"
+	{
+		"default"		"** GET ON TOP OF THE OILRIG AND DEFEND IT**"
+	}
+	"** CHOPPER IS COMING**"
+	{
+		"default"		"** CHOPPER IS COMING**"
+	}
+	"** THE OCEAN CAN NOW BE CROSSED**"
+	{
+		"default"		"** THE OCEAN CAN NOW BE CROSSED**"
+	}
+	"** GET TO THE HOLY CHURCH - DEFEND LEVEL 2**"
+	{
+		"default"		"** GET TO THE HOLY CHURCH - DEFEND LEVEL 2**"
+	}
+}

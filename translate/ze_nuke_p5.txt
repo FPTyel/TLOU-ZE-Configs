@@ -1,0 +1,83 @@
+"Chat"
+{
+	"Please wait 20 seconds before the door opening"
+	{
+		"default"		"Please wait 20 seconds before the door opening"
+	}
+	"Welcome ! Map made by Valve and zombified by Obscuri"
+	{
+		"default"		"Welcome ! Map made by Valve and zombified by Obscuri"
+	}
+	"Special thanks to centran and LeGrem"
+	{
+		"default"		"Special thanks to centran and LeGrem"
+	}
+	"***Fix and port by Epic |cabo| ***"
+	{
+		"default"		"***Fix and port by Epic |cabo| ***"
+	}
+	"***RESIST 30 SECONDS BEHIND THE BOXES***"
+	{
+		"default"		"***RESIST 30 SECONDS BEHIND THE BOXES***"
+	}
+	"***5 SECONDS***"
+	{
+		"default"		"***5 SECONDS***"
+	}
+	"***RESIST 20 SECONDS***"
+	{
+		"default"		"***RESIST 20 SECONDS***"
+	}
+	"***RUN***"
+	{
+		"default"		"***RUN***"
+	}
+	"10 seconds until the fence break"
+	{
+		"default"		"10 seconds until the fence break"
+	}
+	"***20 SECONDS FOR TELEPORT***"
+	{
+		"default"		"***20 SECONDS FOR TELEPORT***"
+	}
+	"***5 SECONDS FOR TELEPORT***"
+	{
+		"default"		"***5 SECONDS FOR TELEPORT***"
+	}
+	"***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***"
+	{
+		"default"		"***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***"
+	}
+	"***DESTROY THE POWER GENERATORS***"
+	{
+		"default"		"***DESTROY THE POWER GENERATORS***"
+	}
+	"***1 REMAINING***"
+	{
+		"default"		"***1 REMAINING***"
+	}
+	"*** WELL DONE***"
+	{
+		"default"		"*** WELL DONE***"
+	}
+	"***HOLD 25 SECONDS***"
+	{
+		"default"		"***HOLD 25 SECONDS***"
+	}
+	"Warning! Overloading of reactor."
+	{
+		"default"		"Warning! Overloading of reactor."
+	}
+	"Explosion of the nuclear plant imminent !"
+	{
+		"default"		"Explosion of the nuclear plant imminent !"
+	}
+	"***TRUCK LEAVING IN 20 SECONDS***"
+	{
+		"default"		"***TRUCK LEAVING IN 20 SECONDS***"
+	}
+	"Contact me at obscuri@obsmail.tk"
+	{
+		"default"		"Contact me at obscuri@obsmail.tk"
+	}
+}

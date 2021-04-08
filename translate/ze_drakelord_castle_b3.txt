@@ -1,0 +1,83 @@
+"Chat"
+{
+	"***MAP BY LUFFAREN***"
+	{
+		"default"		"***MAP BY LUFFAREN***"
+	}
+	"***BETA VERSION - MORE THINGS TO COME***"
+	{
+		"default"		"***BETA VERSION - MORE THINGS TO COME***"
+	}
+	"***GENERATING LAYOUT...***"
+	{
+		"default"		"***GENERATING LAYOUT...***"
+	}
+	"***THE PIZZA IS AGGRESSIVE***"
+	{
+		"default"		"***THE PIZZA IS AGGRESSIVE***"
+	}
+	"***TOWER ELEVATOR LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***TOWER ELEVATOR LEAVING IN 10 SECONDS***"
+	}
+	"***BOMB PLANTED***"
+	{
+		"default"		"***BOMB PLANTED***"
+	}
+	"***FALL BACK***"
+	{
+		"default"		"***FALL BACK***"
+	}
+	"***TOWER ELEVATOR LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***TOWER ELEVATOR LEAVING IN 5 SECONDS***"
+	}
+	"***TOWER ELEVATOR IS LEAVING***"
+	{
+		"default"		"***TOWER ELEVATOR IS LEAVING***"
+	}
+	"***FINAL DOOR CLOSING IN 60 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 60 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 30 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 30 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 15 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 15 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 10 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 10 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 5 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 5 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 4 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 4 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 3 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 3 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 2 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 2 SECONDS***"
+	}
+	"***FINAL DOOR CLOSING IN 1 SECONDS***"
+	{
+		"default"		"***FINAL DOOR CLOSING IN 1 SECONDS***"
+	}
+	"***FINAL DOOR IS CLOSING***"
+	{
+		"default"		"***FINAL DOOR IS CLOSING***"
+	}
+	"***STAGE COMPLETED***"
+	{
+		"default"		"***STAGE COMPLETED***"
+	}
+}

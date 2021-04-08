@@ -1,0 +1,111 @@
+"Chat"
+{
+	"*** Map by Soft Serve ***"
+	{
+		"default"		"*** Map by Soft Serve ***"
+	}
+	"*** Human items can be found in blue containers ***"
+	{
+		"default"		"*** Human items can be found in blue containers ***"
+	}
+	"*** Zombie items unlocking in 5 seconds ***"
+	{
+		"default"		"*** Zombie items unlocking in 5 seconds ***"
+	}
+	"*** Boosters unlocking in 60 seconds ***"
+	{
+		"default"		"*** Boosters unlocking in 60 seconds ***"
+	}
+	"*** Cabin leaving in 5 seconds ***"
+	{
+		"default"		"*** Cabin leaving in 5 seconds ***"
+	}
+	"*** Porch leaving in 5 seconds ***"
+	{
+		"default"		"*** Porch leaving in 5 seconds ***"
+	}
+	"*** Lawn leaving in 5 seconds ***"
+	{
+		"default"		"*** Lawn leaving in 5 seconds ***"
+	}
+	"*** Lift 3 activating in 10 seconds ***"
+	{
+		"default"		"*** Lift 3 activating in 10 seconds ***"
+	}
+	"*** Boosters unlocking in 30 seconds ***"
+	{
+		"default"		"*** Boosters unlocking in 30 seconds ***"
+	}
+	"*** Boosters unlocking in 10 seconds ***"
+	{
+		"default"		"*** Boosters unlocking in 10 seconds ***"
+	}
+	"*** Lift 1 activating in 10 seconds ***"
+	{
+		"default"		"*** Lift 1 activating in 10 seconds ***"
+	}
+	"*** Helicopter arriving in 30 seconds ***"
+	{
+		"default"		"*** Helicopter arriving in 30 seconds ***"
+	}
+	"*** Helicopter arriving in 15 seconds ***"
+	{
+		"default"		"*** Helicopter arriving in 15 seconds ***"
+	}
+	"*** Helicopter is approaching ***"
+	{
+		"default"		"*** Helicopter is approaching ***"
+	}
+	"*** Lift 2 activating in 10 seconds ***"
+	{
+		"default"		"*** Lift 2 activating in 10 seconds ***"
+	}
+	"*** Zombie Fire has been acquired ***"
+	{
+		"default"		"*** Zombie Fire has been acquired ***"
+	}
+	"*** Zombie Gravity has been acquired ***"
+	{
+		"default"		"*** Zombie Gravity has been acquired ***"
+	}
+	"*** WARNING! Escape vehicles are about to leave! ***"
+	{
+		"default"		"*** WARNING! Escape vehicles are about to leave! ***"
+	}
+	"*** UFO leaving in 5 seconds ***"
+	{
+		"default"		"*** UFO leaving in 5 seconds ***"
+	}
+	"*** Zombie Barrel has been acquired ***"
+	{
+		"default"		"*** Zombie Barrel has been acquired ***"
+	}
+	"*** Pool leaving in 5 seconds ***"
+	{
+		"default"		"*** Pool leaving in 5 seconds ***"
+	}
+	"*** Zombie Wind has been acquired ***"
+	{
+		"default"		"*** Zombie Wind has been acquired ***"
+	}
+	"*** Mega Zombie has been acquired ***"
+	{
+		"default"		"*** Mega Zombie has been acquired ***"
+	}
+	"*** Seagull leaving in 5 seconds ***"
+	{
+		"default"		"*** Seagull leaving in 5 seconds ***"
+	}
+	"*** DDR has been acquired ***"
+	{
+		"default"		"*** DDR has been acquired ***"
+	}
+	"*** Force Gun has been acquired ***"
+	{
+		"default"		"*** Force Gun has been acquired ***"
+	}
+	"*** Haunted house! ***"
+	{
+		"default"		"*** Haunted house! ***"
+	}
+}

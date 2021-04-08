@@ -1,0 +1,27 @@
+"Chat"
+{
+	">>> Fly model created by Kaesar <<<"
+	{
+		"default"		">>> Fly model created by Kaesar <<<"
+	}
+	">>> Defend 25 sec <<<"
+	{
+		"default"		">>> Defend 25 sec <<<"
+	}
+	">>> Fall Back <<<"
+	{
+		"default"		">>> Fall Back <<<"
+	}
+	">>> Defend 30 sec <<<"
+	{
+		"default"		">>> Defend 30 sec <<<"
+	}
+	">>> The path has been cleared <<<"
+	{
+		"default"		">>> The path has been cleared <<<"
+	}
+	">>> Wait 25 sec <<<"
+	{
+		"default"		">>> Wait 25 sec <<<"
+	}
+}

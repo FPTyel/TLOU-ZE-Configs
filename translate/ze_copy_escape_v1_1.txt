@@ -1,0 +1,133 @@
+"Chat"
+{
+	"#ze_copy_escape#"
+	{
+		"default"		"#ze_copy_escape#"
+	}
+	"#Mapper - sweetS "
+	{
+		" Special Thanks - Reflelia , Airvulpes , p0p , kune "
+		{
+			" Particle - Airvulpes# "
+			{
+				"default"		"#Mapper - sweetS / Special Thanks - Reflelia , Airvulpes , p0p , kune / Particle - Airvulpes# "
+			}
+		}
+	}
+	"#Map Idea - ze_gris , ze_dreamin , ze_ffxii_westersand#"
+	{
+		"default"		"#Map Idea - ze_gris , ze_dreamin , ze_ffxii_westersand#"
+	}
+	"#Thank you for helping me and playing this map.. Enjoy#"
+	{
+		"default"		"#Thank you for helping me and playing this map.. Enjoy#"
+	}
+	"#Thanks to ZombieDen, Rss Server#"
+	{
+		"default"		"#Thanks to ZombieDen, Rss Server#"
+	}
+	"#Stripper made by memories#"
+	{
+		"default"		"#Stripper made by memories#"
+	}
+	"#Passage opens in 30 seconds#"
+	{
+		"default"		"#Passage opens in 30 seconds#"
+	}
+	"#Player picked up heal item#"
+	{
+		"default"		"#Player picked up heal item#"
+	}
+	"***Zombie picked up Zombie Heal***"
+	{
+		"default"		"***Zombie picked up Zombie Heal***"
+	}
+	"***Zombie picked up Gravity***"
+	{
+		"default"		"***Zombie picked up Gravity***"
+	}
+	"#FALL BACK#"
+	{
+		"default"		"#FALL BACK#"
+	}
+	"#Player picked up fire item#"
+	{
+		"default"		"#Player picked up fire item#"
+	}
+	"#Floor breaks in 15 seconds#"
+	{
+		"default"		"#Floor breaks in 15 seconds#"
+	}
+	"#Door opens in 45 seconds#"
+	{
+		"default"		"#Door opens in 45 seconds#"
+	}
+	"#Teleport activates in 5 seconds#"
+	{
+		"default"		"#Teleport activates in 5 seconds#"
+	}
+	"#Defend for 100 seconds#"
+	{
+		"default"		"#Defend for 100 seconds#"
+	}
+	"#Player picked up Earth item#"
+	{
+		"default"		"#Player picked up Earth item#"
+	}
+	"***Zombie picked up Nuke***"
+	{
+		"default"		"***Zombie picked up Nuke***"
+	}
+	"#You won difficulty Gris..#"
+	{
+		"default"		"#You won difficulty Gris..#"
+	}
+	"***Zombie picked up RailGun***"
+	{
+		"default"		"***Zombie picked up RailGun***"
+	}
+	"# Jump push enables in 30 seconds#"
+	{
+		"default"		"# Jump push enables in 30 seconds#"
+	}
+	"#Player picked up ice item#"
+	{
+		"default"		"#Player picked up ice item#"
+	}
+	"#Last defend for 45 seconds#"
+	{
+		"default"		"#Last defend for 45 seconds#"
+	}
+	"#Nade do more Damage#"
+	{
+		"default"		"#Nade do more Damage#"
+	}
+	"#Boss used Jumper#"
+	{
+		"default"		"#Boss used Jumper#"
+	}
+	"#Boss used Fire#"
+	{
+		"default"		"#Boss used Fire#"
+	}
+	"#Boss used Rotating Blade#"
+	{
+		"default"		"#Boss used Rotating Blade#"
+	}
+	"#Teleport activates in 120sec..#"
+	{
+		"default"		"#Teleport activates in 120sec..#"
+	}
+	"#Teleport activates in 90sec..#"
+	{
+		"default"		"#Teleport activates in 90sec..#"
+	}
+	"#Teleport activates in 60sec..#"
+	{
+		"default"		"#Teleport activates in 60sec..#"
+	}
+	"#Teleport activates in 30sec..#"
+	{
+		"default"		"#Teleport activates in 30sec..#"
+	}
+}

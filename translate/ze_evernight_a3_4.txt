@@ -1,0 +1,195 @@
+"Chat"
+{
+	"**After three day of tracking Basil**"
+	{
+		"default"		"**After three day of tracking Basil**"
+	}
+	"**we arrived at the Frostwind Valley**"
+	{
+		"default"		"**we arrived at the Frostwind Valley**"
+	}
+	"**According to the existing information**"
+	{
+		"default"		"**According to the existing information**"
+	}
+	"**and the Glimmer Fragment is likely to be kept in there**"
+	{
+		"default"		"**and the Glimmer Fragment is likely to be kept in there**"
+	}
+	"**There is not much time for us**"
+	{
+		"default"		"**There is not much time for us**"
+	}
+	"**let's get the Glimmer Fragment before Basil does**"
+	{
+		"default"		"**let's get the Glimmer Fragment before Basil does**"
+	}
+	"**A player learn the Frostbite (Ice Magick Lv.1)**"
+	{
+		"default"		"**A player learn the Frostbite (Ice Magick Lv.1)**"
+	}
+	"**Operation Evernight,mission start**"
+	{
+		"default"		"**Operation Evernight,mission start**"
+	}
+	"**The evil one of blood and fire was born... **"
+	{
+		"default"		"**The evil one of blood and fire was born... **"
+	}
+	"**Hold 25 seconds**"
+	{
+		"default"		"**Hold 25 seconds**"
+	}
+	"**A player learn the Air Lash (Wind Magick Lv.1)**"
+	{
+		"default"		"**A player learn the Air Lash (Wind Magick Lv.1)**"
+	}
+	"**The exit of the suqare is closed**"
+	{
+		"default"		"**The exit of the suqare is closed**"
+	}
+	"**Try to find a way to open the gate**"
+	{
+		"default"		"**Try to find a way to open the gate**"
+	}
+	"**A player learn the Baptism (Light Magick Lv.2)**"
+	{
+		"default"		"**A player learn the Baptism (Light Magick Lv.2)**"
+	}
+	"**A player learn the Shadowbound (Shadow Magick Lv.1)**"
+	{
+		"default"		"**A player learn the Shadowbound (Shadow Magick Lv.1)**"
+	}
+	"**The crystal has been smashed**"
+	{
+		"default"		"**The crystal has been smashed**"
+	}
+	"**Hold for a while till the gate open**"
+	{
+		"default"		"**Hold for a while till the gate open**"
+	}
+	"**A player learn the Frost Burst (Ice Magick Lv.3)**"
+	{
+		"default"		"**A player learn the Frost Burst (Ice Magick Lv.3)**"
+	}
+	"**A player learn the Flameshot (Fire Magick Lv.1)**"
+	{
+		"default"		"**A player learn the Flameshot (Fire Magick Lv.1)**"
+	}
+	"**A player learn the Baptism (Light Magick Lv.1)**"
+	{
+		"default"		"**A player learn the Baptism (Light Magick Lv.1)**"
+	}
+	"**Now get down to the ropeway platform**"
+	{
+		"default"		"**Now get down to the ropeway platform**"
+	}
+	"**A player learn the Thunderblast (Thunder Magick Lv.1)**"
+	{
+		"default"		"**A player learn the Thunderblast (Thunder Magick Lv.1)**"
+	}
+	"**Hang up your slide hook**"
+	{
+		"default"		"**Hang up your slide hook**"
+	}
+	"**We'll set out when everyone is ready**"
+	{
+		"default"		"**We'll set out when everyone is ready**"
+	}
+	"**A player learn the Shadowbound (Shadow Magick Lv.2)**"
+	{
+		"default"		"**A player learn the Shadowbound (Shadow Magick Lv.2)**"
+	}
+	"**The way to the temple is blocked**"
+	{
+		"default"		"**The way to the temple is blocked**"
+	}
+	"**Get ready for your C4 bomb**"
+	{
+		"default"		"**Get ready for your C4 bomb**"
+	}
+	"**A seal of thousands of years under the glacier has been broken through...**"
+	{
+		"default"		"**A seal of thousands of years under the glacier has been broken through...**"
+	}
+	"**C4 has been planted**"
+	{
+		"default"		"**C4 has been planted**"
+	}
+	"**Get back!C4 is about to explode!**"
+	{
+		"default"		"**Get back!C4 is about to explode!**"
+	}
+	"**A player learn the Arcbreak (Thunder Magick Lv.4)**"
+	{
+		"default"		"**A player learn the Arcbreak (Thunder Magick Lv.4)**"
+	}
+	"**Cover here till we open the gate**"
+	{
+		"default"		"**Cover here till we open the gate**"
+	}
+	"**That's the Evernight Temple**"
+	{
+		"default"		"**That's the Evernight Temple**"
+	}
+	"**Let's get into it**"
+	{
+		"default"		"**Let's get into it**"
+	}
+	"'Seems some bugs follow me.'"
+	{
+		"default"		"'Seems some bugs follow me.'"
+	}
+	"**That it Basil!Wait...with Gradyrat?**"
+	{
+		"default"		"**That it Basil!Wait...with Gradyrat?**"
+	}
+	"**Sh*t!we have been found!shot it!shot it!**"
+	{
+		"default"		"**Sh*t!we have been found!shot it!shot it!**"
+	}
+	"**It's an image of Basil...**"
+	{
+		"default"		"**It's an image of Basil...**"
+	}
+	"**We have to hurry up,let's move**"
+	{
+		"default"		"**We have to hurry up,let's move**"
+	}
+	"**A player learn the Thunderblast (Thunder Magick Lv.2)**"
+	{
+		"default"		"**A player learn the Thunderblast (Thunder Magick Lv.2)**"
+	}
+	"**A player learn the Mega Pressure (Shadow Magick Lv.4)**"
+	{
+		"default"		"**A player learn the Mega Pressure (Shadow Magick Lv.4)**"
+	}
+	"**A player learn the Helltide (Fire Magick Lv.5)**"
+	{
+		"default"		"**A player learn the Helltide (Fire Magick Lv.5)**"
+	}
+	"**A player learn the Polar Storm (Ice Magick Lv.5)**"
+	{
+		"default"		"**A player learn the Polar Storm (Ice Magick Lv.5)**"
+	}
+	"**A player learn the Air Lash (Wind Magick Lv.2)**"
+	{
+		"default"		"**A player learn the Air Lash (Wind Magick Lv.2)**"
+	}
+	"**A player learn the Brilliant Circle (Light Magick Lv.3)**"
+	{
+		"default"		"**A player learn the Brilliant Circle (Light Magick Lv.3)**"
+	}
+	"**A player learn the Frostbite (Ice Magick Lv.2)**"
+	{
+		"default"		"**A player learn the Frostbite (Ice Magick Lv.2)**"
+	}
+	"**A player learn the Atmosphere Turbulence (Wind Magick Lv.5)**"
+	{
+		"default"		"**A player learn the Atmosphere Turbulence (Wind Magick Lv.5)**"
+	}
+	"**A player learn the Flameshot (Fire Magick Lv.2)**"
+	{
+		"default"		"**A player learn the Flameshot (Fire Magick Lv.2)**"
+	}
+}

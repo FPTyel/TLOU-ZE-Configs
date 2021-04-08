@@ -1,0 +1,35 @@
+"Chat"
+{
+	"Welcome on Objective NPST"
+	{
+		"default"		"Welcome on Objective NPST"
+	}
+	"Good Luck !"
+	{
+		"default"		"Good Luck !"
+	}
+	"<<<The door has opened>>>"
+	{
+		"default"		"<<<The door has opened>>>"
+	}
+	"<<<The yellow door leading to the HUB will open soon>>>"
+	{
+		"default"		"<<<The yellow door leading to the HUB will open soon>>>"
+	}
+	"<<<The yellow door Area 9 will open in 10 seconds>>>"
+	{
+		"default"		"<<<The yellow door Area 9 will open in 10 seconds>>>"
+	}
+	"<<<Get out of here !!!>>>"
+	{
+		"default"		"<<<Get out of here !!!>>>"
+	}
+	"<<<The door is opening get inside !>>>"
+	{
+		"default"		"<<<The door is opening get inside !>>>"
+	}
+	"<<<The electricity should be cut off in a few seconds>>>"
+	{
+		"default"		"<<<The electricity should be cut off in a few seconds>>>"
+	}
+}

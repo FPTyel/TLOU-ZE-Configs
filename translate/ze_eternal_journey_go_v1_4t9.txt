@@ -1,0 +1,175 @@
+"Chat"
+{
+	"** WARMUP ROUND **"
+	{
+		"default"		"** WARMUP ROUND **"
+	}
+	">>*** MAP BY STK ***<<"
+	{
+		"default"		">>*** MAP BY STK ***<<"
+	}
+	">>> STAGE 1 <<<"
+	{
+		"default"		">>> STAGE 1 <<<"
+	}
+	"** A player has picked up Freeze Staff **"
+	{
+		"default"		"** A player has picked up Freeze Staff **"
+	}
+	"** HOLD FOR 30 SECONDS **"
+	{
+		"default"		"** Hold for 30 seconds **"
+	}
+	"** A player has picked up Tornado Staff **"
+	{
+		"default"		"** A player has picked up Tornado Staff **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"default"		"** 5 seconds left **"
+	}
+	"** FALL BACK **"
+	{
+		"default"		"** FALL BACK **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"default"		"** A player has picked up Earth Staff **"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"default"		"** A player has picked up Fire Staff **"
+	}
+	"** Hold for 20 seconds **"
+	{
+		"default"		"** Hold for 20 seconds **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"default"		"** A player has picked up Heal Staff **"
+	}
+	"** Teleport will open in 30 seconds **"
+	{
+		"default"		"** Teleport will open in 30 seconds **"
+	}
+	"** 5 seconds left**"
+	{
+		"default"		"** 5 seconds left**"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"default"		"** The doors will open in 25 seconds **"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"default"		"** The doors will open in 20 seconds **"
+	}
+	"** YOU WON STAGE 1 **"
+	{
+		"default"		"** YOU WON STAGE 1 **"
+	}
+	">>> STAGE 2 <<<"
+	{
+		"default"		">>> STAGE 2 <<<"
+	}
+	"** Hold 25 seconds **"
+	{
+		"default"		"** Hold 25 seconds **"
+	}
+	"** Hold 20 seconds **"
+	{
+		"default"		"** Hold 20 seconds **"
+	}
+	"** A player has picked up Ultimate Staff **"
+	{
+		"default"		"** A player has picked up Ultimate Staff **"
+	}
+	"** Hold 30 seconds **"
+	{
+		"default"		"** Hold 30 seconds **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"default"		"** Kill him or he kills you!!! **"
+	}
+	"*** Grenades do more damage. ***"
+	{
+		"default"		"*** Grenades do more damage. ***"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"default"		"*** He's dead. Run. ***"
+	}
+	"** Hold for 10 seconds **"
+	{
+		"default"		"** Hold for 10 seconds **"
+	}
+	"** Hold for 15 seconds **"
+	{
+		"default"		"** Hold for 15 seconds **"
+	}
+	"** Teleport will open in 25 seconds **"
+	{
+		"default"		"** Teleport will open in 25 seconds **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"default"		"** YOU WON STAGE 2 **"
+	}
+	">>> STAGE 3 <<<"
+	{
+		"default"		">>> STAGE 3 <<<"
+	}
+	"*** Grenades do more damage (5 seconds) ***"
+	{
+		"default"		"*** Grenades do more damage (5 seconds) ***"
+	}
+	">> BOSS USED FREEZE <<"
+	{
+		"default"		">> BOSS USED FREEZE <<"
+	}
+	">> BOSS USED ELECTRO <<"
+	{
+		"default"		">> BOSS USED ELECTRO <<"
+	}
+	">> BOSS USED FIRE <<"
+	{
+		"default"		">> BOSS USED FIRE <<"
+	}
+	">> BOSS USED TENTACLES <<"
+	{
+		"default"		">> BOSS USED TENTACLES <<"
+	}
+	">> BOSS USED ULTIMATE <<"
+	{
+		"default"		">> BOSS USED ULTIMATE <<"
+	}
+	"*** Hold 20 seconds. ***"
+	{
+		"default"		"*** Hold 20 seconds. ***"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"default"		"*** 5 seconds left ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"default"		"*** FALL BACK ***"
+	}
+	"** Hold 15 seconds **"
+	{
+		"default"		"** Hold 15 seconds **"
+	}
+	"** Hold 10 seconds **"
+	{
+		"default"		"** Hold 10 seconds **"
+	}
+	"** YOU WON STAGE 3 **"
+	{
+		"default"		"** YOU WON STAGE 3 **"
+	}
+	">>> STAGE 4<<<"
+	{
+		"default"		">>> STAGE 4<<<"
+	}
+}

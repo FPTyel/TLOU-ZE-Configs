@@ -1,0 +1,186 @@
+"Chat"
+{
+	"Map Fixed by Rulucy and Kotya"
+	{
+		"default"		"Map Fixed by Rulucy and Kotya"
+	}
+	"Map by XXPohmian"
+	{
+		"XXMochi"
+		{
+			"default"		"Map by XXPohmian/XXMochi"
+		}
+	}
+	"Special Thanks .YuukiAsuna. Gopa Rulucy Sesame BalG"
+	{
+		"default"		"Special Thanks .YuukiAsuna. Gopa Rulucy Sesame BalG"
+	}
+	"Thanks for testing *Domain VasyaPupkin other testers"
+	{
+		"default"		"Thanks for testing *Domain VasyaPupkin other testers"
+	}
+	"Ported by isa"
+	{
+		"default"		"Ported by isa"
+	}
+	"***The Gate will open in 10 seconds***"
+	{
+		"default"		"***The Gate will open in 10 seconds***"
+	}
+	"[Normal Mode]"
+	{
+		"default"		"[Normal Mode]"
+	}
+	"*** The LeftGate is unlocked ***"
+	{
+		"default"		"*** The LeftGate is unlocked ***"
+	}
+	"***The LeftGate will open in 40 seconds***"
+	{
+		"default"		"***The LeftGate will open in 40 seconds***"
+	}
+	"***The Gate will open in 25 seconds***"
+	{
+		"default"		"***The Gate will open in 25 seconds***"
+	}
+	"***The SecondGate will open in 15 seconds***"
+	{
+		"default"		"***The SecondGate will open in 15 seconds***"
+	}
+	"***The ThirdGate will open in 10 seconds***"
+	{
+		"default"		"***The ThirdGate will open in 10 seconds***"
+	}
+	"***The MidleGate will open in 20 seconds***"
+	{
+		"default"		"***The MidleGate will open in 20 seconds***"
+	}
+	"***The MidleGate will close in 10 seconds***"
+	{
+		"default"		"***The MidleGate will close in 10 seconds***"
+	}
+	"***The Gate will open in 30 seconds***"
+	{
+		"default"		"***The Gate will open in 30 seconds***"
+	}
+	"***Zombie have been teleported***"
+	{
+		"default"		"***Zombie have been teleported***"
+	}
+	"***The FinalGate will close in 35 seconds***"
+	{
+		"default"		"***The FinalGate will close in 35 seconds***"
+	}
+	"***You won Normal Mode***"
+	{
+		"default"		"***You won Normal Mode***"
+	}
+	"[Hard Mode]"
+	{
+		"default"		"[Hard Mode]"
+	}
+	"*** The RightGate is unlocked ***"
+	{
+		"default"		"*** The RightGate is unlocked ***"
+	}
+	"***The RightGate will open in 40 seconds***"
+	{
+		"default"		"***The RightGate will open in 40 seconds***"
+	}
+	"***The Gate will open 30 seconds***"
+	{
+		"default"		"***The Gate will open 30 seconds***"
+	}
+	"***The Gate will open 15 in seconds***"
+	{
+		"default"		"***The Gate will open 15 in seconds***"
+	}
+	"***The MetalGate is going to break in 20 seconds***"
+	{
+		"default"		"***The MetalGate is going to break in 20 seconds***"
+	}
+	"***Defend more 15 seconds***"
+	{
+		"default"		"***Defend more 15 seconds***"
+	}
+	"***Defend 35 seconds***"
+	{
+		"default"		"***Defend 35 seconds***"
+	}
+	"***Defend 25 seconds***"
+	{
+		"default"		"***Defend 25 seconds***"
+	}
+	"***Defend Shortcut***"
+	{
+		"default"		"***Defend Shortcut***"
+	}
+	"***The SecondGate will open in 10 seconds***"
+	{
+		"default"		"***The SecondGate will open in 10 seconds***"
+	}
+	"***The FinalGate is open***"
+	{
+		"default"		"***The FinalGate is open***"
+	}
+	"***The FinalGate will close in 25 seconds***"
+	{
+		"default"		"***The FinalGate will close in 25 seconds***"
+	}
+	"***You won Hard Mode***"
+	{
+		"default"		"***You won Hard Mode***"
+	}
+	"***The Gate will open in 15 seconds***"
+	{
+		"default"		"***The Gate will open in 15 seconds***"
+	}
+	"< ??? >"
+	{
+		"default"		"< ??? >"
+	}
+	"*** It going to break ***"
+	{
+		"default"		"*** It going to break ***"
+	}
+	"[Soul Mode]"
+	{
+		"default"		"[Soul Mode]"
+	}
+	"***The Gates will open in 45 seconds***"
+	{
+		"default"		"***The Gates will open in 45 seconds***"
+	}
+	"*** The vents are going to open ***"
+	{
+		"default"		"*** The vents are going to open ***"
+	}
+	"< !!! >"
+	{
+		"default"		"< !!! >"
+	}
+	"***The MetalGate is going to break in 25 seconds***"
+	{
+		"default"		"***The MetalGate is going to break in 25 seconds***"
+	}
+	"***The MidleGate will close in 15 seconds***"
+	{
+		"default"		"***The MidleGate will close in 15 seconds***"
+	}
+	"< ? >"
+	{
+		"default"		"< ? >"
+	}
+	"< ?? >"
+	{
+		"default"		"< ?? >"
+	}
+	"***The Gate will open in 35 seconds***"
+	{
+		"default"		"***The Gate will open in 35 seconds***"
+	}
+	"*** The Soul was killed ***"
+	{
+		"default"		"*** The Soul was killed ***"
+	}
+}

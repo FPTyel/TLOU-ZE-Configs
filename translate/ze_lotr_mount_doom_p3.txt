@@ -1,0 +1,99 @@
+"Chat"
+{
+	"**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********"
+	{
+		"default"		"**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********"
+	}
+	"**Random objective:**"
+	{
+		"default"		"**Random objective:**"
+	}
+	"**Destroy the Ring**"
+	{
+		"default"		"**Destroy the Ring**"
+	}
+	"***AFK Teleport in 15 s***"
+	{
+		"default"		"***AFK Teleport in 15 s***"
+	}
+	"***Earendil light has been picked***"
+	{
+		"default"		"***Earendil light has been picked***"
+	}
+	"***Humans have reached the Cirith Ungol tower***"
+	{
+		"default"		"***Humans have reached the Cirith Ungol tower***"
+	}
+	"***A human MUST pick up the RING while the others defend the entrance.***"
+	{
+		"default"		"***A human MUST pick up the RING while the others defend the entrance.***"
+	}
+	"**Defend until the others have returned!**"
+	{
+		"default"		"**Defend until the others have returned!**"
+	}
+	"**The ring has been picked!**"
+	{
+		"default"		"**The ring has been picked!**"
+	}
+	"***Nazguls coming to Minas Morgul in 15 s***"
+	{
+		"default"		"***Nazguls coming to Minas Morgul in 15 s***"
+	}
+	"** The bearer feels the weight of the Ring ** Protect him! **"
+	{
+		"default"		"** The bearer feels the weight of the Ring ** Protect him! **"
+	}
+	"**The ring carrier must go down to open the door.**"
+	{
+		"default"		"**The ring carrier must go down to open the door.**"
+	}
+	"***The door is NOW open! Escape from Cirith Ungol!***"
+	{
+		"default"		"***The door is NOW open! Escape from Cirith Ungol!***"
+	}
+	"***Nazguls coming to Cirith Ungol tower in 15 s***"
+	{
+		"default"		"***Nazguls coming to Cirith Ungol tower in 15 s***"
+	}
+	"***Nazguls coming to camp in 15 s***"
+	{
+		"default"		"***Nazguls coming to camp in 15 s***"
+	}
+	"***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***"
+	{
+		"default"		"***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***"
+	}
+	"***What are you waiting for?Just let it go!***"
+	{
+		"default"		"***What are you waiting for?Just let it go!***"
+	}
+	"***Carrier says: the Ring is mine!***"
+	{
+		"default"		"***Carrier says: the Ring is mine!***"
+	}
+	"***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
+	{
+		"default"		"***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
+	}
+	"**Nazgul defeated!**"
+	{
+		"default"		"**Nazgul defeated!**"
+	}
+	"**Reach the Mount Doom**"
+	{
+		"default"		"**Reach the Mount Doom**"
+	}
+	"***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***"
+	{
+		"default"		"***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***"
+	}
+	"**Lever pressed! Door will open in 15s**"
+	{
+		"default"		"**Lever pressed! Door will open in 15s**"
+	}
+	"***Resist 30 s!!***"
+	{
+		"default"		"***Resist 30 s!!***"
+	}
+}

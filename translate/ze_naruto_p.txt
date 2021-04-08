@@ -1,0 +1,143 @@
+"Chat"
+{
+	"***!!! THIS IS A WARMUP ROUND !!!***"
+	{
+		"default"		"***!!! THIS IS A WARMUP ROUND !!!***"
+	}
+	"***!!! WAITING FOR MORE PLAYERS !!!***"
+	{
+		"default"		"***!!! WAITING FOR MORE PLAYERS !!!***"
+	}
+	"***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***"
+	{
+		"default"		"***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***"
+	}
+	">>>Map by CriSsys<<<"
+	{
+		"default"		">>>Map by CriSsys<<<"
+	}
+	">>>Help tips opinions and adjustements by Aeris004<<<"
+	{
+		"default"		">>>Help tips opinions and adjustements by Aeris004<<<"
+	}
+	">>>Thanks to FireWavezZ<<<"
+	{
+		"default"		">>>Thanks to FireWavezZ<<<"
+	}
+	"***!!! GAME WILL START IN FEW SECOND !!!***"
+	{
+		"default"		"***!!! GAME WILL START IN FEW SECOND !!!***"
+	}
+	"***!!! CURRENT DIFFICULTY : EASY !!!***"
+	{
+		"default"		"***!!! CURRENT DIFFICULTY : EASY !!!***"
+	}
+	"***Naruto will open the way ! Follow him !***"
+	{
+		"default"		"***Naruto will open the way ! Follow him !***"
+	}
+	"***HOLD THIS POSTION***"
+	{
+		"default"		"***HOLD THIS POSTION***"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"default"		"***20 SECONDS LEFT***"
+	}
+	"***Cave way will open in 20s !***"
+	{
+		"default"		"***Cave way will open in 20s !***"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"default"		"***10 SECONDS LEFT***"
+	}
+	"***Cave way will open in 10s !***"
+	{
+		"default"		"***Cave way will open in 10s !***"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"default"		"***5 SECONDS LEFT***"
+	}
+	"***DOORS OPENING NOW***"
+	{
+		"default"		"***DOORS OPENING NOW***"
+	}
+	"***HOLD THIS POSITION***"
+	{
+		"default"		"***HOLD THIS POSITION***"
+	}
+	"***CITY AFK TELEPORT IN 10s***"
+	{
+		"default"		"***CITY AFK TELEPORT IN 10s***"
+	}
+	"***15 SECOND LEFT***"
+	{
+		"default"		"***15 SECOND LEFT***"
+	}
+	"***10 second left***"
+	{
+		"default"		"***10 SECOND LEFT***"
+	}
+	"***5 SECOND LEFT***"
+	{
+		"default"		"***5 SECOND LEFT***"
+	}
+	"***FORTRESS AFK TELEPORT IN 10s***"
+	{
+		"default"		"***FORTRESS AFK TELEPORT IN 10s***"
+	}
+	"***FORTRESS AFK TELEPORT***"
+	{
+		"default"		"***FORTRESS AFK TELEPORT***"
+	}
+	"***!!! NEXT DIFFICULTY : NORMAL !!!***"
+	{
+		"default"		"***!!! NEXT DIFFICULTY : NORMAL !!!***"
+	}
+	"***!!! CURRENT DIFFICULTY : NORMAL !!!***"
+	{
+		"default"		"***!!! CURRENT DIFFICULTY : NORMAL !!!***"
+	}
+	"*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***"
+	{
+		"default"		"*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***"
+	}
+	"***25 SECONDS LEFT***"
+	{
+		"default"		"***25 SECONDS LEFT***"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"default"		"***30 SECONDS LEFT***"
+	}
+	"***20 second left***"
+	{
+		"default"		"***20 SECOND LEFT***"
+	}
+	"***DOOR WILL OPEN IN 15 SECONDS***"
+	{
+		"default"		"***DOOR WILL OPEN IN 15 SECONDS***"
+	}
+	"***DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"default"		"***DOOR WILL OPEN IN 5 SECONDS***"
+	}
+	"***SECOND DOOR WILL OPEN IN 15 SECONDS***"
+	{
+		"default"		"***SECOND DOOR WILL OPEN IN 15 SECONDS***"
+	}
+	"***!!! NEXT DIFFICULTY : HARD !!!***"
+	{
+		"default"		"***!!! NEXT DIFFICULTY : HARD !!!***"
+	}
+	"***!!! CURRENT DIFFICULTY : HARD !!!***"
+	{
+		"default"		"***!!! CURRENT DIFFICULTY : HARD !!!***"
+	}
+	"***40 SECONDS LEFT***"
+	{
+		"default"		"***40 SECONDS LEFT***"
+	}
+}

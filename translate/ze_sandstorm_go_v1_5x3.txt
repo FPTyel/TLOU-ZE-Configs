@@ -1,0 +1,191 @@
+"Chat"
+{
+	">>> WARMUP ROUND <<<"
+	{
+		"default"		">>> WARMUP ROUND <<<"
+	}
+	">>*** MAP BY STK ***<<"
+	{
+		"default"		">>*** MAP BY STK ***<<"
+	}
+	">> STAGE 1 <<"
+	{
+		"default"		">> STAGE 1 <<"
+	}
+	"** A player has picked up Tornado Staff **"
+	{
+		"default"		"** A player has picked up Tornado Staff **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"default"		"** A player has picked up Heal Staff **"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"default"		"** The doors will open in 20 seconds **"
+	}
+	"** 5 seconds left **"
+	{
+		"default"		"** 5 seconds left **"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"default"		"** A player has picked up Fire Staff **"
+	}
+	"** FALL BACK **"
+	{
+		"default"		"** FALL BACK **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"default"		"** A player has picked up Earth Staff **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"default"		"** The doors will open in 25 seconds **"
+	}
+	"** A player has picked up Quicksand Staff **"
+	{
+		"default"		"** A player has picked up Quicksand Staff **"
+	}
+	"** The door will open in 30 seconds **"
+	{
+		"default"		"** The door will open in 30 seconds **"
+	}
+	"** The doors will open in 15 seconds **"
+	{
+		"default"		"** The doors will open in 15 seconds **"
+	}
+	"** Bomb explodes in 20 seconds **"
+	{
+		"default"		"** Bomb explodes in 20 seconds **"
+	}
+	"** Hold zombies for 15 seconds **"
+	{
+		"default"		"** Hold zombies for 15 seconds **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"default"		"*** YOU WON STAGE 1 ***"
+	}
+	">> STAGE 2 <<"
+	{
+		"default"		">> STAGE 2 <<"
+	}
+	"** A player has picked up SandStorm Staff **"
+	{
+		"default"		"** A player has picked up SandStorm Staff **"
+	}
+	"** Teleport will open in 20 seconds **"
+	{
+		"default"		"** Teleport will open in 20 seconds **"
+	}
+	"** 5 seconds left. **"
+	{
+		"default"		"** 5 seconds left. **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"default"		"** Kill him or he kills you!!! **"
+	}
+	"*** Grenades do more damage. ***"
+	{
+		"default"		"*** Grenades do more damage. ***"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"default"		"*** He's dead. Run. ***"
+	}
+	"** The doors will open on 15 seconds **"
+	{
+		"default"		"** The doors will open on 15 seconds **"
+	}
+	"** Press on the 4 obelisks to open the door **"
+	{
+		"default"		"** Press on the 4 obelisks to open the door **"
+	}
+	"** The doors will open in 10 seconds **"
+	{
+		"default"		"** The doors will open in 10 seconds **"
+	}
+	"** Elevator leaves in 20 seconds **"
+	{
+		"default"		"** Elevator leaves in 20 seconds **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"default"		"** YOU WON STAGE 2 **"
+	}
+	">> STAGE 3 <<"
+	{
+		"default"		">> STAGE 3 <<"
+	}
+	"** Hold for 20 seconds. **"
+	{
+		"default"		"** Hold for 20 seconds. **"
+	}
+	"** Teleport will open in 15 seconds **"
+	{
+		"default"		"** Teleport will open in 15 seconds **"
+	}
+	"** Hold Zombies for 10 seconds **"
+	{
+		"default"		"** Hold Zombies for 10 seconds **"
+	}
+	"** YOU WON STAGE 3 **"
+	{
+		"default"		"** YOU WON STAGE 3 **"
+	}
+	">> STAGE 4 <<"
+	{
+		"default"		">> STAGE 4 <<"
+	}
+	"** Meteorite arrives in 17 seconds. **"
+	{
+		"default"		"** Meteorite arrives in 17 seconds. **"
+	}
+	"*** Grenades do more damage. (8 SECONDS)***"
+	{
+		"default"		"*** Grenades do more damage. (8 SECONDS)***"
+	}
+	"*** YOU WON STAGE 4 ***"
+	{
+		"default"		"*** YOU WON STAGE 4 ***"
+	}
+	"** Run into the center and break the crystal!!! **"
+	{
+		"default"		"** Run into the center and break the crystal!!! **"
+	}
+	">> STAGE 5 <<"
+	{
+		"default"		">> STAGE 5 <<"
+	}
+	"** 10 seconds left **"
+	{
+		"default"		"** 10 seconds left **"
+	}
+	"** Teleport will open in 20 seconds. **"
+	{
+		"default"		"** Teleport will open in 20 seconds. **"
+	}
+	"** Teleport will open on 10 seconds **"
+	{
+		"default"		"** Teleport will open on 10 seconds **"
+	}
+	"** Hold for 15 seconds. **"
+	{
+		"default"		"** Hold for 15 seconds. **"
+	}
+	"*** Grenades do more damage (4 SECONDS). ***"
+	{
+		"default"		"*** Grenades do more damage (4 SECONDS). ***"
+	}
+	"** Do not come to the edge of the platform! **"
+	{
+		"default"		"** Do not come to the edge of the platform! **"
+	}
+	"** AND NOW YOU WILL DIE! **"
+	{
+		"default"		"** AND NOW YOU WILL DIE! **"
+	}
+}

@@ -1,0 +1,55 @@
+"Chat"
+{
+	"ze_meatropolis"
+	{
+		"default"		"ze_meatropolis"
+	}
+	"lovingly prepared by soft serve"
+	{
+		"default"		"lovingly prepared by soft serve"
+	}
+	"stage 1"
+	{
+		"default"		"stage 1"
+	}
+	"30"
+	{
+		"default"		"30"
+	}
+	"got the meatloaf"
+	{
+		"default"		"got the meatloaf"
+	}
+	"15"
+	{
+		"default"		"15"
+	}
+	"got the chunky chili"
+	{
+		"default"		"got the chunky chili"
+	}
+	"5"
+	{
+		"default"		"5"
+	}
+	"45"
+	{
+		"default"		"45"
+	}
+	"got the shish kebab"
+	{
+		"default"		"got the shish kebab"
+	}
+	"got the meatball"
+	{
+		"default"		"got the meatball"
+	}
+	"got the tomato soup (vegetarian option)"
+	{
+		"default"		"got the tomato soup (vegetarian option)"
+	}
+	"got the pork familiar"
+	{
+		"default"		"got the pork familiar"
+	}
+}

@@ -1,0 +1,107 @@
+"Chat"
+{
+	"***Shutter open in 20 seconds.***"
+	{
+		"default"		"***Shutter open in 20 seconds.***"
+	}
+	"***Escalator is blocked.***"
+	{
+		"default"		"***Escalator is blocked.***"
+	}
+	"***Shoot the tree!***"
+	{
+		"default"		"***Shoot the tree!***"
+	}
+	"***The tree is broken.***"
+	{
+		"default"		"***The tree is broken.***"
+	}
+	"***Zombie teleport soon at 3rd floor.***"
+	{
+		"default"		"***Zombie teleport soon at 3rd floor.***"
+	}
+	"***Door open in 20 seconds.***"
+	{
+		"default"		"***Door open in 20 seconds.***"
+	}
+	"***Door open in 10 seconds.***"
+	{
+		"default"		"***Door open in 10 seconds.***"
+	}
+	"***Zombie teleport soon at 1st floor.***"
+	{
+		"default"		"***Zombie teleport soon at 1st floor.***"
+	}
+	"***Door open in 15 seconds.***"
+	{
+		"default"		"***Door open in 15 seconds.***"
+	}
+	"***Open the emergency door...***"
+	{
+		"default"		"***Open the emergency door...***"
+	}
+	"***Be ready to fight the horde!***"
+	{
+		"default"		"***Be ready to fight the horde!***"
+	}
+	"***Here they come...***"
+	{
+		"default"		"***Here they come...***"
+	}
+	"***Deactivate the alarm on the 3rd floor.***"
+	{
+		"default"		"***Deactivate the alarm on the 3rd floor.***"
+	}
+	"***Zombie teleport soon at 2nd floor.***"
+	{
+		"default"		"***Zombie teleport soon at 2nd floor.***"
+	}
+	"***Go up fast!***"
+	{
+		"default"		"***Go up fast!***"
+	}
+	"***Deactivated the alarm.***"
+	{
+		"default"		"***Deactivated the alarm.***"
+	}
+	"***Defend here in 30 seconds.***"
+	{
+		"default"		"***Defend here in 30 seconds.***"
+	}
+	"***Zombie coming from other side!***"
+	{
+		"default"		"***Zombie coming from other side!***"
+	}
+	"***Watch out!***"
+	{
+		"default"		"***Watch out!***"
+	}
+	"***The path is clear!***"
+	{
+		"default"		"***The path is clear!***"
+	}
+	"***Door close in 30 seconds.***"
+	{
+		"default"		"***Door close in 30 seconds.***"
+	}
+	"***We're safe... for now.***"
+	{
+		"default"		"***We're safe... for now.***"
+	}
+	"***Shoot out the store window...***"
+	{
+		"default"		"***Shoot out the store window...***"
+	}
+	"***Control room door is closed.***"
+	{
+		"default"		"***Control room door is closed.***"
+	}
+	"***Defend here in 25 seconds.***"
+	{
+		"default"		"***Defend here in 25 seconds.***"
+	}
+	"***Door is opened.***"
+	{
+		"default"		"***Door is opened.***"
+	}
+}

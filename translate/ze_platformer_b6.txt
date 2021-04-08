@@ -1,0 +1,43 @@
+"Chat"
+{
+	"Map made by Cuniczek"
+	{
+		"default"		"Map made by Cuniczek"
+	}
+	"Thanks to Enviolinador & Darnias"
+	{
+		"default"		"Thanks to Enviolinador & Darnias"
+	}
+	"Zombies have secured a checkpoint."
+	{
+		"default"		"Zombies have secured a checkpoint."
+	}
+	"Added extra shininess to the coins."
+	{
+		"default"		"Added extra shininess to the coins."
+	}
+	"You have collected enough coins. Nuke inbound in 70 seconds."
+	{
+		"default"		"You have collected enough coins. Nuke inbound in 70 seconds."
+	}
+	"Proceed to find a safehouse if you want to survive."
+	{
+		"default"		"Proceed to find a safehouse if you want to survive."
+	}
+	"Some items have spawned on top of safehouses."
+	{
+		"default"		"Some items have spawned on top of safehouses."
+	}
+	"CT flags can now teleport humans back to spawn."
+	{
+		"default"		"CT flags can now teleport humans back to spawn."
+	}
+	"Platforms are now breakable!"
+	{
+		"default"		"Platforms are now breakable!"
+	}
+	"Meteors are raining from the sky!"
+	{
+		"default"		"Meteors are raining from the sky!"
+	}
+}

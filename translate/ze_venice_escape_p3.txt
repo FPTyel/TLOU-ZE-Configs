@@ -1,0 +1,111 @@
+"Chat"
+{
+	"***Map by RelaxingWalls***"
+	{
+		"default"		"***Map by RelaxingWalls***"
+	}
+	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"default"		"***Map made for SteamGamers Mapping Competition***"
+	}
+	"***Escape Venice through the Grand Canal and to the Escape Island!***"
+	{
+		"default"		"***Escape Venice through the Grand Canal and to the Escape Island!***"
+	}
+	"***Boat 1 leaving in 10secs!***"
+	{
+		"default"		"***Boat 1 leaving in 10secs!***"
+	}
+	"***Boat 2 leaving in 5secs!***"
+	{
+		"default"		"***Boat 2 leaving in 5secs!***"
+	}
+	"***Utility door will open in 15secs!***"
+	{
+		"default"		"***Utility door will open in 15secs!***"
+	}
+	"***Lift 2 leaving in 5secs!***"
+	{
+		"default"		"***Lift 2 leaving in 5secs!***"
+	}
+	"***AFK Teleport in 45 seconds!***"
+	{
+		"default"		"***AFK Teleport in 45 seconds!***"
+	}
+	"***Left bridge charges set for 15secs!*** "
+	{
+		"default"		"***Left bridge charges set for 15secs!*** "
+	}
+	"***Helicopter leaving in 75secs!"
+	{
+		"default"		"***Helicopter leaving in 75secs!"
+	}
+	"***Boat house door open!***"
+	{
+		"default"		"***Boat house door open!***"
+	}
+	"***Bridge charges set for 15secs!*** "
+	{
+		"default"		"***Bridge charges set for 15secs!*** "
+	}
+	"***Boat 5 leaving in 60secs!***"
+	{
+		"default"		"***Boat 5 leaving in 60secs!***"
+	}
+	"***Helicopter leaving in 30secs!"
+	{
+		"default"		"***Helicopter leaving in 30secs!"
+	}
+	"***Helicopter leaving in 5secs!"
+	{
+		"default"		"***Helicopter leaving in 5secs!"
+	}
+	"***Boat 5 leaving in 5secs!***"
+	{
+		"default"		"***Boat 5 leaving in 5secs!***"
+	}
+	"***Boat 3 leaving in 45secs!***"
+	{
+		"default"		"***Boat 3 leaving in 45secs!***"
+	}
+	"***Nukes ready for launch!***"
+	{
+		"default"		"***Nukes ready for launch!***"
+	}
+	"***Boat house bridge charges set for 15secs!*** "
+	{
+		"default"		"***Boat house bridge charges set for 15secs!*** "
+	}
+	"***Overpass gate will open in 15secs!***"
+	{
+		"default"		"***Overpass gate will open in 15secs!***"
+	}
+	"***Boat 3 leaving in 5secs!***"
+	{
+		"default"		"***Boat 3 leaving in 5secs!***"
+	}
+	"***Nuke in 10secs!***"
+	{
+		"default"		"***Nuke in 10secs!***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***Boat 4 leaving in 45secs!***"
+	{
+		"default"		"***Boat 4 leaving in 45secs!***"
+	}
+	"***Boat 4 leaving in 5secs!***"
+	{
+		"default"		"***Boat 4 leaving in 5secs!***"
+	}
+}

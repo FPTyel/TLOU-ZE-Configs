@@ -1,0 +1,55 @@
+"Chat"
+{
+	"Normal LVL!"
+	{
+		"default"		"Normal LVL!"
+	}
+	"*** AFK Teleport in 15 seconds ***"
+	{
+		"default"		"*** AFK Teleport in 15 seconds ***"
+	}
+	"*** Spaceship leaving in 90 seconds ***"
+	{
+		"default"		"*** Spaceship leaving in 90 seconds ***"
+	}
+	"*** AFK Teleport in 10 seconds ***"
+	{
+		"default"		"*** AFK Teleport in 10 seconds ***"
+	}
+	"*** Spaceship leaving in 60 seconds ***"
+	{
+		"default"		"*** Spaceship leaving in 60 seconds ***"
+	}
+	"*** Spaceship leaving in 30 seconds ***"
+	{
+		"default"		"*** Spaceship leaving in 30 seconds ***"
+	}
+	"*** Spaceship leaving in 10 seconds ***"
+	{
+		"default"		"*** Spaceship leaving in 10 seconds ***"
+	}
+	"*** Spaceship leaving ***"
+	{
+		"default"		"*** Spaceship leaving ***"
+	}
+	"The level is completed!"
+	{
+		"default"		"The level is completed!"
+	}
+	"Hard LVL!"
+	{
+		"default"		"Hard LVL!"
+	}
+	"** Mojonero's PenisGun has been picked up. **"
+	{
+		"default"		"** Mojonero's PenisGun has been picked up. **"
+	}
+	"** Zombie Jumper has been picked up. **"
+	{
+		"default"		"** Zombie Jumper has been picked up. **"
+	}
+	"Extra Hard LVL!"
+	{
+		"default"		"Extra Hard LVL!"
+	}
+}

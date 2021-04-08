@@ -1,0 +1,139 @@
+"Chat"
+{
+	"***ZE_MOUNTAIN_ESCAPE***"
+	{
+		"default"		"***ZE_MOUNTAIN_ESCAPE***"
+	}
+	"***Game mode loading...***"
+	{
+		"default"		"***Game mode loading...***"
+	}
+	"***.***"
+	{
+		"default"		"***.***"
+	}
+	"***..***"
+	{
+		"default"		"***..***"
+	}
+	"***...***"
+	{
+		"default"		"***...***"
+	}
+	"*** ZOMBIE ITEMS AVAILABLE IN SPAWN ***"
+	{
+		"default"		"*** ZOMBIE ITEMS AVAILABLE IN SPAWN ***"
+	}
+	"*** METEORS ENABLED ***"
+	{
+		"default"		"*** METEORS ENABLED ***"
+	}
+	"***Nuke launched***"
+	{
+		"default"		"***Nuke launched***"
+	}
+	"***60 second left***"
+	{
+		"default"		"***60 second left***"
+	}
+	"***30 second left***"
+	{
+		"default"		"***30 second left***"
+	}
+	"***20 second left***"
+	{
+		"default"		"***20 second left***"
+	}
+	"***10 second left***"
+	{
+		"default"		"***10 second left***"
+	}
+	"***Current mode : Normal mode***"
+	{
+		"default"		"***Current mode : Normal mode***"
+	}
+	"**CT trigger activated: Shrooms for zombies in 5 secs. (30 secs. duration)**"
+	{
+		"default"		"**CT trigger activated: Shrooms for zombies in 5 secs. (30 secs. duration)**"
+	}
+	"**Global trigger activated: Jumpers in 5 secs. (30 secs. duration)**"
+	{
+		"default"		"**Global trigger activated: Jumpers in 5 secs. (30 secs. duration)**"
+	}
+	"**Global trigger activated: Random speed for all in 5 secs. (8 secs. duration)**"
+	{
+		"default"		"**Global trigger activated: Random speed for all in 5 secs. (8 secs. duration)**"
+	}
+	"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
+	{
+		"default"		"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
+	}
+	"**Zombie trigger activated: Pacifism in 2 secs.**"
+	{
+		"default"		"**Zombie trigger activated: Pacifism in 2 secs.**"
+	}
+	"***5***"
+	{
+		"default"		"***5***"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***Nuke impact***"
+	{
+		"default"		"***Nuke impact***"
+	}
+	"**Global trigger activated: Total blind in 5 secs. (10 secs. duration)**"
+	{
+		"default"		"**Global trigger activated: Total blind in 5 secs. (10 secs. duration)**"
+	}
+	"**Global trigger activated: Invert controls in 5 secs. (15 secs. duration)**"
+	{
+		"default"		"**Global trigger activated: Invert controls in 5 secs. (15 secs. duration)**"
+	}
+	"*** !? ***"
+	{
+		"default"		"*** !? ***"
+	}
+	"*** Snipers downgraded! ***"
+	{
+		"default"		"*** Snipers downgraded! ***"
+	}
+	"*** SUPERMODE BONUS - WEIRD MODE ***"
+	{
+		"default"		"*** SUPERMODE BONUS - WEIRD MODE ***"
+	}
+	"** !? **"
+	{
+		"default"		"** !? **"
+	}
+	"** Helicopters out of fuel! **"
+	{
+		"default"		"** Helicopters out of fuel! **"
+	}
+	"*** TELEPORTING EVERYONE TO THE FINAL ARENA IN 10 SECONDS ! ***"
+	{
+		"default"		"*** TELEPORTING EVERYONE TO THE FINAL ARENA IN 10 SECONDS ! ***"
+	}
+	"*** WEAPONS ARE GONE! ***"
+	{
+		"default"		"*** WEAPONS ARE GONE! ***"
+	}
+	"*** TELEPORTING EVERYONE TO THE FINAL ARENA IN 5 SECONDS ! ***"
+	{
+		"default"		"*** TELEPORTING EVERYONE TO THE FINAL ARENA IN 5 SECONDS ! ***"
+	}
+}

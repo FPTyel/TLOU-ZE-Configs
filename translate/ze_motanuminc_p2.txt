@@ -1,0 +1,75 @@
+"Chat"
+{
+	"**Starting Speed Boat releases in 45 seconds**"
+	{
+		"default"		"**Starting Speed Boat releases in 45 seconds**"
+	}
+	"**Oops! You should not have pressed that!**"
+	{
+		"default"		"**Oops! You should not have pressed that!**"
+	}
+	"**Now the ZombiCopter leaves in 1 minute**"
+	{
+		"default"		"**Now the ZombiCopter leaves in 1 minute**"
+	}
+	"**Humans go to the speed boat now!**"
+	{
+		"default"		"**Humans go to the speed boat now!**"
+	}
+	"**Zombies head for the ZombieCopter now!**"
+	{
+		"default"		"**Zombies head for the ZombieCopter now!**"
+	}
+	"*** Evil Zombie has been choosen***"
+	{
+		"default"		"*** Evil Zombie has been choosen***"
+	}
+	"**ZombieCopter leaves in 10 seconds**"
+	{
+		"default"		"**ZombieCopter leaves in 10 seconds**"
+	}
+	"**ZombieCopter has left Motanum Inc.!**"
+	{
+		"default"		"**ZombieCopter has left Motanum Inc.!**"
+	}
+	"**Requesting Access to Bunkers**"
+	{
+		"default"		"**Requesting Access to Bunkers**"
+	}
+	"**Request Granted**"
+	{
+		"default"		"**Request Granted**"
+	}
+	"**Bunker Opens in 1 minute**"
+	{
+		"default"		"**Bunker Opens in 1 minute**"
+	}
+	"**The Motanum Inc Weapons Of Mass Destruction are unstable!**"
+	{
+		"default"		"**The Motanum Inc Weapons Of Mass Destruction are unstable!**"
+	}
+	"**Song is Thunderhorse by Dethklok**"
+	{
+		"default"		"**Song is Thunderhorse by Dethklok**"
+	}
+	"**Zombie and human boat start in 20 seconds!**"
+	{
+		"default"		"**Zombie and human boat start in 20 seconds!**"
+	}
+	"**Final Bunker Doors Closing in 1 minute**"
+	{
+		"default"		"**Final Bunker Doors Closing in 1 minute**"
+	}
+	"**10 seconds until the MIWOMD detonate colapsing everything!**"
+	{
+		"default"		"**10 seconds until the MIWOMD detonate colapsing everything!**"
+	}
+	"**Thanks for playing!**"
+	{
+		"default"		"**Thanks for playing!**"
+	}
+	"**Map by Eugenio *Motanum* Roman**"
+	{
+		"default"		"**Map by Eugenio *Motanum* Roman**"
+	}
+}

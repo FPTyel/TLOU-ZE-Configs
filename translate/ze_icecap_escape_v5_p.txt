@@ -1,0 +1,111 @@
+"Chat"
+{
+	"***Tram leaving in 10secs.***"
+	{
+		"default"		"***Tram leaving in 10secs.***"
+	}
+	"***Boat 1 leaving in 10secs.***"
+	{
+		"default"		"***Boat 1 leaving in 10secs.***"
+	}
+	"***Boat 2 leaving in 5secs.***"
+	{
+		"default"		"***Boat 2 leaving in 5secs.***"
+	}
+	"***Bobsled leaving in 5secs.***"
+	{
+		"default"		"***Bobsled leaving in 5secs.***"
+	}
+	"***Boat 3 leaving in 10secs.***"
+	{
+		"default"		"***Boat 3 leaving in 10secs.***"
+	}
+	"***Boat 4 leaving in 10secs.***"
+	{
+		"default"		"***Boat 4 leaving in 10secs.***"
+	}
+	"***First shortcuts opening in 15secs.***"
+	{
+		"default"		"***First shortcuts opening in 15secs.***"
+	}
+	"***Ice Wall breaking in 10secs.***"
+	{
+		"default"		"***Ice Wall breaking in 10secs.***"
+	}
+	"***...WashTub leaving in 3secs...***"
+	{
+		"default"		"***...WashTub leaving in 3secs...***"
+	}
+	"***Final Boat leaving in 75secs.***"
+	{
+		"default"		"***Final Boat leaving in 75secs.***"
+	}
+	"***WashTub leaving in 65secs.***"
+	{
+		"default"		"***WashTub leaving in 65secs.***"
+	}
+	"***Second shortcuts opening in 15secs.***"
+	{
+		"default"		"***Second shortcuts opening in 15secs.***"
+	}
+	"***WashTub leaving in 30secs.***"
+	{
+		"default"		"***WashTub leaving in 30secs.***"
+	}
+	"***Final Boat leaving in 30secs.***"
+	{
+		"default"		"***Final Boat leaving in 30secs.***"
+	}
+	"***Gate opening in 75secs.***"
+	{
+		"default"		"***Gate opening in 75secs.***"
+	}
+	"***WashTub leaving in 5secs.***"
+	{
+		"default"		"***WashTub leaving in 5secs.***"
+	}
+	"***Final Boat leaving in 5secs.***"
+	{
+		"default"		"***Final Boat leaving in 5secs.***"
+	}
+	"***Gate opening in 30secs.***"
+	{
+		"default"		"***Gate opening in 30secs.***"
+	}
+	"***Nuke in 10secs.***"
+	{
+		"default"		"***Nuke in 10secs.***"
+	}
+	"***Helicopter leaving in 5secs.***"
+	{
+		"default"		"***Helicopter leaving in 5secs.***"
+	}
+	"***Gate opening in 5secs.***"
+	{
+		"default"		"***Gate opening in 5secs.***"
+	}
+	"***5***"
+	{
+		"default"		"***5***"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***Start up the Helicopter.***"
+	{
+		"default"		"***Start up the Helicopter.***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+}

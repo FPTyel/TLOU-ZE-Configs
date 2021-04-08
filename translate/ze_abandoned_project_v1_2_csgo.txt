@@ -1,0 +1,95 @@
+"Chat"
+{
+	"** LEVEL: NORMAL **"
+	{
+		"default"		"** LEVEL: NORMAL **"
+	}
+	"** ORIGINAL MAP BY SOLDIERBEST **"
+	{
+		"default"		"** ORIGINAL MAP BY SOLDIERBEST **"
+	}
+	"** MAPPING BY KAGALERA **"
+	{
+		"default"		"** MAPPING BY KAGALERA **"
+	}
+	"** MODELS IDEAS SOME HELP AND ORIGINALITY BY K.**"
+	{
+		"default"		"** MODELS IDEAS SOME HELP AND ORIGINALITY BY K.**"
+	}
+	"** THANKS FOR PLAYING **"
+	{
+		"default"		"** THANKS FOR PLAYING **"
+	}
+	"***COVER HERE 15s***"
+	{
+		"default"		"***COVER HERE 15s***"
+	}
+	"** PRESS THE BUTTON **"
+	{
+		"default"		"** PRESS THE BUTTON **"
+	}
+	"** RESIST 15 SECONDS **"
+	{
+		"default"		"** RESIST 15 SECONDS **"
+	}
+	"** GO GO GO **"
+	{
+		"default"		"** GO GO GO **"
+	}
+	"** PRESS THE CONTROL PANEL **"
+	{
+		"default"		"** PRESS THE CONTROL PANEL **"
+	}
+	"** HOLD PTA ROOM FOR 20 SECONDS **"
+	{
+		"default"		"** HOLD PTA ROOM FOR 20 SECONDS **"
+	}
+	"*** THE ELEVATOR LEAVES 20 SECONDS ***"
+	{
+		"default"		"*** THE ELEVATOR LEAVES 20 SECONDS ***"
+	}
+	"*** 10 SECONDS!***"
+	{
+		"default"		"*** 10 SECONDS!***"
+	}
+	"*** 5 SECONDS!***"
+	{
+		"default"		"*** 5 SECONDS!***"
+	}
+	"*** 3 SECONDS!***"
+	{
+		"default"		"*** 3 SECONDS!***"
+	}
+	"***ELEVATOR LEAVING***"
+	{
+		"default"		"***ELEVATOR LEAVING***"
+	}
+	"** PRESS THE BUTTON OF THE GENERATOR **"
+	{
+		"default"		"** PRESS THE BUTTON OF THE GENERATOR **"
+	}
+	"*** HOLD ROOM FOR 25 SECONDS ***"
+	{
+		"default"		"*** HOLD ROOM FOR 25 SECONDS ***"
+	}
+	"*** GO GO GO ***"
+	{
+		"default"		"*** GO GO GO ***"
+	}
+	"***SEARCH 2 CORES FOR REBOOT THE POWER***"
+	{
+		"default"		"***SEARCH 2 CORES FOR REBOOT THE POWER***"
+	}
+	"** WELL DONE! DOORS OPEN IN 15 SECONDS **"
+	{
+		"default"		"** WELL DONE! DOORS OPEN IN 15 SECONDS **"
+	}
+	"** PRESS THE BUTTON OF THE ELEVATORS **"
+	{
+		"default"		"** PRESS THE BUTTON OF THE ELEVATORS **"
+	}
+	"** DOOR OPENING IN 20 SECONDS **"
+	{
+		"default"		"** DOOR OPENING IN 20 SECONDS **"
+	}
+}

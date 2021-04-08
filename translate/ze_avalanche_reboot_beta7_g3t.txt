@@ -1,0 +1,139 @@
+"Chat"
+{
+	">>> Warmup Round! Map starting in 40 seconds. <<<"
+	{
+		"default"		">>> Warmup Round! Map starting in 40 seconds. <<<"
+	}
+	">>> 30 Seconds of Warmup Remaining <<<"
+	{
+		"default"		">>> 30 Seconds of Warmup Remaining <<<"
+	}
+	">>> 20 Seconds of Warmup Remaining <<<"
+	{
+		"default"		">>> 20 Seconds of Warmup Remaining <<<"
+	}
+	">>> 10 Seconds of Warmup Remaining <<<"
+	{
+		"default"		">>> 10 Seconds of Warmup Remaining <<<"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"default"		">>> HOLD 5 SECONDS <<<"
+	}
+	">>> Warmup Ending - Map Starting <<<"
+	{
+		"default"		">>> Warmup Ending - Map Starting <<<"
+	}
+	">>> Map Made by Moray <<<"
+	{
+		"default"		">>> Map Made by Moray <<<"
+	}
+	">>> Special Thanks : nano <<<"
+	{
+		"default"		">>> Special Thanks : nano <<<"
+	}
+	">>> Map Reboot by Glacius <<<"
+	{
+		"default"		">>> Map Reboot by Glacius <<<"
+	}
+	">>> Stage 1 - Normal <<<"
+	{
+		"default"		">>> Stage 1 - Normal <<<"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"default"		">>> HOLD 10 SECONDS <<<"
+	}
+	">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<"
+	{
+		"default"		">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"default"		">>> HOLD 15 SECONDS <<<"
+	}
+	">>> PLAYER PICKED ICY VORTEX <<<"
+	{
+		"default"		">>> PLAYER PICKED ICY VORTEX <<<"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"default"		">>> HOLD 20 SECONDS <<<"
+	}
+	">>> PLAYER PICKED BLUE SPARK <<<"
+	{
+		"default"		">>> PLAYER PICKED BLUE SPARK <<<"
+	}
+	">>> PLAYER PICKED VENOM BEAM CANNON <<<"
+	{
+		"default"		">>> PLAYER PICKED VENOM BEAM CANNON <<<"
+	}
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"default"		">>> AFK TELEPORT IN 5 SECONDS <<<"
+	}
+	">>> PLAYER PICKED WIND BLASTER <<<"
+	{
+		"default"		">>> PLAYER PICKED WIND BLASTER <<<"
+	}
+	">>> PLAYER PICKED FLAME BEAM CANNON <<<"
+	{
+		"default"		">>> PLAYER PICKED FLAME BEAM CANNON <<<"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"default"		">>> HOLD 25 SECONDS <<<"
+	}
+	">>> PLAYER PICKED HEAL <<<"
+	{
+		"default"		">>> PLAYER PICKED HEAL <<<"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"default"		">>> 5 SECONDS LEFT <<<"
+	}
+	">>> BOSS IS ARRIVED <<<"
+	{
+		"default"		">>> BOSS IS ARRIVED <<<"
+	}
+	">>> BOSS IS DEFEATED <<<"
+	{
+		"default"		">>> BOSS IS DEFEATED <<<"
+	}
+	">>> PLAYER PICKED AMMO <<<"
+	{
+		"default"		">>> PLAYER PICKED AMMO <<<"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"default"		">>> HOLD 30 SECONDS <<<"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"default"		">>> STAGE 1 COMPLETED <<<"
+	}
+	">>> Stage 2 - Normal <<<"
+	{
+		"default"		">>> Stage 2 - Normal <<<"
+	}
+	">>> FIND C4 TO MAKE PASSAGE <<<"
+	{
+		"default"		">>> FIND C4 TO MAKE PASSAGE <<<"
+	}
+	">>> C4 PICKED UP <<<"
+	{
+		"default"		">>> C4 PICKED UP <<<"
+	}
+	">>> C4 EXPLODE IN 10 SECONDS <<<"
+	{
+		"default"		">>> C4 EXPLODE IN 10 SECONDS <<<"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"default"		">>> HOLD 35 SECONDS <<<"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"default"		">>> STAGE 2 COMPLETED <<<"
+	}
+}

@@ -1,0 +1,59 @@
+"Chat"
+{
+	"*** STAGE 1 ***"
+	{
+		"default"		"*** STAGE 1 ***"
+	}
+	"**Map by BATNIK and MICROROST ***"
+	{
+		"default"		"**Map by BATNIK and MICROROST ***"
+	}
+	"*** Welcome to the station! ***"
+	{
+		"default"		"*** Welcome to the station! ***"
+	}
+	"**THIS MAP PORT FROM CS:S **"
+	{
+		"default"		"**THIS MAP PORT FROM CS:S **"
+	}
+	"*** The Elevator Will Go Down In 20 sec ***"
+	{
+		"default"		"*** The Elevator Will Go Down In 20 sec ***"
+	}
+	"*** 5 SEC ***"
+	{
+		"default"		"*** 5 SEC ***"
+	}
+	"*** Doors will open in 25 sec ***"
+	{
+		"default"		"*** Doors will open in 25 sec ***"
+	}
+	"*** BE READY TO RUN AWAY ***"
+	{
+		"default"		"*** BE READY TO RUN AWAY ***"
+	}
+	"*** WAIT ***"
+	{
+		"default"		"*** WAIT ***"
+	}
+	"***  Almost open ***"
+	{
+		"default"		"***  Almost open ***"
+	}
+	"*** Demonic Presence Has Been Revealed ***"
+	{
+		"default"		"*** Demonic Presence Has Been Revealed ***"
+	}
+	"*** GO GO ***"
+	{
+		"default"		"*** GO GO ***"
+	}
+	"*** Demonic Presence Has Left ***"
+	{
+		"default"		"*** Demonic Presence Has Left ***"
+	}
+	"*** HE ALREADY NEARBY ***"
+	{
+		"default"		"*** HE ALREADY NEARBY ***"
+	}
+}

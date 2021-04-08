@@ -1,0 +1,43 @@
+"Chat"
+{
+	"** The gate will open in 35 seconds **"
+	{
+		"default"		"** The gate will open in 35 seconds **"
+	}
+	"** Get Ready **"
+	{
+		"default"		"** Get Ready **"
+	}
+	"** Run! **"
+	{
+		"default"		"** Run! **"
+	}
+	"** Looks like the Van is broken **"
+	{
+		"default"		"** Looks like the Van is broken **"
+	}
+	"** Generator override enabled **"
+	{
+		"default"		"** Generator override enabled **"
+	}
+	"** Power has been lost to Jurassic Park **"
+	{
+		"default"		"** Power has been lost to Jurassic Park **"
+	}
+	"** Call the mainland - Tell them to send the damn helicopter! **"
+	{
+		"default"		"** Call the mainland - Tell them to send the damn helicopter! **"
+	}
+	"** SECURE THE AREA ** "
+	{
+		"default"		"** SECURE THE AREA ** "
+	}
+	"** Get ready to move! **"
+	{
+		"default"		"** Get ready to move! **"
+	}
+	"** Nerve gas released ** "
+	{
+		"default"		"** Nerve gas released ** "
+	}
+}

@@ -1,0 +1,115 @@
+"Chat"
+{
+	"***Prepare defences! 45 seconds!***"
+	{
+		"default"		"***Prepare defences! 45 seconds!***"
+	}
+	"***Intro song is Spanish Flea***"
+	{
+		"default"		"***Intro song is Spanish Flea***"
+	}
+	"***Middle song is Red Canyon by F-Zero***"
+	{
+		"default"		"***Middle song is Red Canyon by F-Zero***"
+	}
+	"***Finale song is Jump by Two Steps From Hell***"
+	{
+		"default"		"***Finale song is Jump by Two Steps From Hell***"
+	}
+	"****Map by Eugenio *Motanum* Roman****"
+	{
+		"default"		"****Map by Eugenio *Motanum* Roman****"
+	}
+	"****Contact me at eugenio.motanum91@gmail.com****"
+	{
+		"default"		"****Contact me at eugenio.motanum91@gmail.com****"
+	}
+	"***5 seconds left!**"
+	{
+		"default"		"***5 seconds left!**"
+	}
+	"***Humans Run to next exit***"
+	{
+		"default"		"***Humans Run to next exit***"
+	}
+	"***Afk Killer is enabled for 5 seconds***"
+	{
+		"default"		"***Afk Killer is enabled for 5 seconds***"
+	}
+	"***Zombies are out of jail***"
+	{
+		"default"		"***Zombies are out of jail***"
+	}
+	"***Protect yourself from Jumpy Zomby!**"
+	{
+		"default"		"***Protect yourself from Jumpy Zomby!**"
+	}
+	"***60 seconds left!**"
+	{
+		"default"		"***60 seconds left!**"
+	}
+	"***Humans Run to next exit**"
+	{
+		"default"		"***Humans Run to next exit**"
+	}
+	"***Zombies have broken out of Jail!**"
+	{
+		"default"		"***Zombies have broken out of Jail!**"
+	}
+	"***Prepare defences! 45 seconds!**"
+	{
+		"default"		"***Prepare defences! 45 seconds!**"
+	}
+	"***Zombies reached the Hill*** "
+	{
+		"default"		"***Zombies reached the Hill*** "
+	}
+	"***No place is safe!*** "
+	{
+		"default"		"***No place is safe!*** "
+	}
+	"***Humans reach final point***"
+	{
+		"default"		"***Humans reach final point***"
+	}
+	"***Hold 75 seconds***"
+	{
+		"default"		"***Hold 75 seconds***"
+	}
+	"***Zombies out of Jail**"
+	{
+		"default"		"***Zombies out of Jail**"
+	}
+	"***Hold 50 seconds!***"
+	{
+		"default"		"***Hold 50 seconds!***"
+	}
+	"***Humans have been teleported!***"
+	{
+		"default"		"***Humans have been teleported!***"
+	}
+	"***Hold 30 seconds!***"
+	{
+		"default"		"***Hold 30 seconds!***"
+	}
+	"***Final Zombie Wave is Inbound!***"
+	{
+		"default"		"***Final Zombie Wave is Inbound!***"
+	}
+	"***Hold 10 seconds***"
+	{
+		"default"		"***Hold 10 seconds***"
+	}
+	"***Final Escape is in progres***"
+	{
+		"default"		"***Final Escape is in progres***"
+	}
+	"***No game score will be applied***"
+	{
+		"default"		"***No game score will be applied***"
+	}
+	"***Zombies reached final surf***"
+	{
+		"default"		"***Zombies reached final surf***"
+	}
+}

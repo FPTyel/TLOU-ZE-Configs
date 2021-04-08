@@ -1,0 +1,83 @@
+"Chat"
+{
+	"** Chapter I: Ascension **"
+	{
+		"default"		"** Chapter I: Ascension **"
+	}
+	"** BLIZARD MODE ENABLED **"
+	{
+		"default"		"** BLIZARD MODE ENABLED **"
+	}
+	"** We've reached the southwest dock... **"
+	{
+		"default"		"** We've reached the southwest dock... **"
+	}
+	"** We must find our way into the facility. **"
+	{
+		"default"		"** We must find our way into the facility. **"
+	}
+	"** This path should lead us to one of the several supply warehouses... **"
+	{
+		"default"		"** This path should lead us to one of the several supply warehouses... **"
+	}
+	"** RESIST! We need to access the main complex by unlocking this door! **"
+	{
+		"default"		"** RESIST! We need to access the main complex by unlocking this door! **"
+	}
+	"** We're almost there! Don't let anything through! **"
+	{
+		"default"		"** We're almost there! Don't let anything through! **"
+	}
+	"** FALL BACK! It's about to open! **"
+	{
+		"default"		"** FALL BACK! It's about to open! **"
+	}
+	"** We're nearing the neuralgic center of the complex... **"
+	{
+		"default"		"** We're nearing the neuralgic center of the complex... **"
+	}
+	"** Hold until we are able to open this door! **"
+	{
+		"default"		"** Hold until we are able to open this door! **"
+	}
+	"** This button should unlock the doors and let us through... **"
+	{
+		"default"		"** This button should unlock the doors and let us through... **"
+	}
+	"** Resist while we wait for the doors to open! **"
+	{
+		"default"		"** Resist while we wait for the doors to open! **"
+	}
+	"** We'll need to reach one of the gas deposits to blow it up and delay their plans... **"
+	{
+		"default"		"** We'll need to reach one of the gas deposits to blow it up and delay their plans... **"
+	}
+	"** Look at that! There is enough weaponry to start a massive offensive... **"
+	{
+		"default"		"** Look at that! There is enough weaponry to start a massive offensive... **"
+	}
+	"** According to our information we should be nearing a maintenance zone... **"
+	{
+		"default"		"** According to our information we should be nearing a maintenance zone... **"
+	}
+	"** The maintenance elevator should be enough to access the upper levels. **"
+	{
+		"default"		"** The maintenance elevator should be enough to access the upper levels. **"
+	}
+	"** GET GOING! We need to advance! **"
+	{
+		"default"		"** GET GOING! We need to advance! **"
+	}
+	"** The elevator is coming! RESIST! **"
+	{
+		"default"		"** The elevator is coming! RESIST! **"
+	}
+	"** Call the elevator! We'll need to resist right here while it's coming... **"
+	{
+		"default"		"** Call the elevator! We'll need to resist right here while it's coming... **"
+	}
+	"** GET ON! THE ELEVATOR IS ABOUT TO LEAVE! **"
+	{
+		"default"		"** GET ON! THE ELEVATOR IS ABOUT TO LEAVE! **"
+	}
+}

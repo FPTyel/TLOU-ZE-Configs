@@ -1,0 +1,83 @@
+"Chat"
+{
+	">>Map by DormantLemon<<"
+	{
+		"default"		">>Map by DormantLemon<<"
+	}
+	"Custom stripper changes are active on this map not done by the original mapper"
+	{
+		"default"		"Custom stripper changes are active on this map not done by the original mapper"
+	}
+	">>Carriage doors will open in 30 seconds<<"
+	{
+		"default"		">>Carriage doors will open in 30 seconds<<"
+	}
+	">>Carriage doors opening<<"
+	{
+		"default"		">>Carriage doors opening<<"
+	}
+	">>AFK teleport in 5 seconds<<"
+	{
+		"default"		">>AFK teleport in 5 seconds<<"
+	}
+	">>Secondary ramp opens in 25 seconds<<"
+	{
+		"default"		">>Secondary ramp opens in 25 seconds<<"
+	}
+	">>Boarding ramp opens in 30 seconds<<"
+	{
+		"default"		">>Boarding ramp opens in 30 seconds<<"
+	}
+	">>Carriage locks in 50 seconds<<"
+	{
+		"default"		">>Carriage locks in 50 seconds<<"
+	}
+	">>Secondary ramp opening<<"
+	{
+		"default"		">>Secondary ramp opening<<"
+	}
+	">>5 seconds left<<"
+	{
+		"default"		">>5 seconds left<<"
+	}
+	">>Door opens in 50s<<"
+	{
+		"default"		">>Door opens in 50s<<"
+	}
+	">>Door is opening<<"
+	{
+		"default"		">>Door is opening<<"
+	}
+	">>Door opens in 30s<<"
+	{
+		"default"		">>Door opens in 30s<<"
+	}
+	">>Door opens in 25s<<"
+	{
+		"default"		">>Door opens in 25s<<"
+	}
+	">>Train leaving in 60 seconds<<"
+	{
+		"default"		">>Train leaving in 60 seconds<<"
+	}
+	">>Train leaving in 5 seconds<<"
+	{
+		"default"		">>Train leaving in 5 seconds<<"
+	}
+	">>Facility door closes in 1 minute<<"
+	{
+		"default"		">>Facility door closes in 1 minute<<"
+	}
+	">>Facility door closes in 30 second<<"
+	{
+		"default"		">>Facility door closes in 30 second<<"
+	}
+	">>Facility door closes in 10 seconds<<"
+	{
+		"default"		">>Facility door closes in 10 seconds<<"
+	}
+	">>Elevator leaves in 55 seconds<<"
+	{
+		"default"		">>Elevator leaves in 55 seconds<<"
+	}
+}

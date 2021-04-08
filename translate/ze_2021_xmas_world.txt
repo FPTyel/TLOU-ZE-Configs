@@ -1,0 +1,39 @@
+"Chat"
+{
+	"5 Second. Warning"
+	{
+		"default"		"5 Second. Warning"
+	}
+	"20 Second - Fall Back"
+	{
+		"default"		"20 Second - Fall Back"
+	}
+	"30 Second - Defend "
+	{
+		"default"		"30 Second - Defend "
+	}
+	"50 Second - Defend The House"
+	{
+		"default"		"50 Second - Defend The House"
+	}
+	"30 Second - Fall Back"
+	{
+		"default"		"30 Second - Fall Back"
+	}
+	"60 Second - Defend The Dublex"
+	{
+		"default"		"60 Second - Defend The Dublex"
+	}
+	"10 Second - Fall Back"
+	{
+		"default"		"10 Second - Fall Back"
+	}
+	"40 Second - Defend The Zone"
+	{
+		"default"		"40 Second - Defend The Zone"
+	}
+	"10 Second - Defend The Truck"
+	{
+		"default"		"10 Second - Defend The Truck"
+	}
+}

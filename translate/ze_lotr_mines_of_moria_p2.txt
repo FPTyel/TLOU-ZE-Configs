@@ -1,0 +1,115 @@
+"Chat"
+{
+	"**Map by: Hannibal [SPA] (Rafuron)**"
+	{
+		"default"		"**Map by: Hannibal [SPA] (Rafuron)**"
+	}
+	"**Bring the ring to Khazad-Dum bridge to win easily**"
+	{
+		"default"		"**Bring the ring to Khazad-Dum bridge to win easily**"
+	}
+	"**The ring has been picked!**"
+	{
+		"default"		"**The ring has been picked!**"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"default"		"**Gandalf staff has been picked!**"
+	}
+	"**Saruman staff has been picked!**"
+	{
+		"default"		"**Saruman staff has been picked!**"
+	}
+	"**Humans have reached Balin's tomb! Resist 55 s**"
+	{
+		"default"		"**Humans have reached Balin's tomb! Resist 55 s**"
+	}
+	"**Balin's door closing in 10 s**"
+	{
+		"default"		"**Balin's door closing in 10 s**"
+	}
+	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	{
+		"default"		"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	}
+	"**Resist 30 s**"
+	{
+		"default"		"**Resist 30 s**"
+	}
+	"**Resist 15 s**"
+	{
+		"default"		"**Resist 15 s**"
+	}
+	"**Go to the Khazad-Dum bridge!**"
+	{
+		"default"		"**Go to the Khazad-Dum bridge!**"
+	}
+	"**Stay in the circle! Zombies can't go in!**"
+	{
+		"default"		"**Stay in the circle! Zombies can't go in!**"
+	}
+	"** Protection ring will close in 15 s **"
+	{
+		"default"		"** Protection ring will close in 15 s **"
+	}
+	"** ... **"
+	{
+		"default"		"** ... **"
+	}
+	"** Moria is unstable! Run towards the stairs in  **"
+	{
+		"default"		"** Moria is unstable! Run towards the stairs in  **"
+	}
+	"**5**"
+	{
+		"default"		"**5**"
+	}
+	"**4**"
+	{
+		"default"		"**4**"
+	}
+	"**3**"
+	{
+		"default"		"**3**"
+	}
+	"**2**"
+	{
+		"default"		"**2**"
+	}
+	"**1**"
+	{
+		"default"		"**1**"
+	}
+	"**Go!**"
+	{
+		"default"		"**Go!**"
+	}
+	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+	{
+		"default"		"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+	}
+	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	{
+		"default"		"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	}
+	"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	{
+		"default"		"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	}
+	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+	{
+		"default"		"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+	}
+	"**Gandalf in the middle**"
+	{
+		"default"		"**Gandalf in the middle**"
+	}
+	"**Protect Gandalf during 35s! He must break the bridge! **"
+	{
+		"default"		"**Protect Gandalf during 35s! He must break the bridge! **"
+	}
+	"**Gandalf is dead!**"
+	{
+		"default"		"**Gandalf is dead!**"
+	}
+}

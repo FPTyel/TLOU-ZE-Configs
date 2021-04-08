@@ -1,0 +1,35 @@
+"Chat"
+{
+	"LEVEL: EASY"
+	{
+		"default"		"LEVEL: EASY"
+	}
+	"MAP BY GARGANTUA AND EDITED BY FANZACK AND CHUCK FROM ZRAGE"
+	{
+		"default"		"MAP BY GARGANTUA AND EDITED BY FANZACK AND CHUCK FROM ZRAGE"
+	}
+	"CHANGING LEVEL TO EXTREME"
+	{
+		"default"		"CHANGING LEVEL TO EXTREME"
+	}
+	"NUKE ACTIVATED!"
+	{
+		"default"		"NUKE ACTIVATED!"
+	}
+	"LEVEL: EXTREME"
+	{
+		"default"		"LEVEL: EXTREME"
+	}
+	"+++ HOLD FOR 15 SECONDS +++"
+	{
+		"default"		"+++ HOLD FOR 15 SECONDS +++"
+	}
+	"+++ LASERS! +++"
+	{
+		"default"		"+++ LASERS! +++"
+	}
+	"+++ HOLD FOR 20 SECONDS +++"
+	{
+		"default"		"+++ HOLD FOR 20 SECONDS +++"
+	}
+}

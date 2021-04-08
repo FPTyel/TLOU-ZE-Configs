@@ -1,0 +1,119 @@
+"Chat"
+{
+	"***WARMUP ROUND***"
+	{
+		"default"		"***WARMUP ROUND***"
+	}
+	"***WAIT PLAYERS***"
+	{
+		"default"		"***WAIT PLAYERS***"
+	}
+	"***1 LEVEL WILL START in 45 sec!!!***"
+	{
+		"default"		"***1 LEVEL WILL START in 45 sec!!!***"
+	}
+	"*Teleporting zombies to Zombie Room in 7 sec*"
+	{
+		"default"		"*Teleporting zombies to Zombie Room in 7 sec*"
+	}
+	"***Map by Limon.***"
+	{
+		"default"		"***Map by Limon.***"
+	}
+	"***1 LEVEL WILL START in 35 sec!!!***"
+	{
+		"default"		"***1 LEVEL WILL START in 35 sec!!!***"
+	}
+	"***1 LEVEL WILL START in 25 sec!!!***"
+	{
+		"default"		"***1 LEVEL WILL START in 25 sec!!!***"
+	}
+	"***1 LEVEL WILL START in 15 sec!!!***"
+	{
+		"default"		"***1 LEVEL WILL START in 15 sec!!!***"
+	}
+	"***1 LEVEL WILL START in 5 sec!!!***"
+	{
+		"default"		"***1 LEVEL WILL START in 5 sec!!!***"
+	}
+	"*GAME WILL START in 15 sec! GL HF*"
+	{
+		"default"		"*GAME WILL START in 15 sec! GL HF*"
+	}
+	"***SPAWN ZONE***"
+	{
+		"default"		"***SPAWN ZONE***"
+	}
+	"**Teleporting Zombies to spawn in 15 sec**"
+	{
+		"default"		"**Teleporting Zombies to spawn in 15 sec**"
+	}
+	"***Go to middle-earth map to start playing***"
+	{
+		"default"		"***Go to middle-earth map to start playing***"
+	}
+	"***LVL1 ROAD TO ISENGARD***"
+	{
+		"default"		"***LVL1 ROAD TO ISENGARD***"
+	}
+	"**Teleporting AFK's to cave in 30sec**"
+	{
+		"default"		"**Teleporting AFK's to cave in 30sec**"
+	}
+	"***LOOK OUT FOR SPIDER TRAPS!!***"
+	{
+		"default"		"***LOOK OUT FOR SPIDER TRAPS!!***"
+	}
+	"**Random**"
+	{
+		"default"		"**Random**"
+	}
+	"**Resist 20s!**"
+	{
+		"default"		"**Resist 20s!**"
+	}
+	"**GO**"
+	{
+		"default"		"**GO**"
+	}
+	"**RESIST 15 SECONDS**"
+	{
+		"default"		"**RESIST 15 SECONDS**"
+	}
+	"**Resist 30s!**"
+	{
+		"default"		"**Resist 30s!**"
+	}
+	"*If you wont kill spider in 2 min zombies will eat you*"
+	{
+		"default"		"*If you wont kill spider in 2 min zombies will eat you*"
+	}
+	"**Prepare to fight**"
+	{
+		"default"		"**Prepare to fight**"
+	}
+	"**KILL the SPIDER NOW***"
+	{
+		"default"		"**KILL the SPIDER NOW***"
+	}
+	"**Shoot in the head!**"
+	{
+		"default"		"**Shoot in the head!**"
+	}
+	"***SPIDER is dead.***"
+	{
+		"default"		"***SPIDER is dead.***"
+	}
+	"*** 100 HP restored ***"
+	{
+		"default"		"*** 100 HP restored ***"
+	}
+	"***GO UPSTAIRS***"
+	{
+		"default"		"***GO UPSTAIRS***"
+	}
+	"***ZOMBIE PUSH IS DISABLED***"
+	{
+		"default"		"***ZOMBIE PUSH IS DISABLED***"
+	}
+}

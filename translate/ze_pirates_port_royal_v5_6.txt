@@ -1,0 +1,528 @@
+"Chat"
+{
+	"Map made by Puklica"
+	{
+		"default"		"Map made by Puklica"
+		"ru"		"Карту сделал Puklica, русский перевод сделал memories"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"default"		">>> |LEVEL 1| <<<"
+		"ru"		">>> |1 УРОВЕНЬ| <<<"
+	}
+	">>> GATE OPENS IN 20 SEC <<<"
+	{
+		"default"		">>> GATE OPENS IN 20 SEC <<<"
+		"ru"		">>> ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 20 СЕК <<<"
+	}
+	">>> GATE IS OPENING <<<"
+	{
+		"default"		">>> GATE IS OPENING <<<"
+		"ru"		">>> ВОРОТА ОТКРЫВАЮТСЯ <<<"
+	}
+	">>> GATE CLOSES IN 5 SEC <<<"
+	{
+		"default"		">>> GATE CLOSES IN 5 SEC <<<"
+		"ru"		">>> ВОРОТА ЗАКРОЮТСЯ ЧЕРЕЗ 5 СЕК <<<"
+	}
+	">>> GATE IS CLOSING <<<"
+	{
+		"default"		">>> GATE IS CLOSING <<<"
+		"ru"		">>> ВОРОТА ЗАКРЫВАЮТСЯ <<<"
+	}
+	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+	{
+		"default"		">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+		"ru"		">>> ЗАЩИЩАЙТЕ ДЕРЕВНЮ 40 СЕК! <<<"
+	}
+	"*** SWORD picked up ***"
+	{
+		"default"		"*** SWORD picked up ***"
+		"ru"		"*** Подобран МЕЧ ***"
+	}
+	"*** BARREL picked up ***"
+	{
+		"default"		"*** BARREL picked up ***"
+		"ru"		"*** Подобрана БОЧКА ***"
+	}
+	">>> 10 SECONDS REMAINING <<<"
+	{
+		"default"		">>> 10 SECONDS REMAINING <<<"
+		"ru"		">>> ОСТАЛОСЬ 10 СЕКУНД <<<"
+	}
+	">>> RUN! <<<"
+	{
+		"default"		">>> RUN! <<<"
+		"ru"		">>> БЕГИТЕ! <<<"
+	}
+	"*** WALL picked up ***"
+	{
+		"default"		"*** WALL picked up ***"
+		"ru"		"*** Подобрана СТЕНКА ***"
+	}
+	">>> DOOR CLOSES IN 25 SEC <<<"
+	{
+		"default"		">>> DOOR CLOSES IN 25 SEC <<<"
+		"ru"		">>> ДВЕРЬ ЗАКРОЕТСЯ ЧЕРЕЗ 25 СЕК <<<"
+	}
+	"*** BUBBLES picked up ***"
+	{
+		"default"		"*** BUBBLES picked up ***"
+		"ru"		"*** Подобраны ПУЗЫРИ ***"
+	}
+	">>> DOOR CLOSES IN 5 SEC <<<"
+	{
+		"default"		">>> DOOR CLOSES IN 5 SEC <<<"
+		"ru"		">>> ДВЕРЬ ЗАКРОЕТСЯ ЧЕРЕЗ 5 СЕК <<<"
+	}
+	">>> HORSES LEAVING IN 10 SEC <<<"
+	{
+		"default"		">>> HORSES LEAVING IN 10 SEC <<<"
+		"ru"		">>> ЛОШАДИ ОТПРАВЯТСЯ ЧЕРЕЗ 10 СЕК <<<"
+	}
+	"***ACTIVATE ALL CANNONS***"
+	{
+		"default"		"***ACTIVATE ALL CANNONS***"
+		"ru"		"***АКТИВИРУЙТЕ ВСЕ ПУШКИ***"
+	}
+	">>> GATE CLOSES IN 18 SEC <<<"
+	{
+		"default"		">>> GATE CLOSES IN 18 SEC <<<"
+		"ru"		">>> ВОРОТА ЗАКРОЮТСЯ ЧЕРЕЗ 18 СЕК <<<"
+	}
+	">>> ALL CANNONS ACTIVATED <<<"
+	{
+		"default"		">>> ALL CANNONS ACTIVATED <<<"
+		"ru"		">>> ВСЕ ПУШКИ АКТИВИРОВАНЫ <<<"
+	}
+	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	{
+		"default"		">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+		"ru"		">>> ЖДИТЕ ВЫСТРЕЛ ОТ ЧЕРНОЙ ЖЕМЧУЖИНЫ <<<"
+	}
+	">>> GATE IS CLOSING! <<<"
+	{
+		"default"		">>> GATE IS CLOSING! <<<"
+		"ru"		">>> ВОРОТА ЗАКРЫВАЮТСЯ! <<<"
+	}
+	">>> RUN TO THE PRISON! <<<"
+	{
+		"default"		">>> RUN TO THE PRISON! <<<"
+		"ru"		">>> БЕГИТЕ В ТЮРЬМУ! <<<"
+	}
+	">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	{
+		"default"		">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+		"ru"		">>> ЗАЩИЩАЙТЕ ТЮРЬМУ!! <<< *** СПАСИТЕ КАПИТАНА ДЖЕКА ВОРОБЬЯ ***"
+	}
+	">>> RUN TO THE BLACK PEARL <<<"
+	{
+		"default"		">>> RUN TO THE BLACK PEARL <<<"
+		"ru"		">>> БЕГИТЕ НА ЧЕРНУЮ ЖЕМЧУЖИНУ <<<"
+	}
+	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+	{
+		"default"		">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+		"ru"		">>> ЗАЩИЩАЙТЕ ЧЕРНУЮ ЖЕМЧУЖИНУ 45 СЕКУНД! <<<"
+	}
+	">>> LAST 10 SECONDS REMAINING <<<"
+	{
+		"default"		">>> LAST 10 SECONDS REMAINING <<<"
+		"ru"		">>> ОСТАЛОСЬ ПРОДЕРЖАТЬСЯ 10 СЕКУНД <<<"
+	}
+	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	{
+		"default"		"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+		"ru"		"*** ВЫ ПРОШЛИ 1 УРОВЕНЬ. ИСПЫТАНИЕ ПРОДОЛЖИТСЯ НА 2 УРОВНЕ ***"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"default"		">>> |LEVEL 2| <<<"
+		"ru"		">>> |2 УРОВЕНЬ| <<<"
+	}
+	">>> DOOR CLOSES IN 20 SEC <<<"
+	{
+		"default"		">>> DOOR CLOSES IN 20 SEC <<<"
+		"ru"		">>> ДВЕРЬ ЗАКРОЕТСЯ ЧЕРЕЗ 20 СЕК <<<"
+	}
+	">>> DOOR CLOSES IN 10 SEC <<<"
+	{
+		"default"		">>> DOOR CLOSES IN 10 SEC <<<"
+		"ru"		">>> ДВЕРЬ ЗАКРОЕТСЯ ЧЕРЕЗ 10 СЕК <<<"
+	}
+	">>> GATE IS CLOSING IN 25 SEC <<<"
+	{
+		"default"		">>> GATE IS CLOSING IN 25 SEC <<<"
+		"ru"		">>> ВОРОТА ЗАКРОЮТСЯ ЧЕРЕЗ 25 СЕК <<<"
+	}
+	">>> GATE IS CLOSING IN 5 SEC <<<"
+	{
+		"default"		">>> GATE IS CLOSING IN 5 SEC <<<"
+		"ru"		">>> ВОРОТА ЗАКРОЮТСЯ ЧЕРЕЗ 5 СЕК <<<"
+	}
+	"(CT) >>>--SHOOT CANNON--<<<"
+	{
+		"default"		"(CT) >>>--SHOOT CANNON--<<<"
+		"ru"		"(КТ) >>>--СТРЕЛЯЙТЕ В ПУШКУ--<<<"
+	}
+	"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	{
+		"default"		"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+		"ru"		"(ЗОМБИ) >>>--СТОЙТЕ ЗА ПУШКОЙ, ЧТОБЫ ТОЛКАТЬ ЕЕ--<<<"
+	}
+	">>> CANNON HAS BEEN DESTROYED <<<"
+	{
+		"default"		">>> CANNON HAS BEEN DESTROYED <<<"
+		"ru"		">>> ПУШКА УНИЧТОЖЕНА <<<"
+	}
+	">>> RUN TO THE ISLAND <<<"
+	{
+		"default"		">>> RUN TO THE ISLAND <<<"
+		"ru"		">>> БЕГИТЕ НА ОСТРОВ <<<"
+	}
+	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	{
+		"default"		">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+		"ru"		">>> ВХОД В ПОДВАЛ ОТКРОЕТСЯ ЧЕРЕЗ 30 СЕК <<<"
+	}
+	">>> SHELTER OPENING <<<"
+	{
+		"default"		">>> SHELTER OPENING <<<"
+		"ru"		">>> ПОДВАЛ ОТКРЫВАЕТСЯ <<<"
+	}
+	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	{
+		"default"		">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+		"ru"		">>> ОСТРОВ БУДЕТ УНИЧТОЖЕН ЧЕРЕЗ 25 СЕК <<<"
+	}
+	">>> 5 SEC REMAINING <<<"
+	{
+		"default"		">>> 5 SEC REMAINING <<<"
+		"ru"		">>> ОСТАЛОСЬ 5 СЕКУНД <<<"
+	}
+	">>> SHELTER CLOSING <<<"
+	{
+		"default"		">>> SHELTER CLOSING <<<"
+		"ru"		">>> ПОДВАЛ ЗАКРЫВАЕТСЯ <<<"
+	}
+	"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	{
+		"default"		"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+		"ru"		"*** ВЫ ПРОШЛИ 2 УРОВЕНЬ. ИСПЫТАНИЕ ПРОДОЛЖИТСЯ НА 3 УРОВНЕ ***"
+	}
+	"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
+	{
+		"default"		"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
+		"ru"		"> ЛЮДИ СТАЛИ НЕУЯЗВИМЫМИ < ** УБЕЙТЕ ВСЕХ ЗОМБИ В ПОДВАЛЕ **"
+	}
+	">>> |LEVEL 3| <<<"
+	{
+		"default"		">>> |LEVEL 3| <<<"
+		"ru"		">>> |3 УРОВЕНЬ| <<<"
+	}
+	">>> DOOR OPENS IN 25 sec <<<"
+	{
+		"default"		">>> DOOR OPENS IN 25 sec <<<"
+		"ru"		">>> ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 25 сек <<<"
+	}
+	">>> DOOR OPENS IN 10 SEC <<<"
+	{
+		"default"		">>> DOOR OPENS IN 10 SEC <<<"
+		"ru"		">>> ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 10 сек <<<"
+	}
+	">>> DOOR OPENS IN 5 SEC <<<"
+	{
+		"default"		">>> DOOR OPENS IN 5 SEC <<<"
+		"ru"		">>> ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 5 сек <<<"
+	}
+	">>> HOLD FOR 15 SEC <<<"
+	{
+		"default"		">>> HOLD FOR 15 SEC <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ 15 СЕК <<<"
+	}
+	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
+	{
+		"default"		">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
+		"ru"		">>> СТОЙТЕ ВОЗЛЕ КОЛЕСА, ЧТОБЫ ОПУСТИТЬ МОСТ <<<"
+	}
+	">>> BRIDGE IS DOWN. RUN! <<<"
+	{
+		"default"		">>> BRIDGE IS DOWN. RUN! <<<"
+		"ru"		">>> МОСТ ОПУСТИЛСЯ. БЕГИТЕ! <<<"
+	}
+	">>> GET ONTO THE SHIP <<<"
+	{
+		"default"		">>> GET ONTO THE SHIP <<<"
+		"ru"		">>> ЗАБИРАЙТЕСЬ НА КОРАБЛЬ <<<"
+	}
+	">>> DOOR CLOSES IN 15 sec <<<"
+	{
+		"default"		">>> DOOR CLOSES IN 15 sec <<<"
+		"ru"		">>> ДВЕРЬ ЗАКРОЕТСЯ ЧЕРЕЗ 15 сек <<<"
+	}
+	">>> DOOR IS OPEN! RUN!!! <<<"
+	{
+		"default"		">>> DOOR IS OPEN! RUN!!! <<<"
+		"ru"		">>> ДВЕРЬ ОТКРЫТА! БЕГИТЕ!!! <<<"
+	}
+	">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	{
+		"default"		">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+		"ru"		">>> ЭТО ПИРАТ! УБЕЙТЕ ЕГО ПОКА ОН НЕ УБИЛ ВАС! <<<"
+	}
+	">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"default"		">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+		"ru"		">>> ГРАНАТЫ НАНОСЯТ ЕМУ БОЛЬШОЙ УРОН. ИСПОЛЬЗУЙТЕ ИХ! <<<"
+	}
+	">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	{
+		"default"		">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+		"ru"		">>> ОН УМЕР. БЕГИТЕ В СОКРОВИЩНИЦУ, ЧТОБЫ СПАСТИ СВОИ ЖИЗНИ! <<<"
+	}
+	">>> HOLD ZOMBIES FOR 20 sec <<<"
+	{
+		"default"		">>> HOLD ZOMBIES FOR 20 sec <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ ОТ ЗОМБИ 20 сек <<<"
+	}
+	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+	{
+		"default"		"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+		"ru"		"***  ВЫ ПРОШЛИ 3 УРОВЕНЬ. ИСПЫТАНИЕ ПРОДОЛЖИТСЯ НА 4 УРОВНЕ ***"
+	}
+	">>> |LEVEL 4| <<<"
+	{
+		"default"		">>> |LEVEL 4| <<<"
+		"ru"		">>> |4 УРОВЕНЬ| <<<"
+	}
+	"+++ BARBOSSA picked up +++"
+	{
+		"default"		"+++ BARBOSSA picked up +++"
+		"ru"		"+++ Подобран БАРБОССА +++"
+	}
+	"*** MEDALLION picked up ***"
+	{
+		"default"		"*** MEDALLION picked up ***"
+		"ru"		"*** Подобран МЕДАЛЬОН ***"
+	}
+	"*** HEAL picked up***"
+	{
+		"default"		"*** HEAL picked up***"
+		"ru"		"*** Подобрано ЛЕЧЕНИЕ***"
+	}
+	">>> HOLD THE CELLAR FOR 30 SEC <<<"
+	{
+		"default"		">>> HOLD THE CELLAR FOR 30 SEC <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ В ПОГРЕБЕ 30 СЕК <<<"
+	}
+	">>> CELLAR OPENING IN 5 SEC <<<"
+	{
+		"default"		">>> CELLAR OPENING IN 5 SEC <<<"
+		"ru"		">>> ЛЮК В ПОГРЕБЕ ОТКРОЕТСЯ ЧЕРЕЗ 5 СЕК <<<"
+	}
+	">>> RUN AWAY FROM THE ZOMBIES! <<<"
+	{
+		"default"		">>> RUN AWAY FROM THE ZOMBIES! <<<"
+		"ru"		">>> УБЕГАЙТЕ ОТ ЗОМБИ! <<<"
+	}
+	">>> HOLD FOR 25 SEC <<<"
+	{
+		"default"		">>> HOLD FOR 25 SEC <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ 25 СЕК <<<"
+	}
+	">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
+	{
+		"default"		">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
+		"ru"		">>> ДЕРЖИТЕ ОБОРОНУ ОТ ЗОМБИ КАК МОЖНО ДОЛЬШЕ <<<"
+	}
+	">>> DOOR OPENS IN 30 SEC <<<"
+	{
+		"default"		">>> DOOR OPENS IN 30 SEC <<<"
+		"ru"		">>> ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 30 СЕК <<<"
+	}
+	">>> BARBOSSA IS COMING IN 5 SEC <<<"
+	{
+		"default"		">>> BARBOSSA IS COMING IN 5 SEC <<<"
+		"ru"		">>> БАРБОССА ВЫХОДИТ ЧЕРЕЗ 5 СЕК <<<"
+	}
+	">>> IT'S BARBOSSA. KILL HIM! <<<"
+	{
+		"default"		">>> IT'S BARBOSSA. KILL HIM! <<<"
+		"ru"		">>> ЭТО БАРБОССА. УБЕЙТЕ ЕГО! <<<"
+	}
+	">>> HE HAS DISAPPEARED. RUN! <<<"
+	{
+		"default"		">>> HE HAS DISAPPEARED. RUN! <<<"
+		"ru"		">>> ОН ИСЧЕЗ. БЕГИТЕ! <<<"
+	}
+	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
+	{
+		"default"		"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
+		"ru"		"***  ВЫ ПРОШЛИ 4 УРОВЕНЬ. ИСПЫТАНИЕ ПРОДОЛЖИТСЯ НА 5 УРОВНЕ ***"
+	}
+	">>> |LEVEL 5| <<<"
+	{
+		"default"		">>> |LEVEL 5| <<<"
+		"ru"		">>> |5 УРОВЕНЬ| <<<"
+	}
+	">>> GATE OPENING <<<"
+	{
+		"default"		">>> GATE OPENING <<<"
+		"ru"		">>> ВОРОТА ОТКРЫВАЮТСЯ <<<"
+	}
+	">>> HOLD FOR 45 SEC <<<"
+	{
+		"default"		">>> HOLD FOR 45 SEC <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ 45 СЕК <<<"
+	}
+	">>> HOLD <<<"
+	{
+		"default"		">>> HOLD <<<"
+		"ru"		">>> ДЕРЖИТЕ ОБОРОНУ <<<"
+	}
+	">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<"
+	{
+		"default"		">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<"
+		"ru"		">>> КРАКЕН ПУСТИЛ ВОЛНУ, ЧТОБЫ ОТКРЫТЬ ПУТЬ <<<"
+	}
+	">>> HOLD FOR 35 SEC <<<"
+	{
+		"default"		">>> HOLD FOR 35 SEC <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ 35 СЕК <<<"
+	}
+	">>> IT'S KRAKEN. KILL HIM! <<<"
+	{
+		"default"		">>> IT'S KRAKEN. KILL HIM! <<<"
+		"ru"		">>> ЭТО КРАКЕН. УБЕЙТЕ ЕГО! <<<"
+	}
+	">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"default"		">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+		"ru"		">>> ГРАНАТЫ И СПОСОБНОСТИ НАНОСЯТ ЕМУ БОЛЬШОЙ УРОН. ИСПОЛЬЗУЙТЕ ИХ! <<<"
+	}
+	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+	{
+		"default"		"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+		"ru"		"||| КРАКЕН ПУСТИЛ НА ВАС ПУЗЫРИ |||"
+	}
+	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
+	{
+		"default"		"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
+		"ru"		"||| КРАКЕН ПУСТИЛ ВЗРЫВНОГО ЗОМБИ |||"
+	}
+	"||| KRAKEN HAS USED VORTEX |||"
+	{
+		"default"		"||| KRAKEN HAS USED VORTEX |||"
+		"ru"		"||| КРАКЕН ИСПОЛЬЗОВАЛ ВОДОВОРОТ |||"
+	}
+	"||| KRAKEN HAS THROWN BARREL ON YOU |||"
+	{
+		"default"		"||| KRAKEN HAS THROWN BARREL ON YOU |||"
+		"ru"		"||| КРАКЕН КИНУЛ В ВАС БОЧКУ |||"
+	}
+	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	{
+		"default"		"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+		"ru"		"||| КРАКЕН ПУСТИЛ НА ВАС ВОЛНУ |||"
+	}
+	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
+	{
+		"default"		">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
+		"ru"		">>> КРАКЕН УМЕР. ПРЫГАЙТЕ НА ПЛОТ <<< "
+	}
+	">>> RUN TO THE CAVE <<<"
+	{
+		"default"		">>> RUN TO THE CAVE <<<"
+		"ru"		">>> БЕГИТЕ В ПЕЩЕРУ <<< "
+	}
+	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
+	{
+		"default"		">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
+		"ru"		">>> ЭТО СНОВА БАРБОССА. НЕ ДАЙТЕ ЕМУ ВЫЖИТЬ!  <<<"
+	}
+	"*** LAST MEDALLION picked up ***"
+	{
+		"default"		"*** LAST MEDALLION picked up ***"
+		"ru"		"*** Подобран ПОСЛЕДНИЙ МЕДАЛЬОН ***"
+	}
+	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
+	{
+		"default"		">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
+		"ru"		">>> ПОСЛЕДНИЙ МЕДАЛЬОН ВЕРНУЛИ В СУНДУК <<<"
+	}
+	">>> BARBOSSA IS DEAD <<<"
+	{
+		"default"		">>> BARBOSSA IS DEAD <<<"
+		"ru"		">>> БАРБОССА УМЕР <<<"
+	}
+	">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< "
+	{
+		"default"		">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< "
+		"ru"		">>> ВЫ ПРОШЛИ КАРТУ. НО ТОЛЬКО С ЛЕГКИМ КРАКЕНОМ <<< "
+	}
+	">>> |LEVEL 5 KRAKEN GOD!| <<<"
+	{
+		"default"		">>> |LEVEL 5 KRAKEN GOD!| <<<"
+		"ru"		">>> |5 УРОВЕНЬ БОЖЕСТВЕННЫЙ КРАКЕН!| <<<"
+	}
+	">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
+	{
+		"default"		">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
+		"ru"		">>> БОЖЕСТВЕННЫЙ КРАКЕН ПУСТИЛ ДВОЙНУЮ ВОЛНУ, ЧТОБЫ ОЧИСТИТЬ ПУТЬ <<<"
+	}
+	">>> KRAKEN GOD! <<<"
+	{
+		"default"		">>> KRAKEN GOD! <<<"
+		"ru"		">>> БОЖЕСТВЕННЫЙ КРАКЕН! <<<"
+	}
+	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+	{
+		"default"		"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+		"ru"		"||| КРАКЕН КИНУЛ В ВАС БОЧКИ |||"
+	}
+	"|Admin Room|***Admin has changed difficulty to LEVEL 1 ***"
+	{
+		"default"		"|Admin Room|***Admin has changed difficulty to LEVEL 1 ***"
+		"ru"		"|Комната Админа|***Админ сменил сложность на 1 УРОВЕНЬ ***"
+	}
+	"|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
+	{
+		"default"		"|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
+		"ru"		"|Комната Админа|***Админ сменил сложность на 2 УРОВЕНЬ ***"
+	}
+	"|Admin Room|***Admin has changed difficulty to-LEVEL 3 ***"
+	{
+		"default"		"|Admin Room|***Admin has changed difficulty to-LEVEL 3 ***"
+		"ru"		"|Комната Админа|***Админ сменил сложность на 3 УРОВЕНЬ ***"
+	}
+	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
+	{
+		"default"		"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
+		"ru"		"|Комната Админа| ***Админ сменил сложность на 5 УРОВЕНЬ ***"
+	}
+	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	{
+		"default"		"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+		"ru"		"|Комната Админа| *** АДМИН ДОЛЖЕН УБИТЬ ВСЕХ ***"
+	}
+	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***"
+	{
+		"default"		"|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***"
+		"ru"		"|Комната Админа| ***Админ сменил сложность на 5 УРОВЕНЬ БОЖЕСТВЕННЫЙ КРАКЕН ***"
+	}
+	"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
+	{
+		"default"		"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
+		"ru"		"|Комната Админа|***Админ сменил сложность на 4 УРОВЕНЬ ***"
+	}
+	">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< "
+	{
+		"default"		">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< "
+		"ru"		">>> ВЫ УБИЛИ БОЖЕСТВЕННОГО КРАКЕНА И ПРОШЛИ КАРТУ, ПОРАЗИТЕЛЬНО. <<< "
+	}
+	">>> YOU ARE A REAL PIRATE! <<< "
+	{
+		"default"		">>> YOU ARE A REAL PIRATE! <<< "
+		"ru"		">>> ВЫ НАСТОЯЩИЕ ПИРАТЫ! <<< "
+	}
+}

@@ -1,0 +1,75 @@
+"Chat"
+{
+	">>ROAD SELECTION : House<<"
+	{
+		"default"		">>ROAD SELECTION : House<<"
+	}
+	">>ROAD SELECTION : Gas Station<<"
+	{
+		"default"		">>ROAD SELECTION : Gas Station<<"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"default"		">>>MAP BY LeGrem<<<"
+	}
+	">>DOOR CLOSING IN 15s<<"
+	{
+		"default"		">>DOOR CLOSING IN 15s<<"
+	}
+	">>DEFEND THE GAS STATION 50s<<"
+	{
+		"default"		">>DEFEND THE GAS STATION 50s<<"
+	}
+	">>1ST FLOOR LOST : CLOSING IN 5s<<"
+	{
+		"default"		">>1ST FLOOR LOST : CLOSING IN 5s<<"
+	}
+	">>DEFEND THE HOUSE 50s<<"
+	{
+		"default"		">>DEFEND THE HOUSE 50s<<"
+	}
+	">>5s LEFT<<"
+	{
+		"default"		">>5s LEFT<<"
+	}
+	">>>RUN<<<"
+	{
+		"default"		">>>RUN<<<"
+	}
+	">>ACTIVATE THE GENERATOR IN THE BARN !<<"
+	{
+		"default"		">>ACTIVATE THE GENERATOR IN THE BARN !<<"
+	}
+	">>DOORS CLOSING IN 15s<<"
+	{
+		"default"		">>DOORS CLOSING IN 15s<<"
+	}
+	">>DEFEND THE BARN 45s<<"
+	{
+		"default"		">>DEFEND THE BARN 45s<<"
+	}
+	">>DEFEND 30s<<"
+	{
+		"default"		">>DEFEND 30s<<"
+	}
+	">>BLOW UP THE BARRAGE WITH THE COMPUTER<<"
+	{
+		"default"		">>BLOW UP THE BARRAGE WITH THE COMPUTER<<"
+	}
+	">>EXPLOSION IN 1 MINUTE<<"
+	{
+		"default"		">>EXPLOSION IN 1 MINUTE<<"
+	}
+	">>ROOF OPEN<<"
+	{
+		"default"		">>ROOF OPEN<<"
+	}
+	">>LADDERS ACCESS OPEN<<"
+	{
+		"default"		">>LADDERS ACCESS OPEN<<"
+	}
+	">>LADDERS BREAK<<"
+	{
+		"default"		">>LADDERS BREAK<<"
+	}
+}

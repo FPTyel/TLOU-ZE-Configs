@@ -1,0 +1,79 @@
+"Chat"
+{
+	"Thanks by Sakura, Possession and GFL"
+	{
+		"default"		"Thanks by Sakura, Possession and GFL"
+	}
+	"Original Map by Xquality"
+	{
+		"default"		"Original Map by Xquality"
+	}
+	"Map Supported by SHUFEN"
+	{
+		"default"		"Map Supported by SHUFEN"
+	}
+	"Map Arranged by Airvulpes"
+	{
+		"default"		"Map Arranged by Airvulpes"
+	}
+	"Port and Improved to HDR by No Name"
+	{
+		"default"		"Port and Improved to HDR by No Name"
+	}
+	"*** Difficulty : Easy ***"
+	{
+		"default"		"*** Difficulty : Easy ***"
+	}
+	"Elevator leaving in 3 seconds!"
+	{
+		"default"		"Elevator leaving in 3 seconds!"
+	}
+	"Mini train leaving in 5 seconds!"
+	{
+		"default"		"Mini train leaving in 5 seconds!"
+	}
+	"Tracks crashed ahead"
+	{
+		"default"		"Tracks crashed ahead"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"default"		"Door opening in 5 seconds!"
+	}
+	"Security doors closing in 10 seconds!"
+	{
+		"default"		"Security doors closing in 10 seconds!"
+	}
+	"Train leaving in 30 seconds."
+	{
+		"default"		"Train leaving in 30 seconds."
+	}
+	"Train leaving in 20 seconds."
+	{
+		"default"		"Train leaving in 20 seconds."
+	}
+	"Train leaving in 10 seconds!"
+	{
+		"default"		"Train leaving in 10 seconds!"
+	}
+	"Train is leaving."
+	{
+		"default"		"Train is leaving."
+	}
+	"Incoming nuke!!!"
+	{
+		"default"		"Incoming nuke!!!"
+	}
+	"*** Difficulty : Normal ***"
+	{
+		"default"		"*** Difficulty : Normal ***"
+	}
+	"Platform rise down in 5 seconds!"
+	{
+		"default"		"Platform rise down in 5 seconds!"
+	}
+	"Tram leaving in 10 seconds!"
+	{
+		"default"		"Tram leaving in 10 seconds!"
+	}
+}

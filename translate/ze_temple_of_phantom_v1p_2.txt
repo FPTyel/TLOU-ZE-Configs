@@ -1,0 +1,131 @@
+"Chat"
+{
+	"** ze_temple_of_phantom_v1 **"
+	{
+		"default"		"** ze_temple_of_phantom_v1 **"
+	}
+	"** This map is made with reference to the other ZE maps **"
+	{
+		"default"		"** This map is made with reference to the other ZE maps **"
+	}
+	"** Phase 1 **"
+	{
+		"default"		"** Phase 1 **"
+	}
+	"**Secret Chaos has been picked up**"
+	{
+		"default"		"**Secret Chaos has been picked up**"
+	}
+	"**Release chaotic magic to blind enemies**"
+	{
+		"default"		"**Release chaotic magic to blind enemies**"
+	}
+	"**Right click can destroy all human artifact effects instantly**"
+	{
+		"default"		"**Right click can destroy all human artifact effects instantly**"
+	}
+	"**The fire of extinction has been picked up**"
+	{
+		"default"		"**The fire of extinction has been picked up**"
+	}
+	"**Holy Magic has been picked up**"
+	{
+		"default"		"**Holy Magic has been picked up**"
+	}
+	"**The wind has been picked up**"
+	{
+		"default"		"**The wind has been picked up**"
+	}
+	"**Secret of Ice has been picked up**"
+	{
+		"default"		"**Secret of Ice has been picked up**"
+	}
+	"**Freeze enemies around 5 seconds after release**"
+	{
+		"default"		"**Freeze enemies around 5 seconds after release**"
+	}
+	"**Right click to release a small snowstorm to slow down surrounding enemies**"
+	{
+		"default"		"**Right click to release a small snowstorm to slow down surrounding enemies**"
+	}
+	"**Void Mystery has been picked up**"
+	{
+		"default"		"**Void Mystery has been picked up**"
+	}
+	"**Release the Son of Death from the Void and rush towards the target**"
+	{
+		"default"		"**Release the Son of Death from the Void and rush towards the target**"
+	}
+	"**Right click to form a Void Shield to resist human attacks**"
+	{
+		"default"		"**Right click to form a Void Shield to resist human attacks**"
+	}
+	"** The far door opens after 20 seconds **"
+	{
+		"default"		"** The far door opens after 20 seconds **"
+	}
+	"**The Dark Mystery has been picked up**"
+	{
+		"default"		"**The Dark Mystery has been picked up**"
+	}
+	"**Release the dark magic to heal and accelerate**"
+	{
+		"default"		"**Release the dark magic to heal and accelerate**"
+	}
+	"**Right click to release the Ice Blue Blade to damage and slow down the enemy**"
+	{
+		"default"		"**Right click to release the Ice Blue Blade to damage and slow down the enemy**"
+	}
+	"**A player chose the Holy Knight**"
+	{
+		"default"		"**A player chose the Holy Knight**"
+	}
+	"**Quick use SAWDWDSA can release the ultimate magic**"
+	{
+		"default"		"**Quick use SAWDWDSA can release the ultimate magic**"
+	}
+	"**Right click to wield a weapon to launch an attack**"
+	{
+		"default"		"**Right click to wield a weapon to launch an attack**"
+	}
+	"**Can use Holy Light to heal allies and slow down enemies**"
+	{
+		"default"		"**Can use Holy Light to heal allies and slow down enemies**"
+	}
+	"**Use the power of the Holy Sword to attack the enemy remotely**"
+	{
+		"default"		"**Use the power of the Holy Sword to attack the enemy remotely**"
+	}
+	"** Please don't pick up items with E button or you will be punished **"
+	{
+		"default"		"** Please don't pick up items with E button or you will be punished **"
+	}
+	"**Light Summoning Magic has been picked up**"
+	{
+		"default"		"**Light Summoning Magic has been picked up**"
+	}
+	"**The extreme cold storm has been picked up**"
+	{
+		"default"		"**The extreme cold storm has been picked up**"
+	}
+	"** 35 **"
+	{
+		"default"		"** 35 **"
+	}
+	"** 10 **"
+	{
+		"default"		"** 10 **"
+	}
+	"** 80 **"
+	{
+		"default"		"** 80 **"
+	}
+	"** 25 **"
+	{
+		"default"		"** 25 **"
+	}
+	"** 50 **"
+	{
+		"default"		"** 50 **"
+	}
+}

@@ -1,0 +1,95 @@
+"Chat"
+{
+	"** We have reached the ranch at the edge of the peninsula. **"
+	{
+		"default"		"** We have reached the ranch at the edge of the peninsula. **"
+	}
+	"** Our reports show that some sort of facility is hidden within it... **"
+	{
+		"default"		"** Our reports show that some sort of facility is hidden within it... **"
+	}
+	"** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
+	{
+		"default"		"** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
+	}
+	"** Wait until we meet up! Hold the zombies off! **"
+	{
+		"default"		"** Wait until we meet up! Hold the zombies off! **"
+	}
+	"** MOVE! **"
+	{
+		"default"		"** MOVE! **"
+	}
+	"** This little tram seems to go well with the factory: it has chickens. **"
+	{
+		"default"		"** This little tram seems to go well with the factory: it has chickens. **"
+	}
+	"** Why would they even trap 4 chickens on a tram that doesn't seem to move...? **"
+	{
+		"default"		"** Why would they even trap 4 chickens on a tram that doesn't seem to move...? **"
+	}
+	"** ... **"
+	{
+		"default"		"** ... **"
+	}
+	"** WAIT! THE CHICKENS ARE THE POWER! SHOOT THEM! **"
+	{
+		"default"		"** WAIT! THE CHICKENS ARE THE POWER! SHOOT THEM! **"
+	}
+	"** FIND A WAY INTO THE COMPOUND! ACTIVATE THE LIFT! **"
+	{
+		"default"		"** FIND A WAY INTO THE COMPOUND! ACTIVATE THE LIFT! **"
+	}
+	"** Chicken nugget production interrupted! Emergency elevator leaving soon! **"
+	{
+		"default"		"** Chicken nugget production interrupted! Emergency elevator leaving soon! **"
+	}
+	"** The chicken has stepped on the energetic relay! HOLD! **"
+	{
+		"default"		"** The chicken has stepped on the energetic relay! HOLD! **"
+	}
+	"** The door shall open soon. **"
+	{
+		"default"		"** The door shall open soon. **"
+	}
+	"** Unlocking nuclear feather-powered silo doors... **"
+	{
+		"default"		"** Unlocking nuclear feather-powered silo doors... **"
+	}
+	"** MOVE! WE GOTTA GET THROUGH! **"
+	{
+		"default"		"** MOVE! WE GOTTA GET THROUGH! **"
+	}
+	"** We are close to the central warehouse... **"
+	{
+		"default"		"** We are close to the central warehouse... **"
+	}
+	"** HOLD! WE NEED TO RESIST WHILE THE DOOR OPENS! **"
+	{
+		"default"		"** HOLD! WE NEED TO RESIST WHILE THE DOOR OPENS! **"
+	}
+	"** We're in one of the main warehouses... **"
+	{
+		"default"		"** We're in one of the main warehouses... **"
+	}
+	"** The rocket fuel seems to be cooled in those sketchy tanks - but what is it? **"
+	{
+		"default"		"** The rocket fuel seems to be cooled in those sketchy tanks - but what is it? **"
+	}
+	"** Enabling the ignition process... Rocket launch started... **"
+	{
+		"default"		"** Enabling the ignition process... Rocket launch started... **"
+	}
+	"** Something's wrong! There seems to be an fuel overload! **"
+	{
+		"default"		"** Something's wrong! There seems to be an fuel overload! **"
+	}
+	"** THE FUEL CONTAINER IS OPENING! **"
+	{
+		"default"		"** THE FUEL CONTAINER IS OPENING! **"
+	}
+	"** Quick! Trim the excess of nuclear chickens! **"
+	{
+		"default"		"** Quick! Trim the excess of nuclear chickens! **"
+	}
+}

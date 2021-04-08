@@ -1,0 +1,156 @@
+"Chat"
+{
+	"*** STAGE I ***"
+	{
+		"default"		"*** STAGE I ***"
+	}
+	"*** Defend for 30 seconds! ***"
+	{
+		"default"		"*** Defend for 30 seconds! ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"default"		"*** 5 seconds left ***"
+		"ru"		"*** Осталось 5 Секунд ***"
+	}
+	"*** Sacrificial Orb has been acquired ***"
+	{
+		"default"		"*** Sacrificial Orb has been acquired ***"
+	}
+	"*** Eye of the Storm has been acquired ***"
+	{
+		"default"		"*** Eye of the Storm has been acquired ***"
+	}
+	"*** Lift is leaving in 30 seconds ***"
+	{
+		"default"		"*** Lift is leaving in 30 seconds ***"
+	}
+	"*** Defend for 20 seconds! ***"
+	{
+		"default"		"*** Defend for 20 seconds! ***"
+	}
+	"*** Orange Launcher has been acquired ***"
+	{
+		"default"		"*** Orange Launcher has been acquired ***"
+	}
+	"*** Melon Launcher has been acquired ***"
+	{
+		"default"		"*** Melon Launcher has been acquired ***"
+	}
+	"*** Nuke in 1 minute ***"
+	{
+		"default"		"*** Nuke in 1 minute ***"
+	}
+	"*** Final door is opening in 10 seconds ***"
+	{
+		"default"		"*** Final door is opening in 10 seconds ***"
+	}
+	"*** Nuke in 10 seconds ***"
+	{
+		"default"		"*** Nuke in 10 seconds ***"
+	}
+	"*** Stage failed! ***"
+	{
+		"default"		"*** Stage failed! ***"
+	}
+	"*** Stage completed! ***"
+	{
+		"default"		"*** Stage completed! ***"
+	}
+	"*** STAGE II ***"
+	{
+		"default"		"*** STAGE II ***"
+	}
+	"*** Defend for 25 seconds! ***"
+	{
+		"default"		"*** Defend for 25 seconds! ***"
+	}
+	"*** Defend for 35 seconds! ***"
+	{
+		"default"		"*** Defend for 35 seconds! ***"
+	}
+	"*** Defend while one person calls the lift! ***"
+	{
+		"default"		"*** Defend while one person calls the lift! ***"
+	}
+	"*** Lift is leaving in 10 seconds ***"
+	{
+		"default"		"*** Lift is leaving in 10 seconds ***"
+	}
+	"*** STAGE III ***"
+	{
+		"default"		"*** STAGE III ***"
+	}
+	"*** Defend for 45 seconds! ***"
+	{
+		"default"		"*** Defend for 45 seconds! ***"
+	}
+	"*** Water is rising in 10 seconds ***"
+	{
+		"default"		"*** Water is rising in 10 seconds ***"
+	}
+	"*** Nuke in 2 minutes ***"
+	{
+		"default"		"*** Nuke in 2 minutes ***"
+	}
+	"*** Zombies have been teleported. Prepare to charge! ***"
+	{
+		"default"		"*** Zombies have been teleported. Prepare to charge! ***"
+	}
+	"*** STAGE IV ***"
+	{
+		"default"		"*** STAGE IV ***"
+	}
+	"*** Top door is breaking in 20 seconds ***"
+	{
+		"default"		"*** Top door is breaking in 20 seconds ***"
+	}
+	"*** Bottom door is breaking in 10 seconds ***"
+	{
+		"default"		"*** Bottom door is breaking in 10 seconds ***"
+	}
+	"*** Defend for 60 seconds! ***"
+	{
+		"default"		"*** Defend for 60 seconds! ***"
+	}
+	"*** The dragon has been defeated. Keep defending the bridge! ***"
+	{
+		"default"		"*** The dragon has been defeated. Keep defending the bridge! ***"
+	}
+	"*** STAGE V ***"
+	{
+		"default"		"*** STAGE V ***"
+	}
+	"*** Teleporting humans in 10 seconds ***"
+	{
+		"default"		"*** Teleporting humans in 10 seconds ***"
+	}
+	"*** Defend all 3 statues. Do not let zombies near! ***"
+	{
+		"default"		"*** Defend all 3 statues. Do not let zombies near! ***"
+	}
+	"*** Teleporting zombies in 10 seconds ***"
+	{
+		"default"		"*** Teleporting zombies in 10 seconds ***"
+	}
+	"*** 3 minutes left ***"
+	{
+		"default"		"*** 3 minutes left ***"
+	}
+	"*** 2 minutes left ***"
+	{
+		"default"		"*** 2 minutes left ***"
+	}
+	"*** 1 minute left ***"
+	{
+		"default"		"*** 1 minute left ***"
+	}
+	"*** 10 seconds left ***"
+	{
+		"default"		"*** 10 seconds left ***"
+	}
+	"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
+	{
+		"default"		"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
+	}
+}

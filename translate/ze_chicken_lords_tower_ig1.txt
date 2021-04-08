@@ -1,0 +1,59 @@
+"Chat"
+{
+	"**Teleporter activating in 7 seconds...**"
+	{
+		"default"		"**Teleporter activating in 7 seconds...**"
+	}
+	"**Ladder blockade breaking in 7 seconds...**"
+	{
+		"default"		"**Ladder blockade breaking in 7 seconds...**"
+	}
+	"**AFK Slaughter in 5**"
+	{
+		"default"		"**AFK Slaughter in 5**"
+	}
+	"**4**"
+	{
+		"default"		"**4**"
+	}
+	"**3**"
+	{
+		"default"		"**3**"
+	}
+	"**2**"
+	{
+		"default"		"**2**"
+	}
+	"**1**"
+	{
+		"default"		"**1**"
+	}
+	"**AFKers have been killed**"
+	{
+		"default"		"**AFKers have been killed**"
+	}
+	"**Teleporting bottom area in 10 seconds!**"
+	{
+		"default"		"**Teleporting bottom area in 10 seconds!**"
+	}
+	"**Teleporting bottom area!**"
+	{
+		"default"		"**Teleporting bottom area!**"
+	}
+	"**The quarantine platform will begin its ascent in 40 seconds!**"
+	{
+		"default"		"**The quarantine platform will begin its ascent in 40 seconds!**"
+	}
+	"**The quarantine platform will begin to rise in 5 seconds!**"
+	{
+		"default"		"**The quarantine platform will begin to rise in 5 seconds!**"
+	}
+	"**Nuke has been launched!! 10 seconds until explosion**"
+	{
+		"default"		"**Nuke has been launched!! 10 seconds until explosion**"
+	}
+	"**The other ladder blockade will break in 15 seconds...**"
+	{
+		"default"		"**The other ladder blockade will break in 15 seconds...**"
+	}
+}

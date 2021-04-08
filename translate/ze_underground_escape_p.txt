@@ -1,0 +1,55 @@
+"Chat"
+{
+	"*** USE CONTROL PANEL TO STOP FANS ***"
+	{
+		"default"		"*** USE CONTROL PANEL TO STOP FANS ***"
+	}
+	"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+	{
+		"default"		"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+	}
+	"*** WAIT FOR DOOR TO OPEN ***"
+	{
+		"default"		"*** WAIT FOR DOOR TO OPEN ***"
+	}
+	"*** SMALL DOORS CLOSING ***"
+	{
+		"default"		"*** SMALL DOORS CLOSING ***"
+	}
+	"*** USE THE FAN TO PUSH YOU UP ***"
+	{
+		"default"		"*** USE THE FAN TO PUSH YOU UP ***"
+	}
+	"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+	{
+		"default"		"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+	}
+	"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+	{
+		"default"		"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+	}
+	"*** DOORS CLOSING ***"
+	{
+		"default"		"*** DOORS CLOSING ***"
+	}
+	"*** DOOR MALFUNCTION ***"
+	{
+		"default"		"*** DOOR MALFUNCTION ***"
+	}
+	"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+	{
+		"default"		"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+	}
+	"*** USE RADIO TO LAUNCH NUKE ***"
+	{
+		"default"		"*** USE RADIO TO LAUNCH NUKE ***"
+	}
+	"*** NUKE IN 5 SECONDS ***"
+	{
+		"default"		"*** NUKE IN 5 SECONDS ***"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"default"		"*** MAP BY JB_GAMBLE ***"
+	}
+}

@@ -1,0 +1,199 @@
+"Chat"
+{
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"default"		">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	}
+	"> Map by SubDelt@"
+	{
+		"default"		"> Map by SubDelt@"
+	}
+	"> Thanks to"
+	{
+		"default"		"> Thanks to"
+	}
+	"> Enviolinador - multiple things help"
+	{
+		"default"		"> Enviolinador - multiple things help"
+	}
+	"> (RMG) Synopsis [pF] - special items help"
+	{
+		"default"		"> (RMG) Synopsis [pF] - special items help"
+	}
+	"> JorisCeoen - models help"
+	{
+		"default"		"> JorisCeoen - models help"
+	}
+	"> Luffaren - particles help"
+	{
+		"default"		"> Luffaren - particles help"
+	}
+	">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+	{
+		"default"		">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+	}
+	">>> DOOR IS OPENING IN 5 SECS <<<"
+	{
+		"default"		">>> DOOR IS OPENING IN 5 SECS <<<"
+	}
+	">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+	{
+		"default"		">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+	}
+	">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	{
+		"default"		">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	}
+	">>> SOLUTION FOUND <<<"
+	{
+		"default"		">>> SOLUTION FOUND <<<"
+	}
+	">>> HOLD THE ENTRANCE <<<"
+	{
+		"default"		">>> HOLD THE ENTRANCE <<<"
+	}
+	">>> 30 SECS <<<"
+	{
+		"default"		">>> 30 SECS <<<"
+	}
+	">>> 20 SECS <<<"
+	{
+		"default"		">>> 20 SECS <<<"
+	}
+	">>> 10 SECS <<<"
+	{
+		"default"		">>> 10 SECS <<<"
+	}
+	">>> ZOMBIES USE THE CIRCLE WAY <<<"
+	{
+		"default"		">>> ZOMBIES USE THE CIRCLE WAY <<<"
+	}
+	">>> Propulsion gel has been aquired <<<"
+	{
+		"default"		">>> Propulsion gel has been aquired <<<"
+	}
+	">>> It has a 40 Second cooldown and speeds humans up <<<"
+	{
+		"default"		">>> It has a 40 Second cooldown and speeds humans up <<<"
+	}
+	">>> HOLD THIS PLACE FOR 35 SECS <<<"
+	{
+		"default"		">>> HOLD THIS PLACE FOR 35 SECS <<<"
+	}
+	">>> 15 SECS <<<"
+	{
+		"default"		">>> 15 SECS <<<"
+	}
+	">>> 5 SECS <<<"
+	{
+		"default"		">>> 5 SECS <<<"
+	}
+	">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
+	{
+		"default"		">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
+	}
+	">>> DESTROY THE TURRETS <<<"
+	{
+		"default"		">>> DESTROY THE TURRETS <<<"
+	}
+	">>> TURRETS DESTROYED <<<"
+	{
+		"default"		">>> TURRETS DESTROYED <<<"
+	}
+	">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
+	{
+		"default"		">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
+	}
+	">>> DOOR IS CLOSING IN 5 SECS <<<"
+	{
+		"default"		">>> DOOR IS CLOSING IN 5 SECS <<<"
+	}
+	">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<"
+	{
+		"default"		">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<"
+	}
+	">>> NEUROTOXIN IN 1 MINUTE! <<<"
+	{
+		"default"		">>> NEUROTOXIN IN 1 MINUTE! <<<"
+	}
+	">>> GLaDOS IS DEAD <<<"
+	{
+		"default"		">>> GLaDOS IS DEAD <<<"
+	}
+	">>> NORMAL MODE COMPLETED <<<"
+	{
+		"default"		">>> NORMAL MODE COMPLETED <<<"
+	}
+	">>> MOVING ON TO HARD MODE <<<"
+	{
+		"default"		">>> MOVING ON TO HARD MODE <<<"
+	}
+	">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
+	{
+		"default"		">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
+	}
+	">>> Repulsion gel has been aquired <<<"
+	{
+		"default"		">>> Repulsion gel has been aquired <<<"
+	}
+	">>> It has a 50 second cooldown and slow zombies down <<<"
+	{
+		"default"		">>> It has a 50 second cooldown and slow zombies down <<<"
+	}
+	">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
+	{
+		"default"		">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
+	}
+	">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
+	{
+		"default"		">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
+	}
+	">>> HARD MODE COMPLETED <<<"
+	{
+		"default"		">>> HARD MODE COMPLETED <<<"
+	}
+	">>> MOVING ON TO EXTREME MODE <<<"
+	{
+		"default"		">>> MOVING ON TO EXTREME MODE <<<"
+	}
+	">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
+	{
+		"default"		">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
+	}
+	">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	{
+		"default"		">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	}
+	">>> NEUROTOXIN IN 30 SECS! <<<"
+	{
+		"default"		">>> NEUROTOXIN IN 30 SECS! <<<"
+	}
+	">>> NEUROTOXIN IN 15 SECS! <<<"
+	{
+		"default"		">>> NEUROTOXIN IN 15 SECS! <<<"
+	}
+	">>> NEUROTOXIN IN 5 SECS! <<<"
+	{
+		"default"		">>> NEUROTOXIN IN 5 SECS! <<<"
+	}
+	">>> 4 <<<"
+	{
+		"default"		">>> 4 <<<"
+	}
+	">>> 3 <<<"
+	{
+		"default"		">>> 3 <<<"
+	}
+	">>> 2 <<<"
+	{
+		"default"		">>> 2 <<<"
+	}
+	">>> 1 <<<"
+	{
+		"default"		">>> 1 <<<"
+	}
+	">>> NEUROTOXIN RELEASED! <<<"
+	{
+		"default"		">>> NEUROTOXIN RELEASED! <<<"
+	}
+}

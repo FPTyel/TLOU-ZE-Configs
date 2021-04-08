@@ -1,0 +1,119 @@
+"Chat"
+{
+	"** MAP MADE BY PATRAO **"
+	{
+		"default"		"** MAP MADE BY PATRAO **"
+	}
+	"** SPECIAL THANKS TO ENVIOLINADOR **"
+	{
+		"default"		"** SPECIAL THANKS TO ENVIOLINADOR **"
+	}
+	"** WHITE BLOCKS = PRO WAY | NOOBS HAVE LADDER **"
+	{
+		"default"		"** WHITE BLOCKS = PRO WAY | NOOBS HAVE LADDER **"
+	}
+	"** HOLD FOR 30 SECONDS **"
+	{
+		"default"		"** HOLD FOR 30 SECONDS **"
+	}
+	"** HOLD THIS AREA FOR 60 SECONDS **"
+	{
+		"default"		"** HOLD THIS AREA FOR 60 SECONDS **"
+	}
+	"** Cool'R Gun has been picked up. Press +USE (E) to activate. **"
+	{
+		"default"		"** Cool'R Gun has been picked up. Press +USE (E) to activate. **"
+	}
+	"** It has a 75 seconds cooldown. **"
+	{
+		"default"		"** It has a 75 seconds cooldown. **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"default"		"** 5 SECONDS LEFT **"
+	}
+	"** CHOOSE ONE PORTAL**"
+	{
+		"default"		"** CHOOSE ONE PORTAL**"
+	}
+	"** HOLD THIS AREA FOR 30 SECONDS! **"
+	{
+		"default"		"** HOLD THIS AREA FOR 30 SECONDS! **"
+	}
+	"** HOLD ZOMBIES FOR 45 SECONDS **"
+	{
+		"default"		"** HOLD ZOMBIES FOR 45 SECONDS **"
+	}
+	"** 5 MORE SECONDS **"
+	{
+		"default"		"** 5 MORE SECONDS **"
+	}
+	"** HOLD THIS AREA FOR 33 SECONDS! **"
+	{
+		"default"		"** HOLD THIS AREA FOR 33 SECONDS! **"
+	}
+	"** WALL BREAKING IN 5 SECONDS **"
+	{
+		"default"		"** WALL BREAKING IN 5 SECONDS **"
+	}
+	"** HOLD THIS PLATFORM FOR 37 SECONDS **"
+	{
+		"default"		"** HOLD THIS PLATFORM FOR 37 SECONDS **"
+	}
+	"** BUILDER HAS BEEN PICKED UP! **"
+	{
+		"default"		"** BUILDER HAS BEEN PICKED UP! **"
+	}
+	"** TELEPORT CHARGING ** "
+	{
+		"default"		"** TELEPORT CHARGING ** "
+	}
+	"** USE IT WELL! IT CAN ONLY BE USED 5 TIMES **"
+	{
+		"default"		"** USE IT WELL! IT CAN ONLY BE USED 5 TIMES **"
+	}
+	"HOLD ZOMBIES UNTILL IT IS FULLY CHARGED "
+	{
+		"default"		"HOLD ZOMBIES UNTILL IT IS FULLY CHARGED "
+	}
+	"** 25 % CHARGED **"
+	{
+		"default"		"** 25 % CHARGED **"
+	}
+	"** 50 % CHARGED **"
+	{
+		"default"		"** 50 % CHARGED **"
+	}
+	"** 75% CHARGED **"
+	{
+		"default"		"** 75% CHARGED **"
+	}
+	"** 100 %! GO GO GO!!! **"
+	{
+		"default"		"** 100 %! GO GO GO!!! **"
+	}
+	"** HOLD THIS AREA FOR 50 SECONDS **"
+	{
+		"default"		"** HOLD THIS AREA FOR 50 SECONDS **"
+	}
+	"** SHOOT ZOMBIES OUT UNTILL LADDER BREAKS **"
+	{
+		"default"		"** SHOOT ZOMBIES OUT UNTILL LADDER BREAKS **"
+	}
+	"** HOLD ZOMBIES FOR 50 SECONDS **"
+	{
+		"default"		"** HOLD ZOMBIES FOR 50 SECONDS **"
+	}
+	"** ZOMBIES: CLIMB THE STAIRS! **"
+	{
+		"default"		"** ZOMBIES: CLIMB THE STAIRS! **"
+	}
+	"** HOLD FOR 25 SECONDS **"
+	{
+		"default"		"** HOLD FOR 25 SECONDS **"
+	}
+	"** HOLD ZOMBIES FOR 30 SECONDS **"
+	{
+		"default"		"** HOLD ZOMBIES FOR 30 SECONDS **"
+	}
+}

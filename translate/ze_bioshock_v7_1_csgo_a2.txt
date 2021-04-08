@@ -1,0 +1,71 @@
+"Chat"
+{
+	"Custom stripper changes are active on this map not done by the original mapper"
+	{
+		"default"		"Custom stripper changes are active on this map not done by the original mapper"
+	}
+	">>>Warmup ends in 60 seconds<<<"
+	{
+		"default"		">>>Warmup ends in 60 seconds<<<"
+	}
+	">>TIP #1: Vita Chambers are teleport locations. Don't get caught out!<<"
+	{
+		"default"		">>TIP #1: Vita Chambers are teleport locations. Don't get caught out!<<"
+	}
+	">>Big Sister is after you!<<"
+	{
+		"default"		">>Big Sister is after you!<<"
+	}
+	">>TIP #2: Repeated losses will make the map easier. Don't give up!<<"
+	{
+		"default"		">>TIP #2: Repeated losses will make the map easier. Don't give up!<<"
+	}
+	">>>A Little Sister has been spotted nearby<<<"
+	{
+		"default"		">>>A Little Sister has been spotted nearby<<<"
+	}
+	">>Gene Tonics unlocked<<"
+	{
+		"default"		">>Gene Tonics unlocked<<"
+	}
+	"***Plasmid obtained: Winter Blast***"
+	{
+		"default"		"***Plasmid obtained: Winter Blast***"
+	}
+	"***Plasmid obtained: Gravity Well***"
+	{
+		"default"		"***Plasmid obtained: Gravity Well***"
+	}
+	"*AFK teleport in 5s*"
+	{
+		"default"		"*AFK teleport in 5s*"
+	}
+	">>>Elevator 2 leaves in 5 seconds<<<"
+	{
+		"default"		">>>Elevator 2 leaves in 5 seconds<<<"
+	}
+	">>>The Big Daddy is lurking<<<"
+	{
+		"default"		">>>The Big Daddy is lurking<<<"
+	}
+	"***Plasmid obtained: Sonic Boom***"
+	{
+		"default"		"***Plasmid obtained: Sonic Boom***"
+	}
+	"That's a Little Sister. Looks like she's alone..."
+	{
+		"default"		"That's a Little Sister. Looks like she's alone..."
+	}
+	"***Plasmid obtained: Incinerate***"
+	{
+		"default"		"***Plasmid obtained: Incinerate***"
+	}
+	"***Plasmid obtained: Electro Bolt***"
+	{
+		"default"		"***Plasmid obtained: Electro Bolt***"
+	}
+	">>>Chapter failed<<<"
+	{
+		"default"		">>>Chapter failed<<<"
+	}
+}

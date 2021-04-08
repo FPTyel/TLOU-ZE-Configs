@@ -1,0 +1,151 @@
+"Chat"
+{
+	"***Welcome everyone. this is my first map (don't be harsh please)***"
+	{
+		"default"		"***Welcome everyone. this is my first map (don't be harsh please)***"
+	}
+	"***If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.***"
+	{
+		"default"		"***If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.***"
+	}
+	"***You can find my info on the left side at spawn.***"
+	{
+		"default"		"***You can find my info on the left side at spawn.***"
+	}
+	"***Thanks to Champagne, NiceShot and memories for helping me***"
+	{
+		"default"		"***Thanks to Champagne, NiceShot and memories for helping me***"
+	}
+	"***Special thanks to Kotya for helping me with the most parts.***"
+	{
+		"default"		"***Special thanks to Kotya for helping me with the most parts.***"
+	}
+	"***Elevator comes in 30 seconds.***"
+	{
+		"default"		"***Elevator comes in 30 seconds.***"
+	}
+	"***What the fuck happened? How did I even get here?***"
+	{
+		"default"		"***What the fuck happened? How did I even get here?***"
+	}
+	"***Anyway I need to get out of here.***"
+	{
+		"default"		"***Anyway I need to get out of here.***"
+	}
+	"***Elevator doors close in 10 seconds.***"
+	{
+		"default"		"***Elevator doors close in 10 seconds.***"
+	}
+	"***Zombie tp in 10 seconds***"
+	{
+		"default"		"***Zombie tp in 10 seconds***"
+	}
+	"***Why is the entire hospital so empty?***"
+	{
+		"default"		"***Why is the entire hospital so empty?***"
+	}
+	"***What the fuck is that thing behind the glass?***"
+	{
+		"default"		"***What the fuck is that thing behind the glass?***"
+	}
+	"***I think I should try to find some doctors around.***"
+	{
+		"default"		"***I think I should try to find some doctors around.***"
+	}
+	"***The entrance to the lab's hallway opens in 15 seconds.***"
+	{
+		"default"		"***The entrance to the lab's hallway opens in 15 seconds.***"
+	}
+	"***The laboratory doors open in 35 seconds.***"
+	{
+		"default"		"***The laboratory doors open in 35 seconds.***"
+	}
+	"***Doors close in 10 seconds.***"
+	{
+		"default"		"***Doors close in 10 seconds.***"
+	}
+	"***What is that strange noise in the vents?***"
+	{
+		"default"		"***What is that strange noise in the vents?***"
+	}
+	"***Damn, what kind of cats were they?***"
+	{
+		"default"		"***Damn, what kind of cats were they?***"
+	}
+	"***We gotta get out of here fast.***"
+	{
+		"default"		"***We gotta get out of here fast.***"
+	}
+	"***I had just seen the way out of here before.***"
+	{
+		"default"		"***I had just seen the way out of here before.***"
+	}
+	"***WHY THE FUCK IS THE CEILING SO LOW? MAPPER, YOU ARE FUCKING MORON!***"
+	{
+		"default"		"***WHY THE FUCK IS THE CEILING SO LOW? MAPPER, YOU ARE FUCKING MORON!***"
+	}
+	"***A Player has picked up Heal***"
+	{
+		"default"		"***A Player has picked up Heal***"
+	}
+	"***Door will open in 10 seconds.***"
+	{
+		"default"		"***Door will open in 10 seconds.***"
+	}
+	"***Doors open in 13 seconds.***"
+	{
+		"default"		"***Doors open in 13 seconds.***"
+	}
+	"***Fuck, these cats are everywhere.***"
+	{
+		"default"		"***Fuck, these cats are everywhere.***"
+	}
+	"***The exit is closed. I guess I have to go through the window.***"
+	{
+		"default"		"***The exit is closed. I guess I have to go through the window.***"
+	}
+	"***WTF, WHY I CAN'T GET INSIDE?***"
+	{
+		"default"		"***WTF, WHY I CAN'T GET INSIDE?***"
+	}
+	"***MAPPER, YOU ARE FUCKIN' RETARD!!!***"
+	{
+		"default"		"***MAPPER, YOU ARE FUCKIN' RETARD!!!***"
+	}
+	"***Doors open in 15 seconds.***"
+	{
+		"default"		"***Doors open in 15 seconds.***"
+	}
+	"***The door seems pretty strange. Maybe I need to shoot at it.***"
+	{
+		"default"		"***The door seems pretty strange. Maybe I need to shoot at it.***"
+	}
+	"***Sewer door will open in 18 seconds***"
+	{
+		"default"		"***Sewer door will open in 18 seconds***"
+	}
+	"***DEFEND 30 SECONDS***"
+	{
+		"default"		"***DEFEND 30 SECONDS***"
+	}
+	"***Gate will open in 15 seconds***"
+	{
+		"default"		"***Gate will open in 15 seconds***"
+	}
+	"***Zombie tp in 15 seconds***"
+	{
+		"default"		"***Zombie tp in 15 seconds***"
+	}
+	"***The Lab door will open in 12 seconds***"
+	{
+		"default"		"***The Lab door will open in 12 seconds***"
+	}
+	"***HOLD***"
+	{
+		"default"		"***HOLD***"
+	}
+	"***Something is about to happen***"
+	{
+		"default"		"***Something is about to happen***"
+	}
+}

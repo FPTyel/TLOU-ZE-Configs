@@ -1,0 +1,115 @@
+"Chat"
+{
+	"***Door opens in 20 seconds***"
+	{
+		"default"		"***Door opens in 20 seconds***"
+	}
+	"***This map is so fucking bad, just RTV the shit out of this***"
+	{
+		"default"		"***This map is so fucking bad, just RTV the shit out of this***"
+	}
+	"***Door opens in 10 seconds***"
+	{
+		"default"		"***Door opens in 10 seconds***"
+	}
+	"***Door opens in 5 seconds***"
+	{
+		"default"		"***Door opens in 5 seconds***"
+	}
+	"***Door is open***"
+	{
+		"default"		"***Door is open***"
+	}
+	"***I am ashamed the mapper has uploaded this map***"
+	{
+		"default"		"***I am ashamed the mapper has uploaded this map***"
+	}
+	"***Door opens in 30 seconds***"
+	{
+		"default"		"***Door opens in 30 seconds***"
+	}
+	"***What even is this hold? The mapper has no skill I tell you***"
+	{
+		"default"		"***What even is this hold? The mapper has no skill I tell you***"
+	}
+	"***Here, have some crates***"
+	{
+		"default"		"***Here, have some crates***"
+	}
+	"***Door opens in 15 seconds***"
+	{
+		"default"		"***Door opens in 15 seconds***"
+	}
+	"***Door opens in 25 seconds***"
+	{
+		"default"		"***Door opens in 25 seconds***"
+	}
+	"***If you can beat this hold, you might be better than GFL***"
+	{
+		"default"		"***If you can beat this hold, you might be better than GFL***"
+	}
+	"***I am joking, you're worse***"
+	{
+		"default"		"***I am joking, you're worse***"
+	}
+	"***Door opens in 50 seconds***"
+	{
+		"default"		"***Door opens in 50 seconds***"
+	}
+	"***Please, just RTV this shitty map, you are just wasting your time and others***"
+	{
+		"default"		"***Please, just RTV this shitty map, you are just wasting your time and others***"
+	}
+	"***I lied***"
+	{
+		"default"		"***I lied***"
+	}
+	"***Some lasers for those Final Fantasy fags out there***"
+	{
+		"default"		"***Some lasers for those Final Fantasy fags out there***"
+	}
+	"***Doorhug and die, you fucks***"
+	{
+		"default"		"***Doorhug and die, you fucks***"
+	}
+	"***Another pointless hold, it's like the mapper run out of ideas and decided to draw the layout when he was taking a shit***"
+	{
+		"default"		"***Another pointless hold, it's like the mapper run out of ideas and decided to draw the layout when he was taking a shit***"
+	}
+	"***Elevator activates in 10 seconds***"
+	{
+		"default"		"***Elevator activates in 10 seconds***"
+	}
+	"***Ding Ding***"
+	{
+		"default"		"***Ding Ding***"
+	}
+	"***Facts time!***"
+	{
+		"default"		"***Facts time!***"
+	}
+	"***Did you know that you guys are absolutely retarded for not RTV'ing this map yet?***"
+	{
+		"default"		"***Did you know that you guys are absolutely retarded for not RTV'ing this map yet?***"
+	}
+	"***I have nothing to say at this point, I'm going to sleep, good night***"
+	{
+		"default"		"***I have nothing to say at this point, I'm going to sleep, good night***"
+	}
+	"*There was supposed to be a boss here, but the mapper has no skill what so fucking ever*"
+	{
+		"default"		"*There was supposed to be a boss here, but the mapper has no skill what so fucking ever*"
+	}
+	"***Instead, here's another pointless fucking laser***"
+	{
+		"default"		"***Instead, here's another pointless fucking laser***"
+	}
+	"***Defend for 38 seconds***"
+	{
+		"default"		"***Defend for 38 seconds***"
+	}
+	"***You failed, nice one noobs***"
+	{
+		"default"		"***You failed, nice one noobs***"
+	}
+}

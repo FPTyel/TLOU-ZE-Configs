@@ -1,0 +1,331 @@
+"Chat"
+{
+	"*** The Last of Us ***"
+	{
+		"default"		"*** The Last of Us ***"
+	}
+	"*** map created by thas ***"
+	{
+		"default"		"*** map created by thas ***"
+	}
+	"***Ported by Reflelia***"
+	{
+		"default"		"***Ported by Reflelia***"
+	}
+	"*** creating particle helped by Airvulpes ***"
+	{
+		"default"		"*** creating particle helped by Airvulpes ***"
+	}
+	"(づ>_<)づ 𝐒𝐭𝐫𝐢𝐩𝐩𝐞𝐫 𝐦𝐚𝐝𝐞 𝐛𝐲 𝐦𝐞𝐦𝐨𝐫𝐢𝐞𝐬 (づ>_<)づ"
+	{
+		"default"		"(づ>_<)づ 𝐒𝐭𝐫𝐢𝐩𝐩𝐞𝐫 𝐦𝐚𝐝𝐞 𝐛𝐲 𝐦𝐞𝐦𝐨𝐫𝐢𝐞𝐬 (づ>_<)づ"
+	}
+	"*** Boss fixed by Котя ***"
+	{
+		"default"		"*** Boss fixed by Котя ***"
+	}
+	"*** DIFFICULTY: NORMAL ***"
+	{
+		"default"		"*** DIFFICULTY: NORMAL ***"
+	}
+	"*** LIFT LEAVES IN 15 SECONDS ***"
+	{
+		"default"		"*** LIFT LEAVES IN 15 SECONDS ***"
+	}
+	"*** LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"default"		"*** LIFT LEAVES IN 5 SECONDS ***"
+	}
+	"*** A PLAYER HAS PICKED UP THE HEALTH MUSHROOM ***"
+	{
+		"default"		"*** A PLAYER HAS PICKED UP THE HEALTH MUSHROOM ***"
+	}
+	"*** DEFEND FOR 40 SECONDS ***"
+	{
+		"default"		"*** DEFEND FOR 40 SECONDS ***"
+	}
+	"*** STUCK TELEPORT IS ENABLED ***"
+	{
+		"default"		"*** STUCK TELEPORT IS ENABLED ***"
+	}
+	"*** STUCKER HURRY TO RUN ***"
+	{
+		"default"		"*** STUCKER HURRY TO RUN ***"
+	}
+	"*** DEFEND FOR 5 SECONDS ***"
+	{
+		"default"		"*** DEFEND FOR 5 SECONDS ***"
+	}
+	"*** GO GO !! ***"
+	{
+		"default"		"*** GO GO !! ***"
+	}
+	"*** YOU CAN CLIMB THE WALL ***"
+	{
+		"default"		"*** YOU CAN CLIMB THE WALL ***"
+	}
+	"*** LIFT WILL RISE IN 20 SECONDS ***"
+	{
+		"default"		"*** LIFT WILL RISE IN 20 SECONDS ***"
+	}
+	"*** LIFT WILL RISE IN 5 SECONDS ***"
+	{
+		"default"		"*** LIFT WILL RISE IN 5 SECONDS ***"
+	}
+	"*** A PLAYER HAS PICKED UP THE POISON FIRE MUSHROOM ***"
+	{
+		"default"		"*** A PLAYER HAS PICKED UP THE POISON FIRE MUSHROOM ***"
+	}
+	"*** A PLAYER HAS PICKED UP THE WIND FIRE MUSHROOM ***"
+	{
+		"default"		"*** A PLAYER HAS PICKED UP THE WIND FIRE MUSHROOM ***"
+	}
+	"*** GO !! GO !! ***"
+	{
+		"default"		"*** GO !! GO !! ***"
+	}
+	"*** DEFEND FOR 30 SECONDS ***"
+	{
+		"default"		"*** DEFEND FOR 30 SECONDS ***"
+	}
+	"*** NORMAL MODE COMPLETED ***"
+	{
+		"default"		"*** NORMAL MODE COMPLETED ***"
+	}
+	"*** DIFFICULTY: HARD ***"
+	{
+		"default"		"*** DIFFICULTY: HARD ***"
+	}
+	"*** LIFT WILL RISE IN 30 SECONDS ***"
+	{
+		"default"		"*** LIFT WILL RISE IN 30 SECONDS ***"
+	}
+	"*** RED LIGHT COMPLETED ***"
+	{
+		"default"		"*** RED LIGHT COMPLETED ***"
+	}
+	"*** POWER STAR APPEARD ***"
+	{
+		"default"		"*** POWER STAR APPEARD ***"
+	}
+	"*** A PLAYER HAS PICKED UP THE POWER STAR ***"
+	{
+		"default"		"*** A PLAYER HAS PICKED UP THE POWER STAR ***"
+	}
+	"*** DON'T GO !!!!!!! ***"
+	{
+		"default"		"*** DON'T GO !!!!!!! ***"
+	}
+	"*** TELEPORTER IS NOT ACTIVATING !!!! ***"
+	{
+		"default"		"*** TELEPORTER IS NOT ACTIVATING !!!! ***"
+	}
+	"*** ACTIVATING.... YOU MUST DEFENCE FOR 30 SECONDS !!! ***"
+	{
+		"default"		"*** ACTIVATING.... YOU MUST DEFENCE FOR 30 SECONDS !!! ***"
+	}
+	"*** TELEPORTER WILL ACTIVE IN 5 SECONDS... ***"
+	{
+		"default"		"*** TELEPORTER WILL ACTIVE IN 5 SECONDS... ***"
+	}
+	"*** GO !! GO !! YOU CAN TELEPORT NOW !! ***"
+	{
+		"default"		"*** GO !! GO !! YOU CAN TELEPORT NOW !! ***"
+	}
+	"*** BOWSER IS APPERED !!! SHOOT HIM !! ***"
+	{
+		"default"		"*** BOWSER IS APPERED !!! SHOOT HIM !! ***"
+	}
+	"*** YOU HAVE KILLED BOWSER ***"
+	{
+		"default"		"*** YOU HAVE KILLED BOWSER ***"
+	}
+	"*** PORTAL IS APPEARED ***"
+	{
+		"default"		"*** PORTAL IS APPEARED ***"
+	}
+	"*** GET IN TO THE PORTAL OF MIDDLE ***"
+	{
+		"default"		"*** GET IN TO THE PORTAL OF MIDDLE ***"
+	}
+	"*** ZOMBIES WILL COME IN 10 SECONDS ***"
+	{
+		"default"		"*** ZOMBIES WILL COME IN 10 SECONDS ***"
+	}
+	"*** COLOR LIFT WILL LEAVE IN 40 SECONDS ***"
+	{
+		"default"		"*** COLOR LIFT WILL LEAVE IN 40 SECONDS ***"
+	}
+	"*** HOLD THIS POTISION !! ***"
+	{
+		"default"		"*** HOLD THIS POTISION !! ***"
+	}
+	"*** COLOR LIFT WILL LEAVE IN 5 SECONDS ***"
+	{
+		"default"		"*** COLOR LIFT WILL LEAVE IN 5 SECONDS ***"
+	}
+	"*** HARD MODE COMPLETED ***"
+	{
+		"default"		"*** HARD MODE COMPLETED ***"
+	}
+	"*** DIFFICULTY: VERY HARD ***"
+	{
+		"default"		"*** DIFFICULTY: VERY HARD ***"
+	}
+	"*** ZOMBIES LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"default"		"*** ZOMBIES LIFT LEAVES IN 5 SECONDS ***"
+	}
+	"*** ONE PERSON NEED TO PRESS THE LIFT BUTTON ***"
+	{
+		"default"		"*** ONE PERSON NEED TO PRESS THE LIFT BUTTON ***"
+	}
+	"*** HOLD HIM !! ***"
+	{
+		"default"		"*** HOLD HIM !! ***"
+	}
+	"*** NICE JOB !! ALL BUTTON ARE PRESSED BY HUMANS ***"
+	{
+		"default"		"*** NICE JOB !! ALL BUTTON ARE PRESSED BY HUMANS ***"
+	}
+	"*** LIFT WILL LEAVE IN 30 SECONDS ***"
+	{
+		"default"		"*** LIFT WILL LEAVE IN 30 SECONDS ***"
+	}
+	"*** LIFT WILL LEAVE IN 5 SECONDS ***"
+	{
+		"default"		"*** LIFT WILL LEAVE IN 5 SECONDS ***"
+	}
+	"*** VERY HARD MODE COMPLETED ***"
+	{
+		"default"		"*** VERY HARD MODE COMPLETED ***"
+	}
+	"*** DIFFICULTY: INSANE ***"
+	{
+		"default"		"*** DIFFICULTY: INSANE ***"
+	}
+	"*** LOOK AT THE SKY !! ***"
+	{
+		"default"		"*** LOOK AT THE SKY !! ***"
+	}
+	"*** THIS IS THE PURPLE LIGHT !! ***"
+	{
+		"default"		"*** THIS IS THE PURPLE LIGHT !! ***"
+	}
+	"*** IT WILL INCREASE BOWSER'S SOME ABILITIES... ***"
+	{
+		"default"		"*** IT WILL INCREASE BOWSER'S SOME ABILITIES... ***"
+	}
+	"*** THREE PERSON NEED TO PRESS THE LIFT BUTTON ***"
+	{
+		"default"		"*** THREE PERSON NEED TO PRESS THE LIFT BUTTON ***"
+	}
+	"*** HOLD THEM !! ***"
+	{
+		"default"		"*** HOLD THEM !! ***"
+	}
+	"*** !? ***"
+	{
+		"default"		"*** !? ***"
+	}
+	"*** OH NO !! BOWSER IS GETTING POWER FROM PURPLE LIGHT !! ***"
+	{
+		"default"		"*** OH NO !! BOWSER IS GETTING POWER FROM PURPLE LIGHT !! ***"
+	}
+	"*** BOWSER IS POWERED UP !! BE CAREFUL !! ***"
+	{
+		"default"		"*** BOWSER IS POWERED UP !! BE CAREFUL !! ***"
+	}
+	"*** OH NO !! PURPLE LIGHT BE OUT OF CONTROL !! ****"
+	{
+		"default"		"*** OH NO !! PURPLE LIGHT BE OUT OF CONTROL !! ****"
+	}
+	"*** PURPLE LIGHT IS GETTING THE BIG SIZE ... ***"
+	{
+		"default"		"*** PURPLE LIGHT IS GETTING THE BIG SIZE ... ***"
+	}
+	"*** WE DON'T KNOW WHEN IT WILL DESTROY FIRE SEA ... ***"
+	{
+		"default"		"*** WE DON'T KNOW WHEN IT WILL DESTROY FIRE SEA ... ***"
+	}
+	"*** HURRY TO ESCAPE !! ***"
+	{
+		"default"		"*** HURRY TO ESCAPE !! ***"
+	}
+	"*** A PERSON PICKED UP THE COLOR LIFT ***"
+	{
+		"default"		"*** A PERSON PICKED UP THE COLOR LIFT ***"
+	}
+	"*** IF YOU LOST IT ***"
+	{
+		"default"		"*** IF YOU LOST IT ***"
+	}
+	"*** WE CAN'T ESCAPE FROM FIRE SEA !!! ***"
+	{
+		"default"		"*** WE CAN'T ESCAPE FROM FIRE SEA !!! ***"
+	}
+	"*** PICKER MUST NOT DIE AND HOLD THIS !!! ***"
+	{
+		"default"		"*** PICKER MUST NOT DIE AND HOLD THIS !!! ***"
+	}
+	"*** LIFT WILL LEAVE IN 30 SECONDS... ***"
+	{
+		"default"		"*** LIFT WILL LEAVE IN 30 SECONDS... ***"
+	}
+	"*** LIFT WILL LEAVE IN 5 SECONDS... ***"
+	{
+		"default"		"*** LIFT WILL LEAVE IN 5 SECONDS... ***"
+	}
+	"*** GET ON THE LIFT !!!!!!! IF YOU DON'T WANT TO DIE !!!! ***"
+	{
+		"default"		"*** GET ON THE LIFT !!!!!!! IF YOU DON'T WANT TO DIE !!!! ***"
+	}
+	"*** LIFT WILL LEAVE TO LAST STAND POINT IN 25 SECONDS ***"
+	{
+		"default"		"*** LIFT WILL LEAVE TO LAST STAND POINT IN 25 SECONDS ***"
+	}
+	"*** LIFT WILL LEAVE TO LAST STAND POINT IN 5 SECONDS ***"
+	{
+		"default"		"*** LIFT WILL LEAVE TO LAST STAND POINT IN 5 SECONDS ***"
+	}
+	"*** PICKER HAVE TO THROW COLOR LIFT INTO THE ON THE INVISIBLE LIFT ***"
+	{
+		"default"		"*** PICKER HAVE TO THROW COLOR LIFT INTO THE ON THE INVISIBLE LIFT ***"
+	}
+	"*** NICE JOB !! WE CAN ESCAPE FROM FIRE SEA !! ***"
+	{
+		"default"		"*** NICE JOB !! WE CAN ESCAPE FROM FIRE SEA !! ***"
+	}
+	"*** ZOMBIES CAN MOVE ON THE BLUE LINE ***"
+	{
+		"default"		"*** ZOMBIES CAN MOVE ON THE BLUE LINE ***"
+	}
+	"*** FINAL LIFT LEAVES FROM FIRE SEA IN 30 SECONDS ***"
+	{
+		"default"		"*** FINAL LIFT LEAVES FROM FIRE SEA IN 30 SECONDS ***"
+	}
+	"*** HOLD HERE !! ***"
+	{
+		"default"		"*** HOLD HERE !! ***"
+	}
+	"*** FINAL LIFT LEAVES FROM FIRE SEA IN 5 SECONDS ***"
+	{
+		"default"		"*** FINAL LIFT LEAVES FROM FIRE SEA IN 5 SECONDS ***"
+	}
+	"*** BOWSER HAVEN'T DIED !! ***"
+	{
+		"default"		"*** BOWSER HAVEN'T DIED !! ***"
+	}
+	"*** HE THROW US MUCH FIRE !! ***"
+	{
+		"default"		"*** HE THROW US MUCH FIRE !! ***"
+	}
+	"*** SHOOT HIM !!! ***"
+	{
+		"default"		"*** SHOOT HIM !!! ***"
+	}
+	"***Failed***"
+	{
+		"default"		"***Failed***"
+	}
+}

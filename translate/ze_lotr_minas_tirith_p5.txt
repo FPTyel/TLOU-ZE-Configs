@@ -1,0 +1,250 @@
+"Chat"
+{
+	"** MAP BY Hannibal [SPA] (Rafuron) "
+	{
+		" Map modified by Rulucy&Koyomaple **"
+		{
+			"default"		"** MAP BY Hannibal [SPA] (Rafuron) / Map modified by Rulucy&Koyomaple **"
+		}
+	}
+	"** Thanks to Kaemon **"
+	{
+		"default"		"** Thanks to Kaemon **"
+	}
+	"** This is the first round. Wait for more players to restart round or suicide. **"
+	{
+		"default"		"** This is the first round. Wait for more players to restart round or suicide. **"
+	}
+	"** WARMUP ROUND **"
+	{
+		"default"		"** WARMUP ROUND **"
+	}
+	"** Tip 1 : press +use on pickable objects to build barricades ** "
+	{
+		"default"		"** Tip 1 : press +use on pickable objects to build barricades ** "
+	}
+	"** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS ** "
+	{
+		"default"		"** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS ** "
+	}
+	"** Tip 2 : reach and win the end of a stage to level up ** "
+	{
+		"default"		"** Tip 2 : reach and win the end of a stage to level up ** "
+	}
+	"** Tip 3 : take items at zombie and human shops in spawn ** "
+	{
+		"default"		"** Tip 3 : take items at zombie and human shops in spawn ** "
+	}
+	"** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
+	{
+		"default"		"** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
+	}
+	"** Tip 5 : barricades health depends on the size and material **"
+	{
+		"default"		"** Tip 5 : barricades health depends on the size and material **"
+	}
+	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
+	{
+		"default"		"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
+	}
+	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
+	{
+		"default"		"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
+	}
+	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
+	{
+		"default"		"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
+	}
+	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
+	{
+		"default"		"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
+	}
+	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
+	{
+		"default"		"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
+	}
+	"** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS ** "
+	{
+		"default"		"** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS ** "
+	}
+	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+	{
+		"default"		"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+	}
+	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
+	{
+		"default"		"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
+	}
+	"** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **"
+	{
+		"default"		"** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **"
+	}
+	"** WARMUP ROUND IS OVER! **"
+	{
+		"default"		"** WARMUP ROUND IS OVER! **"
+	}
+	"** STARTING AT FIRST LEVEL! **"
+	{
+		"default"		"** STARTING AT FIRST LEVEL! **"
+	}
+	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
+	{
+		"default"		"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
+	}
+	"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
+	{
+		"default"		"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
+	}
+	"** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
+	{
+		"default"		"** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
+	}
+	"** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
+	{
+		"default"		"** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
+	}
+	"** RESIST 20 SECONDS! **"
+	{
+		"default"		"** RESIST 20 SECONDS! **"
+	}
+	"** RETREAT !! RIVER ZONE IS LOST **"
+	{
+		"default"		"** RETREAT !! RIVER ZONE IS LOST **"
+	}
+	"** WATCH OUT! WE ARE UNDER SIEGE **"
+	{
+		"default"		"** WATCH OUT! WE ARE UNDER SIEGE **"
+	}
+	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
+	{
+		"default"		"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
+	}
+	"** OSGILIATH IS LOST ** RETREAT ! **"
+	{
+		"default"		"** OSGILIATH IS LOST ** RETREAT ! **"
+	}
+	"** DOOR IS OPENING **"
+	{
+		"default"		"** DOOR IS OPENING **"
+	}
+	"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
+	{
+		"default"		"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
+	}
+	"** DOOR IS CLOSED **"
+	{
+		"default"		"** DOOR IS CLOSED **"
+	}
+	"** KILL THE REMAINING ZOMBIES! **"
+	{
+		"default"		"** KILL THE REMAINING ZOMBIES! **"
+	}
+	"** STAGE COMPLETED **"
+	{
+		"default"		"** STAGE COMPLETED **"
+	}
+	"**CURRENT STAGE >> PART 2 >> MAIN GATES **"
+	{
+		"default"		"**CURRENT STAGE >> PART 2 >> MAIN GATES **"
+	}
+	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
+	{
+		"default"		"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
+	}
+	"** WATCH OUT! **"
+	{
+		"default"		"** WATCH OUT! **"
+	}
+	"** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
+	{
+		"default"		"** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
+	}
+	"** RETREAT! **"
+	{
+		"default"		"** RETREAT! **"
+	}
+	"** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
+	{
+		"default"		"** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
+	}
+	"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
+	{
+		"default"		"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
+	}
+	"** DOOR 2 LOCKED **"
+	{
+		"default"		"** DOOR 2 LOCKED **"
+	}
+	"** DOOR 1 LOCKED **"
+	{
+		"default"		"** DOOR 1 LOCKED **"
+	}
+	"** DOORS LOCKED **"
+	{
+		"default"		"** DOORS LOCKED **"
+	}
+	"**CURRENT STAGE >> PART 3 >> CATAPULTS **"
+	{
+		"default"		"**CURRENT STAGE >> PART 3 >> CATAPULTS **"
+	}
+	"** THEY ARE TRYING TO GET IN ** SHOOT! **"
+	{
+		"default"		"** THEY ARE TRYING TO GET IN ** SHOOT! **"
+	}
+	"** THEY ARE IN! RETREAT! **"
+	{
+		"default"		"** THEY ARE IN! RETREAT! **"
+	}
+	"** THE LIFT IS LEAVING IN 10 SECONDS **"
+	{
+		"default"		"** THE LIFT IS LEAVING IN 10 SECONDS **"
+	}
+	"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
+	{
+		"default"		"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
+	}
+	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
+	{
+		"default"		"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
+	}
+	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
+	{
+		"default"		"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
+	}
+	"** Catapult 1 activated **"
+	{
+		"default"		"** Catapult 1 activated **"
+	}
+	"** Catapult 2 activated **"
+	{
+		"default"		"** Catapult 2 activated **"
+	}
+	"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
+	{
+		"default"		"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
+	}
+	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
+	{
+		"default"		"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
+	}
+	"** DEFEND THIS PLACE FOR 35 SECONDS **"
+	{
+		"default"		"** DEFEND THIS PLACE FOR 35 SECONDS **"
+	}
+	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
+	{
+		"default"		"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
+	}
+	"** THE POSITION IS LOST ** RETREAT **"
+	{
+		"default"		"** THE POSITION IS LOST ** RETREAT **"
+	}
+	"** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
+	{
+		"default"		"** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
+	}
+	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
+	{
+		"default"		"** DEFEND THIS PLACE FOR 70 SECONDS! **"
+	}
+}

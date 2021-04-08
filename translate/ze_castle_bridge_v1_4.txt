@@ -1,0 +1,39 @@
+"Chat"
+{
+	"Map by Frenchy"
+	{
+		"default"		"Map by Frenchy"
+	}
+	"Special thanks for scripts Kotya"
+	{
+		"default"		"Special thanks for scripts Kotya"
+	}
+	"Special thanks for particles liroy"
+	{
+		"default"		"Special thanks for particles liroy"
+	}
+	"***THE GATES WILL OPEN IN 20 SECOND***"
+	{
+		"default"		"***THE GATES WILL OPEN IN 20 SECOND***"
+	}
+	"***THE DOORS OF FIRST CASTLE WILL OPEN IN 30 SECOND***"
+	{
+		"default"		"***THE DOORS OF FIRST CASTLE WILL OPEN IN 30 SECOND***"
+	}
+	"AFK TELEPORT IN 10 SECOND"
+	{
+		"default"		"AFK TELEPORT IN 10 SECOND"
+	}
+	"***THE DOORS WILL OPEN IN 25 SECOND***"
+	{
+		"default"		"***THE DOORS WILL OPEN IN 25 SECOND***"
+	}
+	"***THE PLATFORM WILL LEAVE IN 30 SECOND***"
+	{
+		"default"		"***THE PLATFORM WILL LEAVE IN 30 SECOND***"
+	}
+	"AFK TELEPORT IN 15 SECOND"
+	{
+		"default"		"AFK TELEPORT IN 15 SECOND"
+	}
+}

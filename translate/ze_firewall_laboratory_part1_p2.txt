@@ -1,0 +1,142 @@
+"Chat"
+{
+	"Map by FW -=LightningZLaser=-"
+	{
+		"default"		"Map by FW -=LightningZLaser=-"
+	}
+	"www.FireWaLLCS.net"
+	{
+		"forums"
+		{
+			"default"		"www.FireWaLLCS.net/forums"
+		}
+	}
+	"Door opening in 15 seconds..."
+	{
+		"default"		"Door opening in 15 seconds..."
+	}
+	"Door opening in 5 seconds..."
+	{
+		"default"		"Door opening in 5 seconds..."
+	}
+	"Gate opening in 15 seconds..."
+	{
+		"default"		"Gate opening in 15 seconds..."
+	}
+	"Heaven Teleporter generators initiating..."
+	{
+		"default"		"Heaven Teleporter generators initiating..."
+	}
+	"Gate opening in 5 seconds..."
+	{
+		"default"		"Gate opening in 5 seconds..."
+	}
+	"Notice! <Insert Player Name Here> is going to heaven!"
+	{
+		"default"		"Notice! <Insert Player Name Here> is going to heaven!"
+	}
+	"Doors to Test Laboratory G opening in 15 seconds."
+	{
+		"default"		"Doors to Test Laboratory G opening in 15 seconds."
+	}
+	"Doors to Test Laboratory G opening in 5 seconds."
+	{
+		"default"		"Doors to Test Laboratory G opening in 5 seconds."
+	}
+	"Doors to Test Laboratory G has opened!"
+	{
+		"default"		"Doors to Test Laboratory G has opened!"
+	}
+	"Zombies detected! Gate will re-open in 5 seconds."
+	{
+		"default"		"Zombies detected! Gate will re-open in 5 seconds."
+	}
+	"Panel Walk has been activated. Doors will open in 20 seconds."
+	{
+		"default"		"Panel Walk has been activated. Doors will open in 20 seconds."
+	}
+	"Doors opening in 10 seconds."
+	{
+		"default"		"Doors opening in 10 seconds."
+	}
+	"Zombies are blocked for 10 seconds!"
+	{
+		"default"		"Zombies are blocked for 10 seconds!"
+	}
+	"Panel Walk retracting..."
+	{
+		"default"		"Panel Walk retracting..."
+	}
+	"[TIP] Use your head to go across the Headclimber!"
+	{
+		"default"		"[TIP] Use your head to go across the Headclimber!"
+	}
+	"Panels retracting in 7 seconds."
+	{
+		"default"		"Panels retracting in 7 seconds."
+	}
+	"[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!"
+	{
+		"default"		"[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!"
+	}
+	"Cable Car leaving in 5 seconds!"
+	{
+		"default"		"Cable Car leaving in 5 seconds!"
+	}
+	"Activate the self-destruction sequence in the emergency room!"
+	{
+		"default"		"Activate the self-destruction sequence in the emergency room!"
+	}
+	"WARNING! Facility emergency self-destruction sequence activated."
+	{
+		"default"		"WARNING! Facility emergency self-destruction sequence activated."
+	}
+	"===100 seconds remaining to detonation==="
+	{
+		"default"		"===100 seconds remaining to detonation==="
+	}
+	"===90 seconds remaining to detonation==="
+	{
+		"default"		"===90 seconds remaining to detonation==="
+	}
+	"===80 seconds remaining to detonation==="
+	{
+		"default"		"===80 seconds remaining to detonation==="
+	}
+	"===70 seconds remaining to detonation==="
+	{
+		"default"		"===70 seconds remaining to detonation==="
+	}
+	"===60 seconds remaining to detonation==="
+	{
+		"default"		"===60 seconds remaining to detonation==="
+	}
+	"===50 seconds remaining to detonation==="
+	{
+		"default"		"===50 seconds remaining to detonation==="
+	}
+	"===40 seconds remaining to detonation==="
+	{
+		"default"		"===40 seconds remaining to detonation==="
+	}
+	"WARNING===30 seconds remaining to detonation==="
+	{
+		"default"		"WARNING===30 seconds remaining to detonation==="
+	}
+	"WARNING===20 seconds remaining to detonation==="
+	{
+		"default"		"WARNING===20 seconds remaining to detonation==="
+	}
+	"WARNING===10 seconds remaining to detonation==="
+	{
+		"default"		"WARNING===10 seconds remaining to detonation==="
+	}
+	"WARNING- BLAST DOORS CLOSING"
+	{
+		"default"		"WARNING- BLAST DOORS CLOSING"
+	}
+	"EMERGENCY WARNING===5 seconds remaining to detonation==="
+	{
+		"default"		"EMERGENCY WARNING===5 seconds remaining to detonation==="
+	}
+}

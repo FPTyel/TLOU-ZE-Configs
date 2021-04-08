@@ -1,0 +1,59 @@
+"Chat"
+{
+	"### MAP CREATED BY CISNEROS ###"
+	{
+		"default"		"### MAP CREATED BY CISNEROS ###"
+	}
+	"### WELCOME TO ARTIKA BASE ###"
+	{
+		"default"		"### WELCOME TO ARTIKA BASE ###"
+	}
+	"### Objetive: Run for your life ###"
+	{
+		"default"		"### Objetive: Run for your life ###"
+	}
+	"### The elevator will leave in 25 seconds ###"
+	{
+		"default"		"### The elevator will leave in 25 seconds ###"
+	}
+	"### The door will open soon ###"
+	{
+		"default"		"### The door will open soon ###"
+	}
+	"### The door will open in 10 seconds ###"
+	{
+		"default"		"### The door will open in 10 seconds ###"
+	}
+	"### The elevator will leave in 15 sec ###"
+	{
+		"default"		"### The elevator will leave in 15 sec ###"
+	}
+	"### The door will open in 25 seconds ###"
+	{
+		"default"		"### The door will open in 25 seconds ###"
+	}
+	"### Hold this position ###"
+	{
+		"default"		"### Hold this position ###"
+	}
+	"### The door will open soon###"
+	{
+		"default"		"### The door will open soon###"
+	}
+	"### The door is open ###"
+	{
+		"default"		"### The door is open ###"
+	}
+	"### The door will open in 40 seconds ###"
+	{
+		"default"		"### The door will open in 40 seconds ###"
+	}
+	"### Hold this position! ###"
+	{
+		"default"		"### Hold this position! ###"
+	}
+	"### The door will open in 5 seconds ###"
+	{
+		"default"		"### The door will open in 5 seconds ###"
+	}
+}

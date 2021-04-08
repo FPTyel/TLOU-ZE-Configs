@@ -1,0 +1,188 @@
+"Chat"
+{
+	"MAP BY FRENCHY "
+	{
+		"default"		"MAP BY FRENCHY "
+	}
+	"Special thanks "
+	{
+		"Ice"
+		{
+			"Storm"
+			{
+				" for particles"
+				{
+					"default"		"Special thanks /Ice/Storm/ for particles"
+				}
+			}
+		}
+	}
+	"[STAGE 1 NORMAL]"
+	{
+		"default"		"[STAGE 1 NORMAL]"
+	}
+	"** A player has learned Ammo. **"
+	{
+		"default"		"** A player has learned Ammo. **"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"default"		"** A player has learned Heal magick. **"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"default"		"** A player has learned Electro magick. **"
+	}
+	"** A player has learned Mine. **"
+	{
+		"default"		"** A player has learned Mine. **"
+	}
+	"** A player has learned Stopper magick. **"
+	{
+		"default"		"** A player has learned Stopper magick. **"
+	}
+	"THE MAIN DOOR OPENS IN 35 SECONDS"
+	{
+		"default"		"THE MAIN DOOR OPENS IN 35 SECONDS"
+	}
+	"THE MAIN DOOR OPENS IN 5 SECONDS"
+	{
+		"default"		"THE MAIN DOOR OPENS IN 5 SECONDS"
+	}
+	"AFK TELEPORT IN 10 SECOND"
+	{
+		"default"		"AFK TELEPORT IN 10 SECOND"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"default"		"** A player has learned Fire magick. **"
+	}
+	"THE DOOR OPEN IN 25 SECOND"
+	{
+		"default"		"THE DOOR OPEN IN 25 SECOND"
+	}
+	"THE DOOR OPEN IN 5 SECOND"
+	{
+		"default"		"THE DOOR OPEN IN 5 SECOND"
+	}
+	"THE ELEVATOR WILL LEAVE IN 30 SECONDS"
+	{
+		"default"		"THE ELEVATOR WILL LEAVE IN 30 SECONDS"
+	}
+	"THE ELEVATOR WILL LEAVE IN 5 SECONDS"
+	{
+		"default"		"THE ELEVATOR WILL LEAVE IN 5 SECONDS"
+	}
+	"THE DOOR WILL OPEN IN 25 SECONDS"
+	{
+		"default"		"THE DOOR WILL OPEN IN 25 SECONDS"
+	}
+	"THE DOOR WILL OPEN IN 5 SECONDS"
+	{
+		"default"		"THE DOOR WILL OPEN IN 5 SECONDS"
+	}
+	"THE WALL WILL BREAK IN 20 SECONDS"
+	{
+		"default"		"THE WALL WILL BREAK IN 20 SECONDS"
+	}
+	"THE WALL WILL BREAK IN 5 SECONDS"
+	{
+		"default"		"THE WALL WILL BREAK IN 5 SECONDS"
+	}
+	"THE DOOR TO THE BOSS WILL OPEN IN 30 SECONDS"
+	{
+		"default"		"THE DOOR TO THE BOSS WILL OPEN IN 30 SECONDS"
+	}
+	"THE DOOR TO THE BOSS WILL OPEN IN 5 SECONDS"
+	{
+		"default"		"THE DOOR TO THE BOSS WILL OPEN IN 5 SECONDS"
+	}
+	"Boss fight in 10 second"
+	{
+		"default"		"BOSS FIGHT IN 10 SECOND"
+	}
+	"SHOOT THE BOSS!!!"
+	{
+		"default"		"SHOOT THE BOSS!!!"
+	}
+	"BOSS IS DEAD"
+	{
+		"default"		"BOSS IS DEAD"
+	}
+	"LOCKS WILL OPEN IN 25 SECONDS"
+	{
+		"default"		"LOCKS WILL OPEN IN 25 SECONDS"
+	}
+	"LOCKS WILL OPEN IN 5 SECONDS"
+	{
+		"default"		"LOCKS WILL OPEN IN 5 SECONDS"
+	}
+	"THE LAST DOOR WILL OPEN IN 30 SECONDS"
+	{
+		"default"		"THE LAST DOOR WILL OPEN IN 30 SECONDS"
+	}
+	"THE LAST DOOR WILL OPEN IN 5 SECONDS"
+	{
+		"default"		"THE LAST DOOR WILL OPEN IN 5 SECONDS"
+	}
+	"THE PLATFORM WILL BREAK IN 20 SECONDS"
+	{
+		"default"		"THE PLATFORM WILL BREAK IN 20 SECONDS"
+	}
+	"THE PLATFORM WILL BREAK IN 5 SECONDS"
+	{
+		"default"		"THE PLATFORM WILL BREAK IN 5 SECONDS"
+	}
+	">> Kill The Remaining Zombie! <<"
+	{
+		"default"		">> Kill The Remaining Zombie! <<"
+	}
+	"[STAGE 2 NORMAL]"
+	{
+		"default"		"[STAGE 2 NORMAL]"
+	}
+	"THE DOORS WILL OPEN IN 25 SECONDS"
+	{
+		"default"		"THE DOORS WILL OPEN IN 25 SECONDS"
+	}
+	"THE DOORS WILL OPEN IN 5 SECONDS"
+	{
+		"default"		"THE DOORS WILL OPEN IN 5 SECONDS"
+	}
+	"THE DOORS WILL OPEN IN 20 SECONDS"
+	{
+		"default"		"THE DOORS WILL OPEN IN 20 SECONDS"
+	}
+	"THE DOORS WILL OPEN IN 30 SECONDS"
+	{
+		"default"		"THE DOORS WILL OPEN IN 30 SECONDS"
+	}
+	"THE DOOR TO BOSS WILL OPEN IN 30 SECONDS"
+	{
+		"default"		"THE DOOR TO BOSS WILL OPEN IN 30 SECONDS"
+	}
+	"THE DOOR TO BOSS WILL OPEN IN 5 SECONDS"
+	{
+		"default"		"THE DOOR TO BOSS WILL OPEN IN 5 SECONDS"
+	}
+	"BOSS FIGHT "
+	{
+		"default"		"BOSS FIGHT "
+	}
+	"THE PLATFORM WILL GO  IN 30 SECONDS"
+	{
+		"default"		"THE PLATFORM WILL GO  IN 30 SECONDS"
+	}
+	"THE PLATFORM WILL GO IN 5 SECONDS"
+	{
+		"default"		"THE PLATFORM WILL GO IN 5 SECONDS"
+	}
+	"[STAGE 3 NORMAL]"
+	{
+		"default"		"[STAGE 3 NORMAL]"
+	}
+	"THE DOOR WILL OPEN IN 30 SECONDS"
+	{
+		"default"		"THE DOOR WILL OPEN IN 30 SECONDS"
+	}
+}

@@ -1,0 +1,55 @@
+"Chat"
+{
+	"***Map by Butterknife***"
+	{
+		"default"		"***Map by Butterknife***"
+	}
+	"***Port by Shadows (STEAM_0:0:39287876)***"
+	{
+		"default"		"***Port by Shadows (STEAM_0:0:39287876)***"
+	}
+	"***Try to escape from island***"
+	{
+		"default"		"***Try to escape from island***"
+	}
+	"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
+	{
+		"default"		"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
+	}
+	"** Mobile Command Center sunk! **"
+	{
+		"default"		"** Mobile Command Center sunk! **"
+	}
+	"***Defend here 45 seconds!***"
+	{
+		"default"		"***Defend here 45 seconds!***"
+	}
+	"***Go to the power station!***"
+	{
+		"default"		"***Go to the power station!***"
+	}
+	"** Raptor nest disturbed! **"
+	{
+		"default"		"** Raptor nest disturbed! **"
+	}
+	"** There's no power. We're screwed! **"
+	{
+		"default"		"** There's no power. We're screwed! **"
+	}
+	"** Power has been restored to Isla Sorna **"
+	{
+		"default"		"** Power has been restored to Isla Sorna **"
+	}
+	"** Satellite link established. Phone access enabled. **"
+	{
+		"default"		"** Satellite link established. Phone access enabled. **"
+	}
+	"** V-22 en route from the USS Essex. ETA is 60 seconds. **"
+	{
+		"default"		"** V-22 en route from the USS Essex. ETA is 60 seconds. **"
+	}
+	"** Nerve gas released **"
+	{
+		"default"		"** Nerve gas released **"
+	}
+}

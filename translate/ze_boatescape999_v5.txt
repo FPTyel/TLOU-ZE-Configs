@@ -1,0 +1,87 @@
+"Chat"
+{
+	"**Baka!!!**"
+	{
+		"default"		"**Baka!!!**"
+	}
+	"**Secret Mode**"
+	{
+		"default"		"**Secret Mode**"
+	}
+	"**Secret Mode: Super Run**"
+	{
+		"default"		"**Secret Mode: Super Run**"
+	}
+	"**Laser Mode has turned on**"
+	{
+		"default"		"**Laser Mode has turned on**"
+	}
+	"**Mode : Tilex Laser**"
+	{
+		"default"		"**Mode : Tilex Laser**"
+	}
+	"**Bahamut Casted Ultima**"
+	{
+		"default"		"**Bahamut Casted Ultima**"
+	}
+	"**Wait 10 seconds**"
+	{
+		"default"		"**Wait 10 seconds**"
+	}
+	"**Scooter will leave in 5 seconds**"
+	{
+		"default"		"**Scooter will leave in 5 seconds**"
+	}
+	"**Door will close in 15 seconds**"
+	{
+		"default"		"**Door will close in 15 seconds**"
+	}
+	"**Boat leave in 30 seconds**"
+	{
+		"default"		"**Boat leave in 30 seconds**"
+	}
+	"**Airboat leave in 32 seconds**"
+	{
+		"default"		"**Airboat leave in 32 seconds**"
+	}
+	"**Mode : Final Laser**"
+	{
+		"default"		"**Mode : Final Laser**"
+	}
+	"**Door will close in 10 seconds**"
+	{
+		"default"		"**Door will close in 10 seconds**"
+	}
+	"**All grenades will kill in 20 seconds**"
+	{
+		"default"		"**All grenades will kill in 20 seconds**"
+	}
+	"**Zombies will be teleported in 30 seconds**"
+	{
+		"default"		"**Zombies will be teleported in 30 seconds**"
+	}
+	"**Go! Go! Go!**"
+	{
+		"default"		"**Go! Go! Go!**"
+	}
+	"**Mode : Final Laser and Laser**"
+	{
+		"default"		"**Mode : Final Laser and Laser**"
+	}
+	"**Boat will leave in 30 seconds**"
+	{
+		"default"		"**Boat will leave in 30 seconds**"
+	}
+	"**Airboat will leave in 30 seconds**"
+	{
+		"default"		"**Airboat will leave in 30 seconds**"
+	}
+	"**Mode : Laser or Beam**"
+	{
+		"default"		"**Mode : Laser or Beam**"
+	}
+	"**Nuke in 10 seconds**"
+	{
+		"default"		"**Nuke in 10 seconds**"
+	}
+}

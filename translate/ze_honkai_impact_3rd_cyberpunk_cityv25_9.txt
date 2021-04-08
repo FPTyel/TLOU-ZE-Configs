@@ -1,0 +1,191 @@
+"Chat"
+{
+	">>> MAP TRANSLATED BY KOEN <<<"
+	{
+		"default"		">>> MAP TRANSLATED BY KOEN <<<"
+	}
+	">>> STRIPPER VERSION: #3.0 (3.15.2021) <<<"
+	{
+		"default"		">>> STRIPPER VERSION: #3.0 (3.15.2021) <<<"
+	}
+	"** Research from Helipolis Life Sciences lab obtained! Retreat immediately! **"
+	{
+		"default"		"** Research from Helipolis Life Sciences lab obtained! Retreat immediately! **"
+	}
+	"[CAPTAIN] How do you guys cause  trouble for getting research?"
+	{
+		"default"		"[CAPTAIN] How do you guys cause  trouble for getting research?"
+	}
+	"** But the monsters started to appear when we retreated! **"
+	{
+		"default"		"** But the monsters started to appear when we retreated! **"
+	}
+	"[CAPTAIN] Go activated the landing lights since the guidance system is broken **"
+	{
+		"default"		"[CAPTAIN] Go activated the landing lights since the guidance system is broken **"
+	}
+	"** But there are lots of monsters out there! **"
+	{
+		"default"		"** But there are lots of monsters out there! **"
+	}
+	"[CAPTAIN] Trigger the switch at the side of the building and you get 4x the reward"
+	{
+		"default"		"[CAPTAIN] Trigger the switch at the side of the building and you get 4x the reward"
+	}
+	"[CAPTAIN] But don't get yourself caught by security"
+	{
+		"default"		"[CAPTAIN] But don't get yourself caught by security"
+	}
+	"** 5s left until we crack the defense system! **"
+	{
+		"default"		"** 5s left until we crack the defense system! **"
+	}
+	"** 10s left until we crack the defense system! **"
+	{
+		"default"		"** 10s left until we crack the defense system! **"
+	}
+	"** Delta has been picked up - Slows zombies down **"
+	{
+		"default"		"** Delta has been picked up - Slows zombies down **"
+	}
+	"** Connecting to internet in 5s! Get ready to fall back! **"
+	{
+		"default"		"** Connecting to internet in 5s! Get ready to fall back! **"
+	}
+	"** Yae Sakura has been picked up - heals humans **"
+	{
+		"default"		"** Yae Sakura has been picked up - heals humans **"
+	}
+	"** She doesn't seem like a healer... but rather a warrior... **"
+	{
+		"default"		"** She doesn't seem like a healer... but rather a warrior... **"
+	}
+	"<<WARNING>> Monsters coming up from below! Defend!"
+	{
+		"default"		"<<WARNING>> Monsters coming up from below! Defend!"
+	}
+	"** 10s left before we get security access! Keep defending! **"
+	{
+		"default"		"** 10s left before we get security access! Keep defending! **"
+	}
+	"** Access granted! Activating the nighttime landing system! **"
+	{
+		"default"		"** Access granted! Activating the nighttime landing system! **"
+	}
+	"** Nighttime landing system activated successfully! **"
+	{
+		"default"		"** Nighttime landing system activated successfully! **"
+	}
+	"** Get on the landing pad quickly!"
+	{
+		"default"		"** Get on the landing pad quickly!"
+	}
+	"** WTF are you doing?!! **"
+	{
+		"default"		"** WTF are you doing?!! **"
+	}
+	"[CAPTAIN] You guys caused so much trouble for me!"
+	{
+		"default"		"[CAPTAIN] You guys caused so much trouble for me!"
+	}
+	"[CAPTAIN] If you guys survive the monsters... I'll end up taking the blame!!!"
+	{
+		"default"		"[CAPTAIN] If you guys survive the monsters... I'll end up taking the blame!!!"
+	}
+	"[CAPTAIN] So I've decided to just kill you guys to avoid the blame!!!"
+	{
+		"default"		"[CAPTAIN] So I've decided to just kill you guys to avoid the blame!!!"
+	}
+	"** Maybe the broken landing system wasn't such a bad thing... **"
+	{
+		"default"		"** Maybe the broken landing system wasn't such a bad thing... **"
+	}
+	"** We have no choice but to go down this path **"
+	{
+		"default"		"** We have no choice but to go down this path **"
+	}
+	"** Is this Arc City police? We are trapped and in need of assistance! **"
+	{
+		"default"		"** Is this Arc City police? We are trapped and in need of assistance! **"
+	}
+	"[ARC CITY POLICE] We cannot offer assistance due to monsters attacking the city **"
+	{
+		"default"		"[ARC CITY POLICE] We cannot offer assistance due to monsters attacking the city **"
+	}
+	"** But our lives are just as important as those you are protecting! **"
+	{
+		"default"		"** But our lives are just as important as those you are protecting! **"
+	}
+	"[ARC CITY POLICE] There are other people more important to protect **"
+	{
+		"default"		"[ARC CITY POLICE] There are other people more important to protect **"
+	}
+	"** WTF?!! **"
+	{
+		"default"		"** WTF?!! **"
+	}
+	"[ARC CITY POLICE] We can help you if you get the 3 missing documents **"
+	{
+		"default"		"[ARC CITY POLICE] We can help you if you get the 3 missing documents **"
+	}
+	"** That sounds fine to us! Let's go! **"
+	{
+		"default"		"** That sounds fine to us! Let's go! **"
+	}
+	"[ARC CITY POLICE] The three documents are located on the roof of the building under the bridge... **"
+	{
+		"default"		"[ARC CITY POLICE] The three documents are located on the roof of the building under the bridge... **"
+	}
+	"[ARC CITY POLICE] in Old Wang's Restaurant in the storage room on red floor... **"
+	{
+		"default"		"[ARC CITY POLICE] in Old Wang's Restaurant in the storage room on red floor... **"
+	}
+	"[ARC CITY POLICE] and on the roof of the other building **"
+	{
+		"default"		"[ARC CITY POLICE] and on the roof of the other building **"
+	}
+	"** Rita has been picked up - Freezes zombies + Speedboost for Humans **"
+	{
+		"default"		"** Rita has been picked up - Freezes zombies + Speedboost for Humans **"
+	}
+	"[ARC CITY POLICE] Remember: the land lords like to hide the keys to the building in corners... **"
+	{
+		"default"		"[ARC CITY POLICE] Remember: the land lords like to hide the keys to the building in corners... **"
+	}
+	"** She was hunted by the lab and nearly killed..."
+	{
+		"default"		"** She was hunted by the lab and nearly killed..."
+	}
+	"** Since Heliopolis Life Sciences lab is destroyed, it's fine if we take her with us **"
+	{
+		"default"		"** Since Heliopolis Life Sciences lab is destroyed, it's fine if we take her with us **"
+	}
+	"** This wave of monsters are dead! Let's continue looking for the documents **"
+	{
+		"default"		"** This wave of monsters are dead! Let's continue looking for the documents **"
+	}
+	"** Increasing motor output one last time! **6"
+	{
+		"default"		"** Increasing motor output one last time! **6"
+	}
+	"** 1st Document Retrieved! **"
+	{
+		"default"		"** 1st Document Retrieved! **"
+	}
+	"** Damn! The motor is stuck! **"
+	{
+		"default"		"** Damn! The motor is stuck! **"
+	}
+	"** We're lucky that the ladder came down in time! **"
+	{
+		"default"		"** We're lucky that the ladder came down in time! **"
+	}
+	"** Opening the steel shutter door **"
+	{
+		"default"		"** Opening the steel shutter door **"
+	}
+	"** Door is open! Quickly retreat!"
+	{
+		"default"		"** Door is open! Quickly retreat!"
+	}
+}

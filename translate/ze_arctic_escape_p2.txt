@@ -1,0 +1,23 @@
+"Chat"
+{
+	"***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****"
+	{
+		"default"		"***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****"
+	}
+	"***** Escape Boat 3 Is Leaving in 10 Seconds *****"
+	{
+		"default"		"***** Escape Boat 3 Is Leaving in 10 Seconds *****"
+	}
+	"***** The Oil Rig Has Been Reached *****"
+	{
+		"default"		"***** The Oil Rig Has Been Reached *****"
+	}
+	"***** Nuke Squad Will Arrive in 90 Seconds *****"
+	{
+		"default"		"***** Nuke Squad Will Arrive in 90 Seconds *****"
+	}
+	"***** Nuke Squad Is Here *****"
+	{
+		"default"		"***** Nuke Squad Is Here *****"
+	}
+}

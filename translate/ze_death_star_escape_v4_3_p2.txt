@@ -1,0 +1,103 @@
+"Chat"
+{
+	"Testers: Fuu Belafarinrod Senne Teddy"
+	{
+		"default"		"Testers: Fuu Belafarinrod Senne Teddy"
+	}
+	">>>Zombies detected ! Try to escape from Death-Star<<<"
+	{
+		"default"		">>>Zombies detected ! Try to escape from Death-Star<<<"
+	}
+	">>>Map created by FreeZe<<<"
+	{
+		"default"		">>>Map created by FreeZe<<<"
+	}
+	">>>Right-Elevator leaving in 10 seconds<<<"
+	{
+		"default"		">>>Right-Elevator leaving in 10 seconds<<<"
+	}
+	">>>Left-Elevator unlocked<<<"
+	{
+		"default"		">>>Left-Elevator unlocked<<<"
+	}
+	">>>Left-Elevator leaving in 10 seconds<<<"
+	{
+		"default"		">>>Left-Elevator leaving in 10 seconds<<<"
+	}
+	">>>60 seconds until vacuum in Spawn Sections<<<"
+	{
+		"default"		">>>60 seconds until vacuum in Spawn Sections<<<"
+	}
+	">>>Lightbridge deactivating in 8 sec<<<"
+	{
+		"default"		">>>Lightbridge deactivating in 8 sec<<<"
+	}
+	">>>Door opening in 10 seconds<<<"
+	{
+		"default"		">>>Door opening in 10 seconds<<<"
+	}
+	">>>DOOR OPENING IN 5 SECONDS<<<"
+	{
+		"default"		">>>DOOR OPENING IN 5 SECONDS<<<"
+	}
+	">>>30 seconds until vacuum<<<"
+	{
+		"default"		">>>30 seconds until vacuum<<<"
+	}
+	">>>Hold the cantina 25 seconds<<<"
+	{
+		"default"		">>>Hold the cantina 25 seconds<<<"
+	}
+	">>>Spawn Sections losing air...vacuum in 10 seconds<<<"
+	{
+		"default"		">>>Spawn Sections losing air...vacuum in 10 seconds<<<"
+	}
+	">>>Generator section losing air...vacuum in 10 seconds"
+	{
+		"default"		">>>Generator section losing air...vacuum in 10 seconds"
+	}
+	">>>10 seconds left<<<"
+	{
+		"default"		">>>10 seconds left<<<"
+	}
+	">>>Left-Lock closing in 5 seconds<<<"
+	{
+		"default"		">>>Left-Lock closing in 5 seconds<<<"
+	}
+	">>>Right-Lock closing in 5 seconds<<<"
+	{
+		"default"		">>>Right-Lock closing in 5 seconds<<<"
+	}
+	">>>HOLD THE LOCK 30 SECONDS<<<"
+	{
+		"default"		">>>HOLD THE LOCK 30 SECONDS<<<"
+	}
+	">>>Inner areas being cleaned in 10 seconds<<<"
+	{
+		"default"		">>>Inner areas being cleaned in 10 seconds<<<"
+	}
+	">>>Lambda-shuttle departing in 15 seconds<<<"
+	{
+		"default"		">>>Lambda-shuttle departing in 15 seconds<<<"
+	}
+	">>>!3!<<<"
+	{
+		"default"		">>>!3!<<<"
+	}
+	">>>!2!<<<"
+	{
+		"default"		">>>!2!<<<"
+	}
+	">>>!1!<<<"
+	{
+		"default"		">>>!1!<<<"
+	}
+	">>>RAMP CLOSING<<<"
+	{
+		"default"		">>>RAMP CLOSING<<<"
+	}
+	">>>DEATH-STAR EXPLODING IN 5 SECONDS<<<"
+	{
+		"default"		">>>DEATH-STAR EXPLODING IN 5 SECONDS<<<"
+	}
+}

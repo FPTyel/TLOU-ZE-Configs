@@ -1,0 +1,139 @@
+"Chat"
+{
+	"**ZE_BIOHAZARD3_NEMESIS**"
+	{
+		"default"		"**ZE_BIOHAZARD3_NEMESIS**"
+	}
+	"**Map by Roku**"
+	{
+		"default"		"**Map by Roku**"
+	}
+	"**CS GO remake by HaRyDe and Headsh**"
+	{
+		"default"		"**CS GO remake by HaRyDe and Headsh**"
+	}
+	"**NORMAL MODE**"
+	{
+		"default"		"**NORMAL MODE**"
+	}
+	"**The game will start in a few seconds. Once the metal door opens..**"
+	{
+		"default"		"**The game will start in a few seconds. Once the metal door opens..**"
+	}
+	"**So let's start..**"
+	{
+		"default"		"**So let's start..**"
+	}
+	"**Doors will open in 5 seconds**"
+	{
+		"default"		"**Doors will open in 5 seconds**"
+	}
+	"**RPD doors will open in 5 seconds**"
+	{
+		"default"		"**RPD doors will open in 5 seconds**"
+	}
+	"**Fall back**"
+	{
+		"default"		"**FALL BACK**"
+	}
+	"**Hell the city turned into total chaos**"
+	{
+		"default"		"**Hell the city turned into total chaos**"
+	}
+	"**The shortest way to the train station is blocked**"
+	{
+		"default"		"**The shortest way to the train station is blocked**"
+	}
+	"**We must try to get to the city hall**"
+	{
+		"default"		"**We must try to get to the city hall**"
+	}
+	"**Door will open in 15 seconds**"
+	{
+		"default"		"**Door will open in 15 seconds**"
+	}
+	"**Second door will open in 20 seconds**"
+	{
+		"default"		"**Second door will open in 20 seconds**"
+	}
+	"**RPD doors will open in 20 seconds**"
+	{
+		"default"		"**RPD doors will open in 20 seconds**"
+	}
+	"**Doors will open in 8 seconds**"
+	{
+		"default"		"**Doors will open in 8 seconds**"
+	}
+	"**Defend here for 10 seconds**"
+	{
+		"default"		"**Defend here for 10 seconds**"
+	}
+	"**The wrench was picked up**"
+	{
+		"default"		"**The wrench was picked up**"
+	}
+	"**Parking doors will open in 15 seconds**"
+	{
+		"default"		"**Parking doors will open in 15 seconds**"
+	}
+	"**It seems another way blocked**"
+	{
+		"default"		"**It seems another way blocked**"
+	}
+	"**We can try to go through the parking**"
+	{
+		"default"		"**We can try to go through the parking**"
+	}
+	"**The blue crystal was picked up**"
+	{
+		"default"		"**The blue crystal was picked up**"
+	}
+	"**Defend here for 15 seconds**"
+	{
+		"default"		"**Defend here for 15 seconds**"
+	}
+	"**This is the crystal from the city hall entrance**"
+	{
+		"default"		"**This is the crystal from the city hall entrance**"
+	}
+	"**But what is that doing here?**"
+	{
+		"default"		"**But what is that doing here?**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"default"		"**5 SECONDS LEFT**"
+	}
+	"***The medkit was picked up***"
+	{
+		"default"		"***The medkit was picked up***"
+	}
+	"**Looks like this door can be opened by a fuse**"
+	{
+		"default"		"**Looks like this door can be opened by a fuse**"
+	}
+	"**Maybe we can get one at the power station**"
+	{
+		"default"		"**Maybe we can get one at the power station**"
+	}
+	"**The remote control of the doors was repaired**"
+	{
+		"default"		"**The remote control of the doors was repaired**"
+	}
+	"**Doors will open in 15 seconds**"
+	{
+		"default"		"**Doors will open in 15 seconds**"
+	}
+	"**A player has picked up the Flamethrower**"
+	{
+		"default"		"**A player has picked up the Flamethrower**"
+	}
+	"**Defend until we not find the fuse**"
+	{
+		"default"		"**Defend until we not find the fuse**"
+	}
+	"**The storage door will open soon**"
+	{
+		"default"		"**The storage door will open soon**"
+	}
+}
