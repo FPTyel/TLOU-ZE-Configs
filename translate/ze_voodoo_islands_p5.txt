@@ -3,97 +3,121 @@
 	"***Defend this island for 1.5 minutes***"
 	{
 		"default"		"***Defend this island for 1.5 minutes***"
+		"ru"			"***Защищайтесь на этом острове 1.5 минуты***"
 	}
 	"***10 seconds till gates will open. prepare to run***"
 	{
 		"default"		"***10 seconds till gates will open. prepare to run***"
+		"ru"                    "***10 секунд до открытия дверей. Готовьтесь бежать***"
 	}
 	"***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***"
 	{
 		"default"		"***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***"
+		"ru"                    "***Двери открыты и зомби заперты на 25 секунд. БЕГИТЕ***"
 	}
 	"***boat leaves in 8 seconds***"
 	{
 		"default"		"***boat leaves in 8 seconds***"
+		"ru"                    "***Лодка отправляется через 8 секунд***"
 	}
 	"*** boat has taken off***"
 	{
 		"default"		"*** boat has taken off***"
+		"ru"                    "*** Лодка уехала***"
 	}
 	"*** well done humans. you survived the first island.***"
 	{
 		"default"		"*** well done humans. you survived the first island.***"
+		"ru"                    "*** Хорошая работа люди. Вы выжили на первом острове***"
 	}
 	"*** now survive this one for another 1.5 minutes and the teleporter to the next island is activated***"
 	{
 		"default"		"*** now survive this one for another 1.5 minutes and the teleporter to the next island is activated***"
+		"ru"                    "*** Теперь выживайте на втором острове следующие 1.5 минуты, чтобы активировать телепорт на следующий остров ***"
 	}
 	"*** 10 seconds left till zombies are trapped. prepare to run to the teleporter***"
 	{
 		"default"		"*** 10 seconds left till zombies are trapped. prepare to run to the teleporter***"
+		"ru"                    "*** 10 секунд до запирания зомби в клетке. Готовьтесь бежать к телепорту***"
 	}
 	"*** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***"
 	{
 		"default"		"*** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***"
+		"ru"                    "*** Зомби задержаны на 25 секунд, телепорт на другой остров активирован. БЕГИТЕ***"
 	}
 	"*** youve made it to the final island.***"
 	{
 		"default"		"*** youve made it to the final island.***"
+		"ru"                    "*** Вы дошли до финального острова***"
 	}
 	"*** survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven***"
 	{
 		"default"		"*** survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven***"
+		"ru"                    "*** Выживайте 1.5 минуты и вуду мастер отправит вас в рай***"
 	}
 	"***voodoo master has created a force field from preventing you from falling off island***"
 	{
 		"default"		"***voodoo master has created a force field from preventing you from falling off island***"
+		"ru"                    "***Вуду мастер создал защитное поле чтобы вы не упали с острова***"
 	}
 	"***10 seconds till escape route opens***"
 	{
 		"default"		"***10 seconds till escape route opens***"
+		"ru"                    "***10 секунд до отправления***"
 	}
 	"***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***"
 	{
 		"default"		"***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***"
+		"ru"                    "***Путь открыт, зомби заперты на 20 секунд. БЕГИТЕ***"
 	}
 	"***floating boxes will activate in 17 seconds***"
 	{
 		"default"		"***floating boxes will activate in 17 seconds***"
+		"ru"                    "***Летающие бочки активируются через 17 секунд***"
 	}
 	"***floating boxes are activated. GOGOGO***"
 	{
 		"default"		"***floating boxes are activated. GOGOGO***"
+		"ru"                    "***Летающие бочки активированы. БЕГИТЕ***"
 	}
 	"*** teleporter activates in 30 seconds!!!***"
 	{
 		"default"		"*** teleporter activates in 30 seconds!!!***"
+		"ru"                    "*** Телепорт активируется через 30 секунд!!!***"
 	}
 	"*** god hates zombies. only humans allowed in heaven***"
 	{
 		"default"		"*** god hates zombies. only humans allowed in heaven***"
+		"ru"                    "*** Бог ненавидит зомби. Только люди смогут попасть в рай***"
 	}
 	"*** teleporter activates in 15 seconds!!!***"
 	{
 		"default"		"*** teleporter activates in 15 seconds!!!***"
+		"ru"                    "*** Телепорт активируется через 15 секунд!!!***"
 	}
 	"*** teleporter activates in 5 seconds!!!***"
 	{
 		"default"		"*** teleporter activates in 5 seconds!!!***"
+		"ru"                    "*** Телепорт активируется через 5 секунд!!!***"
 	}
 	"*** well you made it to heaven. beatiful isnt it?***"
 	{
 		"default"		"*** well you made it to heaven. beatiful isnt it?***"
+		"ru"                    "*** Вы достигли рая. Это ли не прекрасно?***"
 	}
 	"*** take a look around and explore and enjoy your stay***"
 	{
 		"default"		"*** take a look around and explore and enjoy your stay***"
+		"ru"                    "*** Оглянитесь вокруг и наслаждайтесь видом***"
 	}
 	"*** hey wait what is this?***"
 	{
 		"default"		"*** hey wait what is this?***"
+		"ru"                    "*** Что это за звук?...***"
 	}
 	"*** oh shit!!!***"
 	{
 		"default"		"*** oh shit!!!***"
+		"ru"                    "*** Вот дерьмо!!!***"
 	}
 }
