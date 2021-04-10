@@ -3,5 +3,6 @@
 	"***Door opens in 5 seconds***"
 	{
 		"default"		"***Door opens in 5 seconds***"
+		"ru"            	"***Дверь откроется через 5 секунд***"
 	}
 }
