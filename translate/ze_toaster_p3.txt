@@ -3,93 +3,116 @@
 	"***MAP BY - LUFFAREN***"
 	{
 		"default"		"***MAP BY - LUFFAREN***"
+		"ru"            	"***Карта от LUFFAREN***"
 	}
 	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
 		"default"		"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+		"ru"                    "***Не пытайтесь использовать короткие пути (шорткаты) - иначе вы будете телепортированы назад***"
 	}
 	"***FOLLOW THE ARROWS TO AVOID DEAD ENDS***"
 	{
 		"default"		"***FOLLOW THE ARROWS TO AVOID DEAD ENDS***"
+		"ru"                    "***Следуйте за стрелками, чтобы избежать смерти***"
 	}
 	"***LEVER GOING UP IN 5 SECONDS***"
 	{
 		"default"		"***LEVER GOING UP IN 5 SECONDS***"
+		"ru"                    "***Рычаг пойдёт наверх через 5 секунд***"
 	}
 	"***INCOMING TOAST - RIGHT CHAMBER***"
 	{
 		"default"		"***INCOMING TOAST - RIGHT CHAMBER***"
+		"ru"                    "***Жареный хлеб прилетает в ПРАВУЮ комнату***"
 	}
 	"***INCOMING TOAST - LEFT CHAMBER***"
 	{
 		"default"		"***INCOMING TOAST - LEFT CHAMBER***"
+		"ru"                    "***Жареный хлеб прилетает в ЛЕВУЮ комнату***"
 	}
 	"***DOOR OPENING IN 10 SECONDS***"
 	{
 		"default"		"***DOOR OPENING IN 10 SECONDS***"
+		"ru"                    "***Дверь откроется через 10 секунд***"
 	}
 	"***DOOR IS OPEN - FALL BACK***"
 	{
 		"default"		"***DOOR IS OPEN - FALL BACK***"
+		"ru"                    "***Дверь открыта - УХОДИТЕ!***"
 	}
 	"***INCOMING TOAST - BOTH CHAMBERS***"
 	{
 		"default"		"***INCOMING TOAST - BOTH CHAMBERS***"
+		"ru"                    "***Жареный хлеб прилетает в ОБЕ комнаты***"
 	}
 	"***ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
 		"default"		"***ELEVATOR IS LEAVING IN 10 SECONDS***"
+		"ru"                    "***Лифт отправляется через 10 секунд***"
 	}
 	"***ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"default"		"***ELEVATOR IS LEAVING IN 5 SECONDS***"
+		"ru"                    "***Лифт отправляется через 5 секунд***"
 	}
 	"***ELEVATOR IS LEAVING IN 4 SECONDS***"
 	{
 		"default"		"***ELEVATOR IS LEAVING IN 4 SECONDS***"
+		"ru"                    "***Лифт отправляется через 4 секунды***"
 	}
 	"***ELEVATOR IS LEAVING IN 3 SECONDS***"
 	{
 		"default"		"***ELEVATOR IS LEAVING IN 3 SECONDS***"
+		"ru"                    "***Лифт отправляется через 3 секунды***"
 	}
 	"***ELEVATOR IS LEAVING IN 2 SECONDS***"
 	{
 		"default"		"***ELEVATOR IS LEAVING IN 2 SECONDS***"
+		"ru"                    "***Лифт отправляется через 2 секунды***"
 	}
 	"***LAGEVATOR IS LEAVING IN 1 SECOND***"
 	{
 		"default"		"***LAGEVATOR IS LEAVING IN 1 SECOND***"
+		"ru"                    "***Лифт отправляется через 1 секунду***"
 	}
 	"***ELEVATOR IS LEAVING***"
 	{
 		"default"		"***ELEVATOR IS LEAVING***"
+		"ru"                    "***Лифт отправляется прямо сейчас!***"
 	}
 	"***A TOASTER HAS BEEN PICKED UP***"
 	{
 		"default"		"***A TOASTER HAS BEEN PICKED UP***"
+		"ru"                    "***Кто то взял ТОСТЕР***"
 	}
 	"***DOOR OPENING IN 5 SECONDS***"
 	{
 		"default"		"***DOOR OPENING IN 5 SECONDS***"
+		"ru"                    "***Дверь откроется через 5 секунд***"
 	}
 	"***DOOR IS OPEN***"
 	{
 		"default"		"***DOOR IS OPEN***"
+		"ru"                    "***Дверь открыта***"
 	}
 	"***LOCATE AND PRESS ALL FIVE BUTTONS***"
 	{
 		"default"		"***LOCATE AND PRESS ALL FIVE BUTTONS***"
+		"ru"                    "***Найдите и нажмите все 5 кнопок***"
 	}
 	"***INITIATE THE TOASTER***"
 	{
 		"default"		"***INITIATE THE TOASTER***"
+		"ru"                    "***Включаем тостер***"
 	}
 	"***A METAL ASS HAS BEEN PICKED UP***"
 	{
 		"default"		"***A METAL ASS HAS BEEN PICKED UP***"
+		"ru"                    "***Кто то взял МЕТАЛЛИЧЕСКУЮ ЗАДНИЦУ***"
 	}
 	"***DOOR OPENING IN 20 SECONDS***"
 	{
 		"default"		"***DOOR OPENING IN 20 SECONDS***"
+		"ru"                    "***Дверь откроется через 20 секунд***"
 	}
 }
