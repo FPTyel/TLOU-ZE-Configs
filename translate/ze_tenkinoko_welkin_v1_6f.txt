@@ -1,0 +1,471 @@
+"chat"
+{
+	"<Map by lopb>"
+	{
+		"default"		"<Map by lopb>"
+		"ru"		"<Карту сделал lopb, русский перевод сделал memories>"
+	}
+	"< Thanks to GFL for fixing bugs >"
+	{
+		"default"		"< Thanks to GFL for fixing bugs >"
+		"ru"		"< Спасибо GFL за исправление багов на карте >"
+	}
+	"<<< Tips:Recharge item each have 60 energy,which restore 1 energy per second when not in use >>>"
+	{
+		"default"		"<<< Tips:Recharge item each have 60 energy,which restore 1 energy per second when not in use >>>"
+		"ru"		"<<< Подсказки: У предметов с эффектом восстановления всего 60 энергии, они восстанавливают энергию, если не активны >>>"
+	}
+	"<<< Tips:When the energy is exhausted or the user uses the upper part, the recharg item's effect  will be invalid >>>"
+	{
+		"default"		"<<< Tips:When the energy is exhausted or the user uses the upper part, the recharg item's effect  will be invalid >>>"
+		"ru"		"<<< Подсказки: Когда энергия закончилась или владелец предмета нажал на кнопку сверху, то энергия начнет восстанавливаться >>>"
+	}
+	"<<< Tips:Human item 65 seconds CD, recharge item 5 seconds CD, zombie item 70 seconds CD, weather item 80 seconds CD >>>"
+	{
+		"default"		"<<< Tips:Human item 65 seconds CD, recharge item 5 seconds CD, zombie item 70 seconds CD, weather item 80 seconds CD >>>"
+		"ru"		"<<< Подсказки: У обычных предметов за людей перезарядка 65 секунд, за зомби - 70 секунд, а у погодных предметов - 80 секунд >>>"
+	}
+	"<<< Tips:The effect will disappear 4 seconds after FrozenTomb's crystal is crushed >>>"
+	{
+		"default"		"<<< Tips:The effect will disappear 4 seconds after FrozenTomb's crystal is crushed >>>"
+		"ru"		"<<< Подсказки: Заморозка Ледяной Гробницы пропадет через 4 секунды как кристалл сломается >>>"
+		"blockchat"		"1"
+		"blockhud"		"1"
+	}
+	"<<< Tips:FrozenTomb will freeze the zombies around for 9 seconds when uses the upper part >>>"
+	{
+		"default"		"<<< Tips:FrozenTomb will freeze the zombies around for 9 seconds when uses the upper part >>>"
+		"ru"		"<<< Подсказки: Ледяная Гробница заморозит зомби вокруг на 9 секунд, если владелец предмета нажмет на кнопку сверху >>>"
+		"blockchat"		"1"
+		"blockhud"		"1"
+	}
+	"<<< Tips:Both SunnyDoll and Rainbow can heal humans, Rainbow will also provide ammunition supplies >>>"
+	{
+		"default"		"<<< Tips:Both SunnyDoll and Rainbow can heal humans, Rainbow will also provide ammunition supplies >>>"
+		"ru"		"<<< Подсказки: И Солнечная Дева, и Радуга восстанавливают людям здоровье. Радуга также даёт бесконечные патроны >>>"
+	}
+	"<<< Tips:Blizzard will form a storm after 5 seconds, freezing the zombies in the range >>>"
+	{
+		"default"		"<<< Tips:Blizzard will form a storm after 5 seconds, freezing the zombies in the range >>>"
+		"ru"		"<<< Подсказки: Метель сформирует грозу через 5 секунд, замораживая зомби в её радиусе >>>"
+		"blockchat"		"1"
+		"blockhud"		"1"
+	}
+	"<<< Tips:Mist is poisonous, especially in the last 5 seconds >>>"
+	{
+		"default"		"<<< Tips:Mist is poisonous, especially in the last 5 seconds >>>"
+		"ru"		"<<< Подсказки: Туман весьма ядовит, особенно в последние 5 секунд >>>"
+		"blockchat"		"1"
+		"blockhud"		"1"
+	}
+	"<<< Tips:Weather items will only appear under certain circumstances and will lead to different endings. >>>"
+	{
+		"default"		"<<< Tips:Weather items will only appear under certain circumstances and will lead to different endings. >>>"
+		"ru"		"<<< Подсказки: Погодные предметы появятся только при особых обстоятельствах, открывая при этом другую концовку >>>"
+	}
+	"<<< Tips:SunnyDoll will slightly block zombies and clear the weather effect >>>"
+	{
+		"default"		"<<< Tips:SunnyDoll will slightly block zombies and clear the weather effect >>>"
+		"ru"		"<<< Подсказки: Солнечная Дева слегка замедляет зомби и очищает эффект Погодных предметов >>>"
+	}
+	"<<< Tips:Thunderbolt and all recharge item can cause damage to boss >>>"
+	{
+		"default"		"<<< Tips:Thunderbolt and all recharge item can cause damage to boss >>>"
+		"ru"		"<<< Подсказки: Молния и все предметы с эффектом восстановления наносят урон боссу >>>"
+	}
+	"<<< Tips:Weather items will affect both human item and zombie item, please be cautious >>>"
+	{
+		"default"		"<<< Tips:Weather items will affect both human item and zombie item, please be cautious >>>"
+		"ru"		"<<< Подсказки: Погодные предметы влияют на предметы и людей, и зомби, поэтому будьте аккуратны >>>"
+	}
+	"<<< The journey begins, hope you can enjoy >>>"
+	{
+		"default"		"<<< The journey begins, hope you can enjoy >>>"
+		"ru"		"<<< Путешествие начинается, надеюсь, что вам оно понравится! >>>"
+	}
+	"<<< stage SunnyDay >>>"
+	{
+		"default"		"<<< stage SunnyDay >>>"
+		"ru"		"<<< Этап: Солнечный День >>>"
+	}
+	"<<< The road will be cleared in 15 sec >>>"
+	{
+		"default"		"<<< The road will be cleared in 15 sec >>>"
+		"ru"		"<<< Путь откроется через 15 сек >>>"
+	}
+	"<<< ScorchingSun was picked up >>>"
+	{
+		"default"		"<<< ScorchingSun was picked up >>>"
+		"ru"		"<<< Подобрано Жаркое Солнце >>>"
+	}
+	"<<< ScorchingSun charging completed >>>"
+	{
+		"default"		"<<< ScorchingSun charging completed >>>"
+		"ru"		"<<< Энергия Жаркого Солнца восстановлена >>>"
+	}
+	"<<< Rainbow was picked up >>>"
+	{
+		"default"		"<<< Rainbow was picked up >>>"
+		"ru"		"<<< Подобрана Радуга >>>"
+	}
+	"<<< The elevator will descend in 15 sec >>>"
+	{
+		"default"		"<<< The elevator will descend in 15 sec >>>"
+		"ru"		"<<< Лифт опустится через 15 сек >>>"
+	}
+	"<<< Morishima Hodaka picked up the pistol >>>"
+	{
+		"default"		"<<< Morishima Hodaka picked up the pistol >>>"
+		"ru"		"<<< Ходака Морисима подобрал пистолет >>>"
+	}
+	"<<< The stairs in the building are blocked. Fight for 15 seconds. Let's find another way >>>"
+	{
+		"default"		"<<< The stairs in the building are blocked. Fight for 15 seconds. Let's find another way >>>"
+		"ru"		"<<< Лестницу в здании завалило. Обороняйтесь 15 секунд. Поищем другой путь >>>"
+	}
+	"<<< ladder open in 10 sec >>>"
+	{
+		"default"		"<<< ladder open in 10 sec >>>"
+		"ru"		"<<< Лестница откроется через 10 сек >>>"
+	}
+	"<<< We will [cross] the altar to the clouds in 20 sec >>>"
+	{
+		"default"		"<<< We will [cross] the altar to the clouds in 20 sec >>>"
+		"ru"		"<<< Портал на небеса откроется через 20 сек >>>"
+	}
+	"<<< Thunderbolt was picked up >>>"
+	{
+		"default"		"<<< Thunderbolt was picked up >>>"
+		"ru"		"<<< Подобрана Молния >>>"
+	}
+	"<<<[Morishima Hodaka] Is that ... fish ? ... Uhahahahahahah ... >>>"
+	{
+		"default"		"<<<[Morishima Hodaka] Is that ... fish ? ... Uhahahahahahah ... >>>"
+		"ru"		"<<<[Ходака Морисима] Небесная... рыба? А-а-а-а!!! >>>"
+	}
+	"<<< There are 60 sec of leisure time,Will the weather always be like this? >>>"
+	{
+		"default"		"<<< There are 60 sec of leisure time,Will the weather always be like this? >>>"
+		"ru"		"<<< Осталось 60 секунд ясной погоды. Неужели погода испортится навсегда? >>>"
+	}
+	"<<< stage Amano Hina >>>"
+	{
+		"default"		"<<< stage Amano Hina >>>"
+		"ru"		"<<< Этап: Амано Хина >>>"
+	}
+	"<<< The sky has taken Amano Hina, let's bring her back! >>>"
+	{
+		"default"		"<<< The sky has taken Amano Hina, let's bring her back! >>>"
+		"ru"		"<<< Небеса забрали Амано Хину, вернём её назад! >>>"
+	}
+	"<<< The road will be cleared in 20 sec >>>"
+	{
+		"default"		"<<< The road will be cleared in 20 sec >>>"
+		"ru"		"<<< Путь откроется через 20 сек >>>"
+	}
+	"<<< The elevator will descend in 20 sec >>>"
+	{
+		"default"		"<<< The elevator will descend in 20 sec >>>"
+		"ru"		"<<< Лифт опустится через 20 сек >>>"
+	}
+	"<<< Blizzard was picked up >>>"
+	{
+		"default"		"<<< Blizzard was picked up >>>"
+		"ru"		"<<< Подобрана Метель >>>"
+	}
+	"<<< Blizzard charging completed >>>"
+	{
+		"default"		"<<< Blizzard charging completed >>>"
+		"ru"		"<<< Энергия Метели восстановлена >>>"
+	}
+	"<<< Blizzard energy exhaustion >>>"
+	{
+		"default"		"<<< Blizzard energy exhaustion >>>"
+		"ru"		"<<< Энергия Метели закончилась >>>"
+	}
+	"<<< ScorchingSun energy exhaustion >>>"
+	{
+		"default"		"<<< ScorchingSun energy exhaustion >>>"
+		"ru"		"<<< Энергия Жаркого Солнца закончилась >>>"
+	}
+	"<<< The door of Yoyogi will open in 5 seconds >>>"
+	{
+		"default"		"<<< The door of Yoyogi will open in 5 seconds >>>"
+		"ru"		"<<< Дверь в здание Ёёги откроется через 5 секунд >>>"
+	}
+	"<<<[Morishima Hodaka] Why hinder me! You know everything, but you all pretend not to know! I just wanted to... see that person again! >>>"
+	{
+		"default"		"<<<[Morishima Hodaka] Why hinder me! You know everything, but you all pretend not to know! I just wanted to... see that person again! >>>"
+		"ru"		"<<<[Ходака Морисима] Почему вы мне мешаете? Я просто хо... хочу вновь её увидеть! >>>"
+	}
+	"<<< We will [cross] the altar to the clouds in 25 sec >>>"
+	{
+		"default"		"<<< We will [cross] the altar to the clouds in 25 sec >>>"
+		"ru"		"<<< Портал на небеса откроется через 25 сек >>>"
+	}
+	"<<< In another 30 seconds, we will return to the human world with Amano Hina >>>"
+	{
+		"default"		"<<< In another 30 seconds, we will return to the human world with Amano Hina >>>"
+		"ru"		"<<< Через 30 секунд мы с Амано Хиной вновь вернемся в мир людей! >>>"
+	}
+	"<<<[Morishima Hodaka] You don't have to be sunny again! >>>"
+	{
+		"default"		"<<<[Morishima Hodaka] You don't have to be sunny again! >>>"
+		"ru"		"<<<[Ходака Морисима] Пусть погода испортится! Ты за неё больше не отвечаешь! >>>"
+	}
+	"<<<[Morishima Hodaka] Hina is better for me than blue sky! >>>"
+	{
+		"default"		"<<<[Morishima Hodaka] Hina is better for me than blue sky! >>>"
+		"ru"		"<<<[Ходака Морисима] Мне не нужно солнце! Мне нужна ты! >>>"
+	}
+	"<<<[Morishima Hodaka] It's okay for the weather to stay crazy! >>>"
+	{
+		"default"		"<<<[Morishima Hodaka] It's okay for the weather to stay crazy! >>>"
+		"ru"		"<<<[Ходака Морисима] Погода может хоть вообще не исправляться! >>>"
+	}
+	"<<< Amano Hina will clear all zombies after 30 seconds >>>"
+	{
+		"default"		"<<< Amano Hina will clear all zombies after 30 seconds >>>"
+		"ru"		"<<< Амано Хина спасёт нас от зомби через 30 секунд >>>"
+	}
+	"<<< Amano Hina is no longer Sunny girl, her weather power is scattered everywhere, and the sky will no longer be clear >>>"
+	{
+		"default"		"<<< Amano Hina is no longer Sunny girl, her weather power is scattered everywhere, and the sky will no longer be clear >>>"
+		"ru"		"<<< Амано Хина теперь не Солнечная Дева, она потеряла свои погодные способности, а небо больше не будет ясным >>>"
+	}
+	"<<< The road will be cleared in 25 sec >>>"
+	{
+		"default"		"<<< The road will be cleared in 25 sec >>>"
+		"ru"		"<<< Путь откроется через 25 сек >>>"
+	}
+	"<<< SunnyDoll was picked up >>>"
+	{
+		"default"		"<<< SunnyDoll was picked up >>>"
+		"ru"		"<<< Подобрана Солнечная Дева >>>"
+	}
+	"<<< SunnyDoll charging completed >>>"
+	{
+		"default"		"<<< SunnyDoll charging completed >>>"
+		"ru"		"<<< Энергия Солнечной Девы восстановлена >>>"
+	}
+	"<<< SunnyDoll is clearing the weather effect >>>"
+	{
+		"default"		"<<< SunnyDoll is clearing the weather effect >>>"
+		"ru"		"<<< Солнечная Дева очищает погодные эффекты >>>"
+	}
+	"<<< People are detected on the subway, emergency access open >>>"
+	{
+		"default"		"<<< People are detected on the subway, emergency access open >>>"
+		"ru"		"<<< Обнаружены люди в метро, открыт запасной выход >>>"
+	}
+	"<<< SunnyDoll energy exhaustion >>>"
+	{
+		"default"		"<<< SunnyDoll energy exhaustion >>>"
+		"ru"		"<<< Энергия Солнечной Девы закончилась >>>"
+	}
+	"<<< The elevator will descend in 25 sec >>>"
+	{
+		"default"		"<<< The elevator will descend in 25 sec >>>"
+		"ru"		"<<< Лифт опустится через 25 сек >>>"
+	}
+	"<<< The door of Yoyogi will open in 10 seconds >>>"
+	{
+		"default"		"<<< The door of Yoyogi will open in 10 seconds >>>"
+		"ru"		"<<< Дверь в здание Ёёги откроется через 10 секунд >>>"
+	}
+	"<<< FrozenTomb was picked up >>>"
+	{
+		"default"		"<<< FrozenTomb was picked up >>>"
+		"ru"		"<<< Подобрана Ледяная Гробница >>>"
+	}
+	"<<< The door of the stairs will open in 10 seconds >>>"
+	{
+		"default"		"<<< The door of the stairs will open in 10 seconds >>>"
+		"ru"		"<<< Лестничная площадка откроется через 10 секунд >>>"
+	}
+	"<<< The stairs in the building are blocked. Fight for 30 seconds. Let's find another way >>>"
+	{
+		"default"		"<<< The stairs in the building are blocked. Fight for 30 seconds. Let's find another way >>>"
+		"ru"		"<<< Лестницу в здании завалило. Обороняйтесь 30 секунд. Поищем другой путь >>>"
+	}
+	"<<< ladder open in 5 sec >>>"
+	{
+		"default"		"<<< ladder open in 5 sec >>>"
+		"ru"		"<<< Лестница откроется через 5 сек >>>"
+	}
+	"<<< Arashi was picked up >>>"
+	{
+		"default"		"<<< Arashi was picked up >>>"
+		"ru"		"<<< Подобрано Торнадо >>>"
+	}
+	"<<< We will [cross] the altar to the clouds in 30 sec >>>"
+	{
+		"default"		"<<< We will [cross] the altar to the clouds in 30 sec >>>"
+		"ru"		"<<< Портал на небеса откроется через 30 сек >>>"
+	}
+	"<<< The way to leave the welkin will open in 30 seconds >>>"
+	{
+		"default"		"<<< The way to leave the welkin will open in 30 seconds >>>"
+		"ru"		"<<< Мы сможем уйти с небес через 30 секунд >>>"
+	}
+	"<<< zombie teleported in 5 secs >>>"
+	{
+		"default"		"<<< zombie teleported in 5 secs >>>"
+		"ru"		"<<< Зомби телепортнутся через 5 сек >>>"
+	}
+	"<<< Run! Get out of here! >>>"
+	{
+		"default"		"<<< Run! Get out of here! >>>"
+		"ru"		"<<< Бегите! Убирайтесь отсюда! >>>"
+	}
+	"<<< All players on the welkin will die in 10 seconds >>>"
+	{
+		"default"		"<<< All players on the welkin will die in 10 seconds >>>"
+		"ru"		"<<< Все, кто останутся на небесах, умрут через 10 секунд >>>"
+	}
+	"<<< stage WeatherRage >>>"
+	{
+		"default"		"<<< stage WeatherRage >>>"
+		"ru"		"<<< Этап: Яростная Погода >>>"
+	}
+	"<<< The weather is angry at losing the sunny girl, maybe we can replace Amano Hina to make the weather sunny again >>>"
+	{
+		"default"		"<<< The weather is angry at losing the sunny girl, maybe we can replace Amano Hina to make the weather sunny again >>>"
+		"ru"		"<<< Погода в ярости от потери Солнечной Девы, может мы сможем сделать погоду снова ясной? >>>"
+	}
+	"<<< The road will be cleared in 30 sec >>>"
+	{
+		"default"		"<<< The road will be cleared in 30 sec >>>"
+		"ru"		"<<< Путь откроется через 30 сек >>>"
+	}
+	"<<< The elevator will descend in 30 sec >>>"
+	{
+		"default"		"<<< The elevator will descend in 30 sec >>>"
+		"ru"		"<<< Лифт опустится через 30 сек >>>"
+	}
+	"<<< The energy of the counter can now be destroyed >>>"
+	{
+		"default"		"<<< The energy of the counter can now be destroyed >>>"
+		"ru"		"<<< Злую энергию погоды теперь можно уничтожить >>>"
+	}
+	"<<< We will [cross] the altar to the clouds in 35 sec >>>"
+	{
+		"default"		"<<< We will [cross] the altar to the clouds in 35 sec >>>"
+		"ru"		"<<< Портал на небеса откроется через 35 сек >>>"
+	}
+	"<<< This will be the final trial! [30 sec] >>>"
+	{
+		"default"		"<<< This will be the final trial! [30 sec] >>>"
+		"ru"		"<<< Последнее испытание начнется через 30 сек >>>"
+	}
+	"<<< Jump off the welkin in 15 seconds >>>"
+	{
+		"default"		"<<< Jump off the welkin in 15 seconds >>>"
+		"ru"		"<<< Прыгните с небес через 15 секунд! >>>"
+	}
+	"<<< Feel the rage of the weather! Die! insect! >>>"
+	{
+		"default"		"<<< Feel the rage of the weather! Die! insect! >>>"
+		"ru"		"<<< Я тебе покажу ярость погоды! Умри, ничтожество! >>>"
+	}
+	"<<< You successfully passed the test, you are sunny >>>"
+	{
+		"default"		"<<< You successfully passed the test, you are sunny >>>"
+		"ru"		"<<< Вы успешно прошли испытание, теперь погода вновь стала ясной! >>>"
+	}
+	"<<< 210 seconds left >>>"
+	{
+		"default"		"<<< 210 seconds left >>>"
+		"ru"		"<<< Осталось 210 секунд >>>"
+	}
+	"<<< stage LeisureTime >>>"
+	{
+		"default"		"<<< stage LeisureTime >>>"
+		"ru"		"<<< Этап: Ясная Погода >>>"
+	}
+	"<<< Jump down and choose the stage you like"
+	{
+		"default"		"<<< Jump down and choose the stage you like"
+		"ru"		"<<< Прыгни вниз и выбери любой этап >>>"
+	}
+	"<<< 5 >>>"
+	{
+		"default"		"<<< 5 >>>"
+	}
+	"<<< 4 >>>"
+	{
+		"default"		"<<< 4 >>>"
+	}
+	"<<< stage Overcast >>>"
+	{
+		"default"		"<<< stage Overcast >>>"
+		"ru"		"<<< Этап: Пасмурная Погода >>>"
+	}
+	"<<< 3 >>>"
+	{
+		"default"		"<<< 3 >>>"
+	}
+	"<<< 2 >>>"
+	{
+		"default"		"<<< 2 >>>"
+	}
+	"<<< 1 >>>"
+	{
+		"default"		"<<< 1 >>>"
+	}
+	"<<< You are determined to be sunny, but you will face more difficult tests! >>>"
+	{
+		"default"		"<<< You are determined to be sunny, but you will face more difficult tests! >>>"
+		"ru"		"<<< Вы полны решимости восстановить погоду, но теперь испытание усложнилось! >>>"
+	}
+	"<<< The cooldowns of all human items have been refreshed >>>"
+	{
+		"default"		"<<< The cooldowns of all human items have been refreshed >>>"
+		"ru"		"<<< Все предметы за людей полностью обновлены >>>"
+	}
+	"<<< All zombies will be cleared after 60 seconds >>>"
+	{
+		"default"		"<<< All zombies will be cleared after 60 seconds >>>"
+		"ru"		"<<< Зомби погибнут через 60 секунд >>>"
+	}
+	"<<< Iceworld was picked up >>>"
+	{
+		"default"		"<<< Iceworld was picked up >>>"
+		"ru"			"<<< Подобран Миролёд >>>"
+	}
+	"<<< Fireworld was picked up >>>"
+	{
+		"default"		"<<< Fireworld was picked up >>>"
+		"ru"			"<<< Подобран Мирожар >>>"
+	}
+	"<<< The fire is burning the world >>>"
+	{
+		"default"		"<<< The fire is burning the world >>>"
+		"ru"			"<<< Огонь сжигает мир дотла >>>"
+	}
+	"<<< Mist was picked up >>>"
+	{
+		"default"		"<<< Mist was picked up >>>"
+		"ru"			"<<< Подобран Туман >>>"
+	}
+	"<<< FrostEddy was picked up >>>"
+	{
+		"default"		"<<< FrostEddy was picked up >>>"
+		"ru"			"<<< Подобран Морозный Вихрь >>>"
+	}
+	"<<< Doomsday was picked up >>>"
+	{
+		"default"		"<<< Doomsday was picked up >>>"
+		"ru"			"<<< Подобран Конец Света >>>"
+	}
+	"<<< Thunder was picked up >>>"
+	{
+		"default"		"<<< Thunder was picked up >>>"
+		"ru"			"<<< Подобран Гром >>>"
+	}
+	"<<< Ice and snow are eroding the world >>>"
+	{
+		"default"		"<<< Ice and snow are eroding the world >>>"
+		"ru"			"<<< Лед и снег разрушают мир >>>"
+	}
+}
