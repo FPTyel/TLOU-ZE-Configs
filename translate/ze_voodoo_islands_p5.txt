@@ -113,7 +113,7 @@
 	"*** hey wait what is this?***"
 	{
 		"default"		"*** hey wait what is this?***"
-		"ru"                    "*** Что это за звук?...***"
+		"ru"                    "*** Что это за звук?***"
 	}
 	"*** oh shit!!!***"
 	{
