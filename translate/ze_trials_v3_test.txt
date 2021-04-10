@@ -3,70 +3,87 @@
 	"<<< Map by Jllaneras >>>"
 	{
 		"default"		"<<< Map by Jllaneras >>>"
+		"ru"                    "<<< Карта от Jllaneras >>>"
 	}
 	"<<< Trial 1 >>>"
 	{
 		"default"		"<<< Trial 1 >>>"
+		"ru"                    "<<< Уровень 1 >>>"
 	}
 	"<<< Door opens in 30 seconds! >>>"
 	{
 		"default"		"<<< Door opens in 30 seconds! >>>"
+		"ru"                    "<<< Дверь откроется через 30 секунд! >>>"
 	}
 	"<<< Wand has been picked up! >>>"
 	{
 		"default"		"<<< Wand has been picked up! >>>"
+		"ru"                    "<<< Палочка была взята! >>>"
 	}
 	"<<< Press e to use, 50 second cooldown! >>>"
 	{
 		"default"		"<<< Press e to use, 50 second cooldown! >>>"
+		"ru"                    "<<< Нажмите e (англ) или у (рус) чтобы использовать материю, откат 50 секунд! >>>"
 	}
 	"<<< Zombies teleport in 40 seconds! >>>"
 	{
 		"default"		"<<< Zombies teleport in 40 seconds! >>>"
+		"ru"                    "<<< Телепорт зомби через 40 секунд! >>>"
 	}
 	"<<< Wand used! >>>"
 	{
 		"default"		"<<< Wand used! >>>"
+		"ru"                    "<<< Палочка была использована! >>>"
 	}
 	"<<< Door_opens in 30 seconds! >>>"
 	{
 		"default"		"<<< Door_opens in 30 seconds! >>>"
+		"ru"                    "<<< Дверь откроется через 30 секунд! >>>"
 	}
 	"<<< Fence opens in 30 seconds! >>>"
 	{
 		"default"		"<<< Fence opens in 30 seconds! >>>"
+		"ru"                    "<<< Ограждение откроется через 30 секунд! >>>"
 	}
 	"<<< Zombies teleport in 15 seconds! >>>"
 	{
 		"default"		"<<< Zombies teleport in 15 seconds! >>>"
+		"ru"                    "<<< Телепорт зомби через 15 секунд! >>>"
 	}
 	"<<< Door opens in 45 seconds! >>>"
 	{
 		"default"		"<<< Door opens in 45 seconds! >>>"
+		"ru"                    "<<< Дверь откроется через 45 секунд! >>>"
 	}
 	"<<< Doors open in 15 seconds! >>>"
 	{
 		"default"		"<<< Doors open in 15 seconds! >>>"
+		"ru"                    "<<< Двери откроются через 15 секунд! >>>"
 	}
 	"<<< Bridge breaks in 10 seconds! >>>"
 	{
 		"default"		"<<< Bridge breaks in 10 seconds! >>>"
+		"ru"                    "<<< Мост разрушится через 10 секунд! >>>"
 	}
 	"<<< Zombies teleport in 10 seconds! >>>"
 	{
 		"default"		"<<< Zombies teleport in 10 seconds! >>>"
+		"ru"                    "<<< Зомби телепорт через 10 секунд! >>>"
 	}
 	"<<< Spinning Pushing Bolts >>>"
 	{
 		"default"		"<<< Spinning Pushing Bolts >>>"
+		"ru"                    "<<< Крутящиеся отталкивающие стрелы >>>"
 	}
 	"<<< Ultra Beam >>>"
 	{
 		"default"		"<<< Ultra Beam >>>"
+		"ru"                    "<<< Ультра луч >>>"
 	}
 	"<<< Ramming Bolts >>>"
 	{
 		"default"		"<<< Ramming Bolts >>>"
+		"ru"                    "<<< Таранящие стрелы >>>"
 	}
 	"<<< Ominous Wind >>>"
 	{
