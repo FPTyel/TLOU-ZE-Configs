@@ -3,61 +3,76 @@
 	"**Warmup**"
 	{
 		"default"		"**Warmup**"
+		"ru"           		"***Разминка***"
 	}
 	"**Map By Soc**"
 	{
 		"default"		"**Map By Soc**"
+		"ru"                    "***Карта от Soc***"
 	}
 	"**10seconds left**"
 	{
 		"default"		"**10seconds left**"
+		"ru"                    "***Осталось 10 секунд***"
 	}
 	"**Stage 1**"
 	{
 		"default"		"**Stage 1**"
+		"ru"                    "***Уровень 1***"
 	}
 	"**Hold 20second**"
 	{
 		"default"		"**Hold 20second**"
+		"ru"                    "***Удерживайте 20 секунд***"
 	}
 	"**We need to defend for a time**"
 	{
 		"default"		"**We need to defend for a time**"
+		"ru"                    "***Нужно продержаться немного***"
 	}
 	"**Start moving forward**"
 	{
 		"default"		"**Start moving forward**"
+		"ru"                    "***Идите вперёд***"
 	}
 	"**Holo 20second**"
 	{
-		"default"		"**Holo 20second**"
+		"default"		"**Hold 20second**"
+		"ru"                    "***Удерживайте 20 секунд***"
 	}
 	"**Continue to defend**"
 	{
 		"default"		"**Continue to defend**"
+		"ru"                    "***Продолжайте удерживать зомби***"
 	}
 	"**Blow up a random piece of wall after 20 seconds**"
 	{
 		"default"		"**Blow up a random piece of wall after 20 seconds**"
+		"ru"                    "***Взрыв случайной стены через 20 секунд***"
 	}
 	"**The last rock will be blasted away in 15 seconds**"
 	{
 		"default"		"**The last rock will be blasted away in 15 seconds**"
+		"ru"                    "***Последний камень будет уничтожен через 15 секунд***"
 	}
 	"**The first door will open in 40 seconds**"
 	{
 		"default"		"**The first door will open in 40 seconds**"
+		"ru"                    "***Первая дверь откроется через 40 секунд***"
 	}
 	"**The second door will open in 10 seconds**"
 	{
 		"default"		"**The second door will open in 10 seconds**"
+		"ru"                    "***Вторая дверь откроется через 10 секунд***"
 	}
 	"**final 10 seconds**"
 	{
 		"default"		"**final 10 seconds**"
+		"ru"                    "***Осталось последние 10 секунд***"
 	}
 	"**There are no humans in the final area,Stage1 Fail**"
 	{
 		"default"		"**There are no humans in the final area,Stage1 Fail**"
+		"ru"                    "***Нету людей в последней зоне. Уровень 1 провален***"
 	}
 }
