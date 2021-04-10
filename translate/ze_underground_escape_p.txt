@@ -3,53 +3,66 @@
 	"*** USE CONTROL PANEL TO STOP FANS ***"
 	{
 		"default"		"*** USE CONTROL PANEL TO STOP FANS ***"
+		"ru"           		"*** Используйте контрольную панель чтобы остановить вентиляторы***"
 	}
 	"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
 	{
 		"default"		"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+		"ru"            	"*** ВНИМАНИЕ - Вентиляторы выключаются и включаются автоматически***"
 	}
 	"*** WAIT FOR DOOR TO OPEN ***"
 	{
 		"default"		"*** WAIT FOR DOOR TO OPEN ***"
+		"ru"                    "*** Ждите пока не откроется дверь***"
 	}
 	"*** SMALL DOORS CLOSING ***"
 	{
 		"default"		"*** SMALL DOORS CLOSING ***"
+		"ru"                    "*** Маленькие двери закрываются***"
 	}
 	"*** USE THE FAN TO PUSH YOU UP ***"
 	{
 		"default"		"*** USE THE FAN TO PUSH YOU UP ***"
+		"ru"                    "*** Используйте вентилятор чтобы получить буст наверх***"
 	}
 	"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
 	{
 		"default"		"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+		"ru"                    "*** ВНИМАНИЕ - Рельсы и вода под высоким напряжением!***"
 	}
 	"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
 	{
-		"default"		"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+		"default"		"*** TRUCKS GETTING FUEL - 1 MINUTE UNTIL READY ***"
+		"ru"                    "*** Заправляем грузовики топливом - через 1 минуту будет готово***"
 	}
 	"*** DOORS CLOSING ***"
 	{
 		"default"		"*** DOORS CLOSING ***"
+		"ru"                    "*** Двери закрываются***"
 	}
 	"*** DOOR MALFUNCTION ***"
 	{
 		"default"		"*** DOOR MALFUNCTION ***"
+		"ru"                    "*** Неисправность двери***"
 	}
 	"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
 	{
 		"default"		"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+		"ru"                    "*** Грузовики заправлены - залезайте внутрь***"
 	}
 	"*** USE RADIO TO LAUNCH NUKE ***"
 	{
 		"default"		"*** USE RADIO TO LAUNCH NUKE ***"
+		"ru"                    "*** Используйте радио чтобы взорвать зомби***"
 	}
 	"*** NUKE IN 5 SECONDS ***"
 	{
 		"default"		"*** NUKE IN 5 SECONDS ***"
+		"ru"                    "*** Взрыв через 5 секунд***"
 	}
 	"*** MAP BY JB_GAMBLE ***"
 	{
 		"default"		"*** MAP BY JB_GAMBLE ***"
+		"ru"                    "*** Карта от JB_GAMBLE***"
 	}
 }
