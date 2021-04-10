@@ -42,7 +42,7 @@
 	}
 	"***Left bridge charges set for 15secs!*** "
 	{
-		"default"		"***Left bridge charges set for 15secs!*** "
+		"default"		"***Left bridge charges set for 15secs!***"
 		"ru"                    "***Левый мост откроется через 15 секунд!***"
 	}
 	"***Helicopter leaving in 75secs!"
