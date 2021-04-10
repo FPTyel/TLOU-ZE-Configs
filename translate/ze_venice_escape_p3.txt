@@ -3,90 +3,112 @@
 	"***Map by RelaxingWalls***"
 	{
 		"default"		"***Map by RelaxingWalls***"
+		"ru"                    "***Карта от RelaxingWalls***"
 	}
 	"***Map made for SteamGamers Mapping Competition***"
 	{
 		"default"		"***Map made for SteamGamers Mapping Competition***"
+		"ru"                    "***Карта сделана для SteamGamers Mapping Competition***"
 	}
 	"***Escape Venice through the Grand Canal and to the Escape Island!***"
 	{
 		"default"		"***Escape Venice through the Grand Canal and to the Escape Island!***"
+		"ru"                    "***Сбегите с Венеции через Большой Канал и достигните острова!***"
 	}
 	"***Boat 1 leaving in 10secs!***"
 	{
 		"default"		"***Boat 1 leaving in 10secs!***"
+		"ru"                    "***Лодка 1 отправляется через 10 секунд!***"
 	}
 	"***Boat 2 leaving in 5secs!***"
 	{
 		"default"		"***Boat 2 leaving in 5secs!***"
+		"ru"                    "***Лодка 2 отправляется через 5 секунд!***"
 	}
 	"***Utility door will open in 15secs!***"
 	{
 		"default"		"***Utility door will open in 15secs!***"
+		"ru"                    "***Дверь откроется через 15 секунд!***"
 	}
 	"***Lift 2 leaving in 5secs!***"
 	{
 		"default"		"***Lift 2 leaving in 5secs!***"
+		"ru"                    "***Лифт 2 отправляется через 5 секунд!***"
 	}
 	"***AFK Teleport in 45 seconds!***"
 	{
 		"default"		"***AFK Teleport in 45 seconds!***"
+		"ru"                    "***Телепортируем АФКшников через 45 секунд!***"
 	}
 	"***Left bridge charges set for 15secs!*** "
 	{
 		"default"		"***Left bridge charges set for 15secs!*** "
+		"ru"                    "***Левый мост откроется через 15 секунд!***"
 	}
 	"***Helicopter leaving in 75secs!"
 	{
 		"default"		"***Helicopter leaving in 75secs!"
+		"ru"                    "***Вертолёт отправляется через 75 секунд!***"
 	}
 	"***Boat house door open!***"
 	{
 		"default"		"***Boat house door open!***"
+		"ru"                    "***Лодочная станция открыта!***"
 	}
 	"***Bridge charges set for 15secs!*** "
 	{
 		"default"		"***Bridge charges set for 15secs!*** "
+		"ru"                    "***Мост будет открыт через 15 секунд!***"
 	}
 	"***Boat 5 leaving in 60secs!***"
 	{
 		"default"		"***Boat 5 leaving in 60secs!***"
+		"ru"                    "***Лодка 5 отправляется через 60 секунд!***"
 	}
 	"***Helicopter leaving in 30secs!"
 	{
 		"default"		"***Helicopter leaving in 30secs!"
+		"ru"                    "***Вертолёт улетит через 30 секунд!***"
 	}
 	"***Helicopter leaving in 5secs!"
 	{
 		"default"		"***Helicopter leaving in 5secs!"
+		"ru"                    "***Вертолёт улетит через 5 секунд!***"
 	}
 	"***Boat 5 leaving in 5secs!***"
 	{
 		"default"		"***Boat 5 leaving in 5secs!***"
+		"ru"                    "***Лодка 5 уходит через 5 секунд!***"
 	}
 	"***Boat 3 leaving in 45secs!***"
 	{
 		"default"		"***Boat 3 leaving in 45secs!***"
+		"ru"                    "***Лодка 3 уходит через 45 секунд!***"
 	}
 	"***Nukes ready for launch!***"
 	{
 		"default"		"***Nukes ready for launch!***"
+		"ru"                    "***Ракеты готовы к запуску!***"
 	}
 	"***Boat house bridge charges set for 15secs!*** "
 	{
 		"default"		"***Boat house bridge charges set for 15secs!*** "
+		"ru"                    "***Мост в лодочной станции будет открыт через 15 секунд!***"
 	}
 	"***Overpass gate will open in 15secs!***"
 	{
 		"default"		"***Overpass gate will open in 15secs!***"
+		"ru"                    "***Мост к эстакаде будет открыт через 15 секунд!***"
 	}
 	"***Boat 3 leaving in 5secs!***"
 	{
 		"default"		"***Boat 3 leaving in 5secs!***"
+		"ru"                    "***Лодка 3 уходит через 5 секунд!***"
 	}
 	"***Nuke in 10secs!***"
 	{
 		"default"		"***Nuke in 10secs!***"
+		"ru"                    "***Взрыв через 10 секунд!***"
 	}
 	"***3***"
 	{
@@ -103,9 +125,11 @@
 	"***Boat 4 leaving in 45secs!***"
 	{
 		"default"		"***Boat 4 leaving in 45secs!***"
+		"ru"                    "***Лодка 4 отправляется через 45 секунд!***"
 	}
 	"***Boat 4 leaving in 5secs!***"
 	{
 		"default"		"***Boat 4 leaving in 5secs!***"
+		"ru"                    "***Лодка 4 отправляется через 5 секунд!***"
 	}
 }
