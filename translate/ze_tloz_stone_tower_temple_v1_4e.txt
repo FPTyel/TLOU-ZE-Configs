@@ -3,93 +3,116 @@
 	"*** Map by : Airvulpes ***"
 	{
 		"default"		"*** Map by : Airvulpes ***"
+		"ru"           		"*** Карта от Airvulpes ***"
 	}
 	"*** Door Opens in 10 seconds ***"
 	{
 		"default"		"*** Door Opens in 10 seconds ***"
+		"ru"                    "*** Дверь откроется через 10 секунд ***"
 	}
 	"*** Door opening in 5 seconds !***"
 	{
 		"default"		"*** Door opening in 5 seconds !***"
+		"ru"                    "*** Дверь откроется через 5 секунд ! ***"
 	}
 	"*** Resist 30 seconds ! ***"
 	{
 		"default"		"*** Resist 30 seconds ! ***"
+		"ru"                    "*** Держите ещё 30 секунд ! ***"
 	}
 	"***Button Pressed***"
 	{
 		"default"		"***Button Pressed***"
+		"ru"                    "***Кнопка нажата***"
 	}
 	"*** Wall Opens in 30 seconds! ***"
 	{
 		"default"		"*** Wall Opens in 30 seconds! ***"
+		"ru"                    "*** Стена откроется через 30 секунд! ***"
 	}
 	"*** Wall Opening ***"
 	{
 		"default"		"*** Wall Opening ***"
+		"ru"                    "*** Стена открыта ***"
 	}
 	"*** HOLD 20 seconds ! ***"
 	{
 		"default"		"*** HOLD 20 seconds ! ***"
+		"ru"                    "*** Удерживайте 20 секунд ! ***"
 	}
 	"*** Resist 10 seconds ! ***"
 	{
 		"default"		"*** Resist 10 seconds ! ***"
+		"ru"                    "*** Защищайтесь 10 секунд ! ***"
 	}
 	"*** Resist 20 seconds ! ***"
 	{
 		"default"		"*** Resist 20 seconds ! ***"
+		"ru"                    "*** Защищайтесь 20 секунд ! ***"
 	}
 	"*** Door opens in 5 seconds ***"
 	{
 		"default"		"*** Door opens in 5 seconds ***"
+		"ru"                    "*** Дверь откроется через 5 секунд ! ***"
 	}
 	"*** Hold 25 seconds ! ***"
 	{
 		"default"		"*** Hold 25 seconds ! ***"
+		"ru"                    "*** Держите 25 секунд ! ***"
 	}
 	"*** Human beat red emblem !! ***"
 	{
 		"default"		"*** Human beat red emblem !! ***"
+		"ru"                    "*** Люди уничтожили красную эмблему ! ***"
 	}
 	"*** HOLD ON ! ***"
 	{
 		"default"		"*** HOLD ON ! ***"
+		"ru"                    "*** Удерживайте позицию ! ***"
 	}
 	"*** Entrance Door will close in 1 minutes ! ***"
 	{
 		"default"		"*** Entrance Door will close in 1 minutes ! ***"
+		"ru"                    "*** Входная дверь закроется через 1 минуту ! ***"
 	}
 	"*** STAGE COMPLETED ***"
 	{
 		"default"		"*** STAGE COMPLETED ***"
+		"ru"                    "*** УРОВЕНЬ ПРОЙДЕН ! ***"
 	}
 	"*** Door Opens in 15 seconds ***"
 	{
 		"default"		"*** Door Opens in 15 seconds ***"
+		"ru"                    "*** Дверь откроется через 15 секунд ! ***"
 	}
 	"*** Wall opens in 20 seconds ! ***"
 	{
 		"default"		"*** Wall opens in 20 seconds ! ***"
+		"ru"                    "*** Стена откроется через 20 секунд ! ***"
 	}
 	"*** Door opens in 15 seconds ! ***"
 	{
 		"default"		"*** Door opens in 15 seconds ! ***"
+		"ru"                    "*** Дверь откроется через 15 секунд ! ***"
 	}
 	"*** Hold here ***"
 	{
 		"default"		"*** Hold here ***"
+		"ru"                    "*** Удерживайте здесь ***"
 	}
 	"*** Door opening in 10 seconds ! ***"
 	{
 		"default"		"*** Door opening in 10 seconds ! ***"
+		"ru"                    "*** Дверь откроется через 10 секунд ! ***"
 	}
 	"*** Door opens in 10 seconds ! ***"
 	{
 		"default"		"*** Door opens in 10 seconds ! ***"
+		"ru"                    "*** Дверь откроется через 10 секунд ! ***"
 	}
 	"*** Superior door opens in 30 seconds ! ***"
 	{
 		"default"		"*** Superior door opens in 30 seconds ! ***"
+		"ru"                    "*** Огромная дверь откроется через 30 секунд ! ***"
 	}
 }
