@@ -57,7 +57,7 @@
 	}
 	"***Bridge charges set for 15secs!*** "
 	{
-		"default"		"***Bridge charges set for 15secs!*** "
+		"default"		"***Bridge charges set for 15secs!***"
 		"ru"                    "***Мост будет открыт через 15 секунд!***"
 	}
 	"***Boat 5 leaving in 60secs!***"
@@ -92,7 +92,7 @@
 	}
 	"***Boat house bridge charges set for 15secs!*** "
 	{
-		"default"		"***Boat house bridge charges set for 15secs!*** "
+		"default"		"***Boat house bridge charges set for 15secs!***"
 		"ru"                    "***Мост в лодочной станции будет открыт через 15 секунд!***"
 	}
 	"***Overpass gate will open in 15secs!***"
